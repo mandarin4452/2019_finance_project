@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div>
+  <div align='center'>
+	<br>
+    <h1>Main page</h1>
+	<hr>
+	<form action='/index' method='GET'>
+		<input name='text'>
+		<button type='submit'>Search</button>
+	</form>
+
+  </div>
+</div>
+{% endblock %}
+
+
+{% block scripts %}
+  <script src=https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.min.js></script>
+{% endblock %}
