@@ -1,0 +1,16363 @@
+Word,Degree
+가* ,POS
+가* 있 ,POS
+가* 있 었 ,POS
+가* ,POS
+가* ㄴ다* ,POS
+가 ,NEG
+가 되 ,NEG
+가 되 ㄴ ,NEUT
+가 되 ㄹ ,NEUT
+가 되 어 ,NEG
+가 되 어야지요 ,POS
+가 아니 ,NEG
+가 아니 ㄴ가 ,NEG
+가 아니 면 ,POS
+가 아니 ㅂ니다 ,NEG
+가 ,NEG
+가 가능 ,POS
+가 가능 하 ,POS
+가 가장 ,NEG
+가 가장 많이 ,NEG
+가 가장 어렵 ,NEG
+가 굵 ,POS
+가 그 ,NEG
+가 그 동안 ,NEG
+가 그리 ,NEG
+가 그리 밝 ,NEG
+가 극대 ,NEG
+가 극대 화 ,NEG
+가 꺾이 ,NEG
+가 꽤 ,POS
+가 꽤 맞 ,POS
+가 꿈 ,NEUT
+가 꿈 에 ,NEUT
+가 나 ,COMP
+가 나 에게 ,COMP
+가 나 ,NEG
+가 나오 ,NEG
+가 넘 ,NEG
+가 넘 습니다 ,NEG
+가 높 ,NEG
+가 높 아 ,POS
+가 느끼 ,POS
+가 느끼 어 ,POS
+가 늘 ,NEG
+가 늘 고 ,NEG
+가 다르 ,NEUT
+가 다르 게 ,NEUT
+가 단절 ,NEG
+가 더욱 ,COMP
+가 더욱 막중 ,COMP
+가 돋아나 ,NEG
+가 둘 ,NEUT
+가 둘 로 ,NEUT
+가 들 ,NEG
+가 뛰쳐나오 ,POS
+가 막 ,POS
+가 막 을 ,POS
+가 막대 ,POS
+가 막대 하 ,POS
+가 많 ,NEG
+가 많 고 ,POS
+가 많 은 ,NEG
+가 많이 ,POS
+가 많이 나오 ,POS
+가 맞 ,NEG
+가 맞 지 ,NEG
+가 무대 ,POS
+가 무대 를 ,POS
+가 바늘 ,NEG
+가 바늘 에 ,NEG
+가 보 ,NEUT
+가 보 기 ,NEUT
+가 살아나 ,POS
+가 삼위일체 ,POS
+가 새 ,NEG
+가 새 어 ,NEG
+가 생기 ,NEG
+가 생기 ㄴ다 ,POS
+가 생기 었 ,NEG
+가 성행 ,NEG
+가 성행 하 ,NEG
+가 속하 ,NEG
+가 속하 아 ,NEG
+가 쉽 ,NEG
+가 쉽 게 ,NEG
+가 쉽 지 ,POS
+가 시급 ,NEG
+가 시급 하 ,NEG
+가 쏠쏠 ,POS
+가 쏠쏠 하 ,POS
+가 아프 ,NEUT
+가 아프 고 ,NEUT
+가 어우러지 ,POS
+가 얼마나 ,POS
+가 얼마나 오랜 ,POS
+가 얼마나 종류 ,POS
+가 얼마나 좋 ,POS
+가 없 ,NEG
+가 없 다 ,NEG
+가 없 잖아 ,NEG
+가 열리 ,POS
+가 열리 ㄴ다 ,POS
+가 울리 ,NEUT
+가 울리 ㄹ ,NEUT
+가 일어나 ,NEG
+가 일정 ,NEG
+가 일정 하 ,NEG
+가 잇따르 ,NEG
+가 있 ,POS
+가 있 나 ,POS
+가 있 다 ,NEUT
+가 있 어 ,NEG
+가 작용 ,POS
+가 작용 하 ,POS
+가 장주 ,NEUT
+가 장주 가 ,NEUT
+가 적 ,NEG
+가 적 지 ,NEG
+가 주장 ,POS
+가 주장 하 ,POS
+가 죽 ,NEG
+가 죽 어 ,NEG
+가 줄 ,POS
+가 줄 어 ,POS
+가 짧 ,NEG
+가 차 ,POS
+가 차 기 ,POS
+가 차단 ,NEG
+가 차단 되 ,NEG
+가 크 ,POS
+가 크 게 ,POS
+가 태익 ,POS
+가 태익 이 ,POS
+가 특허 ,NEG
+가 특허 와 ,NEG
+가 평화 ,POS
+가 평화 의 ,POS
+가 풀리 ,NEG
+가 하 ,NEG
+가 하 라는 ,NEG
+가 횡행 ,NEG
+가 횡행 하 ,NEG
+가 흐르 ,POS
+가 힘 ,POS
+가 힘 이 ,POS
+가 ,NEG
+가 기 ,POS
+가 기 시작 ,POS
+가 ㄴ ,NEG
+가 ㄴ 데 ,NEG
+가 네 ,NEUT
+가 는 ,NEG
+가 는 것 ,NEG
+가 는 경우 ,NEUT
+가 ㄹ ,NEG
+가 ㄹ 수 ,NEG
+가 ㄹ수록 ,None
+가 ㅂ시당 ,POS
+가 았 ,NEG
+가 았 다 ,NEG
+가 았 다가 ,NEG
+가 지 ,NEG
+가 ,POS
+가 고 ,NEG
+가 고 있 ,NEG
+가 ㄹ ,POS
+가 ㄹ 계획 ,POS
+가 ㄹ 수 ,POS
+가 며 ,None
+가격 ,POS
+가격 보다 ,POS
+가격 의 ,POS
+가격 의 절반 ,POS
+가까이 ,NEG
+가까이 다가가 ,POS
+가까이 초과 ,NEG
+가까이 초과 하 ,NEG
+가깝 ,NEG
+가깝 게 ,POS
+가깝 게 느끼 ,POS
+가꾸 ,POS
+가꾸 며 ,POS
+가꾸 며 살아오 ,POS
+가늠 ,POS
+가늠 하 ,POS
+가능* ,NEG
+가능* 성 ,NEG
+가능* 성 이 ,NEG
+가능 ,NEUT
+가능 성 ,NEUT
+가능 성 의 ,NEG
+가능 성 이 ,NEUT
+가능 하 ,POS
+가능 하 게 ,POS
+가능 하 ㄴ ,POS
+가능 ,NEG
+가능 성 ,NEG
+가능 성 은 ,NEG
+가능 성 이 ,POS
+가도 ,POS
+가도 를 ,POS
+가도 를 달리 ,POS
+가득 ,NEG
+가득 차 ,NEG
+가로막히 ,NEG
+가르치 ,NEG
+가르치 는 ,NEG
+가르치 는 책 ,NEG
+가르치 ㄹ ,POS
+가르치 ㄹ 수 ,POS
+가르치 려면 ,NEG
+가르치 려면 공부 ,NEG
+가리 ,POS
+가리 지 ,POS
+가리 지 않 ,POS
+가사 ,NEG
+가사 노동 ,NEG
+가사 노동 에 ,NEG
+가스 ,NEG
+가스 가 ,NEG
+가스 가 새 ,NEG
+가슴 ,POS
+가슴 은 ,POS
+가슴 은 녹아내리 ,POS
+가슴 을 ,NEG
+가슴 을 치밀 ,NEG
+가슴 이 ,COMP
+가슴 이 떨리 ,COMP
+가슴 이 뛰 ,POS
+가슴 이나 ,NEUT
+가슴 이나 이빨 ,NEUT
+가을 ,NEUT
+가을 같 ,NEUT
+가장 ,POS
+가장 고독 ,NEG
+가장 고독 하 ,NEG
+가장 긍정 ,POS
+가장 긍정 적 ,POS
+가장 길 ,POS
+가장 깜찍 ,COMP
+가장 깜찍 하 ,COMP
+가장 내용 ,POS
+가장 내용 이 ,POS
+가장 널리 ,POS
+가장 널리 알리 ,POS
+가장 단적 ,POS
+가장 단적 으로 ,POS
+가장 많이 ,NEG
+가장 많이 발생 ,NEG
+가장 먼저 ,POS
+가장 먼저 필요 ,POS
+가장 상식 ,POS
+가장 상식 적 ,POS
+가장 성공 ,POS
+가장 성공 하 ,POS
+가장 솔직 ,POS
+가장 솔직 하 ,POS
+가장 아름답 ,POS
+가장 아름답 게 ,POS
+가장 어렵 ,NEG
+가장 어렵 ㄴ ,NEG
+가장 위협 ,NEG
+가장 위협 하 ,NEG
+가장 인기 ,POS
+가장 인기 이 ,POS
+가장 일관 ,POS
+가장 일관 되 ,POS
+가장 전문가 ,POS
+가장 전문가 집단 ,POS
+가장 좋 ,POS
+가장 좋 아 ,POS
+가장 친근 ,POS
+가장 친근 하 ,POS
+가장 크 ,NEG
+가장 크 ㄴ ,NEG
+가장 하 ,NEG
+가장 하 ㄴ ,NEG
+가장 흉내 ,POS
+가장 흉내 내 ,POS
+가족 ,POS
+가족 들 ,POS
+가족 들 이 ,POS
+가족 은 ,POS
+가족 은 결코 ,POS
+가족 이 ,NEG
+가족 이 있 ,NEG
+가족 이 함께 ,POS
+가족 하고* ,NEG
+가족 하고* 함께 ,NEG
+가증 ,NEG
+가증 스럽 ,NEG
+가지 ,NEG
+가지 가 ,NEG
+가지 가 넘 ,NEG
+가지 단점 ,NEG
+가지 단점 이 ,NEG
+가지 문제 ,NEG
+가지 ,POS
+가지 고 ,NEUT
+가지 고 오 ,NEUT
+가지 ㄴ ,POS
+가지 ㄴ 사람 ,POS
+가지 ㄴ 재주 ,NEG
+가지 ㄴ 제품 ,POS
+가지 어다 ,NEG
+가지 어다 놓 ,NEG
+가책 ,NEG
+가책 이 ,NEG
+가책 이 나 ,NEG
+가출 ,NEG
+가출 하 ,NEG
+가치 ,POS
+가치 가 ,POS
+가치 가 있 ,POS
+가치 는 ,NEUT
+가치 는 신 ,NEUT
+가치 를 ,POS
+가치 를 높이 ,POS
+가치 체계 ,POS
+가치 체계 나 ,POS
+가타부타 ,NEUT
+가타부타 아무런 ,NEUT
+가타부타 아무런 응답 ,NEUT
+가파르 ,NEG
+가파르 고 ,NEG
+가하 ,NEG
+각광 ,POS
+각국 ,POS
+각국 의 ,POS
+각국 의 보건 ,POS
+각별 ,POS
+각별 하 ,POS
+각별 하 ㅁ ,POS
+각별히 ,POS
+각성 ,POS
+각성 하 ,POS
+각양각색 ,POS
+각양각색 이 ,POS
+각종 ,NEG
+각종 범죄 ,NEG
+각종 범죄 를 ,NEG
+간 ,NEG
+간 상속 ,NEG
+간곡 ,POS
+간곡 하 ,POS
+간단히 ,POS
+간밤 ,POS
+간밤 의 ,POS
+간밤 의 긴박 ,POS
+간신히 ,NEG
+간신히 매달리 ,NEG
+간신히 매달리 어 ,NEG
+간주 ,NEG
+간주 하 ,NEG
+간첩 ,NEG
+간첩 등 ,NEG
+간첩 등 불순 ,NEG
+간편 ,POS
+간편 하 ,POS
+간호 ,POS
+갇히 ,COMP
+갇히 어 ,COMP
+갇히 어 있 ,COMP
+갈구 ,POS
+갈구 하 ,POS
+갈등 ,NEG
+갈수록 ,NEG
+갈수록 모자라 ,NEG
+갈피 ,NEG
+갈피 를 ,NEG
+갈피 를 못 ,NEG
+갈피 마다 ,POS
+갈피 마다 에 ,POS
+감 ,NEG
+감 이 ,NEG
+감 이 들 ,POS
+감 이 없 ,NEG
+감각 ,NEG
+감각 적 ,NEG
+감각 적 의지 ,NEG
+감내 ,NEG
+감내 하 ,NEG
+감내 하 지 ,NEG
+감독 ,NEG
+감독 과* ,POS
+감독 과* 영화 ,POS
+감독 과 ,POS
+감독 과 영화 ,POS
+감독 을 ,NEG
+감독 을 게을리 ,NEG
+감독 의 ,NEG
+감독 의 영화 ,NEG
+감독 이 ,NEUT
+감독 이 갑자기 ,NEUT
+감독 이 미국 ,NEUT
+감동 ,POS
+감동 깊 ,POS
+감동 으로 ,POS
+감사 ,POS
+감사 하 ,POS
+감사 하 ㅂ니다 ,POS
+감칠맛 ,POS
+감칠맛 나 ,POS
+감탄사 ,POS
+감탄사 를 ,POS
+감탄사 를 연발 ,POS
+갑자기 ,NEUT
+갑자기 돌아오 ,NEUT
+갑자기 돌아오 았 ,NEUT
+갑자기 호흡 ,NEUT
+갑자기 호흡 이 ,NEUT
+갑작스레 ,NEUT
+갑작스레 꿈 ,NEUT
+갑작스레 꿈 에서 ,NEUT
+값 ,POS
+값 등 ,POS
+값 등 을 ,POS
+값 싸 ,POS
+값 싸 고 ,POS
+값 으로 ,NEG
+값 으로 팔리 ,NEG
+값싸 ,POS
+강군 ,POS
+강단 ,POS
+강단 교류 ,POS
+강도 ,NEG
+강도 높 ,NEG
+강도 높 게 ,NEG
+강도 있 ,POS
+강력 ,NEG
+강력 하 ,NEG
+강력 하 ㄴ ,NEG
+강렬 ,POS
+강렬 하 ,POS
+강물 ,NEG
+강물 위 ,NEG
+강물 위 에 ,NEG
+강박 ,NEG
+강박 에 ,NEG
+강박 에 시달리 ,NEG
+강요 ,NEG
+강요 하 ,NEG
+강의 ,NEG
+강의 하 ,NEG
+강의 하 ㄴ다 ,NEG
+강점 ,POS
+강점 으로 ,POS
+강점 으로 내세우 ,POS
+강제 ,POS
+강제 하 ,POS
+강조 ,POS
+강조 하 ,POS
+강하 ,POS
+강화 ,POS
+강화 되 ,POS
+강화 하 ,POS
+강화책 ,POS
+갖 ,NEG
+갖 게 ,POS
+갖 게 되 ,POS
+갖 지 ,NEG
+갖 지 못하 ,NEG
+갖가지 ,NEG
+갖가지 사회 ,NEG
+갖가지 사회 적 ,NEG
+갖추 ,POS
+같 ,NEG
+같 다 ,NEG
+같 은 ,NEG
+같 은 모호 ,NEUT
+같 은 연극 ,POS
+같 은 영화 ,POS
+같 은 인상 ,NEG
+같 은 입시 ,NEG
+같이 ,NEG
+같이 붓 ,NEG
+같이 붓 을 ,NEG
+같이 비판 ,NEG
+같이 비판 하 ,NEG
+같이 ,NEG
+같이 하 ,POS
+같이 허둥대 ,NEG
+같이 허둥대 며 ,NEG
+갚 ,POS
+갚 는 ,POS
+갚 는 것 ,POS
+개 ,POS
+개념 ,POS
+개념 만 ,POS
+개념 만 벗어나 ,POS
+개방 ,NEG
+개방 정책 ,NEG
+개방 정책 이 ,NEG
+개선 ,POS
+개선 하 ,POS
+개선 하 아 ,POS
+개성 ,POS
+개성 어리 ,POS
+개성 있 ,POS
+개성 있 ,POS
+개인 ,COMP
+개인 적 ,COMP
+개인 적 견해 ,COMP
+개인 적 자유 ,POS
+개입 ,NEG
+개조 ,NEG
+개조 과제 ,NEG
+개척 ,POS
+개척 에 ,POS
+개척 에 본격 ,POS
+개혁 ,NEG
+개혁 등 ,POS
+개혁 등 을 ,POS
+개혁 을 ,NEG
+개혁 을 하 ,NEG
+객관 ,NEG
+객관 적 ,NEG
+객관 적 실상 ,NEG
+객관 화 ,POS
+객관 화 시키 ,POS
+거 ,NEG
+거 같 ,NEG
+거 이 ,NEG
+거 이 다 ,NEG
+거 ,NEG
+거꾸로 ,None
+거나 ,NEG
+거나 가족 ,NEG
+거나 가족 이 ,NEG
+거나 목소리 ,POS
+거나 목소리 높이 ,POS
+거나 의식 ,NEUT
+거나 의식 장애 ,NEUT
+거나 인터뷰 ,NEG
+거나 인터뷰 를 ,NEG
+거나 자 ,NEUT
+거나 자 다 ,NEUT
+거나 포기 ,NEG
+거나 포기 하 ,NEG
+거느리 ,NEG
+거느리 ㄴ ,NEG
+거느리 ㄴ 일직선 ,NEG
+거대 ,COMP
+거대 하 ,COMP
+거대 하 ㄴ ,COMP
+거두 ,POS
+거듭 ,None
+거듭 말 ,None
+거듭 말 하 ,None
+거듭나 ,POS
+거룩 ,NEG
+거룩 하 ,NEG
+거룩 하 ㄴ ,NEG
+거리 ,NEG
+거리 를 ,NEG
+거리 를 유지 ,NEG
+거리낌 ,POS
+거리낌 없이 ,POS
+거봉 ,POS
+거부 ,NEG
+거부 하 ,NEG
+거부 하 ㄹ ,NEG
+거세 ,NEG
+거세 공포 ,NEG
+거세 공포 로부터 ,NEG
+거세 ,POS
+거울 ,POS
+거울 이 ,POS
+거울 이 며 ,POS
+거의 ,None
+거의 거치 ,NEG
+거의 거치 지 ,NEG
+거의 반영 ,NEG
+거의 반영 하 ,NEG
+거의 없 ,POS
+거의 이루 ,None
+거의 이루 어 ,None
+거짓 ,NEG
+거짓 없이 ,POS
+거짓말 ,NEG
+거치 ,NEG
+거치 어 ,POS
+거치 어 오 ,POS
+거치 지 ,NEG
+거치 지 않 ,NEG
+거칠 ,POS
+거칠 ㄴ ,POS
+거칠 ㄴ 숨소리 ,POS
+거푸집 ,POS
+거푸집 속 ,POS
+거푸집 속 에서 ,POS
+거품 ,POS
+거품 도 ,POS
+거품 도 만들 ,POS
+걱정 ,NEG
+걱정 되 ,NEG
+건 ,NEG
+건 이상 ,NEG
+건 이상 교통 ,NEG
+건강 ,POS
+건강 을 ,POS
+건강 을 지키 ,POS
+건강 이 ,POS
+건강 이 좋 ,POS
+건강 하 ,POS
+건대 ,None
+건드리 ,NEG
+건드리 지 ,NEG
+건드리 지 도 ,NEG
+건물 ,NEG
+건물 형식 ,NEG
+건물 형식 을 ,NEG
+건배 ,NEG
+건수 ,NEG
+건수 가 ,NEG
+건수 가 많 ,NEG
+건실 ,POS
+건실 하 ,POS
+건의 ,POS
+건의 하 ,POS
+건전 ,POS
+건전 레포츠 ,POS
+건전 레포츠 로 ,POS
+건축 ,POS
+건축 도 ,POS
+건축 도 하나 ,POS
+건축 양식 ,POS
+건축 창작 ,NEUT
+건축 창작 도 ,NEUT
+건축물 ,NEG
+건축물 을 ,NEG
+건축물 을 설계 ,NEG
+걷 ,NEG
+걷 는 ,NEG
+걷 는 것 ,NEG
+걷 어 ,NEG
+걷 어 내 ,NEG
+걸 ,POS
+걸 어 ,POS
+걸 어 나오 ,POS
+걸 어 주 ,POS
+걸리 ,NEG
+걸림돌 ,NEG
+걸맞 ,POS
+걸맞 게 ,POS
+검사 ,NEG
+검사 등 ,NEG
+검사 등 으로 ,NEG
+검사 로 ,NEG
+검사 로 확인 ,NEG
+검토 ,COMP
+검토 하 ,COMP
+겁 ,NEUT
+겁 없이 ,NEUT
+것 ,None
+것 같 ,None
+것 같 다 ,NEG
+것 같 은 ,NEG
+것 과 ,NEG
+것 과 마찬가지 ,NEG
+것 과 생필품 ,POS
+것 ㄴ ,NEG
+것 ㄴ 바람직 ,NEG
+것 ㄴ 절대 ,NEG
+것 ㄴ 젊 ,POS
+것 도 ,NEG
+것 도 그 ,NEG
+것 도 믿 ,NEG
+것 도 아니 ,NEG
+것 도 아마 ,POS
+것 도 있 ,None
+것 들 ,POS
+것 들 을 ,POS
+것 때문 ,NEG
+것 때문 에 ,NEG
+것 로 ,NEUT
+것 로 기억 ,NEUT
+것 만 ,POS
+것 만 도 ,POS
+것 만 으로 ,POS
+것 보다 ,POS
+것 보다 그동안 ,POS
+것 아니 ,None
+것 아니 ㅂ니까 ,None
+것 으로 ,POS
+것 으로 기대 ,POS
+것 으로 단맛 ,POS
+것 으로 여기 ,POS
+것 으로 추정 ,POS
+것 으로 풀이 ,NEG
+것 은 ,NEG
+것 은 아니 ,NEG
+것 은 자아 ,POS
+것 을 ,NEG
+것 을 깨닫 ,NEG
+것 을 돈 ,NEG
+것 을 만들 ,NEUT
+것 을 요구 ,NEG
+것 을 확인 ,POS
+것 이 ,POS
+것 이 아니 ,POS
+것 이 ,NEG
+것 이 국기 ,NEG
+것 이 더 ,POS
+것 이 도움 ,POS
+것 이 뭐 ,POS
+것 이 사실 ,NEUT
+것 이 안 ,POS
+것 이 얼마나 ,NEG
+것 이 없 ,NEG
+것 이 이 ,NEUT
+것 이 힘들 ,NEG
+것 이 ,None
+것 이 고 ,None
+것 이 ㄴ가 ,None
+것 이 ㄴ지 ,NEUT
+것 이 다 ,None
+것 이 ㄹ까 ,None
+것 이 라고 ,NEG
+것 이 라는 ,None
+것 이 ㅁ ,NEG
+것 이 ㅂ니다 ,NEG
+것 처럼 ,NEG
+것 처럼 노려보 ,NEG
+것 처럼 보이 ,POS
+게* ,NEG
+게* 미치 ,NEG
+게* 미치 었 ,NEG
+게 ,POS
+게 갇히 ,NEG
+게 갇히 어 ,NEG
+게 결심 ,NEG
+게 결심 을 ,NEG
+게 겹치 ,POS
+게 경고 ,NEG
+게 경고 하 ,NEG
+게 구분 ,NEUT
+게 구분 되 ,NEUT
+게 굳 ,POS
+게 굳 지 ,POS
+게 그리 ,NEG
+게 그리 니 ,NEG
+게 기회 ,POS
+게 기회 를 ,POS
+게 깎 ,NEG
+게 깎 았 ,NEG
+게 내다보이 ,NEG
+게 느끼 ,NEG
+게 느끼 어 ,NEG
+게 늘 ,POS
+게 다가오 ,POS
+게 다르 ,NEG
+게 다르 아 ,POS
+게 다르 지 ,NEG
+게 다지 ,POS
+게 다지 어 ,POS
+게 도 ,None
+게 도 바라 ,POS
+게 되 ,POS
+게 되 ㄴ ,POS
+게 되 ㄹ까 ,COMP
+게 되 었 ,POS
+게 되도록 ,POS
+게 되도록 쉽 ,POS
+게 되살리 ,POS
+게 들리 ,NEG
+게 따지 ,POS
+게 따지 어 ,POS
+게 뜨겁 ,NEUT
+게 뜨겁 어 ,NEUT
+게 마련 ,NEUT
+게 마련 이 ,NEUT
+게 만 ,NEG
+게 만 보이 ,NEG
+게 만들 ,NEG
+게 말 ,None
+게 말 하 ,None
+게 무섭 ,NEG
+게 무섭 ㄴ ,NEG
+게 묻어나 ,NEUT
+게 발흥 ,POS
+게 발흥 하 ,POS
+게 버티 ,NEG
+게 버티 ㄴ ,NEG
+게 부족 ,NEG
+게 부족 하 ,NEG
+게 붙 ,NEUT
+게 사 ,POS
+게 사용 ,POS
+게 사용 되 ,POS
+게 살 ,POS
+게 살 아 ,POS
+게 생각 ,POS
+게 생각 하 ,POS
+게 성취 ,POS
+게 성취 하 ,POS
+게 승진 ,NEG
+게 승진 하 ,NEG
+게 시작 ,POS
+게 시작 하 ,POS
+게 쓰 ,NEG
+게 쓰 는 ,NEG
+게 아름답 ,POS
+게 여기 ,NEG
+게 옥살이 ,POS
+게 옥살이 를 ,POS
+게 웃 ,POS
+게 위협 ,NEG
+게 위협 받 ,NEG
+게 의식 ,NEG
+게 의식 하 ,NEG
+게 의지 ,POS
+게 의지 하 ,POS
+게 이 ,POS
+게 이 든 ,POS
+게 이기 ,NEG
+게 이기 적 ,NEG
+게 이루 ,POS
+게 이루 어 ,POS
+게 인기 ,POS
+게 조명 ,POS
+게 조명 하 ,POS
+게 좋 ,POS
+게 좋 아 ,POS
+게 주례 ,POS
+게 주례 를 ,POS
+게 준수 ,POS
+게 준수 하 ,POS
+게 찢어지 ,NEG
+게 참여 ,POS
+게 참여 하 ,POS
+게 철학 ,POS
+게 철학 이야기 ,POS
+게 팔 ,POS
+게 팔 ㅂ니다 ,POS
+게 풀어지 ,POS
+게 하 ,NEG
+게 하 여 ,NEG
+게 하 ,POS
+게 하 ㄴ ,NEG
+게 하 는 ,POS
+게 하 ㄹ ,NEG
+게 하 아 ,POS
+게 행복 ,POS
+게 행복 을 ,POS
+게다가 ,None
+게든 ,None
+게양 ,NEG
+게양 률 ,NEG
+게양 률 을 ,NEG
+게을리 ,NEG
+게을리 하 ,NEG
+게을리 하 시 ,NEG
+게임 ,POS
+게임 의 ,POS
+게임 의 법칙 ,POS
+겠 ,None
+겠 네요 ,NEG
+겠 느냐 ,None
+겠 느냐고 ,NEG
+겠 느냐고 못 ,NEG
+겠 느냐고 스스로 ,POS
+겠 다 ,NEUT
+겠 다 ,POS
+겠 다고 ,NEG
+겠 다고 마음먹 ,NEUT
+겠 다고 생각 ,NEG
+겠 다고 팔 ,NEG
+겠 다는 ,POS
+겠 다는 꿈 ,POS
+겠 다는 뜻 ,POS
+겠 다는 생각 ,NEG
+겠 습니까 ,POS
+겠 어 ,NEUT
+겠 지요 ,NEG
+겨냥 ,POS
+겨우 ,NEG
+겨울 ,POS
+겨울 에 ,POS
+겨울 에 는 ,POS
+격 ,POS
+격 을 ,POS
+격 을 높이 ,POS
+격려 ,POS
+격려 하 ,POS
+격려 하 았 ,POS
+격상 ,POS
+격차 ,POS
+격차 해소 ,POS
+격차 해소 노력 ,POS
+겪 ,NEG
+겪 는 ,NEG
+겪 는 경우 ,NEG
+견디 ,POS
+견디 어 ,POS
+견디 어 오 ,POS
+견디 어라 ,POS
+견해 ,COMP
+견해 를 ,COMP
+견해 를 밝히 ,COMP
+결 ,POS
+결국 ,NEG
+결국 죽 ,NEG
+결국 죽 게 ,NEG
+결단 ,NEG
+결단 을 ,NEG
+결단 을 두 ,NEG
+결론 ,NEG
+결론 을 ,POS
+결론 을 내리 ,POS
+결속 ,POS
+결속 하 ,POS
+결심 ,NEG
+결심 을 ,NEG
+결심 을 뒤흔들 ,NEG
+결심 을 하 ,NEG
+결심 하 ,POS
+결여 ,NEG
+결여 되 ,NEG
+결여 의 ,NEG
+결여 의 표상 ,NEG
+결의 ,POS
+결의 하 ,POS
+결정 ,COMP
+결정 을 ,NEG
+결정 을 받 ,NEG
+결정 적 ,COMP
+결정 적 단서 ,COMP
+결집 ,POS
+결집 하 ,POS
+결코 ,None
+결코 쓰러지 ,POS
+결코 쓰러지 지 ,POS
+결함 ,NEG
+결함 이 ,NEG
+결함 이 있 ,NEG
+결혼 ,NEG
+결혼 도 ,NEG
+결혼 도 세상 ,NEG
+결혼 에 ,POS
+결혼 에 대하 ,POS
+결혼 을 ,NEG
+결혼 을 꿈꾸 ,NEG
+결혼 전 ,NEUT
+결혼 전 에 ,NEUT
+결혼식 ,POS
+결혼식 에 ,POS
+결혼식 에 서로 ,POS
+겹치 ,POS
+경각심 ,NEG
+경각심 이 ,NEG
+경각심 이 부각 ,NEG
+경고 ,NEG
+경고 하 ,NEG
+경보 ,POS
+경보 도 ,POS
+경색 ,NEUT
+경우 ,NEUT
+경우 가 ,NEG
+경우 가 적 ,NEG
+경우 뇌 ,NEUT
+경우 뇌 신경 ,NEUT
+경쟁 ,NEG
+경쟁 심리 ,NEG
+경쟁 이 ,POS
+경쟁 이 치열 ,POS
+경제 ,NEG
+경제 범죄 ,NEG
+경제 성 ,NEUT
+경제 적 ,NEG
+경제 적 궁핍 ,NEG
+경제 정책 ,POS
+경제 제재 ,POS
+경제 제재 를 ,POS
+경제력 ,POS
+경제력 이 ,POS
+경제력 이 있 ,POS
+경주 ,POS
+경주 탐방 ,POS
+경지 ,NEG
+경지 의 ,NEG
+경지 의 예술 ,NEG
+경직 ,POS
+경직 성 ,POS
+경직 성 과 ,POS
+경향 ,NEG
+경향 을 ,POS
+경향 을 약화 ,POS
+경향 이 ,NEG
+경향 이 있 ,NEG
+경험 ,POS
+경험 을 ,POS
+경험 을 공유 ,POS
+경험 이 ,POS
+경험 이 비슷 ,POS
+곁 ,POS
+곁 으로 ,POS
+곁 을 ,POS
+곁 을 떠나 ,POS
+곁들이 ,NEUT
+계 ,POS
+계 가 ,POS
+계 가 주장 ,POS
+계 에서 ,POS
+계 에서 는 ,POS
+계 에서 잔뼈 ,POS
+계 최대 ,POS
+계 최대 의 ,POS
+계기 ,POS
+계기 가 ,POS
+계기 가 되 ,POS
+계기 로 ,POS
+계기 로 국내 ,POS
+계속 ,NEG
+계속 정체 ,NEG
+계속 정체 상태 ,NEG
+계속 ,COMP
+계속 하 ,COMP
+계속 하 겠 ,NEUT
+계통 ,NEUT
+계통 의 ,NEUT
+계통 의 질환 ,NEUT
+계획 ,POS
+계획 을 ,POS
+계획 을 발표 ,POS
+계획 을 세우 ,POS
+계획 을 잡 ,POS
+계획 이 ,POS
+계획 하 ,POS
+고* ,POS
+고* 견디 ,POS
+고* 견디 어 ,POS
+고 ,POS
+고 걷 ,NEG
+고 걷 어 ,NEG
+고 견디 ,POS
+고 견디 어라 ,POS
+고 공연 ,NEG
+고 괴로워하 ,NEG
+고 괴로워하 았 ,NEG
+고 귀 ,NEUT
+고 귀 가 ,NEUT
+고 그동안 ,POS
+고 그동안 이루 ,POS
+고 나 ,POS
+고 나 니까 ,POS
+고 나가 ,POS
+고 나가 지 ,POS
+고 나서 ,POS
+고 나서 기 ,POS
+고 나오 ,COMP
+고 나중 ,POS
+고 나중 에 ,POS
+고 는 ,NEG
+고 는 혀 ,NEG
+고 다가가 ,POS
+고 다가가 려고 ,POS
+고 들어가 ,POS
+고 들어가 는 ,POS
+고 또는 ,POS
+고 또는 공짜 ,POS
+고 만 ,NEG
+고 만 보 ,NEG
+고 말 ,None
+고 말 ㄹ ,None
+고 맛 ,POS
+고 맛 있 ,POS
+고 먹 ,NEG
+고 먹 고 ,NEG
+고 면허 ,POS
+고 면허 를 ,POS
+고 몸살 ,POS
+고 몸살 을 ,POS
+고 물 ,NEG
+고 물 속 ,NEG
+고 믿 ,NEG
+고 믿 으시 ,NEG
+고 번들번들 ,NEG
+고 번들번들 하 ,NEG
+고 보 ,None
+고 사 ,NEG
+고 사 느라 ,NEG
+고 살 ,NEG
+고 살 ㄴ다는 ,NEG
+고 살 았 ,NEG
+고 손 ,NEG
+고 손 으로 ,NEG
+고 수미산 ,POS
+고 수미산 을 ,POS
+고 싶 ,POS
+고 싶 다는 ,NEG
+고 싶 습니다 ,POS
+고 싶 어 ,POS
+고 싶 어 ,COMP
+고 싶 어요 ,POS
+고 싶 었 ,NEG
+고 싶 은 ,NEUT
+고 싸움 ,NEG
+고 싸움 을 ,NEG
+고 쓸쓸 ,POS
+고 쓸쓸 하 ,POS
+고 약혼 ,NEG
+고 약혼 까지 ,NEG
+고 양심 ,NEG
+고 양심 의 ,NEG
+고 얼마나 ,NEG
+고 얼마나 오랜 ,NEG
+고 역사 ,POS
+고 역사 의 ,POS
+고 예술 ,POS
+고 예술 적 ,POS
+고 오 ,NEUT
+고 오 았 ,NEUT
+고 외롭 ,POS
+고 외롭 었 ,POS
+고 욕망 ,NEG
+고 욕망 을 ,NEG
+고 용서 ,NEG
+고 용서 하 ,NEG
+고 울리 ,POS
+고 이 ,NEG
+고 이 지구 ,NEG
+고 익숙 ,POS
+고 익숙 하 ,POS
+고 있 ,POS
+고 있 는 ,POS
+고 있 ,NEG
+고 있 는 ,NEG
+고 있 는데 ,NEUT
+고 있 다 ,NEG
+고 있 습니다 ,NEG
+고 있 었 ,NEG
+고 자 ,NEG
+고 자 는 ,NEG
+고 자라 ,NEUT
+고 자라 ㄹ까 ,NEUT
+고 정들 ,NEG
+고 정들 ㄴ ,NEG
+고 존재 ,POS
+고 존재 이유 ,POS
+고 좋 ,POS
+고 좋 은 ,POS
+고 즐기 ,POS
+고 최고 ,NEG
+고 토하 ,NEUT
+고 토하 고 ,NEUT
+고 하 ,POS
+고 하 는 ,POS
+고 해외 ,POS
+고 해외 시장 ,POS
+고 허둥대 ,NEG
+고 화장실 ,NEUT
+고 화장실 을 ,NEUT
+고 휴식 ,NEG
+고 휴식 참 ,NEG
+고 ,POS
+고 강조 ,POS
+고 강조 하 ,POS
+고 기뻐하 ,POS
+고 다짐 ,POS
+고 다짐 하 ,POS
+고 답변 ,POS
+고 답변 하 ,POS
+고 답하 ,POS
+고 말 ,NEG
+고 말 하 ,NEG
+고 밝히 ,NEG
+고 정의 ,NEUT
+고 정의 하 ,NEUT
+고 주장 ,NEG
+고 주장 하 ,NEG
+고 지적 ,NEG
+고 지적 하 ,NEG
+고 통첩 ,NEG
+고 통첩 하 ,NEG
+고 평가 ,NEG
+고 평가 하 ,NEG
+고 호소 ,POS
+고 호소 하 ,POS
+고 ,POS
+고 품질 ,POS
+고 품질 유지 ,POS
+고갈 ,NEG
+고갈 상태 ,NEG
+고개 ,NEG
+고개 를 ,NEG
+고개 를 끄덕이 ,POS
+고개 를 절레절레 ,NEG
+고객 ,POS
+고객 들 ,POS
+고객 들 에게 ,POS
+고구려 ,POS
+고구려 벽화 ,POS
+고구려 벽화 를 ,POS
+고급 ,NEG
+고급 화 ,NEG
+고기 ,NEUT
+고기 와 ,NEUT
+고기 와 생선 ,NEUT
+고달프 ,POS
+고달프 ㄴ ,POS
+고달프 ㄴ 삶 ,POS
+고대 ,POS
+고대 하 ,POS
+고도 ,COMP
+고도 를 ,COMP
+고도 를 떠나 ,COMP
+고독 ,NEG
+고독 하 ,NEG
+고되 ,NEG
+고루 ,POS
+고루 하 ,POS
+고루 하 ㄴ ,POS
+고르 ,NEG
+고르 지 ,NEG
+고르 지 못하 ,NEG
+고리타분 ,NEG
+고리타분 하 ,NEG
+고리타분 하 게 ,NEG
+고립 ,NEG
+고립 되 ,NEG
+고립 되 어 ,NEG
+고립무원 ,NEG
+고립무원 속 ,NEG
+고립무원 속 에서 ,NEG
+고마움 ,POS
+고마움 깨닫 ,POS
+고마움 을 ,POS
+고마움 을 전하 ,POS
+고무 ,NEG
+고무 밴드 ,NEG
+고무 밴드 가 ,NEG
+고무 적 ,POS
+고무 적 이 ,POS
+고민 ,NEG
+고민 에 ,POS
+고민 에 도움 ,POS
+고민 하 ,NEG
+고발 ,NEG
+고발 건수 ,NEG
+고발 건수 가 ,NEG
+고백 ,None
+고백 하 ,None
+고백 하 건대 ,None
+고비 ,POS
+고비 를 ,POS
+고비 를 넘기 ,POS
+고삐 ,NEG
+고삐 가 ,NEG
+고삐 가 풀리 ,NEG
+고심 ,NEG
+고심 하 ,NEG
+고액 ,POS
+고액 과외 ,POS
+고액 과외 는 ,POS
+고양 ,POS
+고양 시키 ,POS
+고유 ,POS
+고유 건축 ,POS
+고유 건축 양식 ,POS
+고육지책 ,NEG
+고육책 ,NEG
+고이 ,NEG
+고자 ,None
+고자 하 ,None
+고장 ,NEG
+고장 나 ,NEG
+고조 ,NEG
+고조 되 ,NEG
+고질 ,NEG
+고질 적 ,NEG
+고질 적 문제 ,NEG
+고질 화 ,NEG
+고질 화 되 ,NEG
+고질병 ,NEG
+고집 ,NEG
+고집 하 ,NEG
+고충 ,POS
+고충 을 ,POS
+고충 을 덜 ,POS
+고층 ,NEG
+고층 아파트 ,NEG
+고층 아파트 숲 ,NEG
+고치 ,NEUT
+고치 는 ,NEUT
+고치 는 등 ,NEUT
+고통 ,NEG
+고통 을 ,NEG
+고통 을 겪 ,NEG
+고통 을 주 ,NEG
+고통 이 ,NEG
+고통 이 생기 ,NEG
+고향 ,POS
+고향 으로 ,POS
+곡 ,NEG
+곡 이 ,NEG
+곡 이 흐르 ,NEG
+곤란 ,NEG
+곤란 하 ,NEG
+곤란 하 거나 ,NEUT
+곤란 하 ㄴ ,NEG
+곤란 하 아 ,NEG
+곤혹 ,NEG
+곤혹 스럽 ,NEG
+곤혹 스럽 ㄴ ,NEG
+곧 ,NEG
+곧 파멸 ,NEG
+곧 파멸 직전 ,NEG
+골 ,NEG
+골 이 ,NEG
+골 이 점점 ,NEG
+골고루 ,POS
+골고루 녹 ,POS
+골고루 녹 아 ,POS
+골절 ,POS
+골절 되 ,POS
+골절 되 ㄴ ,POS
+골치 ,NEG
+골치 아프 ,NEG
+곰 ,NEG
+곳 ,POS
+곳 에 ,COMP
+곳 에 어떤 ,COMP
+곳 에 향하 ,POS
+곳 에서 ,POS
+곳 에서 도 ,POS
+곳 에서 항상 ,POS
+곳 을 ,NEUT
+곳 을 넘어서 ,NEUT
+곳 이 ,NEG
+곳 이 크 ,NEG
+공간 ,POS
+공간 에서 ,POS
+공간 에서 의 ,POS
+공간 이 ,POS
+공간 이 전시장 ,POS
+공감 ,POS
+공감 과 ,POS
+공감 과 통찰 ,POS
+공감 하 ,POS
+공감대 ,POS
+공감대 바탕 ,POS
+공급 ,POS
+공급 하 ,POS
+공기 ,POS
+공기 가 ,POS
+공기 가 얼마나 ,POS
+공동체 ,POS
+공멸 ,POS
+공멸 하 ,POS
+공멸 하 ㄴ다는 ,POS
+공백 ,NEG
+공백 을 ,POS
+공백 을 메우 ,POS
+공백 이 ,NEG
+공백 이 생기 ,NEG
+공부 ,NEG
+공부 를 ,NEG
+공부 를 더 ,NEG
+공부 싫 ,NEG
+공부 싫 은 ,NEG
+공부 하 ,POS
+공부 하 는 ,POS
+공산 ,NEG
+공산 은 ,NEG
+공산 은 크 ,NEG
+공상 ,NEG
+공식 ,NEG
+공식 입장 ,NEG
+공식 입장 이 ,NEG
+공식 협의 ,NEG
+공식 협의 를 ,NEG
+공연 ,NEG
+공연 물 ,POS
+공연 물 로 ,POS
+공연 ,NEG
+공연 하 ,NEG
+공연 하 ㄴ ,NEG
+공유 ,POS
+공유 하 ,POS
+공장 ,NEG
+공장 공장장 ,NEG
+공장 공장장 님 ,NEG
+공장장 ,NEG
+공장장 님 ,NEG
+공장장 님 들 ,NEG
+공조 ,POS
+공존 ,POS
+공존 의 ,POS
+공존 의 길 ,POS
+공짜 ,POS
+공짜 로 ,POS
+공통 ,NEG
+공통 되 ,NEG
+공통 되 ㄴ ,NEG
+공포 ,NEG
+공포 로부터 ,NEG
+공포 로부터 자유 ,NEG
+공포 와 ,POS
+공포 와 암흑 ,POS
+공화국 ,POS
+과* ,NEG
+과* 공식 ,NEG
+과* 공식 협의 ,NEG
+과* 영화 ,POS
+과* 영화 와 ,POS
+과 ,POS
+과 결혼 ,POS
+과 결혼 에 ,POS
+과 경험 ,POS
+과 경험 을 ,POS
+과 고통 ,NEG
+과 고통 이 ,NEG
+과 그 ,POS
+과 그 주변 ,POS
+과 나비 ,NEUT
+과 나비 와 ,NEUT
+과 마음 ,POS
+과 마음 을 ,POS
+과 미국 ,POS
+과 미국 보다 ,POS
+과 반복 ,NEG
+과 반복 은 ,NEG
+과 색 ,POS
+과 색 을 ,POS
+과 생물 ,NEG
+과 생물 해적 ,NEG
+과 알코올 ,NEG
+과 알코올 중독 ,NEG
+과 약간 ,COMP
+과 약간 의 ,COMP
+과 영화 ,POS
+과 예술 ,POS
+과 예술 의 ,POS
+과 유치원 ,POS
+과 유치원 어린이 ,POS
+과 일반 ,NEG
+과 일반 적 ,NEG
+과 절대주의 ,POS
+과 절대주의 에서 ,POS
+과 죄의식 ,NEG
+과 죄의식 의 ,NEG
+과 지방 ,NEG
+과 지방 을 ,NEG
+과 축소 ,POS
+과 축소 형 ,POS
+과 카메라 ,POS
+과 카메라 에 ,POS
+과 통찰 ,POS
+과 통찰 의 ,POS
+과 폭행 ,NEG
+과 폭행 의 ,NEG
+과 하늘 ,NEG
+과 하늘 을 ,NEG
+과 한과 ,POS
+과 한과 가 ,POS
+과 ,POS
+과 같 ,NEG
+과 같 다 ,NEG
+과 관계 ,NEUT
+과 관계 가 ,NEUT
+과 달리 ,POS
+과 달리 튀 ,POS
+과 대비 ,POS
+과 대비 되 ,POS
+과 마찬가지 ,NEG
+과 마찬가지 이 ,NEG
+과 모순 ,NEG
+과 생필품 ,POS
+과 생필품 을 ,POS
+과 영화 ,POS
+과 영화 에 ,POS
+과 전통 ,POS
+과 전통 문화 ,POS
+과 함께 ,POS
+과 함께 살 ,POS
+과감 ,POS
+과감 하 ,POS
+과감 하 게 ,POS
+과거 ,POS
+과거 는 ,POS
+과거 는 제치 ,POS
+과거 로 ,NEUT
+과거 로 들어가 ,NEUT
+과거 의 ,NEG
+과거 의 아픔 ,NEG
+과다 ,NEG
+과다 업무 ,NEG
+과다 업무 좌절감 ,NEG
+과대 ,NEG
+과대 포장 ,NEG
+과도 ,NEG
+과도 하 ,NEG
+과반수 ,NEG
+과반수 의 ,NEG
+과반수 의 석 ,NEG
+과시 ,NEG
+과시 성 ,NEG
+과연 ,COMP
+과연 무엇 ,COMP
+과연 무엇 이 ,COMP
+과열 ,NEG
+과열 과외 ,POS
+과열 과외 나 ,POS
+과오 ,NEG
+과오 를 ,NEG
+과오 를 범하 ,NEG
+과외 ,POS
+과외 나 ,POS
+과외 나 고액 ,POS
+과외 는 ,POS
+과외 는 없 ,POS
+과욕 ,NEG
+과욕 이 ,NEG
+과욕 이 앞서 ,NEG
+과잉 ,NEG
+과장 ,NEG
+과장 되 ,NEG
+과제 ,NEG
+과제 가* ,POS
+과제 가* 있 ,POS
+과제 가 ,POS
+과제 로 ,NEG
+과제 로 남 ,NEG
+과제 이 ,COMP
+과중 ,NEG
+과중 하 ,NEG
+과중 ,NEG
+과중 하 ,NEG
+과학 ,NEG
+과학 적 ,NEG
+관객 ,NEG
+관객 들 ,POS
+관객 들 의 ,POS
+관객 을 ,NEG
+관객 을 놓 ,NEG
+관계 ,NEG
+관계 가 ,NEG
+관계 가 없 ,NEG
+관계 가 있 ,NEUT
+관계 는 ,NEG
+관계 는 없 ,NEG
+관계 없이 ,POS
+관계 없이 일 ,POS
+관계 에 ,NEG
+관계 에 아무런 ,NEG
+관계자 ,NEG
+관계자 들 ,NEG
+관계자 들 과* ,NEG
+관광 ,POS
+관광 교역전 ,POS
+관광 교역전 으로 ,POS
+관광 명소 ,POS
+관광객 ,NEUT
+관광객 이 ,NEUT
+관광객 이 편중 ,NEUT
+관람객 ,POS
+관람객 을 ,POS
+관람객 을 끌어당기 ,POS
+관리 ,NEG
+관리 부실 ,NEG
+관심 ,POS
+관심 을 ,POS
+관심 을 갖 ,POS
+관심 을 기울이 ,NEG
+관심 을 끌 ,POS
+관심 을 모으 ,POS
+관심 을 쏟 ,POS
+관심 이 ,POS
+관심 이 고조 ,POS
+관심 이 높 ,POS
+관심 이 모으 ,POS
+관심 이 쏠리 ,POS
+관심 이 없 ,NEG
+관심 이 외국 ,NEG
+관심 확산 ,POS
+관심거리 ,POS
+관심거리 이 ,POS
+관심사 ,COMP
+관심사 이 ,COMP
+관여 ,NEUT
+관여 하 ,NEUT
+관여 하 았 ,NEUT
+관점 ,COMP
+관점 에서 ,COMP
+관점 에서 재 ,COMP
+관점 차이 ,NEG
+관철 ,NEG
+관철 되 ,NEG
+관철 되 었 ,NEG
+관하 ,POS
+관하 ㄴ ,POS
+관하 ㄴ 이야기 ,POS
+관하 ㄴ 한 ,POS
+광복 ,POS
+광복 열망 ,POS
+광복 열망 적도 ,POS
+광활 ,POS
+광활 하 ,POS
+광활 하 ㄴ ,POS
+괜하 ,None
+괜하 ㄴ ,None
+괴로워하 ,NEG
+괴로워하 았 ,NEG
+괴로워하 았 던가 ,NEG
+괴팍 ,POS
+괴팍 하 ,POS
+교단 ,NEG
+교단 분열 ,NEG
+교류 ,NEG
+교류 를 ,NEG
+교류 를 단절 ,NEG
+교류설 ,NEUT
+교수 ,POS
+교역전 ,POS
+교역전 으로 ,POS
+교역전 으로 는 ,POS
+교육 ,POS
+교육 받 ,POS
+교육 받 는다면 ,POS
+교육 을 ,NEG
+교육 을 제대로 ,NEG
+교육 효과 ,POS
+교통 ,NEG
+교통 사고 ,NEG
+교통 사고 가 ,NEG
+교포 ,NEG
+교포 에 ,NEG
+교포 에 살인 ,NEG
+교환전 ,POS
+교환전 을 ,POS
+교환전 을 열 ,POS
+교회 ,NEG
+교회 세습 ,NEG
+교훈 ,NEG
+교훈 을 ,NEG
+교훈 을 주 ,POS
+교훈 을 주입 ,NEG
+구걸 ,NEG
+구경 ,POS
+구경 하 ,POS
+구경 하 시 ,POS
+구나 ,NEG
+구별 ,POS
+구별 이 ,POS
+구별 이 가 ,POS
+구분 ,NEUT
+구분 되 ,NEUT
+구분 되 지 ,NEUT
+구상 ,NEUT
+구상 하 ,NEUT
+구상 하 아 ,NEUT
+구석 ,POS
+구석 이 ,POS
+구석 이 많 ,POS
+구설수 ,NEG
+구설수 가 ,NEG
+구설수 가 들 ,NEG
+구식 ,NEG
+구실 ,None
+구실 을 ,None
+구실 을 하 ,None
+구애 ,POS
+구애 받 ,POS
+구애 받 을 ,POS
+구입 ,NEG
+구입 하 ,NEG
+구입 하 지 ,NEG
+구제 ,POS
+구제 하 ,POS
+구체 ,POS
+구체 적 ,POS
+구체 적 으로 ,POS
+구태 ,NEG
+구태 를 ,NEG
+구태 를 재연 ,NEG
+구토 ,NEUT
+구하 ,POS
+국가 ,NEG
+국가 와 ,NEG
+국가 와 사회 ,NEG
+국교 ,NEG
+국군 ,NEG
+국군 은 ,NEG
+국군 은 비키 ,NEG
+국기 ,NEG
+국기 게양 ,NEG
+국기 게양 률 ,NEG
+국내 ,POS
+국내 관광 ,POS
+국내 관광 교역전 ,POS
+국내 기반 ,POS
+국내 기반 을 ,POS
+국내 에서 ,POS
+국내 에서 는 ,POS
+국내 이벤트 ,POS
+국내 이벤트 이 ,POS
+국내 최 ,POS
+국내 최 장 ,POS
+국내 최대 ,POS
+국내 최대 규모 ,POS
+국내 최초 ,POS
+국내 최초 로 ,POS
+국무 ,POS
+국무 총리 ,POS
+국무 총리 표창 ,POS
+국민 ,POS
+국민 기업 ,POS
+국민 기업 이 ,POS
+국민 기업 정부 ,POS
+국민 에게 ,COMP
+국민 에게 알리 ,COMP
+국민학생 ,POS
+국민학생 과 ,POS
+국민학생 과 유치원 ,POS
+국방 ,POS
+국방 에 ,POS
+국방 에 만 ,POS
+국보 ,POS
+국제 ,POS
+국제 무용 ,POS
+국제 무용 행사 ,POS
+국제 상 ,POS
+국제 상 을 ,POS
+군 ,NEG
+군국주의 ,NEG
+군국주의 망령 ,NEG
+군도 ,NEG
+군도 이 ,NEG
+군도 이 기 ,NEG
+군살 ,NEG
+군살 빼기 ,POS
+군살 이 ,NEG
+군살 이 많이 ,NEG
+굳 ,POS
+굳 지 ,POS
+굳 지 않 ,POS
+굳이 ,NEG
+굵 ,POS
+굵직 ,NEG
+굵직 하 ,NEG
+굵직 하 ㄴ ,NEG
+굶주리 ,NEG
+굶주림 ,POS
+굶주림 에서 ,POS
+굶주림 에서 구하 ,POS
+굿 ,POS
+굿 이 ,POS
+굿 이 벌어지 ,POS
+궁상 ,NEG
+궁상 스럽 ,NEG
+궁전 ,POS
+궁전 집 ,POS
+궁전 집 이 ,POS
+궁중 ,NEG
+궁중 사극 ,NEG
+궁중 사극 이 ,NEG
+궁핍 ,NEG
+궁핍 의 ,NEG
+궁핍 의 한계 ,NEG
+권 ,POS
+권 하 ,POS
+권 하 아 ,POS
+권 ,NEG
+권 운동 ,POS
+권 운동 에 ,POS
+권 은 ,NEG
+권 은 지 ,NEG
+권 을 ,NEG
+권 을 통하 ,NEG
+권고 ,POS
+권고 안 ,POS
+권력 ,NEG
+권력 도 ,NEG
+권력 을 ,NEG
+권력 을 빼앗기 ,NEG
+권력욕 ,NEG
+권력욕 에 ,NEG
+권력욕 에 젖 ,NEG
+권위 ,POS
+권위주의 ,NEG
+권하 ,POS
+권하 고자 ,POS
+권하 고자 하 ,POS
+궤변 ,NEG
+궤변 으로 ,NEG
+궤변 으로 가득 ,NEG
+귀 ,NEG
+귀 가 ,NEUT
+귀 가 울리 ,NEUT
+귀 질환 ,NEG
+귀 질환 을 ,NEG
+귀엽 ,NEG
+귀엽 ㄴ ,NEG
+귀엽 ㄴ 아들 ,NEG
+규명 ,POS
+규명 하 ,POS
+규모 ,POS
+규모 의 ,POS
+규모 의 국제 ,POS
+규모 의 돈 ,POS
+규정 ,POS
+규정 에 ,POS
+규정 에 는 ,POS
+규정 하 ,POS
+규제 ,NEG
+규제 하 ,NEG
+균 ,POS
+균 이 ,POS
+균 이 번식 ,POS
+균형 ,NEG
+균형 을 ,NEG
+균형 을 지나치 ,NEG
+그 ,POS
+그 고비 ,POS
+그 고비 를 ,POS
+그 동안 ,NEG
+그 동안 이 ,NEG
+그 동안 태극기 ,NEG
+그 무게 ,NEG
+그 무게 불리 ,NEG
+그 사람 ,POS
+그 사람 을 ,POS
+그 사상 ,POS
+그 사상 의 ,POS
+그 소외 ,COMP
+그 소외 되 ,COMP
+그 순간 ,POS
+그 순간 어둠 ,POS
+그 위상 ,NEUT
+그 위상 을 ,NEUT
+그 정화 ,POS
+그 정화 만 ,POS
+그 주변 ,POS
+그 주변 사람 ,POS
+그 폭 ,POS
+그 폭 이 ,POS
+그 ,NEG
+그 가 ,POS
+그 가 얼마나 ,POS
+그 는 ,NEG
+그 는 깎아지르 ,NEG
+그 는 말 ,NEG
+그 를 ,NEG
+그 를 만지 ,NEG
+그 보다 ,None
+그 보다 는 ,None
+그 뿐 ,None
+그 뿐 이 ,None
+그 에게 ,NEG
+그 에게 간신히 ,NEG
+그 와 ,NEG
+그 와 무관 ,NEG
+그 의 ,POS
+그 의 반 ,POS
+그 의 사랑 ,POS
+그것 ,NEG
+그것 ㄴ ,NEG
+그것 ㄴ 미치 ,NEG
+그것 ㄴ 사랑 ,NEUT
+그것 보 ,NEG
+그것 보 시 ,NEG
+그나마 ,None
+그냥 ,NEG
+그냥 상상 ,NEG
+그냥 상상 의 ,NEG
+그늘 ,NEG
+그늘 벗 ,POS
+그늘 이 ,NEG
+그늘 이 지 ,NEG
+그대로 ,POS
+그대로 남 ,NEG
+그대로 남 아 ,NEG
+그대로 따르 ,NEG
+그대로 따르 지 ,NEG
+그대로 모방 ,POS
+그대로 모방 하 ,POS
+그동안 ,POS
+그동안 못 ,POS
+그동안 못 하 ,POS
+그동안 연구 ,POS
+그동안 연구 하 ,POS
+그동안 이루 ,POS
+그동안 이루 ㄴ ,POS
+그때 ,POS
+그때 이 ,POS
+그때 이 ㄹ ,POS
+그래 IC,None
+그래 IC나 ,POS
+그래 IC나 ㄴ ,POS
+그래서 MAJ,None
+그러* ,NEG
+그러* 어* ,NEG
+그러* 어* 모두* ,NEG
+그러 ,None
+그러 니 ,None
+그러 어 ,POS
+그러 어 맞 ,POS
+그러 어야 ,None
+그러 자 ,None
+그러나 MAJ,None
+그러나 MAJ불우 ,POS
+그러나 MAJ불우 하 ,POS
+그러나 MAJ양탄자 ,POS
+그러나 MAJ양탄자 는 ,POS
+그러나 MAJ이제 ,NEG
+그러나 MAJ이제 소수 ,NEG
+그러나 MAJ폐렴 ,NEG
+그러나 MAJ폐렴 은 ,NEG
+그러니까 MAJ,NEG
+그러니까 MAJ아 IC,NEG
+그러므로 MAJ,NEUT
+그러므로 MAJ건축 ,NEUT
+그러므로 MAJ건축 창작 ,NEUT
+그런 ,COMP
+그런 것 ,None
+그런 것 아니 ,None
+그런 고민 ,POS
+그런 고민 에 ,POS
+그런 엄마 ,NEG
+그런 엄마 를 ,NEG
+그런데 MAJ,None
+그런데 MAJ도 ,None
+그럼 ,None
+그럼 에 ,None
+그럼 에 도 ,None
+그렇* ,None
+그렇* 지만 ,None
+그렇 ,NEG
+그렇 게 ,POS
+그렇 게 그리 ,NEG
+그렇 게 도 ,POS
+그렇 게 말 ,POS
+그렇 게 하 ,POS
+그렇 기 ,NEG
+그렇 기 마련 ,NEG
+그렇 ㄴ가 ,None
+그렇 ㄴ가 하 ,None
+그렇 다고 ,None
+그렇 다면 ,NEG
+그렇 다면 자본주의 ,NEG
+그렇 ㅁ ,None
+그렇 ㅁ 에 ,None
+그렇 지 ,NEG
+그렇 지 않 ,NEG
+그렇지만 MAJ,POS
+그렇지만 MAJ한자 ,POS
+그렇지만 MAJ한자 의 ,POS
+그룹 ,POS
+그룹 으로서 ,POS
+그룹 으로서 의 ,POS
+그룹 이 ,POS
+그르 ,NEG
+그르치 ,NEG
+그리 ,NEG
+그리 밝 ,NEG
+그리 밝 아 ,NEG
+그리 밝 지 ,NEG
+그리 어렵 ,POS
+그리 어렵 지 ,POS
+그리 ,COMP
+그리 니 ,NEG
+그리 어 ,COMP
+그리고 MAJ,NEG
+그리고 MAJ간밤 ,POS
+그리고 MAJ간밤 의 ,POS
+그리고 MAJ힘 ,NEG
+그리고 MAJ힘 안 ,NEG
+그리하여 MAJ,NEG
+그리하여 MAJ세상 ,NEG
+그리하여 MAJ세상 의 ,NEG
+그림 ,NEG
+그림 들 ,NEG
+그림 들 이 ,NEG
+그림 속내 ,POS
+그분 ,NEG
+그분 께 ,NEG
+그야말로 ,None
+그저 ,NEG
+그저 그렇 ,NEG
+그저 그렇 기 ,NEG
+그지없 ,NEG
+그지없 는 ,NEG
+그지없 는 행동 ,NEG
+그치 ,NEG
+그치 ㄹ ,POS
+그치 ㄹ 새 ,POS
+극 ,COMP
+극 의 ,POS
+극 의 현실 ,POS
+극 적 ,COMP
+극 적 이 ,COMP
+극단 ,NEG
+극단 적 ,NEG
+극단 적 이 ,NEG
+극대 ,NEG
+극대 화 ,NEG
+극대 화 하 ,NEG
+극복 ,POS
+극복 인식 ,POS
+극복 인식 등 ,POS
+극복 하 ,NEG
+극심 ,NEG
+극심 하 ,NEG
+극장 ,POS
+극장 공연 ,POS
+극장 공연 물 ,POS
+극찬 ,POS
+극찬 하 ,POS
+극히 ,NEG
+극히 낮 ,NEG
+극히 일부 ,NEG
+극히 일부 에 ,NEG
+근근이 ,NEG
+근데 MAJ,None
+근로 ,NEG
+근로 의욕 ,NEG
+근로 의욕 저하 ,NEG
+근면 ,POS
+근본 ,POS
+근본 은 ,POS
+근본 은 사람 ,POS
+근성 ,POS
+근시안 ,NEG
+근시안 적 ,NEG
+근절 ,NEG
+근절 되 ,POS
+근절 되 었 ,POS
+근절 하 ,NEG
+근현대 ,POS
+근현대 작곡가 ,POS
+근현대 작곡가 연구 ,POS
+글 ,NEG
+글 을 ,NEG
+글 을 쓰 ,NEG
+글라스울 ,POS
+글쎄 IC,None
+글씨 ,NEG
+글씨 를 ,NEG
+글씨 를 쓰 ,NEG
+금물 ,NEG
+금물 이 ,NEG
+금물 이 다 ,NEG
+금세 ,None
+금융 ,NEG
+금융 실명 ,NEG
+금융 실명 제 ,NEG
+금하 ,NEG
+금하 았 ,NEG
+급 ,POS
+급격히 ,NEG
+급격히 많 ,NEG
+급격히 많 아 ,NEG
+급급 ,NEG
+급급 하 ,NEG
+급기야 ,None
+급속히 ,NEG
+급속히 악화 ,NEG
+급속히 악화 하 ,NEG
+긍정 ,POS
+긍정 적 ,POS
+긍정 적 이 ,POS
+긍정 적 편견 ,POS
+기 ,None
+기 가 ,NEG
+기 가 가장 ,NEG
+기 가 쉽 ,POS
+기 그지없 ,NEG
+기 그지없 는 ,NEG
+기 까지 ,None
+기 까지 하 ,None
+기 ㄴ ,None
+기 ㄴ 하 ,None
+기 는 ,None
+기 는 하 ,None
+기 도 ,None
+기 도 하 ,None
+기 도 하 ,None
+기 때문 ,None
+기 때문 이 ,None
+기 ㄹ ,None
+기 로 ,POS
+기 로 하 ,POS
+기 로 하 ,POS
+기 를 ,POS
+기 를 바라 ,POS
+기 를 즐기 ,POS
+기 마련 ,NEG
+기 마련 이 ,NEG
+기 만 ,None
+기 만 하 ,None
+기 보다 ,None
+기 보다 는 ,None
+기 쉽 ,POS
+기 쉽 므로 ,POS
+기 쉽 은 ,POS
+기 시작 ,POS
+기 시작 하 ,POS
+기 십상 ,NEG
+기 십상 이 ,NEG
+기 어렵 ,NEG
+기 어렵 ㄴ ,POS
+기 어렵 었 ,NEG
+기 에 ,NEUT
+기 에 그것 ,NEUT
+기 에 이르 ,None
+기 에 즐겁 ,POS
+기 에 충분 ,POS
+기 위하 ,POS
+기 위하 ㄴ ,POS
+기 위하 아 ,POS
+기 조차 ,None
+기 짝 ,NEG
+기 짝 이 ,NEG
+기 힘들 ,NEG
+기 힘들 ㄹ ,NEG
+기 ,POS
+기 가 ,POS
+기 가 흐르 ,POS
+기 더하 ,POS
+기 더하 아 ,POS
+기 ,NEG
+기 가 ,NEG
+기 가 많 ,NEG
+기강 ,NEG
+기강 이 ,NEG
+기강 이 해이 ,NEG
+기구 ,NEG
+기구 하 ,NEG
+기금 ,POS
+기나길 ,POS
+기나길 ㄴ ,POS
+기나길 ㄴ 절대 ,POS
+기냥 ,NEG
+기념 ,POS
+기념 사진 ,POS
+기념 사진 촬영 ,POS
+기능 ,POS
+기능 을 ,POS
+기능 을 함께 ,POS
+기능 적 ,POS
+기능 적 으로 ,POS
+기다리 ,POS
+기대 ,POS
+기대 되 ,POS
+기대 를 ,POS
+기대 를 모으 ,POS
+기대 를 한층 ,POS
+기대 와 ,POS
+기대 와 관심 ,POS
+기대 하 ,POS
+기대주 ,POS
+기대주 이 ,POS
+기도 ,POS
+기도 하 ,POS
+기량 ,POS
+기량 을 ,POS
+기량 을 선보이 ,POS
+기록 ,POS
+기록 이 ,POS
+기만 ,NEG
+기만 하 ,NEG
+기반 ,POS
+기반 을 ,POS
+기반 을 다지 ,POS
+기본 ,POS
+기본 적 ,POS
+기본 적 이 ,POS
+기분 ,NEG
+기분 이 ,NEG
+기분 이 들 ,NEG
+기뻐하 ,POS
+기쁘 ,POS
+기쁘 게 ,POS
+기쁘 게 참여 ,POS
+기쁘 ㅂ니다 ,POS
+기쁨 ,POS
+기색 ,COMP
+기색 으로 ,COMP
+기소 ,NEG
+기술 ,NEG
+기술 의 ,NEG
+기술 의 노예 ,NEG
+기약 ,NEG
+기약 조차 ,NEG
+기약 조차 하 ,NEG
+기억 ,NEUT
+기억 되 ,NEUT
+기억나 ,POS
+기억나 게 ,POS
+기억나 게 하 ,POS
+기업 ,NEG
+기업 들 ,NEG
+기업 들 도 ,NEG
+기업 은 ,NEG
+기업 은 망하 ,NEG
+기업 이 ,POS
+기업 정부 ,POS
+기업 정부 가 ,POS
+기여 ,POS
+기여 도 ,POS
+기여 도 가 ,POS
+기여 하 ,POS
+기운 ,POS
+기운 생동 ,POS
+기운 생동 속 ,POS
+기울이 ,NEG
+기적 ,POS
+기존 ,POS
+기존 화장품 ,POS
+기존 화장품 보다 ,POS
+기준 ,NEG
+기준 을 ,NEG
+기증 ,POS
+기증 하 ,POS
+기증 하 는 ,POS
+기초 ,POS
+기초 부터 ,POS
+기초 부터 살피 ,POS
+기피 ,NEG
+기피 하 ,NEG
+기형아 ,NEG
+기회 ,POS
+기회 가 ,POS
+기회 가 되 ,POS
+기회 를 ,POS
+기회 를 던지 ,POS
+기회 를 얻 ,POS
+기회 를 주 ,POS
+기회 이 ,POS
+기회주의 ,NEG
+기회주의 적 ,NEG
+기획 ,POS
+기획 하 ,POS
+기획물 ,NEG
+기획물 비디오 ,NEG
+기획물 비디오 는 ,NEG
+긴급 ,NEG
+긴급 조치 ,NEG
+긴급 조치 위반 ,NEG
+긴박 ,POS
+긴박 하 ,POS
+긴박 하 ㄴ ,POS
+긴장 ,NEG
+긴장 시키 ,NEG
+긴장 이 ,NEG
+긴장 이 고조 ,NEG
+긴장감 ,NEG
+긴장감 이 ,NEG
+긴장감 이 조성 ,NEG
+길 ,NEG
+길 없 ,NEG
+길 에서 ,NEG
+길 에서 마주치 ,NEG
+길 은 ,NEG
+길 은 그리 ,NEG
+길 을 ,POS
+길 을 불 ,NEG
+길 을 찾 ,POS
+길 을 택하 ,POS
+길 ,POS
+길 ㄴ ,POS
+길 ㄴ 설명 ,POS
+길들이 ,POS
+길이* ,POS
+길이* 기억나 ,POS
+길이* 기억나 게 ,POS
+길이 ,NEG
+길이 가 ,NEG
+길이 가 일정 ,NEG
+김 ,None
+김 에 ,None
+깃들 ,POS
+깃발 ,POS
+깃발 을 ,POS
+깃발 을 높이 ,POS
+깊 ,NEG
+깊 게 ,NEG
+깊 게 하 ,NEG
+깊 어 ,NEG
+깊 어 지 ,NEG
+깊 은 ,NEG
+깊 은 의혹 ,NEG
+까다롭 ,NEG
+까닭 ,NEUT
+까닭 이 ,NEUT
+까맣 ,NEG
+까맣 ㄴ ,NEG
+까맣 ㄴ 단지 ,NEG
+까먹 ,NEUT
+까먹 는 ,NEUT
+까지 ,None
+까지 는 ,None
+까지 도 ,None
+까지 묻 ,NEG
+까지 반대 ,NEG
+까지 반대 를 ,NEG
+까지 줄이 ,POS
+까지 줄이 ㄹ ,POS
+까지 지키 ,POS
+까지 지키 ㄹ ,POS
+까지 참여 ,POS
+까지 참여 하 ,POS
+까지 하 ,NEG
+까지 하 았 ,NEG
+까지 하 ,None
+깎 ,NEG
+깎 았 ,NEG
+깎 았 다 ,NEG
+깎 았었 ,NEG
+깎 았었 는데 ,NEG
+깎아지르 ,NEG
+깎아지르 ㄴ ,NEG
+깎아지르 ㄴ 듯 ,NEG
+깔리 ,NEUT
+깔리 어 ,POS
+깔리 어 있 ,POS
+깜깜 ,NEG
+깜깜 하 ,NEG
+깜깜 하 ㄴ ,NEG
+깜찍 ,COMP
+깜찍 하 ,COMP
+깨 ,NEUT
+깨 고 ,POS
+깨 고 역사 ,POS
+깨 었 ,NEUT
+깨 었 지만 ,NEUT
+깨끗 ,POS
+깨끗 하 ,POS
+깨끗 하 ㅁ ,POS
+깨닫 ,POS
+깨닫 게 ,POS
+깨닫 게 하 ,POS
+깨닫 는다 ,NEG
+깨닫 으면 ,POS
+깨닫 으면 실천 ,POS
+깨우치 ,POS
+깨우치 ㅁ ,POS
+깨치 ,NEG
+깨치 ㄴ ,NEG
+깨치 ㄴ 자 ,NEG
+깨치 ㅁ ,POS
+깨치 ㅁ 의 ,POS
+꺼내 ,COMP
+꺼내 어 ,COMP
+꺼내 어 마음 ,COMP
+꺼내 지 ,NEG
+꺼내 지 못하 ,NEG
+꺼리 ,NEG
+꺼리 어요 ,NEG
+꺼멓 ,NEG
+꺼멓 고 ,NEG
+꺼멓 고 번들번들 ,NEG
+꺾이 ,NEG
+껍데기 ,NEG
+껍데기 만 ,NEG
+껍데기 만 남 ,NEG
+껍질 ,NEG
+께 ,NEG
+꼬 ,NEG
+꼭 ,POS
+꼭 필요 ,POS
+꼭 필요 하 ,POS
+꼴 ,None
+꼼꼼 ,POS
+꼼꼼 하 ,POS
+꼼꼼 하 게 ,POS
+꼽 ,POS
+꼽 을 ,POS
+꼽 을 만 ,POS
+꼽히 ,POS
+꽃 ,POS
+꽃 보다 ,POS
+꽃 보다 더 ,POS
+꽃 을 ,POS
+꽃 을 피우 ,POS
+꽃잎 ,POS
+꽃잎 처럼 ,POS
+꽃잎 처럼 화려 ,POS
+꽤 ,POS
+꽤 맞 ,POS
+꽤 맞 아 ,POS
+꾸 ,NEUT
+꾸 었 ,NEUT
+꾸 었 는지 ,NEUT
+꾸미 ,POS
+꾸미 어 ,POS
+꾸미 어 지 ,POS
+꾸준히 ,NEG
+꾸준히 문제 ,NEG
+꾸준히 문제 를 ,NEG
+꾸짖 ,NEG
+꾼 ,NEG
+꿀 ,NEG
+꿀 을 ,NEG
+꿀 을 빨 ,NEG
+꿀 혼자 ,NEG
+꿀 혼자 만 ,NEG
+꿀단지 ,NEG
+꿀단지 가지 ,NEG
+꿀단지 가지 어다 ,NEG
+꿀통 ,NEG
+꿀통 하나 ,NEG
+꿀통 하나 얻 ,NEG
+꿈 ,NEUT
+꿈 만 ,POS
+꿈 만 같 ,POS
+꿈 에 ,NEUT
+꿈 에 나비 ,NEUT
+꿈 에서 ,NEUT
+꿈 에서 깨 ,NEUT
+꿈 을 ,NEUT
+꿈 을 갖 ,POS
+꿈 을 꾸 ,NEUT
+꿈 이 ,COMP
+꿈 이 부끄럽 ,COMP
+꿈 이 ,POS
+꿈 이 었 ,POS
+꿈꾸 ,NEG
+꿈꾸 었 ,NEG
+꿈꾸 었 네 ,NEG
+끄덕이 ,POS
+끈끈 ,NEG
+끈끈 하 ,NEG
+끈끈 하 게 ,NEG
+끈적끈적 ,NEUT
+끊 ,POS
+끊 어 ,NEG
+끊 어 버리 ,POS
+끊 어 지 ,NEG
+끊기 ,NEG
+끊임없이 ,COMP
+끊임없이 반문 ,COMP
+끊임없이 반문 하 ,COMP
+끊임없이 파고들 ,POS
+끌 ,POS
+끌어당기 ,POS
+끝 ,NEG
+끝 가 ,NEG
+끝 가 ㄴ ,NEG
+끝 까지 ,NEG
+끝 까지 반대 ,NEG
+끝 까지 지키 ,POS
+끝 에 ,None
+끝 이 ,POS
+끝 이 여물 ,POS
+끝내 ,NEG
+끼 ,POS
+ㄴ ,POS
+ㄴ 가슴 ,POS
+ㄴ 가슴 은 ,POS
+ㄴ 감 ,NEG
+ㄴ 감 이 ,NEG
+ㄴ 감동 ,POS
+ㄴ 감동 으로 ,POS
+ㄴ 값 ,POS
+ㄴ 값 으로 ,NEG
+ㄴ 개념 ,POS
+ㄴ 개념 만 ,POS
+ㄴ 개조 ,NEG
+ㄴ 개조 과제 ,NEG
+ㄴ 거 ,NEG
+ㄴ 거 이 ,NEG
+ㄴ 건배 ,NEG
+ㄴ 것 ,None
+ㄴ 것 같 ,NEG
+ㄴ 것 도 ,None
+ㄴ 것 들 ,POS
+ㄴ 것 만 ,POS
+ㄴ 것 으로 ,POS
+ㄴ 것 을 ,NEG
+ㄴ 것 이 ,POS
+ㄴ 것 이 ,NEG
+ㄴ 것 이 ,None
+ㄴ 것 처럼 ,POS
+ㄴ 결혼 ,NEG
+ㄴ 결혼 을 ,NEG
+ㄴ 경험 ,POS
+ㄴ 고객 ,NEG
+ㄴ 고구려 ,POS
+ㄴ 고구려 벽화 ,POS
+ㄴ 곳 ,POS
+ㄴ 곳 에서 ,POS
+ㄴ 공간 ,POS
+ㄴ 공간 이 ,POS
+ㄴ 과오 ,NEG
+ㄴ 과오 를 ,NEG
+ㄴ 과제 ,NEG
+ㄴ 과제 가* ,POS
+ㄴ 과제 로 ,NEG
+ㄴ 관계 ,NEG
+ㄴ 관계 는 ,NEG
+ㄴ 그 ,NEG
+ㄴ 그 는 ,NEG
+ㄴ 그 를 ,NEG
+ㄴ 그대로 ,POS
+ㄴ 그룹 ,POS
+ㄴ 그룹 이 ,POS
+ㄴ 극장 ,POS
+ㄴ 극장 공연 ,POS
+ㄴ 기금 ,POS
+ㄴ 기나길 ,POS
+ㄴ 기나길 ㄴ ,POS
+ㄴ 기량 ,POS
+ㄴ 기록 ,POS
+ㄴ 기록 이 ,POS
+ㄴ 기색 ,COMP
+ㄴ 기색 으로 ,COMP
+ㄴ 기여 ,POS
+ㄴ 기회 ,POS
+ㄴ 기회 를 ,POS
+ㄴ 길 ,POS
+ㄴ 김 ,None
+ㄴ 김 에 ,None
+ㄴ 깃발 ,POS
+ㄴ 깃발 을 ,POS
+ㄴ 꽃 ,POS
+ㄴ 꽃 보다 ,POS
+ㄴ 꿀 ,NEG
+ㄴ 꿀 을 ,NEG
+ㄴ 꿈 ,NEUT
+ㄴ 꿈 을 ,NEUT
+ㄴ 끝 ,None
+ㄴ 끝 에 ,None
+ㄴ 나 ,POS
+ㄴ 나 를 ,POS
+ㄴ 나 의 ,NEG
+ㄴ 나이 ,NEG
+ㄴ 나이 의 ,NEG
+ㄴ 내 ,NEUT
+ㄴ 내 가 ,NEUT
+ㄴ 내용 ,NEG
+ㄴ 내용 들 ,POS
+ㄴ 내용 이 ,NEG
+ㄴ 냄새 ,NEG
+ㄴ 노력 ,POS
+ㄴ 노력 을 ,POS
+ㄴ 논란 ,NEG
+ㄴ 논란 을 ,NEG
+ㄴ 논쟁점 ,POS
+ㄴ 논쟁점 을 ,POS
+ㄴ 누아르 ,POS
+ㄴ 누아르 의 ,POS
+ㄴ 눈 ,COMP
+ㄴ 눈 으로 ,COMP
+ㄴ 뉴스 ,POS
+ㄴ 뉴스 를 ,POS
+ㄴ 느낌 ,NEG
+ㄴ 느낌 그대로 ,POS
+ㄴ 느낌 에 ,NEG
+ㄴ 다음 ,NEG
+ㄴ 다음 에 ,NEG
+ㄴ 단지 ,NEG
+ㄴ 단지 에 ,NEG
+ㄴ 대지 ,POS
+ㄴ 대지 를 ,POS
+ㄴ 데 ,None
+ㄴ 데 다 ,None
+ㄴ 데 없이 ,NEG
+ㄴ 도시 ,POS
+ㄴ 도시 풍경 ,POS
+ㄴ 도움 ,POS
+ㄴ 도움 이 ,POS
+ㄴ 도전 ,NEG
+ㄴ 도전 으로 ,NEG
+ㄴ 독서 ,POS
+ㄴ 독서 후 ,POS
+ㄴ 뒤 ,NEUT
+ㄴ 뒤 에 ,NEUT
+ㄴ 듯 ,NEG
+ㄴ 듯 가파르 ,NEG
+ㄴ 만큼 ,None
+ㄴ 말 ,NEG
+ㄴ 말 로 ,NEG
+ㄴ 말씀 ,POS
+ㄴ 말씀 의 ,POS
+ㄴ 맥 ,NEG
+ㄴ 맥 이 ,NEG
+ㄴ 면 ,POS
+ㄴ 면 이 ,POS
+ㄴ 모든 ,NEG
+ㄴ 모든 아버지 ,NEG
+ㄴ 모습 ,NEG
+ㄴ 모습 을 ,NEG
+ㄴ 몸 ,NEG
+ㄴ 몸 으로 ,NEG
+ㄴ 문제 ,POS
+ㄴ 문제 가 ,POS
+ㄴ 문제 도 ,POS
+ㄴ 물살 ,POS
+ㄴ 물살 을 ,POS
+ㄴ 미형 ,POS
+ㄴ 미형 캐릭터 ,POS
+ㄴ 민속품 ,POS
+ㄴ 민속품 을 ,POS
+ㄴ 바 ,None
+ㄴ 바 있 ,None
+ㄴ 반면 ,None
+ㄴ 발현 ,POS
+ㄴ 발현 이 ,POS
+ㄴ 밤 ,NEG
+ㄴ 밤 길 ,NEG
+ㄴ 배창호 ,NEG
+ㄴ 배창호 감독 ,NEG
+ㄴ 벗 ,POS
+ㄴ 벗 이 ,POS
+ㄴ 변화 ,POS
+ㄴ 복수 ,NEG
+ㄴ 부위 ,POS
+ㄴ 부위 는 ,POS
+ㄴ 부채 ,POS
+ㄴ 부채 를 ,POS
+ㄴ 분야 ,POS
+ㄴ 분야 욕심내 ,POS
+ㄴ 분위기 ,POS
+ㄴ 분위기 를 ,POS
+ㄴ 붓 ,NEG
+ㄴ 붓 질 ,NEG
+ㄴ 사건 ,NEG
+ㄴ 사람 ,POS
+ㄴ 사람 도 ,POS
+ㄴ 사람 은 ,NEG
+ㄴ 사람 이 ,POS
+ㄴ 사랑 ,POS
+ㄴ 사망 ,POS
+ㄴ 사망 률 ,POS
+ㄴ 사회 ,NEG
+ㄴ 사회 에서 ,NEG
+ㄴ 삶 ,POS
+ㄴ 삶 을 ,POS
+ㄴ 삶 이 ,POS
+ㄴ 상태 ,NEG
+ㄴ 상태 이 ,NEG
+ㄴ 새댁 ,POS
+ㄴ 생명 ,POS
+ㄴ 생명 에 ,POS
+ㄴ 생산 ,POS
+ㄴ 생산 유적 ,POS
+ㄴ 서방 ,NEG
+ㄴ 서방 세계 ,NEG
+ㄴ 선진국 ,POS
+ㄴ 선진국 그룹 ,POS
+ㄴ 설명 ,POS
+ㄴ 설명 이 ,POS
+ㄴ 섬 ,COMP
+ㄴ 섬 을 ,COMP
+ㄴ 섬 이 ,NEG
+ㄴ 성격 ,NEG
+ㄴ 성격 을 ,NEG
+ㄴ 성격 이 ,POS
+ㄴ 성공 ,POS
+ㄴ 성공 을 ,POS
+ㄴ 성과 ,POS
+ㄴ 성과 를 ,POS
+ㄴ 성과물 ,POS
+ㄴ 세계 ,COMP
+ㄴ 세계 화 ,COMP
+ㄴ 셈 ,NEUT
+ㄴ 셈 이 ,NEUT
+ㄴ 셈 ,NEG
+ㄴ 셈 이 ,NEG
+ㄴ 소감 ,POS
+ㄴ 소리 ,NEG
+ㄴ 수준 ,NEG
+ㄴ 수직 ,NEUT
+ㄴ 수직 성 ,NEUT
+ㄴ 숨소리 ,POS
+ㄴ 시멘트 ,NEG
+ㄴ 시멘트 덩어리 ,NEG
+ㄴ 시절 ,NEG
+ㄴ 시절 부터 ,NEG
+ㄴ 실현 ,POS
+ㄴ 심회 ,NEG
+ㄴ 심회 가 ,NEG
+ㄴ 아들 ,NEG
+ㄴ 아들 도 ,NEG
+ㄴ 아름답 ,POS
+ㄴ 아름답 ㅁ ,POS
+ㄴ 아침 ,POS
+ㄴ 아침 공기 ,POS
+ㄴ 애정 ,POS
+ㄴ 애정 이 ,POS
+ㄴ 약골 ,NEG
+ㄴ 언로 ,POS
+ㄴ 얼굴 ,POS
+ㄴ 얼굴 뒤 ,POS
+ㄴ 에너지 ,POS
+ㄴ 여기 ,NEG
+ㄴ 여기 ㄴ ,NEG
+ㄴ 여자 ,NEG
+ㄴ 여자 는 ,NEG
+ㄴ 연기 ,POS
+ㄴ 영감 ,POS
+ㄴ 영감 의 ,POS
+ㄴ 영화 ,POS
+ㄴ 영화 를 ,POS
+ㄴ 왕성 ,POS
+ㄴ 왕성 하 ,POS
+ㄴ 요지경 ,NEG
+ㄴ 요지경 의 ,NEG
+ㄴ 욕심 ,NEG
+ㄴ 욕심 쟁이 ,NEG
+ㄴ 우리 ,NEG
+ㄴ 우리 들 ,NEG
+ㄴ 위기 ,NEG
+ㄴ 위기 의식 ,NEG
+ㄴ 위치 ,POS
+ㄴ 위치 를 ,POS
+ㄴ 유동 ,POS
+ㄴ 유동 고객 ,POS
+ㄴ 유리 ,NEG
+ㄴ 유리 눈 ,NEG
+ㄴ 음악 ,NEG
+ㄴ 음악 과 ,POS
+ㄴ 음악 은 ,NEG
+ㄴ 의미 ,None
+ㄴ 의미 에서 ,None
+ㄴ 의존 ,POS
+ㄴ 의존 성 ,POS
+ㄴ 의혹 ,NEG
+ㄴ 이런 ,POS
+ㄴ 이런 깨우치 ,POS
+ㄴ 이야기 ,POS
+ㄴ 이유 ,NEG
+ㄴ 이유 이 ,NEG
+ㄴ 인기 ,POS
+ㄴ 인기 를 ,POS
+ㄴ 일 ,NEG
+ㄴ 일 이 ,NEG
+ㄴ 일 이 ,NEG
+ㄴ 일 이 ,NEG
+ㄴ 일직선 ,NEG
+ㄴ 일직선 시멘트 ,NEG
+ㄴ 자 ,NEG
+ㄴ 자 들 ,NEG
+ㄴ 자아 ,POS
+ㄴ 자아 와 ,POS
+ㄴ 작가 ,POS
+ㄴ 작가 이 ,POS
+ㄴ 작품 ,POS
+ㄴ 작품 은 ,POS
+ㄴ 잔치 ,POS
+ㄴ 재산 ,NEG
+ㄴ 재산 피해 ,NEG
+ㄴ 재주 ,NEG
+ㄴ 재주 꾼 ,NEG
+ㄴ 적 ,NEG
+ㄴ 적 이 ,NEG
+ㄴ 전쟁 ,NEG
+ㄴ 전쟁 범죄 ,NEG
+ㄴ 전제 ,POS
+ㄴ 전제 조건 ,POS
+ㄴ 전화 ,POS
+ㄴ 전화 번호 ,POS
+ㄴ 절대 ,POS
+ㄴ 절대 정숙 ,POS
+ㄴ 절망 ,POS
+ㄴ 젊음 ,POS
+ㄴ 젊음 의 ,POS
+ㄴ 점 ,NEUT
+ㄴ 점 을 ,NEUT
+ㄴ 정책 ,NEG
+ㄴ 정책 의 ,NEG
+ㄴ 제품 ,NEUT
+ㄴ 제품 의 ,NEUT
+ㄴ 제품 이 ,POS
+ㄴ 조치 ,POS
+ㄴ 주문 ,POS
+ㄴ 주문 이 ,POS
+ㄴ 줄 ,NEG
+ㄴ 줄 알 ,NEG
+ㄴ 즐거움 ,POS
+ㄴ 지금 ,NEG
+ㄴ 진단 ,POS
+ㄴ 진단 을 ,POS
+ㄴ 진실 ,POS
+ㄴ 진실 하 ,POS
+ㄴ 질문 ,NEUT
+ㄴ 질문 들 ,NEUT
+ㄴ 집 ,NEG
+ㄴ 집 도 ,NEG
+ㄴ 짓 ,NEG
+ㄴ 짓 이 ,NEG
+ㄴ 창작곡 ,POS
+ㄴ 창작곡 중심 ,POS
+ㄴ 채 ,NEG
+ㄴ 채 그대로 ,NEG
+ㄴ 채 줄 ,NEG
+ㄴ 책 ,POS
+ㄴ 책 을 ,POS
+ㄴ 처지 ,NEG
+ㄴ 처지 에 ,NEG
+ㄴ 처지 이 ,NEG
+ㄴ 천사 ,POS
+ㄴ 천진 ,POS
+ㄴ 천진 하 ,POS
+ㄴ 체 ,NEG
+ㄴ 최후 ,NEG
+ㄴ 최후 를 ,NEG
+ㄴ 침략 ,NEG
+ㄴ 침략 도 ,NEG
+ㄴ 침략 행위 ,NEG
+ㄴ 칭찬 ,NEG
+ㄴ 키히카 ,NEG
+ㄴ 키히카 를 ,NEG
+ㄴ 탓 ,None
+ㄴ 탓 이 ,None
+ㄴ 태도 ,POS
+ㄴ 태도 가 ,POS
+ㄴ 토론 ,COMP
+ㄴ 통찰력 ,POS
+ㄴ 통찰력 으로 ,POS
+ㄴ 특징 ,POS
+ㄴ 편 ,NEUT
+ㄴ 편 이 ,NEUT
+ㄴ 편견 ,NEG
+ㄴ 편견 이 ,NEG
+ㄴ 평론가 ,POS
+ㄴ 폭력 ,NEG
+ㄴ 풍물 ,POS
+ㄴ 풍물 이 ,POS
+ㄴ 프로 ,POS
+ㄴ 프로 근성 ,POS
+ㄴ 학생 ,NEG
+ㄴ 학생 운동 ,NEG
+ㄴ 학술 ,POS
+ㄴ 학술 적 ,POS
+ㄴ 한 ,NEG
+ㄴ 한 소녀 ,POS
+ㄴ 한 철 ,NEG
+ㄴ 한 ,POS
+ㄴ 한 가장 ,POS
+ㄴ 한국 ,POS
+ㄴ 한국 의 ,POS
+ㄴ 해 ,NEUT
+ㄴ 해 만 ,NEUT
+ㄴ 해결 ,POS
+ㄴ 햇살 ,POS
+ㄴ 현실 ,NEG
+ㄴ 현실 에 ,NEG
+ㄴ 형식 ,POS
+ㄴ 형태 ,NEG
+ㄴ 형태 의 ,NEG
+ㄴ 환상 ,POS
+ㄴ 후 ,NEG
+ㄴ 후 새롭 ,NEG
+ㄴ 힘 ,POS
+ㄴ 힘 이 ,POS
+ㄴ ,NEG
+ㄴ 곧 ,NEG
+ㄴ 곧 파멸 ,NEG
+ㄴ 관심 ,NEG
+ㄴ 관심 이 ,NEG
+ㄴ 근절 ,POS
+ㄴ 근절 되 ,POS
+ㄴ 누구 ,NEG
+ㄴ 누구 도 ,NEG
+ㄴ 다시 ,NEG
+ㄴ 다시 처음 ,NEG
+ㄴ 더 ,POS
+ㄴ 더 미치 ,POS
+ㄴ 말 ,NEG
+ㄴ 말 하 ,NEG
+ㄴ 무엇 ,COMP
+ㄴ 무엇 을 ,COMP
+ㄴ 미치 ,NEG
+ㄴ 미치 ㄴ ,NEG
+ㄴ 바람직 ,NEG
+ㄴ 바람직 하 ,NEG
+ㄴ 사랑 ,NEUT
+ㄴ 사랑 이 ,NEUT
+ㄴ 수퍼 ,POS
+ㄴ 수퍼 초 ,POS
+ㄴ 않 ,COMP
+ㄴ 않 았 ,POS
+ㄴ 않 을까 ,COMP
+ㄴ 어디 ,COMP
+ㄴ 어디 에 ,COMP
+ㄴ 이제 ,NEG
+ㄴ 이제 아무 ,NEG
+ㄴ 입술 ,POS
+ㄴ 입술 이 ,POS
+ㄴ 절대 ,NEG
+ㄴ 절대 없 ,NEG
+ㄴ 젊 ,POS
+ㄴ 젊 은 ,POS
+ㄴ 진정 ,POS
+ㄴ 진정 나 ,POS
+ㄴ 하 ,None
+ㄴ 하 ㄴ데 ,None
+ㄴ가 ,None
+ㄴ가 거리 ,NEG
+ㄴ가 거리 를 ,NEG
+ㄴ가 하 ,NEG
+ㄴ가 하 는 ,NEG
+ㄴ가 하 면 ,None
+ㄴ가 ,None
+ㄴ다* ,POS
+ㄴ다 ,NEUT
+ㄴ다 는 ,None
+ㄴ다 는 것 ,None
+ㄴ다 든지 ,NEUT
+ㄴ다 든지 머리 ,NEUT
+ㄴ다 ,POS
+ㄴ다고 ,NEG
+ㄴ다고 생각 ,POS
+ㄴ다고 생각 하 ,POS
+ㄴ다고 용인 ,NEG
+ㄴ다고 용인 되 ,NEG
+ㄴ다고 주장 ,POS
+ㄴ다고 주장 하 ,POS
+ㄴ다고 지적 ,NEUT
+ㄴ다고 지적 하 ,NEUT
+ㄴ다고 하 ,None
+ㄴ다고 하 아서 ,None
+ㄴ다는 ,NEG
+ㄴ다는 것 ,NEG
+ㄴ다는 것 을 ,POS
+ㄴ다는 것 이 ,NEG
+ㄴ다는 것 이 ,NEG
+ㄴ다는 결론 ,NEG
+ㄴ다는 깨닫 ,POS
+ㄴ다는 깨닫 으면 ,POS
+ㄴ다는 느낌 ,POS
+ㄴ다는 느낌 은 ,POS
+ㄴ다는 불안감 ,NEG
+ㄴ다는 불안감 때문 ,NEG
+ㄴ다며 ,POS
+ㄴ다면 ,None
+ㄴ다면 ,None
+ㄴ다지만 ,None
+ㄴ답니다 ,POS
+ㄴ데 ,None
+ㄴ데 도 ,None
+ㄴ데 ,None
+ㄴ들 ,POS
+ㄴ들 뚫 ,POS
+ㄴ들 뚫 고 ,POS
+ㄴ듯 ,None
+ㄴ듯 기 ,POS
+ㄴ듯 기 가 ,POS
+ㄴ듯 하 ,None
+ㄴ지 ,None
+ㄴ지 도 ,None
+ㄴ지 도 모르 ,None
+ㄴ지 알 ,NEG
+ㄴ지 알 시 ,NEG
+ㄴ지 이해 ,NEG
+ㄴ지 이해 는 ,NEG
+나* ,NEG
+나* 는 ,NEG
+나* 는 내 ,NEG
+나 ,NEG
+나 고민 ,NEG
+나 고민 하 ,NEG
+나 ,POS
+나 고액 ,POS
+나 고액 과외 ,POS
+나 석가모니 ,NEUT
+나 석가모니 는 ,NEUT
+나 제도 ,POS
+나 ,None
+나 차이 ,NEG
+나 차이 가 ,NEG
+나 하 ,POS
+나 하 는 ,POS
+나 하 ㄹ ,POS
+나 ,NEG
+나 는 ,NEG
+나 는 어디 ,NEG
+나 ,NEG
+나 ㄴ ,POS
+나 ㄴ 더 ,POS
+나 ㄴ 수퍼 ,POS
+나 ㄴ 이제 ,NEG
+나 는 ,NEG
+나 는 그 ,NEG
+나 는 남산 ,POS
+나 는 비슷 ,NEG
+나 는 살림 ,NEG
+나 는 이 ,NEG
+나 는 자라 ,NEG
+나 는 한문학 ,NEG
+나 들 ,POS
+나 를 ,NEG
+나 를 다 ,POS
+나 를 옹호 ,NEG
+나 에게 ,COMP
+나 에게 현실 ,COMP
+나 의 ,NEG
+나 의 결심 ,NEG
+나 의 껍질 ,NEG
+나 의 마음 ,POS
+나 의 손 ,POS
+나 의 피 ,NEG
+나 의 형제 ,POS
+나 ,POS
+나 게 ,POS
+나 기 ,POS
+나 기 도 ,POS
+나 ㄴ ,NEG
+나 ㄴ 것 ,NEG
+나 ,POS
+나 니까 ,POS
+나 니까 오히려 ,POS
+나가 ,POS
+나가 고 ,NEUT
+나가 는 ,NEG
+나가 는 것 ,NEG
+나가 ㄹ게요 ,POS
+나가 지 ,POS
+나가 지 못하 ,POS
+나가 ,NEG
+나가 는 ,NEG
+나가 는 그림 ,NEG
+나귀 ,NEG
+나귀 도 ,NEG
+나귀 도 성지 ,NEG
+나누 ,POS
+나누 어 ,POS
+나누 어 오 ,POS
+나돌 ,NEG
+나라 ,NEG
+나라 를 ,NEG
+나라 를 들썩거리 ,NEG
+나라 의 ,NEG
+나라 의 시간 ,NEG
+나라 의 자동차 ,POS
+나라 체면 ,POS
+나름 ,POS
+나름 대로 ,POS
+나름 대로 개성 ,POS
+나름 대로 정리 ,POS
+나름 대로 제대로 ,POS
+나무 ,NEG
+나무 무늬 ,NEG
+나무 무늬 로 ,NEG
+나무 와 ,POS
+나무 와 채소 ,POS
+나무라 ,NEG
+나비 ,NEUT
+나비 가 ,NEUT
+나비 가 되 ,NEUT
+나비 와 ,NEUT
+나비 와 뭇 ,NEUT
+나비 의 ,NEG
+나비 의 길이 ,NEG
+나비 이 ,NEUT
+나비 이 ㄴ ,NEUT
+나쁘 ,NEG
+나서 ,POS
+나서 기 ,POS
+나서 기 로 ,POS
+나서 지 ,NEG
+나서 지 않 ,NEG
+나아가 ,None
+나아가 지 ,POS
+나아가 지 않 ,POS
+나약 ,POS
+나약 하 ,POS
+나약 하 ㄴ ,POS
+나오 ,POS
+나오 기 ,NEG
+나오 기 힘들 ,NEG
+나오 면 ,NEG
+나오 면 고개 ,NEG
+나오 면 마음껏 ,POS
+나오 아 ,POS
+나오 아 우리말 ,POS
+나오 아야 ,POS
+나오 아야 하 ,POS
+나요 ,NEG
+나이 ,COMP
+나이 를 ,POS
+나이 를 되찾 ,POS
+나이 먹 ,POS
+나이 먹 는다 ,POS
+나이 서른 ,COMP
+나이 서른 에 ,COMP
+나이 의 ,NEG
+나이 의 사람 ,NEG
+나중 ,POS
+나중 에 ,POS
+나중 에 현악 ,POS
+나타나 ,POS
+나타내 ,NEG
+낙천 ,COMP
+낙천 적 ,COMP
+낙후 ,NEG
+난리 ,NEG
+난리 이 ,NEG
+난리 이 다 ,NEG
+난투극 ,NEG
+난해 ,NEG
+난해 하 ,NEG
+날 ,COMP
+날 의 ,COMP
+날 의 높 ,COMP
+날 이 ,NEG
+날 이 없 ,NEG
+날씬 ,POS
+날씬 하 ,POS
+날카롭 ,POS
+남 ,NEG
+남 과 ,POS
+남 과 달리 ,POS
+남 에게 ,NEG
+남 에게 ㄴ ,NEG
+남 에게 의심 ,NEG
+남 이 ,NEG
+남 이 흉내 ,NEG
+남 ,NEG
+남 게 ,NEG
+남 게 되 ,NEG
+남 아 ,NEG
+남 아 있 ,NEG
+남 았 ,NEG
+남녀 ,POS
+남녀 평등 ,POS
+남미 ,POS
+남미 풍 ,POS
+남미 풍 의 ,POS
+남발 ,NEG
+남발 하 ,NEG
+남방 ,NEUT
+남방 교류설 ,NEUT
+남산 ,POS
+남산 으로 ,POS
+남산 으로 피서 ,POS
+남성 ,POS
+남성 의 ,POS
+남자 ,NEG
+남자 도 ,NEG
+남자 도 거세 ,NEG
+남자 도 결혼 ,NEG
+남자 사원 ,NEG
+남자 사원 에 ,NEG
+남쪽 ,NEUT
+남쪽 으로 ,NEUT
+남쪽 으로 가 ,NEUT
+남편 ,NEG
+남편 수입 ,POS
+남편 수입 관계 ,POS
+남편 은 ,NEG
+남편 은 떠나 ,NEG
+남편 이 ,NEG
+남편 이 ㄴ ,NEG
+남편 하고* ,NEG
+남한 ,POS
+남한 은 ,POS
+남한 은 북한 ,POS
+납득 ,NEG
+납득 하 ,NEG
+납득 하 기 ,NEG
+낫 ,POS
+낫 은 ,POS
+낫 은 편 ,POS
+낭랑 ,POS
+낭랑 하 ,POS
+낮 ,NEG
+낮추 ,NEG
+낮추 는 ,NEG
+낮추 는 크 ,NEG
+낯익 ,POS
+낳 ,NEG
+낳 았 ,NEG
+낳 았 지 ,NEG
+내* ,NEG
+내* 게* ,NEG
+내* 게* 미치 ,NEG
+내 ,NEG
+내 가 ,NEG
+내 가 그 ,NEG
+내 가 꿈 ,NEUT
+내 가 보 ,NEUT
+내 가 속하 ,NEG
+내 가 장주 ,NEUT
+내 가 죽 ,NEG
+내 ,NEG
+내 기 ,NEG
+내 기 쉽 ,NEG
+내 기 어렵 ,POS
+내 는 ,POS
+내 는 호박고지 ,POS
+내 ,POS
+내 는 ,NEG
+내 는 방법 ,NEG
+내 는 한 ,POS
+내걸 ,POS
+내내 ,NEG
+내내 제자리 ,NEG
+내내 제자리 를 ,NEG
+내년 ,POS
+내년 한국 ,POS
+내년 한국 진출 ,POS
+내놓 ,POS
+내놓 는 ,NEG
+내놓 는 분 ,NEG
+내놓 으라고 ,POS
+내놓 으라고 등산인 ,POS
+내다보이 ,NEG
+내려오 ,POS
+내려오 ㄴ ,POS
+내려오 ㄴ 천사 ,POS
+내리 ,None
+내리 ,NEG
+내맘 ,POS
+내맘 이 ,POS
+내맘 이 쏴아아 ,POS
+내면 ,COMP
+내면 의식 ,COMP
+내밀 ,NEG
+내밀 어 ,NEG
+내밀 어 입술 ,NEG
+내버리 ,NEG
+내부 ,NEG
+내부 를 ,NEG
+내부 를 찢 ,NEG
+내성 ,POS
+내성 을 ,POS
+내성 을 키우 ,POS
+내세우 ,POS
+내실 ,POS
+내실 있 ,POS
+내용 ,POS
+내용 들 ,POS
+내용 들 이 ,POS
+내용 이 ,NEG
+내용 이 많 ,NEG
+내용 이 충실 ,POS
+내용물 ,POS
+내용물 이 ,POS
+내용물 이 쉽 ,POS
+내일 ,NEG
+내일 역사 ,NEG
+내지 ,None
+내치 ,None
+내치 ㄴ ,None
+내치 ㄴ 김 ,None
+내포 ,NEG
+내포 하 ,NEG
+냄새 ,NEG
+냉소 ,NEG
+냉소 적 ,NEG
+냉소 적 이 ,NEG
+냉정 ,NEG
+냉정 하 ,NEG
+냉정 하 ㄴ ,NEG
+냐 ,POS
+냐는 ,NEG
+냐는 말 ,NEG
+냐는 말 이 ,NEG
+너무 ,NEG
+너무 듣 ,NEG
+너무 듣 었 ,NEG
+너무 많 ,NEG
+너무 많 아 ,NEG
+너무 소극적 ,NEG
+너무 소극적 이 ,NEG
+너무 애닯 ,COMP
+너무 어렵 ,NEG
+너무 진실 ,POS
+너무 진실 하 ,POS
+너무 푼수 ,NEG
+너무 푼수 기 ,NEG
+너무나 ,NEG
+너무나 당연 ,NEUT
+너무나 당연 하 ,NEUT
+너무나 도 ,NEG
+너무나 도 엉터리 ,NEG
+너무나 말 ,NEG
+너무나 말 이 ,NEG
+너무나 분명 ,NEG
+너무나 분명 하 ,NEG
+너희 ,NEG
+너희 들 ,NEG
+너희 들 의 ,POS
+너희 들 이 ,NEG
+널리 ,POS
+널리 알리 ,POS
+널리 알리 어 ,POS
+넓 ,POS
+넓 어 ,POS
+넓 어 지 ,POS
+넓 은 ,POS
+넓 은 공감대 ,POS
+넘 ,NEG
+넘 습니다 ,NEG
+넘기 ,POS
+넘기 고 ,POS
+넘기 고 나 ,POS
+넘어서 ,POS
+넘어서 었 ,POS
+넘어서 었 고 ,POS
+넘어서 었 습니다 ,POS
+넘치 ,POS
+넣 ,NEG
+넣 어 ,NEG
+넣 어 놓 ,NEG
+네 ,NEG
+네 ,NEG
+네 ,POS
+네 가 ,POS
+네 가 태익 ,POS
+네요 ,NEG
+년 ,NEG
+년 년 ,NEG
+년 년 하 ,NEG
+년 사용 ,NEUT
+년 사용 하 ,NEUT
+년 어느 ,NEG
+년 어느 한 ,NEG
+년 에 ,POS
+년 에 한 ,POS
+년 을 ,POS
+년 을 나름 ,POS
+년 이 ,NEG
+년 이 흐르 ,NEG
+년 이상 ,NEG
+년 이상 뒤떨어지 ,NEG
+년 정도 ,NEG
+년 정도 늦 ,NEG
+년 째 ,POS
+년 째 흥행 ,POS
+년 하 ,NEG
+년 하 도록 ,NEG
+년대 ,POS
+년대 적 ,POS
+년대 적 경직 ,POS
+노골 ,NEG
+노골 적 ,NEG
+노동 ,NEG
+노동 에 ,NEG
+노동 에 시달리 ,NEG
+노동자 ,NEG
+노동자 가 ,POS
+노동자 가 줄 ,POS
+노동자 이 ,NEG
+노동자 이 ㄴ ,NEG
+노래 ,POS
+노래 를 ,NEUT
+노래 를 부르 ,NEUT
+노래 연습 ,POS
+노래 연습 하 ,POS
+노래 하 ,NEG
+노려보 ,NEG
+노려보 고 ,NEG
+노려보 고 있 ,NEG
+노력 ,POS
+노력 을 ,POS
+노력 을 하 ,POS
+노력 이 ,POS
+노력 이 있 ,POS
+노면 ,NEG
+노면 에 ,NEG
+노면 에 정지선 ,NEG
+노안 ,POS
+노예 ,NEG
+노예 가 ,NEG
+노예 가 되 ,NEG
+노을 ,POS
+녹 ,POS
+녹 아 ,POS
+녹 아 있 ,POS
+녹슬 ,NEG
+녹아내리 ,POS
+녹음 ,POS
+녹음 하 ,POS
+논란 ,NEG
+논란 을 ,NEG
+논란 을 일으키 ,NEG
+논란 이 ,NEG
+논란 이 있 ,NEG
+논란 한창 ,NEG
+논리 ,NEG
+논리 가 ,NEG
+논리 가 맞 ,NEG
+논의 ,POS
+논의 활발 ,POS
+논쟁점 ,POS
+논쟁점 을 ,POS
+논쟁점 을 넘어서 ,POS
+논점 ,COMP
+논점 이 ,COMP
+논점 이 되 ,COMP
+논하 ,NEUT
+놀라 ,NEUT
+놀랍 ,NEG
+놀랍 게 ,None
+놀랍 게 도 ,None
+놀랍 ㄴ ,NEG
+놀랍 ㄴ 일 ,NEG
+놀랍 ㄴ 통찰력 ,POS
+놈 ,NEG
+놈 들 ,NEG
+놈 들 을 ,NEG
+농법 ,POS
+농법 을 ,POS
+농법 을 개선 ,POS
+농사 ,POS
+농사 에 ,POS
+농사 에 적격 ,POS
+농업 ,NEG
+농업 의 ,NEG
+농업 의 지배 ,NEG
+농촌 ,NEG
+높 ,POS
+높 게 ,NEG
+높 게 경고 ,NEG
+높 아 ,POS
+높 아 지 ,POS
+높 은 ,NEG
+높 은 것 ,NEG
+높 은 경지 ,NEG
+높 은 꿈 ,COMP
+높 은 벽 ,NEG
+높 은 사람 ,NEG
+높 은 인기 ,POS
+높 은 호감 ,POS
+높 지 ,NEG
+높 지 않 ,NEG
+높 지요 ,POS
+높이 ,POS
+높이 들 ,POS
+높이 평가 ,POS
+높이 평가 하 ,POS
+높이 ,POS
+높이 기 ,POS
+높이 기 를 ,POS
+놓 ,NEG
+놓 고 ,NEG
+놓 고 공연 ,NEG
+놓 ,POS
+놓 고 ,NEG
+놓 고 있 ,POS
+놓 고 휴식 ,NEG
+놓 아야 ,NEUT
+놓 아야 겠 ,NEUT
+놓 았 ,NEG
+놓 았 네 ,NEG
+놓 을 ,POS
+놓 을 수 ,POS
+놓치 ,NEG
+뇌 ,NEUT
+뇌 신경 ,NEUT
+뇌 신경 계통 ,NEUT
+뇌 출혈 ,NEUT
+뇌 출혈 의 ,NEUT
+누구 ,NEG
+누구 도 ,NEG
+누구 도 사랑 ,NEG
+누리 ,POS
+누설 ,NEG
+누설 하 ,NEG
+누아르 ,POS
+누아르 의 ,POS
+누아르 의 정서 ,POS
+눈 ,POS
+눈 에 ,POS
+눈 에 들어오 ,POS
+눈 에 띄 ,POS
+눈 에 엿보 ,POS
+눈 에 잡히 ,POS
+눈 오 ,POS
+눈 오 ㄴ ,POS
+눈 으로 ,COMP
+눈 으로 밤 ,COMP
+눈 을 ,NEG
+눈 을 돌리 ,NEG
+눈 이 ,NEG
+눈 이 동 ,NEG
+눈 이 우리 ,NEG
+눈길 ,POS
+눈길 가* ,POS
+눈길 을 ,POS
+눈길 을 끌 ,POS
+눈길 을 모으 ,POS
+눈물 ,NEG
+눈물 이 ,NEG
+눈물 이 고이 ,NEG
+눈물 이 흐르 ,NEG
+눈부시 ,POS
+눈부시 게 ,POS
+눈부시 게 아름답 ,POS
+눈여겨보 ,POS
+눈치 ,NEG
+눈치 들 ,NEG
+눈치 만 ,NEG
+눈치 만 보 ,NEG
+뉴스 ,POS
+뉴스 를 ,POS
+뉴스 를 나 ,POS
+느끼 ,POS
+느끼 ㄴ ,POS
+느끼 ㄴ 그대로 ,POS
+느끼 ㄹ ,POS
+느끼 ㄹ 수 ,POS
+느끼 어 ,POS
+느끼 어 지 ,POS
+느끼 지 ,NEG
+느끼 지 못하 ,NEG
+느낌 ,POS
+느낌 그대로 ,POS
+느낌 에 ,NEG
+느낌 에 궁중 ,NEG
+느낌 에 따르 ,POS
+느낌 은 ,POS
+느낌 은 들 ,POS
+느낌 이나 ,POS
+느낌 이나 생각 ,POS
+느냐 ,None
+느냐고 ,NEG
+느냐고 못 ,NEG
+느냐고 못 내놓 ,NEG
+느냐고 스스로 ,POS
+느냐고 스스로 를 ,POS
+느라 ,NEG
+느라 딸 ,NEG
+느라 딸 의 ,NEG
+는* ,NEG
+는* 모습 ,NEG
+는* 모습 한 ,NEG
+는 ,NEG
+는 가장 ,NEG
+는 가장 크 ,NEG
+는 강물 ,NEG
+는 강물 위 ,NEG
+는 걸림돌 ,NEG
+는 것 ,NEG
+는 것 같 ,NEG
+는 것 과 ,NEG
+는 것 ㄴ ,NEG
+는 것 도 ,NEG
+는 것 때문 ,NEG
+는 것 만 ,POS
+는 것 보다 ,POS
+는 것 은 ,NEG
+는 것 을 ,NEG
+는 것 이 ,POS
+는 것 이 ,POS
+는 것 이 ,None
+는 결여 ,NEG
+는 결여 의 ,NEG
+는 경우 ,NEG
+는 경우 가 ,NEG
+는 고도 ,COMP
+는 고도 를 ,COMP
+는 곳 ,NEG
+는 곳 에서 ,POS
+는 곳 이 ,NEG
+는 교수 ,POS
+는 구태 ,NEG
+는 구태 를 ,NEG
+는 국내 ,POS
+는 국내 이벤트 ,POS
+는 군도 ,NEG
+는 군도 이 ,NEG
+는 그림 ,NEG
+는 그림 들 ,NEG
+는 그분 ,NEG
+는 그분 께 ,NEG
+는 기회 ,POS
+는 기회 가 ,POS
+는 까닭 ,POS
+는 꿀 ,NEG
+는 꿀 혼자 ,NEG
+는 남성 ,POS
+는 눈치 ,NEG
+는 눈치 들 ,NEG
+는 대학 ,NEG
+는 대학 생 ,NEG
+는 데 ,POS
+는 데 도 ,POS
+는 데 적당 ,POS
+는 데 필요 ,POS
+는 동물 ,NEUT
+는 동물 을 ,NEUT
+는 동안 ,POS
+는 동안 오른 ,POS
+는 듯 ,NEG
+는 듯 하 ,NEG
+는 등 ,NEUT
+는 등 디테일 ,NEUT
+는 레크리에이션 ,POS
+는 레크리에이션 이벤트 ,POS
+는 마음 ,POS
+는 마음 을 ,POS
+는 만큼 ,None
+는 말 ,POS
+는 모든 ,POS
+는 모든 아이 ,POS
+는 몸 ,NEG
+는 무극 ,POS
+는 무극 같 ,POS
+는 문 ,NEUT
+는 문 들 ,NEUT
+는 물건 ,POS
+는 물건 은 ,POS
+는 미화원 ,POS
+는 미화원 이 ,POS
+는 바람 ,None
+는 바람 에 ,None
+는 발언 ,COMP
+는 방법 ,NEG
+는 방법 을 ,NEG
+는 배타 ,NEG
+는 배타 적 ,NEG
+는 버팀목 ,POS
+는 버팀목 이 ,POS
+는 별빛 ,POS
+는 별빛 이 ,POS
+는 부모 ,NEG
+는 분 ,NEG
+는 분 들 ,NEG
+는 분 이 ,POS
+는 사람 ,NEG
+는 사람 은 ,NEG
+는 사람 이 ,NEG
+는 사슬 ,POS
+는 사슬 도 ,POS
+는 상황 ,NEG
+는 생각 ,NEUT
+는 생각 에서 ,POS
+는 셈 ,None
+는 셈 이 ,None
+는 소위 ,NEG
+는 소위 발전 ,NEG
+는 습관 ,NEG
+는 시기 ,NEG
+는 시기 가 ,NEG
+는 시약 ,NEG
+는 시약 을 ,NEG
+는 양상 ,NEG
+는 양상 을 ,NEG
+는 어린이 ,NEUT
+는 어린이 들 ,NEUT
+는 연극 ,POS
+는 옛 ,POS
+는 옛 말씀 ,POS
+는 오늘날 ,COMP
+는 오늘날 거대 ,COMP
+는 우리 ,POS
+는 우리 삶 ,POS
+는 위기감 ,NEG
+는 위기감 에 ,NEG
+는 의구심 ,NEG
+는 의구심 도 ,NEG
+는 이한탁 ,POS
+는 이한탁 씨 ,POS
+는 인생 ,NEG
+는 인생 은 ,NEG
+는 일 ,POS
+는 일 아니 ,POS
+는 일 이 ,POS
+는 일 이 ,None
+는 적막 ,NEG
+는 적막 에서 ,NEG
+는 주방 ,NEUT
+는 증상 ,NEG
+는 증상 은 ,NEG
+는 징후 ,NEG
+는 쪽 ,NEG
+는 쪽 으로 ,NEG
+는 책 ,POS
+는 책 으로 ,POS
+는 책 이 ,NEG
+는 척 ,NEG
+는 척 하 ,NEG
+는 철이 ,NEG
+는 철이 를 ,NEG
+는 초미 ,COMP
+는 초미 의 ,COMP
+는 크 ,NEG
+는 크 ㄴ ,NEG
+는 터번 ,POS
+는 터번 은 ,POS
+는 통로 ,POS
+는 통로 이 ,POS
+는 한 ,POS
+는 한 요인 ,POS
+는 한 ,None
+는 한편 ,None
+는 행동 ,NEG
+는 행동 만 ,NEG
+는 형편 ,NEG
+는 형편 이 ,NEG
+는 호박고지 ,POS
+는 호박고지 떡 ,POS
+는 호전 ,NEG
+는 호전 적 ,NEG
+는 환상 ,POS
+는 환상 적 ,POS
+는 힘 ,POS
+는 ,NEG
+는 가 ,NEG
+는 가 ㄹ ,NEG
+는 가장 ,POS
+는 가장 널리 ,POS
+는 결혼 ,NEUT
+는 결혼 전 ,NEUT
+는 그 ,NEG
+는 그 에게 ,NEG
+는 깎아지르 ,NEG
+는 깎아지르 ㄴ ,NEG
+는 남산 ,POS
+는 남산 으로 ,POS
+는 남편 ,NEG
+는 남편 이 ,NEG
+는 내 ,NEG
+는 내 가 ,NEG
+는 뇌 ,NEUT
+는 뇌 출혈 ,NEUT
+는 능숙 ,POS
+는 능숙 하 ,POS
+는 말 ,NEG
+는 말 은 ,NEG
+는 못하 ,NEG
+는 못하 ㄴ다 ,NEG
+는 별반 ,POS
+는 별반 달라지 ,POS
+는 비슷 ,NEG
+는 비슷 하 ,NEG
+는 사람 ,NEG
+는 사람 들 ,NEG
+는 살 ,POS
+는 살 아 ,POS
+는 살림 ,NEG
+는 살림 꾼 ,NEG
+는 습기 ,POS
+는 습기 가 ,POS
+는 신 ,NEUT
+는 신 제품 ,NEUT
+는 아직 ,NEG
+는 아직 자리 ,NEG
+는 안 ,NEG
+는 안 되 ,NEG
+는 않 ,NEG
+는 않 겠 ,NEG
+는 어디 ,NEG
+는 어디 로 ,NEG
+는 어떤 ,NEG
+는 어떤 남자 ,NEG
+는 어떤 여자 ,NEG
+는 어리 ,NEG
+는 어리 ㄴ ,NEG
+는 얼핏 ,POS
+는 얼핏 희망 ,POS
+는 없 ,NEG
+는 없 나요 ,NEG
+는 없 으나 ,POS
+는 욕망 ,NEG
+는 욕망 을 ,NEG
+는 유일 ,POS
+는 유일 하 ,POS
+는 이 ,NEG
+는 이 시집 ,NEG
+는 이미 ,POS
+는 이미 동료 ,POS
+는 이전 ,POS
+는 이전 부터 ,POS
+는 자라 ,NEG
+는 자라 았 ,NEG
+는 잘 ,NEG
+는 잘 못* ,NEG
+는 저지르 ,POS
+는 저지르 어라 ,POS
+는 제치 ,POS
+는 제치 어 ,POS
+는 종교인 ,NEUT
+는 종교인 이 ,NEUT
+는 처음 ,POS
+는 처음 으로 ,POS
+는 치유 ,POS
+는 치유 를 ,POS
+는 하 ,NEG
+는 하 았 ,NEG
+는 하 ,None
+는 하 지만 ,None
+는 한문학 ,NEG
+는 한문학 을 ,NEG
+는 햇곡식 ,POS
+는 햇곡식 으로 ,POS
+는 혀 ,NEG
+는 혀 내밀 ,NEG
+는 협심증 ,NEUT
+는 호박 ,POS
+는 호박 말리 ,POS
+는가 ,None
+는가 ,None
+는다 ,NEG
+는다 는 ,POS
+는다 는 것 ,POS
+는다 ,POS
+는다는 ,POS
+는다면 ,POS
+는다면 폐렴 ,POS
+는다면 폐렴 으로 ,POS
+는데 ,None
+는데 도 ,None
+는데 배 ,POS
+는데 배 감독 ,POS
+는데 아주 ,POS
+는데 아주 반응 ,POS
+는데 어떤 ,POS
+는데 어떤 어렵 ,POS
+는지 ,None
+는지 도 ,None
+는지 도 모르 ,None
+는지 를 ,POS
+는지 를 알 ,POS
+는지 알 ,NEUT
+는지 알 ㄹ ,NEUT
+는지 여부 ,NEG
+는지 여부 도 ,NEG
+는지 좀 ,POS
+는지 좀 더 ,POS
+늘 ,POS
+늘 고 ,NEG
+늘 고 있 ,NEG
+늘 었 ,POS
+늘 었 으면 ,POS
+늘어나 ,POS
+능력 ,POS
+능력 은 ,POS
+능력 은 있 ,POS
+능숙 ,NEG
+능숙 하 ,NEG
+능숙 하 게 ,NEG
+능욕 ,NEG
+능욕 과 ,NEG
+능욕 과 폭행 ,NEG
+늦 ,NEG
+늦 게 ,NEG
+늦 게 승진 ,NEG
+늦추 ,COMP
+늦추 ㄹ ,COMP
+늦추 ㄹ 수 ,COMP
+늦추 지 ,POS
+늦추 지 않 ,POS
+니 ,None
+니 ,NEG
+니까 ,None
+니까 오히려 ,POS
+니까 오히려 건강 ,POS
+니까 ,NEG
+님 ,NEG
+님 들 ,NEG
+님 들 께 ,NEG
+다* ,POS
+다* 들 ,POS
+다* 들 그러 ,POS
+다 ,NEG
+다 말 ,NEUT
+다 말 고 ,NEUT
+다 못하 ,POS
+다 못하 ,NEG
+다 울 ,COMP
+다 울 다 ,COMP
+다 하 ,NEG
+다 하 아도 ,NEG
+다 ,NEG
+다 ,None
+다 ,POS
+다 과거 ,POS
+다 과거 로 ,POS
+다 그런 ,None
+다 그런 것 ,None
+다 그렇* ,None
+다 그렇* 지만 ,None
+다 바치 ,POS
+다 바치 마 ,POS
+다 하 ,POS
+다가 ,NEG
+다가 꿀통 ,NEG
+다가 꿀통 하나 ,NEG
+다가 는 ,NEG
+다가가 ,POS
+다가가 려고 ,POS
+다가가 려고 하 ,POS
+다가오 ,POS
+다각 ,POS
+다각 적 ,POS
+다각 적 이 ,POS
+다각도 ,POS
+다각도 의 ,POS
+다각도 의 노력 ,POS
+다거나 ,None
+다고 ,NEG
+다고 그러* ,NEG
+다고 그러* 어* ,NEG
+다고 마음먹 ,NEUT
+다고 마음먹 고 ,NEUT
+다고 말 ,NEG
+다고 말 하 ,NEG
+다고 발표 ,NEUT
+다고 발표 하 ,NEUT
+다고 밝히 ,POS
+다고 보* ,NEG
+다고 보* 았 ,NEG
+다고 보 ,POS
+다고 보 ㄹ ,POS
+다고 비판 ,NEG
+다고 비판 하 ,NEG
+다고 생각 ,NEG
+다고 생각 하 ,NEG
+다고 선언 ,POS
+다고 선언 하 ,POS
+다고 여기 ,POS
+다고 지적 ,NEG
+다고 지적 하 ,NEG
+다고 판단 ,NEUT
+다고 판단 되 ,NEUT
+다고 팔 ,NEG
+다고 팔 겠 ,NEG
+다고 하* ,POS
+다고 하* ㄴ다 ,POS
+다고 하 ,None
+다고 하 ㄹ ,None
+다고 ,None
+다는 ,NEG
+다는 감 ,POS
+다는 감 이 ,POS
+다는 것 ,None
+다는 것 이 ,None
+다는 계획 ,POS
+다는 계획 을 ,POS
+다는 꿈 ,POS
+다는 꿈 을 ,POS
+다는 뜻 ,POS
+다는 뜻 이 ,POS
+다는 말 ,NEG
+다는 말 이 ,NEG
+다는 보람 ,POS
+다는 보람 도 ,POS
+다는 생각 ,NEG
+다는 생각 이 ,NEG
+다는 소리 ,NEG
+다는 소리 를 ,NEG
+다는 욕심 ,NEG
+다는 욕심 에서 ,NEG
+다는 점 ,None
+다는 점 이 ,None
+다는 지적 ,NEG
+다는 지적 이 ,NEG
+다는 칭찬 ,NEG
+다는 칭찬 을 ,NEG
+다는데 ,POS
+다는데 작 ,POS
+다는데 작 은 ,POS
+다니 ,NEG
+다르* ,POS
+다르* ㄴ ,POS
+다르* ㄴ 말씀 ,POS
+다르 ,NEG
+다르 게 ,NEUT
+다르 게 뜨겁 ,NEUT
+다르 아 ,POS
+다르 아 지 ,POS
+다르 지 ,NEG
+다르 지 않 ,NEG
+다른 ,POS
+다른 건물 ,NEG
+다른 건물 형식 ,NEG
+다른 곳 ,POS
+다른 곳 에 ,POS
+다른 모습 ,POS
+다른 모습 으로 ,POS
+다른 이름 ,NEG
+다른 이름 이 ,NEG
+다른 재미 ,POS
+다른 재미 로 ,POS
+다리 ,NEG
+다리 를 ,NEG
+다리 를 드러내 ,NEG
+다릿살 ,POS
+다릿살 처럼 ,POS
+다릿살 처럼 부드럽 ,POS
+다만 ,None
+다며 ,NEG
+다면 ,NEG
+다면 자본주의 ,NEG
+다면 자본주의 의 ,NEG
+다소 ,NEG
+다소 황당 ,NEG
+다소 황당 하 ,NEG
+다시 ,POS
+다시 말 ,None
+다시 말 하 ,None
+다시 복습 ,POS
+다시 복습 하 ,POS
+다시 새롭 ,POS
+다시 새롭 게 ,POS
+다시 시작 ,POS
+다시 시작 하 ,POS
+다시 쓰 ,POS
+다시 쓰 ㄹ ,POS
+다시 처음 ,NEG
+다시 처음 으로 ,NEG
+다시 한* ,NEG
+다시 한* 번 ,NEG
+다시금 ,POS
+다시금 절감 ,POS
+다시금 절감 하 ,POS
+다시없 ,NEG
+다양 ,POS
+다양 하 ,POS
+다양 ,POS
+다양 성 ,POS
+다양 성 을 ,POS
+다양 하 ,POS
+다양 하 ㄴ ,POS
+다음 ,NEG
+다음 에 ,NEG
+다음 에 ㄴ ,NEG
+다지 ,POS
+다지 고 ,POS
+다지 고 해외 ,POS
+다지 어 ,POS
+다지 어 지 ,POS
+다짐 ,POS
+다짐 하 ,POS
+다채 ,POS
+다채 롭* ,POS
+다채 롭 ,POS
+다채 롭 게 ,POS
+다치 ,NEG
+다치 ㄹ ,NEG
+다치 ㄹ 위험 ,NEG
+다투 ,POS
+다투 어 ,POS
+다툼 ,NEG
+다툼 과 ,NEG
+다툼 과 고통 ,NEG
+단 MAJ,None
+단 ,None
+단골 ,POS
+단단 ,NEG
+단단 하 ,NEG
+단단 하 ㄴ ,NEG
+단돈 ,POS
+단맛 ,POS
+단맛 을 ,POS
+단맛 을 내 ,POS
+단서 ,COMP
+단순 ,POS
+단순 하 ,POS
+단순 하 ㄴ ,POS
+단순히 ,None
+단언 ,NEG
+단언 하 ,NEG
+단적 ,POS
+단적 으로 ,POS
+단절 ,NEG
+단절 은 ,NEG
+단절 은 골 ,NEG
+단절 하 ,NEG
+단점 ,NEG
+단점 이 ,NEG
+단점 이 있 ,NEG
+단정 ,NEG
+단정 하 ,NEG
+단정 하 기 ,POS
+단정 ,POS
+단정 하 ,POS
+단지 ,NEG
+단지 ,NEG
+단지 에 ,NEG
+단지 에 넣 ,NEG
+단체 ,NEG
+단체 가 ,NEG
+단체 가 아니 ,NEG
+단행 ,POS
+닫 ,NEG
+닫 아 ,NEG
+닫 아 걸 ,NEG
+달 ,POS
+달갑잖 ,NEG
+달구 ,POS
+달구 는 ,POS
+달구 는 무극 ,POS
+달라지 ,POS
+달라지 고 ,POS
+달라지 고 있 ,POS
+달라지 ㄴ ,POS
+달라지 ㄴ 것 ,POS
+달라지 ㄹ ,POS
+달라지 ㄹ 것 ,POS
+달래 ,POS
+달러 ,POS
+달러 에 ,POS
+달러 에 이르 ,POS
+달력 ,NEG
+달력 공장 ,NEG
+달력 공장 공장장 ,NEG
+달리 ,None
+달리 설명 ,None
+달리 설명 이 ,None
+달리 튀 ,POS
+달리 ,POS
+달리 ㄴ ,NEG
+달리 ㄴ 채 ,NEG
+달빛 ,POS
+달빛 에 ,POS
+달빛 에 눈 ,POS
+달인 ,POS
+달하 ,NEG
+닭 ,POS
+담 ,POS
+담 도록 ,NEUT
+담 도록 대사 ,NEUT
+담 을 ,NEG
+담 을 수 ,NEG
+담담히 ,POS
+답 ,POS
+답 ㄴ ,POS
+답 ㄴ 왕성 ,POS
+답니다 ,NEG
+답변 ,POS
+답변 하 ,POS
+답하 ,POS
+당국 ,NEG
+당국 에 ,NEG
+당국 에 밀고 ,NEG
+당당 ,POS
+당당 하 ,POS
+당당 하 게 ,POS
+당면 ,NEG
+당면 쟁점 ,NEG
+당연 ,POS
+당연 하 ,POS
+당연 하 게 ,None
+당연히 ,None
+당연히 그렇 ,POS
+당연히 그렇 게 ,POS
+당하 ,NEG
+당하 ,NEG
+당황 ,NEG
+당황 하 ,NEG
+당황 하 아 ,NEG
+대 ,POS
+대 들 ,POS
+대 들 의 ,POS
+대 를 ,POS
+대 를 넘어서 ,POS
+대 북 ,POS
+대 북 인식 ,POS
+대 위주 ,NEG
+대 위주 로 ,NEG
+대 ,NEG
+대 ㄴ다고 ,NEG
+대 ㄴ다고 용인 ,NEG
+대 ,POS
+대 흥행 ,POS
+대단 ,POS
+대단 하 ,POS
+대단 하 ㄴ ,POS
+대단히 ,NEG
+대단히 바람직 ,NEG
+대단히 바람직 스럽 ,NEG
+대로 ,POS
+대로 개성 ,POS
+대로 개성 있 ,POS
+대로 구경 ,POS
+대로 구경 하 ,POS
+대로 정리 ,POS
+대로 정리 하 ,POS
+대로 제대로 ,POS
+대로 제대로 정착 ,POS
+대로 ,NEG
+대로 나 ,NEG
+대로 나 는 ,NEG
+대립 ,NEG
+대립 되 ,NEG
+대변 ,POS
+대변 하 ,POS
+대비 ,POS
+대비 되 ,POS
+대사 ,NEUT
+대사 부분 ,NEUT
+대사 부분 을 ,NEUT
+대상 ,NEG
+대상 이 ,NEG
+대상 이 되 ,NEG
+대수 ,POS
+대수 가 ,POS
+대신 ,NEG
+대여 ,NEG
+대여 쪽 ,NEG
+대여 쪽 만 ,NEG
+대응 ,POS
+대응 하 ,POS
+대입 ,NEG
+대입 부정 ,NEG
+대작 ,POS
+대조 ,NEUT
+대조 를 ,NEUT
+대조 를 이루 ,NEUT
+대중 ,NEG
+대중 성 ,POS
+대중 화 ,NEG
+대중 화 되 ,NEG
+대지 ,POS
+대지 를 ,POS
+대지 를 상징 ,POS
+대책 ,NEG
+대책 없이 ,NEG
+대폭 ,POS
+대표 ,POS
+대표 적 ,POS
+대표 적 이 ,POS
+대하 ,POS
+대하 ㄴ ,NEG
+대하 ㄴ 도전 ,NEG
+대하 ㄴ 이런 ,POS
+대하 ㄴ 전쟁 ,NEG
+대하 ㄴ 진실 ,POS
+대하 ㄴ 편견 ,NEG
+대하 ㄴ 환상 ,POS
+대하 아 ,POS
+대하 아 관심 ,POS
+대하 아 상의 ,POS
+대하 아 이런저런 ,POS
+대하 아서 ,NEG
+대하 아서 ㄴ ,NEG
+대학 ,NEG
+대학 생 ,NEG
+대학 생 들 ,NEG
+대항 ,NEG
+대항 하 ,NEG
+대형 ,POS
+대형 인기작 ,POS
+더 ,POS
+더 가까이 ,POS
+더 가까이 다가가 ,POS
+더 나아가 ,None
+더 뜻 ,POS
+더 뜻 있 ,POS
+더 많 ,NEG
+더 많 은 ,NEG
+더 많이 ,NEG
+더 많이 하 ,NEG
+더 맞 ,POS
+더 미숙 ,POS
+더 미숙 하 ,POS
+더 미치 ,POS
+더 미치 고 ,POS
+더 비싸 ,NEUT
+더 빨리 ,POS
+더 상세 ,POS
+더 상세 하 ,POS
+더 솔직 ,POS
+더 솔직 하 ,POS
+더 이상 ,NEG
+더 이상 두 ,NEG
+더 이상 보 ,NEG
+더 인간 ,POS
+더 인간 답 ,POS
+더 좋 ,POS
+더 지니 ,POS
+더 지니 게 ,POS
+더 크 ,NEUT
+더 하 ,POS
+더 하 아 ,POS
+더 활짝 ,POS
+더 활짝 열리 ,POS
+더라도 ,None
+더라도 못 ,POS
+더라도 못 갚 ,POS
+더라면 ,NEG
+더러 ,None
+더불 ,None
+더불 어 ,None
+더욱 ,NEG
+더욱 강화 ,NEG
+더욱 강화 하 ,NEG
+더욱 도드라지 ,POS
+더욱 막중 ,COMP
+더욱 막중 하 ,COMP
+더욱 심화 ,NEG
+더욱 심화 하 ,NEG
+더욱 아연 ,NEG
+더욱 아연 하 ,NEG
+더욱 어렵 ,NEG
+더욱 어렵 게 ,NEG
+더욱 열 ,POS
+더욱 열 을 ,POS
+더욱 재미있 ,POS
+더욱 좋 ,POS
+더하 ,POS
+더하 아 ,NEG
+더하 아 주 ,NEG
+더하 아 지 ,POS
+덕 ,POS
+덕 이 ,POS
+던 ,NEG
+던 것 ,NEUT
+던 것 같 ,NEUT
+던 것 로 ,NEUT
+던 것 이 ,None
+던 과거 ,NEG
+던 과거 의 ,NEG
+던 디자이너 ,NEUT
+던 디자이너 일 ,NEUT
+던 만큼 ,None
+던 사항 ,POS
+던 사항 이 ,POS
+던 생활 ,NEG
+던 생활 에 ,NEG
+던 시절 ,NEG
+던 시절 은 ,NEG
+던 유학 ,POS
+던 유학 시절 ,POS
+던 충격 ,NEG
+던 충격 이 ,NEG
+던 힘차 ,NEG
+던 힘차 ㄴ ,NEG
+던가 ,NEG
+던지 ,NEG
+던지 던 ,NEG
+던지 던 시절 ,NEG
+던지 어 ,POS
+던지 어 주 ,POS
+덜 ,POS
+덜 어 ,POS
+덜 어 주 ,POS
+덧붙이 ,POS
+덩어리 ,NEG
+덮어놓 ,NEG
+덮어놓 고 ,NEG
+덮어놓 고 믿 ,NEG
+데 ,POS
+데 다 ,None
+데 도 ,POS
+데 도 익숙 ,POS
+데 없이 ,NEG
+데 없이 추락 ,NEG
+데 적당 ,POS
+데 적당 하 ,POS
+데 필요 ,POS
+데 필요 하 ,POS
+데리 ,NEG
+데리 고 ,NEG
+데리 고 먹 ,NEG
+도 ,None
+도 강하 ,POS
+도 갖 ,NEG
+도 갖 지 ,NEG
+도 거세 ,NEG
+도 거세 공포 ,NEG
+도 결혼 ,NEG
+도 결혼 도 ,NEG
+도 경제 ,POS
+도 경제 제재 ,POS
+도 그 ,POS
+도 그 사람 ,POS
+도 그 ,NEG
+도 그 와 ,NEG
+도 깎 ,NEG
+도 깎 았었 ,NEG
+도 꺼내 ,NEG
+도 꺼내 지 ,NEG
+도 끊 ,POS
+도 끊 어 ,POS
+도 낳 ,NEG
+도 낳 았 ,NEG
+도 내 ,NEG
+도 높 ,NEG
+도 느끼 ,POS
+도 느끼 ㄹ ,POS
+도 늦추 ,COMP
+도 늦추 ㄹ ,COMP
+도 더욱 ,NEG
+도 더욱 심화 ,NEG
+도 덧붙이 ,POS
+도 들 ,NEG
+도 떨어지 ,POS
+도 떨어지 지 ,POS
+도 똑바로 ,NEG
+도 똑바로 되 ,NEG
+도 만들 ,POS
+도 많 ,POS
+도 많이 ,POS
+도 많이 하 ,POS
+도 모르 ,NEG
+도 모르 게 ,NEG
+도 모르 겠 ,None
+도 모르 니까 ,None
+도 못 ,NEG
+도 못 되 ,NEG
+도 못하 ,NEG
+도 못하 ㄴ ,NEG
+도 무겁 ,POS
+도 무겁 어 ,POS
+도 문제 ,NEG
+도 문제 투성이 ,NEG
+도 물론 ,NEG
+도 물론 안 ,NEG
+도 믿 ,NEG
+도 믿 지 ,NEG
+도 바라 ,POS
+도 반드시 ,NEUT
+도 반드시 비 ,NEUT
+도 발견 ,POS
+도 발견 되 ,POS
+도 불구 ,None
+도 불구 하 ,None
+도 불사 ,NEG
+도 불사 하 ,NEG
+도 불행 ,POS
+도 불행 하 ,POS
+도 사랑 ,NEG
+도 사랑 하 ,NEG
+도 서슴 ,NEG
+도 서슴 지 ,NEG
+도 성지 ,NEG
+도 성지 에 ,NEG
+도 세상 ,NEG
+도 세상 도 ,NEG
+도 소변 ,NEG
+도 소변 검사 ,NEG
+도 수 ,NEG
+도 수 백 ,NEG
+도 써먹 ,NEG
+도 써먹 지 ,NEG
+도 아니 ,NEG
+도 아니 라니까 ,NEG
+도 아마 ,POS
+도 아마 그때 ,POS
+도 안 ,NEG
+도 안 주 ,NEG
+도 없 ,NEG
+도 없 으시 ,NEG
+도 없 지 ,NEG
+도 엉터리 ,NEG
+도 엉터리 이 ,NEG
+도 여성 ,NEG
+도 여성 채용 ,NEG
+도 역행 ,NEG
+도 역행 하 ,NEG
+도 익숙 ,POS
+도 익숙 하 ,POS
+도 인권 ,POS
+도 있 ,None
+도 있 다 ,POS
+도 있 었 ,NEG
+도 있 을 ,None
+도 자주 ,POS
+도 자주 하 ,POS
+도 저 ,NEG
+도 저 의 ,NEG
+도 저것 ,NEG
+도 저것 도 ,NEG
+도 좋 ,POS
+도 중요 ,POS
+도 중요 하 ,POS
+도 지우 ,NEG
+도 지우 ㄹ ,NEG
+도 크 ,POS
+도 통화 ,POS
+도 통화 가 ,POS
+도 하 ,None
+도 하 ㄴ답니다 ,POS
+도 하 ,None
+도 하 다 ,NEG
+도 하 았 ,None
+도 하나 ,POS
+도 하나 의 ,POS
+도 현란 ,POS
+도 현란 하 ,POS
+도 확인 ,NEG
+도 확인 하 ,NEG
+도 ,POS
+도 가 ,POS
+도 가 크 ,POS
+도둑 ,NEG
+도둑 질 ,NEG
+도둑 질 과 ,NEG
+도드라지 ,POS
+도록 ,None
+도록 대사 ,NEUT
+도록 대사 부분 ,NEUT
+도록 되 ,NEG
+도록 되 어 ,NEG
+도록 얘기 ,POS
+도록 얘기 꽃 ,POS
+도록 운항 ,NEG
+도록 운항 하 ,NEG
+도록 촉구 ,COMP
+도록 촉구 하 ,COMP
+도록 하* ,NEG
+도록 하* 라 ,NEG
+도록 하 ,None
+도록 하 겠 ,None
+도마 ,NEG
+도마 에 ,NEG
+도마 에 오르 ,NEG
+도망치 ,NEG
+도망치 어 ,NEG
+도망치 어 나오 ,NEG
+도시 ,POS
+도시 풍경 ,POS
+도시 풍경 을 ,POS
+도약 ,POS
+도약 을 ,POS
+도약 을 시도 ,POS
+도와주 ,POS
+도와주 시 ,POS
+도와주 시 ㅂ시오 ,POS
+도움 ,POS
+도움 을 ,POS
+도움 을 받 ,POS
+도움 을 주 ,POS
+도움 이 ,POS
+도움 이 되 ,POS
+도의 ,NEG
+도의 적 ,NEG
+도의 적 책임 ,NEG
+도입 ,POS
+도입 으로 ,POS
+도입 으로 저 ,POS
+도입 하 ,POS
+도저 ,NEUT
+도저 하 ,NEUT
+도저 하 ㄴ ,NEUT
+도저히 ,NEG
+도저히 거부 ,NEG
+도저히 거부 하 ,NEG
+도전 ,NEG
+도전 으로 ,NEG
+도전 으로 파악 ,NEG
+도전 이 ,NEG
+도처 ,NEUT
+도처 에 ,NEUT
+도처 에 과거 ,NEUT
+도취 ,POS
+도취 이 ,POS
+독과점 ,NEG
+독과점 체제 ,NEG
+독립 ,NEG
+독립 유공자 ,NEG
+독립 유공자 가 ,NEG
+독립 투사 ,NEG
+독립 투사 이 ,NEG
+독서 ,POS
+독서 후 ,POS
+독서 후 활동 ,POS
+독설 ,NEG
+독설 적 ,NEG
+독설 적 이 ,NEG
+독자 ,NEG
+독자 적 ,NEG
+독점 ,NEG
+독점 에 ,NEG
+독점 에 맞서 ,NEG
+독특 ,POS
+독특 하 ,POS
+독특 ,POS
+독특 하 ,POS
+돈 ,NEG
+돈 얼마 ,NEG
+돈 얼마 받 ,NEG
+돋보이 ,POS
+돋아나 ,NEG
+돌 ,NEG
+돌 을 ,NEG
+돌 을 던지 ,NEG
+돌 ,POS
+돌 더라도 ,POS
+돌 더라도 못 ,POS
+돌리 ,NEG
+돌리 어 ,NEG
+돌리 어 버리 ,NEG
+돌아가 ,NEG
+돌아가 잖아요 ,NEG
+돌아서 ,NEG
+돌아앉 ,NEG
+돌아앉 아 ,NEG
+돌아앉 아 한 ,NEG
+돌아오 ,NEG
+돌아오 았 ,NEUT
+돌아오 았 다 ,NEUT
+돌아오 지 ,NEG
+돌아오 지 는 ,NEG
+돕 ,POS
+돕 게 ,POS
+돕 게 되 ,POS
+돕 ㄹ ,NEG
+돕 ㄹ 뿐 ,NEG
+동 ,NEG
+동 그렇 ,NEG
+동료 ,POS
+동료 상담 ,POS
+동료 상담 이 ,POS
+동무 ,NEG
+동무 들 ,NEG
+동무 들 따르 ,NEG
+동물 ,NEUT
+동물 을 ,NEUT
+동물 을 생각 ,NEUT
+동시 ,POS
+동시 답 ,POS
+동아리 ,POS
+동아리 한 ,POS
+동아리 한 마당 ,POS
+동안 ,NEG
+동안 오른 ,POS
+동안 오른 손목 ,POS
+동안 이 ,NEG
+동안 이 세상 ,NEG
+동안 태극기 ,NEG
+동안 태극기 를 ,NEG
+동요 ,NEG
+동요 하 ,NEG
+동요 하 게 ,NEG
+동의 ,POS
+동의 를 ,POS
+동의 를 얻 ,POS
+동이 ,NEG
+동이 푸 ,NEG
+동이 푸 어 ,NEG
+동작 ,POS
+동작 의 ,POS
+동작 의 속도 ,POS
+동참 ,POS
+동참 하 ,POS
+동참 확산 ,POS
+동포 ,POS
+동포 사랑 ,POS
+동포 사랑 은 ,POS
+되 ,NEG
+되 ㄴ ,NEUT
+되 ㄴ 것 ,POS
+되 ㄴ 꿈 ,NEUT
+되 ㄴ 일 ,NEG
+되 ㄴ다 ,NEG
+되 는 ,NEG
+되 는 시기 ,NEG
+되 는 책 ,POS
+되 니까 ,NEG
+되 ㄹ ,NEUT
+되 ㄹ 수 ,NEUT
+되 ㄹ까 ,COMP
+되 리란 ,POS
+되 리란 생각 ,POS
+되 면 ,POS
+되 면 모든 ,POS
+되 ㅂ시다 ,POS
+되 어 ,NEG
+되 어 돌아오 ,NEG
+되 어 버리 ,COMP
+되 어 보상 ,NEG
+되 어 있 ,NEG
+되 어야지요 ,POS
+되 었 ,POS
+되 었 다 ,POS
+되 잖아요 ,POS
+되 지 ,NEG
+되 지 않 ,NEG
+되 ,POS
+되 게 ,POS
+되 게 살 ,POS
+되 ,NEG
+되 고 ,NEG
+되 고 있 ,NEG
+되 고 토하 ,NEUT
+되 ㄴ ,NEG
+되 ㄴ 것 ,NEUT
+되 ㄴ 부위 ,POS
+되 ㄴ 섬 ,COMP
+되 ㄴ 위기 ,NEG
+되 ㄴ 전화 ,POS
+되 ㄴ 후 ,NEG
+되 는 ,NEG
+되 는 것 ,NEG
+되 는지 ,NEG
+되 는지 여부 ,NEG
+되 ㄹ ,NEG
+되 ㄹ 날 ,NEG
+되 ㄹ 리 ,NEG
+되 어 ,NEG
+되 어 가 ,NEG
+되 어 있 ,NEG
+되 었 ,NEG
+되 었 더라면 ,NEG
+되 었 을 ,POS
+되 지 ,NEG
+되 지 못하 ,NEG
+되 지 않 ,NEG
+되도록 ,POS
+되도록 쉽 ,POS
+되도록 쉽 ㄴ ,POS
+되돌아보 ,COMP
+되살리 ,POS
+되찾 ,POS
+되찾 아 ,POS
+되찾 아 가 ,POS
+두 ,NEG
+두 곡 ,NEG
+두 곡 이 ,NEG
+두 배 ,NEG
+두 배 로 ,NEG
+두 번 ,NEG
+두 번 다시없 ,NEG
+두 번 이상 ,NEUT
+두 ,NEG
+두 고 ,NEG
+두 고 만 ,NEG
+두 고 얼마나 ,NEG
+두드러지 ,POS
+두드러지 ,NEG
+두렵 ,NEG
+두렵 었 ,NEG
+두렵 었 습니다 ,NEG
+두르 ,POS
+두르 고 ,POS
+두르 고 있 ,POS
+둔갑 ,NEG
+둔갑 시키 ,NEG
+둔갑 하 ,NEG
+둘 ,NEUT
+둘 로 ,NEUT
+둘 로 보이 ,NEUT
+둘러대 ,NEG
+뒤 ,POS
+뒤 에 ,POS
+뒤 에 는 ,NEUT
+뒤 에 별도 ,POS
+뒤 에 숨 ,POS
+뒤 에서 ,NEG
+뒤 에서 돕 ,NEG
+뒤떨어지 ,NEG
+뒤섞이 ,COMP
+뒤섞이 ㄴ ,COMP
+뒤섞이 ㄴ 기색 ,COMP
+뒤흔들 ,NEG
+뒤흔들 지 ,NEG
+뒤흔들 지 못하 ,NEG
+뒷맛 ,NEG
+뒷맛 이 ,NEG
+뒷맛 이 씁쓸 ,NEG
+뒷받침 ,NEG
+뒷받침 되 ,NEG
+뒷받침 되 지 ,NEG
+뒷받침 이 ,NEG
+뒷받침 이 없 ,NEG
+뒷받침 하 ,NEG
+드디어 ,None
+드러나 ,NEG
+드러내 ,NEG
+드물 ,COMP
+드물 ㄴ ,COMP
+드물 ㄴ 일 ,COMP
+드물 어서 ,POS
+드물 어서 그동안 ,POS
+득세 ,POS
+든 ,POS
+든 좋 ,POS
+든 좋 아서 ,POS
+든지 ,NEG
+든지 머리 ,NEUT
+든지 머리 가 ,NEUT
+든지 자유 ,POS
+든지 자유 롭 ,POS
+든지 현실 ,NEG
+든지 현실 화 ,NEG
+듣 ,NEG
+듣 거나 ,NEG
+듣 었 ,NEG
+듣 었 어요 ,NEG
+들 ,NEG
+들 거나 ,NEUT
+들 거나 의식 ,NEUT
+들 고 ,POS
+들 고 있 ,POS
+들 던 ,NEG
+들 던 생활 ,NEG
+들 어 ,NEG
+들 어 미국 ,NEG
+들 어 주 ,NEG
+들 어야 ,NEG
+들 어야 하 ,NEG
+들 지 ,POS
+들 지 않 ,POS
+들 지만 ,POS
+들 지만 이 ,POS
+들 ,POS
+들 ㄹ ,POS
+들 ㄹ 생각 ,POS
+들 ,POS
+들 과* ,NEG
+들 과* 공식 ,NEG
+들 그러 ,POS
+들 그러 어 ,POS
+들 기능 ,POS
+들 기능 을 ,POS
+들 까지 ,POS
+들 까지 참여 ,POS
+들 께 ,NEG
+들 도 ,NEG
+들 도 여성 ,NEG
+들 따르 ,NEG
+들 따르 아 ,NEG
+들 로 ,NEG
+들 로 점점 ,NEG
+들 만 ,NEG
+들 만 이 ,NEG
+들 보다 ,POS
+들 보다 더 ,POS
+들 보다 오히려 ,POS
+들 사이 ,NEG
+들 사이 에 ,NEG
+들 상상 ,POS
+들 상상 의 ,POS
+들 앞 ,NEG
+들 앞 에서 ,NEG
+들 에 ,POS
+들 에 대하 ,POS
+들 에게 ,POS
+들 에게 나 ,NEG
+들 에게 들리 ,POS
+들 에게 먹 ,POS
+들 에게 소개 ,POS
+들 에게 적극 ,POS
+들 은 ,NEUT
+들 은 무슨 ,NEUT
+들 을 ,NEG
+들 을 기냥 ,NEG
+들 을 나누 ,POS
+들 을 다시 ,POS
+들 을 데리 ,NEG
+들 을 믿 ,NEG
+들 을 수없이 ,POS
+들 의 ,POS
+들 의 곁 ,POS
+들 의 고달프 ,POS
+들 의 박수 ,POS
+들 의 사용 ,NEG
+들 의 색깔 ,POS
+들 의 신기 ,POS
+들 의 자신만만 ,POS
+들 의 즐겁 ,POS
+들 의 지갑 ,POS
+들 의 집단 ,NEG
+들 의 책임자 ,NEUT
+들 의 회화 ,POS
+들 이 ,POS
+들 이 가족 ,NEG
+들 이 갇히 ,COMP
+들 이 골고루 ,POS
+들 이 기쁘 ,POS
+들 이 다 ,POS
+들 이 많 ,NEG
+들 이 많이 ,NEG
+들 이 머리 ,POS
+들 이 모이 ,NEG
+들 이 무엇 ,POS
+들 이 서울 ,NEUT
+들 이 아이 ,NEG
+들 이 접근 ,POS
+들 이 제아무리 ,NEG
+들 이 주로 ,NEG
+들 이 찾아오 ,POS
+들 이 하 ,COMP
+들 이 항생 ,POS
+들 이 ,POS
+들 처지 ,NEG
+들 처지 에서 ,NEG
+들 투성이 ,NEUT
+들 투성이 이 ,NEUT
+들 하고* ,NEG
+들리 ,POS
+들리 ㄴ ,POS
+들리 ㄴ 연기 ,POS
+들썩거리 ,NEG
+들썩거리 게 ,NEG
+들썩거리 게 하 ,NEG
+들어가 ,POS
+들어가 는 ,POS
+들어가 는 까닭 ,POS
+들어가 는 문 ,NEUT
+들어가 는 통로 ,POS
+들어오 ,NEUT
+들어오 는 ,NEUT
+들어오 는 주방 ,NEUT
+들이 ,NEG
+들이 고 ,NEG
+들이 고 걷 ,NEG
+들치 ,POS
+들치 어 ,POS
+들치 어 업 ,POS
+듬뿍 ,POS
+듬뿍 안 ,POS
+듬뿍 치 ,POS
+듯 ,None
+듯 녹음 ,POS
+듯 녹음 하 ,POS
+듯 ,POS
+듯 가파르 ,NEG
+듯 가파르 고 ,NEG
+듯 배우 ,POS
+듯 배우 들 ,POS
+듯 하 ,NEG
+듯 하 ㄴ ,NEG
+등 ,POS
+등 기획물 ,NEG
+등 기획물 비디오 ,NEG
+등 디테일 ,NEUT
+등 디테일 에 ,NEUT
+등 불순 ,NEG
+등 불순 분자 ,NEG
+등 사람 ,POS
+등 사람 들 ,POS
+등 상 ,POS
+등 상 을 ,POS
+등 심장 ,NEUT
+등 심장 질환 ,NEUT
+등 으로 ,NEG
+등 으로 확인 ,NEG
+등 을 ,POS
+등 을 단행 ,POS
+등 을 아끼 ,POS
+등 을 키우 ,POS
+등 이 ,NEUT
+등 이 일어나 ,NEUT
+등급 ,NEG
+등급 분류 ,NEG
+등급 분류 를 ,NEG
+등록 ,POS
+등록 대수 ,POS
+등록 대수 가 ,POS
+등산 ,POS
+등산 용품 ,POS
+등산 용품 교환전 ,POS
+등산인 ,POS
+등산인 들 ,POS
+등산인 들 에게 ,POS
+디 ,NEG
+디 흔하 ,NEG
+디스크 ,NEG
+디자이너 ,NEUT
+디자이너 일 ,NEUT
+디자이너 일 을 ,NEUT
+디테일 ,NEUT
+디테일 에 ,NEUT
+디테일 에 많이 ,NEUT
+따뜻 ,POS
+따뜻 하 ,POS
+따뜻 하 ㄴ ,POS
+따라가 ,POS
+따라서 MAJ,None
+따로 ,NEUT
+따로 식물 ,NEUT
+따로 식물 을 ,NEUT
+따르 ,POS
+따르 면 ,NEUT
+따르 아 ,POS
+따르 아 산 ,NEG
+따르 아 스스로 ,POS
+따르 아 중국 ,POS
+따르 지 ,NEG
+따르 지 않 ,NEG
+따리 ,NEG
+따리 어 ,NEG
+따리 어 하 ,NEG
+따위 ,NEG
+따위 는 ,NEG
+따위 는 없 ,NEG
+따지 ,POS
+따지 어 ,POS
+따지 어 보 ,POS
+딱하 ,NEG
+딸 ,NEG
+딸 의 ,NEG
+딸 의 재롱떨* ,NEG
+땀 ,NEG
+땀 을 ,NEG
+땀 을 흘리 ,NEG
+땅 ,NEG
+땅 과 ,NEG
+땅 과 하늘 ,NEG
+때 ,NEG
+때 경보 ,POS
+때 경보 도 ,POS
+때 는 ,POS
+때 는 살 ,POS
+때 는 햇곡식 ,POS
+때 는 협심증 ,NEUT
+때 도 ,NEG
+때 도 있 ,NEG
+때 묻 ,NEG
+때 묻 고 ,NEG
+때 여성 ,NEUT
+때 여성 의 ,NEUT
+때 와 ,POS
+때 와 ,NEG
+때 와 크 ,NEG
+때 절대로 ,NEG
+때 절대로 다른 ,NEG
+때때로 ,NEG
+때때로 울컥 ,NEG
+때려치 ,NEG
+때문 ,None
+때문 에 ,NEG
+때문 에 백화점 ,POS
+때문 에 주위 ,NEG
+때문 이 ,NEUT
+때문 이 었 ,NEUT
+떠나 ,POS
+떠나 ㄴ ,NEUT
+떠나 ㄴ 뒤 ,NEUT
+떠나 ㄴ다는 ,POS
+떠나 ㄴ다는 느낌 ,POS
+떠나 도록 ,COMP
+떠나 도록 촉구 ,COMP
+떠나 았 ,NEG
+떠나 았 네 ,NEG
+떠나 지 ,POS
+떠나 지 않 ,POS
+떠들 ,NEG
+떠들 어 ,NEG
+떠들 어 대 ,NEG
+떠오르 ,POS
+떠오르 게 ,POS
+떠오르 게 하 ,POS
+떡 ,POS
+떡 과 ,POS
+떡 과 한과 ,POS
+떡 을 ,POS
+떡 을 만들 ,POS
+떨 ,POS
+떨 거나 ,POS
+떨 거나 목소리 ,POS
+떨리 ,COMP
+떨어지 ,POS
+떨어지 ㄴ ,POS
+떨어지 ㄴ 곳 ,POS
+떨어지 지 ,POS
+떨어지 지 않 ,POS
+떨치 ,NEG
+떨치 어 ,NEG
+떨치 어 버리 ,NEG
+떼 ,NEUT
+떼 어 ,NEUT
+떼 어 놓 ,NEUT
+또 ,NEG
+또 눈물 ,NEG
+또 눈물 이 ,NEG
+또 다른 ,NEG
+또 다른 이름 ,NEG
+또 다른 재미 ,POS
+또 이렇 ,None
+또 이렇 게 ,None
+또는 ,POS
+또는 공짜 ,POS
+또는 공짜 로 ,POS
+또래 ,POS
+또래 상담 ,POS
+또한 ,None
+똑같 ,NEG
+똑같 은 ,NEG
+똑같 은 식민 ,NEG
+똑바로 ,NEG
+똑바로 되 ,NEG
+똑바로 되 어 ,NEG
+뚝 ,NEUT
+뚝 떼 ,NEUT
+뚫 ,POS
+뚫 고 ,POS
+뚫 고 나가 ,POS
+뚫 고 들어가 ,POS
+뛰 ,POS
+뛰 어 ,POS
+뛰 어 들 ,POS
+뛰어나 ,POS
+뛰어나 ㄴ ,POS
+뛰어나 ㄴ 기량 ,POS
+뛰어넘 ,POS
+뛰어다니 ,NEG
+뛰어다니 ㄴ ,NEG
+뛰어다니 ㄴ 일 ,NEG
+뛰쳐나오 ,POS
+뜨 ,COMP
+뜨 ㄴ ,COMP
+뜨 ㄴ 눈 ,COMP
+뜨겁 ,POS
+뜨겁 어 ,NEUT
+뜨겁 어 지 ,NEUT
+뜨겁 었 ,POS
+뜨겁 었 다 ,POS
+뜨겁 은 ,POS
+뜯어보 ,POS
+뜯어보 ㄹ ,POS
+뜯어보 ㄹ 구석 ,POS
+뜻 ,POS
+뜻 을 ,POS
+뜻 을 담 ,POS
+뜻 을 밝히 ,POS
+뜻 이 ,POS
+뜻 있 ,POS
+뜻 있 는 ,POS
+뜻 하 ,POS
+뜻 하 ㄴ다 ,POS
+뜻밖에 ,None
+뜻밖에 도 ,None
+띄 ,POS
+띄 게 ,POS
+띄 게 좋 ,POS
+ㄹ ,None
+ㄹ 가능 ,NEG
+ㄹ 가능 성 ,NEG
+ㄹ 가능 ,POS
+ㄹ 가능 성 ,POS
+ㄹ 거 ,NEG
+ㄹ 거 같 ,NEG
+ㄹ 것 ,None
+ㄹ 것 으로 ,POS
+ㄹ 것 을 ,NEG
+ㄹ 것 이 ,NEG
+ㄹ 것 이 ,None
+ㄹ 경우 ,NEUT
+ㄹ 경우 뇌 ,NEUT
+ㄹ 계획 ,POS
+ㄹ 계획 이 ,POS
+ㄹ 공산 ,NEG
+ㄹ 공산 은 ,NEG
+ㄹ 구석 ,POS
+ㄹ 구석 이 ,POS
+ㄹ 기회 ,POS
+ㄹ 기회 를 ,POS
+ㄹ 날 ,NEG
+ㄹ 날 이 ,NEG
+ㄹ 듯 ,POS
+ㄹ 듯 배우 ,POS
+ㄹ 때 ,NEUT
+ㄹ 때 는 ,NEUT
+ㄹ 때 도 ,NEG
+ㄹ 때 여성 ,NEUT
+ㄹ 때 와 ,POS
+ㄹ 때 절대로 ,NEG
+ㄹ 뜻 ,POS
+ㄹ 뜻 을 ,POS
+ㄹ 리 ,NEG
+ㄹ 리 가 ,NEG
+ㄹ 리 는 ,None
+ㄹ 만 ,POS
+ㄹ 만 하 ,POS
+ㄹ 만큼 ,COMP
+ㄹ 만큼 낙천 ,COMP
+ㄹ 만큼 인상 ,POS
+ㄹ 부분 ,POS
+ㄹ 부분 이 ,POS
+ㄹ 뿐 ,NEG
+ㄹ 뿐 더러 ,None
+ㄹ 뿐 이 ,NEG
+ㄹ 새 ,NEUT
+ㄹ 새 가 ,POS
+ㄹ 새 없이 ,NEUT
+ㄹ 생각 ,NEUT
+ㄹ 생각 으로 ,NEUT
+ㄹ 생각 이 ,POS
+ㄹ 수 ,None
+ㄹ 수 가 ,NEG
+ㄹ 수 는 ,NEG
+ㄹ 수 도 ,None
+ㄹ 수 밖에 ,None
+ㄹ 수 없 ,NEG
+ㄹ 수 없이 ,NEG
+ㄹ 수 있 ,POS
+ㄹ 수 있 ,None
+ㄹ 예정 ,POS
+ㄹ 예정 이 ,POS
+ㄹ 위험 ,NEG
+ㄹ 위험 이 ,NEG
+ㄹ 의무 ,POS
+ㄹ 의무 가 ,POS
+ㄹ 이유 ,POS
+ㄹ 이유 가 ,POS
+ㄹ 일 ,COMP
+ㄹ 일 은 ,COMP
+ㄹ 전망 ,NEUT
+ㄹ 전망 이 ,NEUT
+ㄹ 정도 ,NEG
+ㄹ 정도 이 ,None
+ㄹ 집 ,NEG
+ㄹ 집 말 ,NEG
+ㄹ 필요 ,NEG
+ㄹ 필요 는 ,NEG
+ㄹ ,NEG
+ㄹ 하 ,NEG
+ㄹ 하 았 ,NEG
+ㄹ게요 ,POS
+ㄹ까 ,NEG
+ㄹ까 보 ,NEG
+ㄹ까 보 아 ,NEG
+ㄹ까 ,None
+ㄹ까요 ,None
+ㄹ래 ,None
+ㄹ수록 ,None
+ㄹ지* ,None
+ㄹ지* 도 ,None
+ㄹ지* 도 모르 ,None
+ㄹ지 ,NEG
+ㄹ지 도 ,NEG
+ㄹ지 도 모르 ,NEG
+ㄹ지 모르 ,NEG
+ㄹ지 모르 ㄴ다는 ,NEG
+라 ,None
+라 는 ,None
+라 는 것 ,None
+라 ,NEG
+라고 ,NEG
+라고 꾸준히 ,NEG
+라고 꾸준히 문제 ,NEG
+라고 단정 ,POS
+라고 단정 하 ,POS
+라고 말 ,POS
+라고 말 하 ,POS
+라고 번복 ,NEG
+라고 번복 하 ,NEG
+라고 생각 ,NEG
+라고 생각 하 ,NEG
+라고 설명 ,NEUT
+라고 설명 하 ,NEUT
+라고 하 ,NEG
+라고 하 고 ,NEG
+라고 하 ㄹ ,POS
+라고 하 ㄹ까 ,NEG
+라고 하 지 ,NEG
+라고 ,POS
+라고 말 ,NEG
+라고 말 하 ,NEG
+라고 생각 ,POS
+라고 생각 하 ,POS
+라는 ,NEG
+라는 것 ,None
+라는 것 이 ,None
+라는 대로 ,NEG
+라는 대로 나 ,NEG
+라는 말 ,NEG
+라는 말 이 ,NEG
+라는 생각 ,NEG
+라는 생각 도 ,NEG
+라는 생각 을 ,None
+라는 식 ,None
+라는 식 으로 ,None
+라는 쓰 ,NEG
+라는 쓰 ㄴ ,NEG
+라는 이상 ,POS
+라는 이상 에 ,POS
+라니 ,None
+라니까 ,NEG
+라도 ,None
+라도 어리광 ,NEG
+라도 어리광 을 ,NEG
+라며 ,NEG
+라면 ,NEG
+라면 쉽 ,NEG
+라면 쉽 게 ,NEG
+라우 ,NEG
+란 ,NEG
+란 우려 ,NEG
+란 우려 가 ,NEG
+랄까 ,NEG
+랄까 보 ,NEG
+랄까 보 아 ,NEG
+러 ,NEG
+러 가 ,POS
+러 가 ㅂ시당 ,POS
+러브 ,NEG
+러브 스토리 ,NEG
+레크리에이션 ,POS
+레크리에이션 이벤트 ,POS
+레크리에이션 이벤트 가 ,POS
+레포츠 ,POS
+레포츠 로 ,POS
+레포츠 로 정착 ,POS
+려 ,None
+려고 ,None
+려고 하 ,None
+려고 하 ,POS
+려고 하 면 ,POS
+려는 ,None
+려는 왕실 ,NEG
+려는 왕실 의 ,NEG
+려는 움직임 ,POS
+려는 움직임 이 ,POS
+려는 저의 ,NEUT
+려는 진심 ,POS
+려는 진심 을 ,POS
+려다 ,None
+려면 ,None
+려면 공부 ,NEG
+려면 공부 를 ,NEG
+로 ,POS
+로 가 ,NEG
+로 가 지 ,NEG
+로 가장 ,NEG
+로 가장 하 ,NEG
+로 국내 ,POS
+로 국내 기반 ,POS
+로 글씨 ,NEG
+로 글씨 를 ,NEG
+로 기소 ,NEG
+로 기억 ,NEUT
+로 기억 되 ,NEUT
+로 기준 ,NEG
+로 꼽히 ,POS
+로 꽃 ,POS
+로 꽃 을 ,POS
+로 나가 ,NEUT
+로 나가 고 ,NEUT
+로 남 ,NEG
+로 눈길 ,POS
+로 눈길 을 ,POS
+로 는 ,NEG
+로 는 남편 ,NEG
+로 는 잘 ,NEG
+로 도 ,NEG
+로 도 써먹 ,NEG
+로 돌아서 ,NEG
+로 돌아오 ,POS
+로 둔갑 ,NEG
+로 둔갑 시키 ,NEG
+로 들 ,NEG
+로 들어가 ,NEUT
+로 들어가 는 ,NEUT
+로 떠오르 ,NEG
+로 뚫 ,POS
+로 뚫 고 ,POS
+로 바꾸 ,POS
+로 보 ,NEG
+로 보 지 ,NEG
+로 보이 ,NEG
+로 보이 ㄴ다 ,NEUT
+로 삼 ,POS
+로 서 ,COMP
+로 서 어 ,COMP
+로 선정 ,POS
+로 선정 되 ,POS
+로 송수신 ,POS
+로 실천 ,COMP
+로 실천 을 ,COMP
+로 아이 ,NEG
+로 아이 마음 ,NEG
+로 옮기 ,POS
+로 옮기 어 ,POS
+로 이어지 ,POS
+로 읽 ,NEG
+로 임하 ,POS
+로 점점 ,NEG
+로 점점 고립 ,NEG
+로 정착 ,POS
+로 정착 시키 ,POS
+로 지정 ,POS
+로 집대성 ,POS
+로 집대성 하 ,POS
+로 짜이 ,POS
+로 치 ,None
+로 치 자면 ,None
+로 하 ,POS
+로 하 았 ,POS
+로 하 ,POS
+로 확인 ,NEG
+로 확인 이 ,NEG
+로 흘러가 ,NEG
+로부터 ,NEG
+로부터 자유 ,NEG
+로부터 자유 롭 ,NEG
+로서 ,NEG
+로서 의 ,NEG
+로서 의 비극 ,NEG
+롭* ,POS
+롭 ,POS
+롭 게 ,POS
+롭 게 철학 ,POS
+롭 게 풀어지 ,POS
+롭 ㅁ ,POS
+롭 지 ,NEG
+롭 지 못하 ,NEG
+률 ,NEG
+률 을 ,NEG
+률 을 낮추 ,NEG
+를 ,POS
+를 가꾸 ,POS
+를 가꾸 며 ,POS
+를 가지 ,POS
+를 가지 ㄴ ,POS
+를 강요 ,NEG
+를 강요 하 ,NEG
+를 거의 ,NEG
+를 거의 거치 ,NEG
+를 걸 ,POS
+를 걸 어 ,POS
+를 격려 ,POS
+를 격려 하 ,POS
+를 계기 ,POS
+를 계기 로 ,POS
+를 계속 ,COMP
+를 계속 하 ,COMP
+를 고객 ,POS
+를 고객 들 ,POS
+를 고양 ,POS
+를 고양 시키 ,POS
+를 구상 ,NEUT
+를 구상 하 ,NEUT
+를 구입 ,NEG
+를 구입 하 ,NEG
+를 국민 ,COMP
+를 국민 에게 ,COMP
+를 꺼내 ,COMP
+를 꺼내 어 ,COMP
+를 끄덕이 ,POS
+를 끈끈 ,NEG
+를 끈끈 하 ,NEG
+를 끌 ,POS
+를 나 ,POS
+를 나 의 ,POS
+를 나누 ,POS
+를 나타내 ,NEG
+를 낳 ,NEG
+를 내 ,POS
+를 내걸 ,POS
+를 넘기 ,POS
+를 넘기 고 ,POS
+를 넘어서 ,POS
+를 넘어서 었 ,POS
+를 높이 ,POS
+를 누리 ,POS
+를 다 ,POS
+를 다 바치 ,POS
+를 단절 ,NEG
+를 단절 하 ,NEG
+를 달구 ,POS
+를 달구 는 ,POS
+를 달리 ,POS
+를 담 ,NEUT
+를 담 도록 ,NEUT
+를 당국 ,NEG
+를 당국 에 ,NEG
+를 더 ,NEG
+를 더 많이 ,NEG
+를 더 이상 ,NEG
+를 더 하 ,POS
+를 더욱 ,NEG
+를 더욱 강화 ,NEG
+를 더하 ,POS
+를 던지 ,POS
+를 던지 어 ,POS
+를 도와주 ,POS
+를 도와주 시 ,POS
+를 되찾 ,POS
+를 드러내 ,NEG
+를 들 ,NEG
+를 들 어 ,NEG
+를 들 어야 ,NEG
+를 들썩거리 ,NEG
+를 들썩거리 게 ,NEG
+를 듬뿍 ,POS
+를 듬뿍 안 ,POS
+를 떠나 ,COMP
+를 떠나 도록 ,COMP
+를 뚫 ,POS
+를 만들 ,POS
+를 만지 ,NEG
+를 만지 어 ,NEG
+를 맛보 ,NEG
+를 맛보 ㄹ ,POS
+를 맞 ,NEG
+를 맞 게 ,NEG
+를 맞추 ,POS
+를 맞추 는 ,POS
+를 매기 ,COMP
+를 매끄럽 ,POS
+를 매끄럽 게 ,POS
+를 맴돌 ,NEG
+를 모으 ,POS
+를 못 ,NEG
+를 못 잡 ,NEG
+를 무덤 ,POS
+를 무덤 에서 ,POS
+를 물 ,NEG
+를 밀어내 ,NEG
+를 밀어내 는 ,NEG
+를 바라 ,POS
+를 바라 ㅂ니다 ,POS
+를 받 ,NEG
+를 밝히 ,COMP
+를 밝히 고 ,COMP
+를 방불 ,POS
+를 방불 하 ,POS
+를 범하 ,NEG
+를 베풀 ,POS
+를 보 ,POS
+를 보 는 ,POS
+를 보 았 ,POS
+를 본격 ,POS
+를 본격 화 ,POS
+를 부르 ,NEUT
+를 부르 어 ,NEUT
+를 비추 ,POS
+를 비추 어 ,POS
+를 뿜어내 ,POS
+를 살리 ,POS
+를 살리 ㄹ ,POS
+를 살리 어 ,POS
+를 상징 ,POS
+를 상징 하 ,POS
+를 서 ,POS
+를 서 어 ,POS
+를 세 ,NEG
+를 세 세 ,NEG
+를 쌓 ,POS
+를 쓰 ,NEG
+를 쓰 ㄹ ,NEG
+를 아예 ,NEG
+를 아예 거부 ,NEG
+를 안 ,NEG
+를 알 ,POS
+를 알 ㄹ ,POS
+를 양 ,POS
+를 양 어깨 ,POS
+를 얻 ,POS
+를 얻 어 ,POS
+를 연발 ,POS
+를 연발 하 ,POS
+를 엿보 ,NEG
+를 엿보 ㄹ ,NEG
+를 옹호 ,NEG
+를 옹호 하 ,NEG
+를 완비 ,POS
+를 완비 하 ,POS
+를 위하 ,POS
+를 유지 ,NEG
+를 유지 하 ,NEG
+를 이끌 ,POS
+를 이루 ,POS
+를 이해 ,NEG
+를 이해 하 ,NEG
+를 인식 ,NEG
+를 인식 하 ,NEG
+를 일으키 ,NEG
+를 읽 ,NEUT
+를 읽 고 ,NEUT
+를 읽 다가 ,NEUT
+를 자아내 ,POS
+를 자아내 기 ,POS
+를 잡 ,NEG
+를 잡 아 ,NEG
+를 잡 지 ,NEG
+를 잡아가 ,POS
+를 재연 ,NEG
+를 재연 하 ,NEG
+를 재현 ,POS
+를 재현 하 ,POS
+를 절레절레 ,NEG
+를 절레절레 흔들 ,NEG
+를 제공 ,POS
+를 제공 하 ,POS
+를 제기 ,NEG
+를 제기 하 ,NEG
+를 제치 ,POS
+를 주 ,POS
+를 주 는 ,POS
+를 즐기 ,POS
+를 즐기 어 ,POS
+를 짧 ,NEG
+를 짧 게 ,NEG
+를 찢 ,NEG
+를 차지 ,POS
+를 차지 하 ,POS
+를 찾 ,POS
+를 청 ,POS
+를 촉망 ,POS
+를 촉망 받 ,POS
+를 탕감 ,POS
+를 탕감 하 ,POS
+를 토하 ,NEG
+를 토하 며 ,NEG
+를 판매 ,POS
+를 판매 하 ,POS
+를 팔 ,NEG
+를 팔 는 ,NEG
+를 풀 ,POS
+를 풀 어 ,POS
+를 풀 어야 ,POS
+를 피하 ,POS
+를 피하 아 ,POS
+를 하 ,NEG
+를 하 고 ,POS
+를 하 지 ,NEG
+를 한층 ,POS
+를 한층 높이 ,POS
+리 ,NEG
+리 가 ,NEG
+리 가 없 ,NEG
+리 는 ,None
+리 는 없 ,None
+리듬 ,POS
+리듬 있 ,POS
+리라 ,None
+리란 ,POS
+리란 생각 ,POS
+리란 생각 이 ,POS
+ㅁ ,POS
+ㅁ 과 ,COMP
+ㅁ 과 약간 ,COMP
+ㅁ 발생 ,NEG
+ㅁ 에 ,NEG
+ㅁ 에 도 ,None
+ㅁ 에 빠지 ,NEG
+ㅁ 은 ,NEG
+ㅁ 은 쉽 ,NEG
+ㅁ 을 ,POS
+ㅁ 을 넘 ,NEG
+ㅁ 을 더 ,POS
+ㅁ 을 얻 ,POS
+ㅁ 의 ,POS
+ㅁ 의 자연 ,POS
+ㅁ 이 ,COMP
+ㅁ 이 더욱 ,POS
+ㅁ 이 뒤섞이 ,COMP
+ㅁ 이 ,POS
+ㅁ 이 ㄴ들 ,POS
+ㅁ 이 라는 ,POS
+마 ,POS
+마감 ,NEG
+마감 에 ,NEG
+마감 에 어쩌 ,NEG
+마냥 ,POS
+마냥 허구 ,POS
+마냥 허구 이 ,POS
+마다 ,NEG
+마다 돌아앉 ,NEG
+마다 돌아앉 아 ,NEG
+마다 에 ,POS
+마다 에 묻 ,POS
+마당 ,POS
+마당 에 ,POS
+마당 에 참여 ,POS
+마땅 ,POS
+마땅 하 ,POS
+마련 ,NEG
+마련 이 ,NEG
+마렵 ,NEG
+마리산 ,POS
+마리산 의 ,POS
+마리산 의 정기 ,POS
+마비 ,NEUT
+마비 되 ,NEUT
+마비 되 고 ,NEUT
+마시 ,NEG
+마시 고 ,NEG
+마시 고 물 ,NEG
+마약 ,NEG
+마약 중독 ,NEG
+마음 ,POS
+마음 대로 ,POS
+마음 에 ,NEG
+마음 에 고통 ,NEG
+마음 에 있 ,POS
+마음 을 ,POS
+마음 을 끝 ,POS
+마음 을 나누 ,COMP
+마음 을 닫 ,NEG
+마음 을 사로잡 ,POS
+마음 을 이야기 ,POS
+마음 의 ,POS
+마음 의 고향 ,POS
+마음 의 여백 ,POS
+마음 이 ,POS
+마음 이 상쾌 ,POS
+마음 이 환하 ,POS
+마음껏 ,POS
+마음껏 울 ,POS
+마음껏 울 시 ,POS
+마음먹 ,NEUT
+마음먹 고 ,NEUT
+마음먹 고 있 ,NEUT
+마인드 ,POS
+마저 ,None
+마저 나돌 ,NEG
+마주치 ,NEG
+마주치 ㄴ ,NEG
+마주치 ㄴ 여자 ,NEG
+마지막 ,POS
+마지막 기회 ,POS
+마지막 기회 이 ,POS
+마지못하 ,NEG
+마찬가지 ,NEG
+마찬가지 이 ,NEG
+마침 ,None
+막 ,POS
+막 을 ,POS
+막 을 올리 ,POS
+막 ,NEG
+막 는 ,POS
+막 는 사슬 ,POS
+막 아 ,NEG
+막 아 버리 ,NEG
+막 을 ,NEG
+막 을 수단 ,NEG
+막다르 ,NEG
+막대 ,POS
+막대 하 ,POS
+막막 ,NEG
+막막 하 ,NEG
+막막 하 다 ,NEG
+막중 ,COMP
+막중 하 ,COMP
+막히 ,POS
+막히 ㄴ ,POS
+막히 ㄴ 언로 ,POS
+만 ,None
+만 가지 ,None
+만 가지 고 ,None
+만 같 ,POS
+만 나오 ,NEG
+만 나오 면 ,NEG
+만 남 ,NEG
+만 남 게 ,NEG
+만 도 ,POS
+만 도 아니 ,POS
+만 먹 ,NEG
+만 먹 으려고 ,NEG
+만 벗어나 ,POS
+만 벗어나 지 ,POS
+만 보 ,NEG
+만 보 는 ,NEG
+만 보 ㄹ ,NEG
+만 보이 ,NEG
+만 보이 ㄴ다 ,NEG
+만 빠지 ,NEG
+만 빠지 면 ,NEG
+만 아니 ,None
+만 아니 라 ,None
+만 으로 ,POS
+만 으로 가슴 ,POS
+만 은 ,NEUT
+만 은 아니 ,NEUT
+만 을 ,NEG
+만 을 고집 ,NEG
+만 을 흡수 ,POS
+만 이 ,None
+만 이 아니 ,None
+만 이 ,NEG
+만 이 위기 ,NEG
+만 이 ,NEG
+만 이 라도 ,NEG
+만 일삼 ,NEG
+만 전념 ,POS
+만 전념 하 ,POS
+만 참 ,POS
+만 참 고 ,POS
+만 하 ,NEUT
+만 하 아도 ,NEUT
+만 하 ,None
+만 환불 ,NEG
+만 환불 하 ,NEG
+만 활성 ,NEG
+만 활성 화 ,NEG
+만 ,POS
+만 하 ,POS
+만 하 ㄴ ,POS
+만 ,POS
+만 여 ,POS
+만 여 달러 ,POS
+만 원 ,NEG
+만 원 을 ,NEG
+만 원 의 ,POS
+만나 ,POS
+만나 ㄹ ,POS
+만나 ㄹ 수 ,POS
+만능 ,POS
+만능 조리기 ,POS
+만능 조리기 보다 ,POS
+만들 ,POS
+만들 는 ,POS
+만들 는 것 ,POS
+만들 시 ,NEG
+만들 시 고 ,NEG
+만들 어 ,POS
+만들 어 내 ,POS
+만들 어야 ,NEUT
+만들 어야 겠 ,NEUT
+만들 었 ,POS
+만들 었 죠 ,POS
+만만찮 ,NEUT
+만물 ,POS
+만물 이 ,POS
+만물 이 공존 ,POS
+만족 ,NEG
+만족 하 ,NEG
+만족 하 지 ,NEG
+만지 ,NEG
+만지 어 ,NEG
+만지 어 보 ,NEG
+만큼 ,None
+만큼 위대 ,POS
+만큼 위대 하 ,POS
+만큼 ,None
+만큼 낙천 ,COMP
+만큼 낙천 적 ,COMP
+만큼 도 ,POS
+만큼 도 불행 ,POS
+만큼 인상 ,POS
+만큼 인상 적 ,POS
+만화 ,POS
+만화 계 ,POS
+만화 계 에서 ,POS
+만화 계 최대 ,POS
+만화 공화국 ,POS
+만화 에 ,POS
+만화 에 관하 ,POS
+만화 판 ,POS
+만화 판 의 ,POS
+많 ,NEG
+많 고 ,POS
+많 고 맛 ,POS
+많 다 ,NEUT
+많 아 ,NEG
+많 아 교육 ,NEG
+많 아 지 ,NEG
+많 아요 ,NEG
+많 은 ,NEG
+많 은 가족 ,POS
+많 은 관심 ,NEG
+많 은 논란 ,NEG
+많 은 사람 ,POS
+많 지 ,NEG
+많 지 않 ,NEG
+많이 ,NEG
+많이 관여 ,NEUT
+많이 관여 하 ,NEUT
+많이 나오 ,POS
+많이 마렵 ,NEG
+많이 몰리 ,POS
+많이 몰리 는 ,POS
+많이 발생 ,NEG
+많이 발생 하 ,NEG
+많이 붙 ,NEG
+많이 붙 어 ,NEG
+많이 생기 ,NEG
+많이 생기 고 ,NEG
+많이 하 ,NEG
+많이 하 ㄴ다 ,POS
+많이 하 아야 ,NEG
+말 ,NEG
+말 도 ,NEG
+말 도 꺼내 ,NEG
+말 로 ,NEG
+말 로 는 ,NEG
+말 로 아이 ,NEG
+말 은 ,NEG
+말 은 잘 ,NEG
+말 이 ,NEG
+말 이 물음표 ,NEG
+말 이 통하 ,NEG
+말 이 ,NEG
+말 이 ㄴ가 ,NEG
+말 이 ㄴ지 ,NEG
+말 이 야 ,NEG
+말 하 ,POS
+말 하 ㄹ ,NEG
+말 하 아 ,None
+말 하 자면 ,NEG
+말 하 지만 ,None
+말 ,NEUT
+말 고 ,NEUT
+말 고 화장실 ,NEUT
+말 ,None
+말 ㄹ ,None
+말 ㄹ 것 ,None
+말 아야 ,POS
+말 아야 하 ,POS
+말리 ,POS
+말리 ㄴ ,POS
+말리 ㄴ 것 ,POS
+말문 ,NEG
+말문 을 ,NEG
+말문 을 닫 ,NEG
+말씀 ,POS
+말씀 을 ,POS
+말씀 을 떠오르 ,POS
+말씀 의 ,POS
+말씀 의 세계 ,POS
+맛 ,POS
+맛 있 ,POS
+맛 있 는지 ,POS
+맛보 ,NEG
+맛보 ㄹ ,POS
+맛보 ㄹ 수 ,POS
+맛있 ,NEG
+맛있 는 ,NEG
+맛있 는 꿀 ,NEG
+망동 ,NEG
+망동 을 ,NEG
+망동 을 저지르 ,NEG
+망령 ,NEG
+망상 ,NEG
+망설이 ,NEG
+망설이 고 ,NEG
+망설이 고 괴로워하 ,NEG
+망하 ,NEG
+맞 ,POS
+맞 게 ,NEG
+맞 게 되 ,NEG
+맞 아 ,POS
+맞 아 그래 IC,POS
+맞 아 떨어지 ,POS
+맞 지 ,NEG
+맞 지 않 ,NEG
+맞서 ,NEG
+맞서 자 ,NEG
+맞추 ,POS
+맞추 는 ,POS
+맞추 는 데 ,POS
+매기 ,COMP
+매끄럽 ,POS
+매끄럽 게 ,POS
+매끄럽 게 하 ,POS
+매끈 ,POS
+매끈 하 ,POS
+매니아 ,POS
+매달리 ,NEG
+매달리 어 ,NEG
+매달리 어 살 ,NEG
+매력 ,POS
+매우 ,POS
+매우 적 ,POS
+매우 중요 ,POS
+매우 중요 하 ,POS
+매우 착실 ,POS
+매우 착실 하 ,POS
+매일 ,NEG
+매일 같이 ,NEG
+매일 같이 붓 ,NEG
+매혹 ,POS
+매혹 시키 ,POS
+맥 ,NEG
+맥 이 ,NEG
+맥 이 끊기 ,NEG
+맴돌 ,NEG
+맹종 ,NEG
+맹종 하 ,NEG
+맺 ,NEG
+맺 었 ,NEG
+맺 었 더라면 ,NEG
+머리 ,NEG
+머리 가 ,NEUT
+머리 가 아프 ,NEUT
+머리 도 ,NEG
+머리 도 깎 ,NEG
+머리 를 ,NEG
+머리 를 짧 ,NEG
+머리 에 ,POS
+머리 에 두르 ,POS
+머리 짧 ,NEG
+머리 짧 으면 ,NEG
+머무르 ,NEG
+머뭇거리 ,NEG
+머뭇거리 게 ,NEG
+머뭇거리 게 만들 ,NEG
+먹 ,NEG
+먹 고 ,NEG
+먹 고 사 ,NEG
+먹 고 살 ,NEG
+먹 고 싶 ,POS
+먹 는 ,NEG
+먹 는 적막 ,NEG
+먹 는다 ,POS
+먹 는다 는 ,POS
+먹 으려고 ,NEG
+먹 으려고 까맣 ,NEG
+먹 을 ,NEG
+먹 을 것 ,NEG
+먹 자니 ,NEG
+먹 자니 몹시 ,NEG
+먹이 ,NEG
+먼저 ,POS
+먼저 꼽 ,POS
+먼저 꼽 을 ,POS
+먼저 밤낮 ,NEG
+먼저 밤낮 을 ,NEG
+먼저 배달 ,POS
+먼저 배달 나가 ,POS
+먼저 필요 ,POS
+먼저 필요 하 ,POS
+멀 ,NEG
+멀 게 ,NEG
+멀 게 느끼 ,NEG
+멀 어 ,NEG
+멀 어 지 ,NEG
+메시지 ,POS
+메시지 를 ,POS
+메시지 를 가지 ,POS
+메우 ,POS
+며 ,NEG
+며 거울 ,POS
+며 거울 이 ,POS
+며 뛰어다니 ,NEG
+며 뛰어다니 ㄴ ,NEG
+며 반짝이 ,POS
+며 반짝이 는 ,POS
+며 살아오 ,POS
+며 살아오 ㄴ ,POS
+며 심화 ,POS
+며 심화 시키 ,POS
+며 쓰러지 ,NEG
+며 주전자 ,POS
+며 주전자 들 ,POS
+며 지나치 ,NEG
+며 지나치 게 ,NEG
+며 하 ,NEG
+며 하 는 ,NEG
+며 희생자 ,NEG
+면 ,POS
+면 가장 ,NEG
+면 가장 크 ,NEG
+면 고개 ,NEG
+면 고개 를 ,NEG
+면 되 ,POS
+면 되 잖아요 ,POS
+면 마음껏 ,POS
+면 마음껏 울 ,POS
+면 모든 ,POS
+면 모든 것 ,POS
+면 사정 ,POS
+면 사정 이 ,POS
+면 실패자 ,NEG
+면 실패자 이 ,NEG
+면 어둠 ,POS
+면 어둠 은 ,POS
+면 어쩌 ,NEG
+면 어쩌 나 ,NEG
+면 엄마 ,NEG
+면 엄마 처럼 ,NEG
+면 여유 ,POS
+면 여유 가 ,POS
+면 작 ,NEG
+면 작 은 ,NEG
+면 저절로 ,POS
+면 저절로 생기 ,POS
+면 절대 ,POS
+면 절대 나아가 ,POS
+면 절로 ,POS
+면 절로 신 ,POS
+면 한 ,NEG
+면 한 이 ,NEG
+면 ,POS
+면 이 ,POS
+면 이 많 ,POS
+면모 ,POS
+면모 는 ,POS
+면모 는 별반 ,POS
+면서 ,NEUT
+면서 도 ,POS
+면서 도 현란 ,POS
+면서 만화 ,POS
+면서 만화 판 ,POS
+면서 비행기 ,NEUT
+면서 비행기 안 ,NEUT
+면적 ,POS
+면적 을 ,POS
+면허 ,POS
+면허 를 ,POS
+면허 를 가지 ,POS
+명 ,NEG
+명 미만 ,NEG
+명 미만 의 ,NEG
+명 에 ,NEG
+명 에 그치 ,NEG
+명 에 달하 ,NEG
+명 이 ,NEUT
+명 이 해외 ,NEUT
+명백 ,NEG
+명백 하 ,NEG
+명백 하 ㄴ ,NEG
+명백히 ,NEG
+명백히 잘못 ,NEG
+명백히 잘못 되 ,NEG
+명분 ,POS
+명분 삼 ,POS
+명성 ,POS
+명성 을 ,POS
+명성 을 얻 ,POS
+명소 ,POS
+명시 ,NEG
+명시 하 ,NEG
+명시 하 지 ,NEG
+명실공히 ,POS
+명실공히 국민 ,POS
+명실공히 국민 기업 ,POS
+명예 ,NEG
+명예 를 ,NEG
+명예 를 안 ,NEG
+명인 ,POS
+명징 ,NEUT
+명징 하 ,NEUT
+명징 하 게 ,NEUT
+명찰 ,POS
+몇 ,NEG
+몇 천만 ,NEG
+몇 천만 원 ,NEG
+모델 ,POS
+모델료 ,POS
+모두* ,NEG
+모두* 그러* ,NEG
+모두* 그러* 어* ,NEG
+모두 ,POS
+모두 발 ,POS
+모두 발 벗 ,POS
+모두 어우러지 ,POS
+모두 어우러지 어 ,POS
+모두 쵸티 ,POS
+모두 쵸티 오빠 ,POS
+모두 ,NEUT
+모두 남쪽 ,NEUT
+모두 남쪽 으로 ,NEUT
+모든 ,POS
+모든 것 ,POS
+모든 것 이 ,POS
+모든 달력 ,NEG
+모든 달력 공장 ,NEG
+모든 아버지 ,NEG
+모든 아버지 공장장 ,NEG
+모든 아이 ,POS
+모든 아이 들 ,POS
+모르 ,NEG
+모르 게 ,NEG
+모르 겠 ,None
+모르 ㄴ다는 ,NEG
+모르 ㄴ다는 불안감 ,NEG
+모르 니까 ,None
+모방 ,POS
+모방 하 ,POS
+모방 하 지 ,POS
+모색 ,POS
+모순 ,NEG
+모습 ,NEG
+모습 으로 ,POS
+모습 으로 나타나 ,POS
+모습 을 ,NEG
+모습 을 보이 ,NEG
+모습 한 ,NEG
+모습 한 번 ,NEG
+모으 ,POS
+모으 ㄴ ,POS
+모으 ㄴ 기금 ,POS
+모으 아 ,POS
+모으 아 지 ,POS
+모으 아 하 ,POS
+모으 았 ,POS
+모으 았 습니다 ,POS
+모이 ,NEG
+모이 ㄴ ,NEUT
+모이 ㄴ 이유 ,NEUT
+모이 어 ,NEG
+모이 어 있 ,NEG
+모자라 ,NEG
+모자라 아 ,NEG
+모자라 아 고통 ,NEG
+모집 ,POS
+모집 인원 ,POS
+모집 인원 의 ,POS
+모처럼 ,None
+모험 ,NEG
+모호 ,NEG
+모호 하 ,NEG
+목 ,POS
+목 을 ,POS
+목 을 놓 ,POS
+목메 ,NEG
+목소리 ,POS
+목소리 가 ,NEG
+목소리 가 높 ,NEG
+목소리 높이 ,POS
+목소리 높이 기 ,POS
+목소리 도 ,NEG
+목소리 도 높 ,NEG
+목소리 를 ,POS
+목소리 를 내 ,POS
+목숨 ,NEG
+목숨 을 ,NEG
+목숨 을 앗 ,NEG
+목숨 을 잃 ,NEG
+목적 ,POS
+목적 으로 ,POS
+목표 ,POS
+몰두 ,POS
+몰두 하 ,POS
+몰락 ,NEG
+몰락 하 ,NEG
+몰락 하 아 ,NEG
+몰리 ,POS
+몰리 는 ,POS
+몰리 는 곳 ,POS
+몰아닥치 ,POS
+몸 ,NEG
+몸 에 ,NEG
+몸 에 대하 ,NEG
+몸 에 맞 ,POS
+몸 으로 ,NEG
+몸 으로 숨 ,NEG
+몸 을 ,NEG
+몸 을 꼬 ,NEG
+몸 장난 ,POS
+몸 장난 을 ,POS
+몸살 ,POS
+몸살 을 ,POS
+몸살 을 앓 ,POS
+몸서리치 ,NEG
+몹시 ,NEG
+몹시 쓰 ,NEG
+몹시 쓰 군 ,NEG
+못* ,NEG
+못* 하* ,NEG
+못* 하* 겠 ,NEG
+못 ,NEG
+못 갚 ,POS
+못 갚 는 ,POS
+못 그리 ,NEG
+못 내놓 ,NEG
+못 내놓 는 ,NEG
+못 되 ,NEG
+못 미치 ,NEG
+못 잊 ,POS
+못 잡 ,NEG
+못 잡 고 ,NEG
+못 하 ,POS
+못 하 고 ,POS
+못내 ,NEG
+못내 안스럽 ,NEG
+못내 안타까워하 ,NEG
+못마땅 ,NEG
+못마땅 하 ,NEG
+못마땅 하 게 ,NEG
+못하 ,NEG
+못하 겠 ,NEG
+못하 ,NEG
+못하 겠 ,POS
+못하 겠 습니까 ,POS
+못하 고 ,NEG
+못하 고 싸움 ,NEG
+못하 ㄴ ,NEG
+못하 ㄴ 것 ,NEG
+못하 ㄴ 상태 ,NEG
+못하 ㄴ 채 ,NEG
+못하 ㄴ다 ,NEG
+못하 다고 ,NEG
+못하 다고 보* ,NEG
+못하 다는 ,NEG
+못하 다는 소리 ,NEG
+못하 도록 ,NEG
+못하 도록 하* ,NEG
+못하 ㄹ ,POS
+못하 ㄹ 이유 ,POS
+못하 았 ,NEG
+못하 았 던 ,NEG
+못하 았 으니 ,NEG
+몽골 ,POS
+몽골 의 ,POS
+몽골 의 광활 ,POS
+묘하 ,COMP
+묘하 게 ,POS
+무 ,NEG
+무 방비 ,NEG
+무 방비 속 ,NEG
+무 의미 ,NEG
+무 의미 하 ,NEG
+무 의식 ,POS
+무 의식 적 ,POS
+무 조건 ,POS
+무 조건 적 ,POS
+무 책임 ,NEG
+무 책임 하 ,NEG
+무 혐의 ,NEUT
+무 혐의 처리 ,NEUT
+무겁 ,POS
+무겁 어 ,POS
+무겁 어 보이 ,POS
+무게 ,NEG
+무게 불리 ,NEG
+무게 불리 ㄴ ,NEG
+무관 ,NEG
+무관 하 ,NEG
+무관 하 지 ,NEG
+무극 ,POS
+무극 같 ,POS
+무극 같 은 ,POS
+무난 ,POS
+무늬 ,NEG
+무늬 로 ,NEG
+무늬 로 가장 ,NEG
+무단 ,NEG
+무단 가출 ,NEG
+무대 ,POS
+무대 를 ,POS
+무대 를 달구 ,POS
+무대 를 이끌 ,POS
+무대 활성 ,POS
+무대 활성 화 ,POS
+무덤 ,POS
+무덤 에서 ,POS
+무덤 에서 불러오 ,POS
+무려 ,None
+무례 ,NEG
+무례 하 ,NEG
+무례 하 ㄴ ,NEG
+무료 ,POS
+무르익 ,POS
+무릅쓰 ,NEG
+무리 ,NEG
+무리 가 ,POS
+무리 가 없 ,POS
+무리 이 ,NEG
+무모 ,NEG
+무모 하 ,NEG
+무산 ,NEG
+무산 시키 ,NEG
+무섭 ,NEG
+무섭 ㄴ ,NEG
+무섭 ㄴ 사회 ,NEG
+무슨 ,NEG
+무슨 말 ,NEG
+무슨 말 이 ,NEG
+무슨 이야기 ,NEUT
+무슨 이야기 를 ,NEUT
+무심코 ,NEG
+무엇 ,POS
+무엇 ㄹ ,NEG
+무엇 ㄹ 하 ,NEG
+무엇 보다 ,None
+무엇 보다 도 ,None
+무엇 보다 소중 ,POS
+무엇 보다 요구 ,POS
+무엇 을 ,COMP
+무엇 을 사랑 ,COMP
+무엇 을 하 ,POS
+무엇 이 ,COMP
+무엇 이 성공 ,COMP
+무엇 이 ,COMP
+무엇 이 ㄴ가 ,COMP
+무용 ,POS
+무용 행사 ,POS
+무용 행사 이 ,POS
+무척 ,NEG
+무척 냉소 ,NEG
+무척 냉소 적 ,NEG
+무척 어렵 ,NEG
+무효 ,NEG
+무효 결정 ,NEG
+무효 결정 을 ,NEG
+묵* ,NEUT
+묵* 은 ,NEUT
+묵* 은 유행가 ,NEUT
+문 ,NEG
+문 들 ,NEUT
+문 들 투성이 ,NEUT
+문 이 ,NEG
+문 이 있 ,NEG
+문맹 ,NEG
+문제 ,NEG
+문제 가 ,NEG
+문제 가 아니 ,NEG
+문제 가 ,NEG
+문제 가 많 ,NEG
+문제 가 없 ,POS
+문제 도 ,POS
+문제 도 발견 ,POS
+문제 들 ,NEG
+문제 들 이 ,NEG
+문제 로 ,NEG
+문제 로 떠오르 ,NEG
+문제 를 ,NEG
+문제 를 제기 ,NEG
+문제 만 ,NEUT
+문제 만 은 ,NEUT
+문제 시 ,NEUT
+문제 시 되 ,NEUT
+문제 이 ,NEG
+문제 투성이 ,NEG
+문제의식 ,NEG
+문제의식 이 ,POS
+문제의식 이 날카롭 ,POS
+문제의식 조차 ,NEG
+문제의식 조차 느끼 ,NEG
+문제점 ,NEG
+문제점 을 ,NEG
+문제점 을 내포 ,NEG
+문제점 을 절감 ,NEG
+문지르 ,NEG
+문지르 며 ,NEG
+문지르 며 하 ,NEG
+문턱 ,POS
+문턱 을 ,POS
+문턱 을 낮추 ,POS
+문화 ,POS
+문화 의 ,POS
+문화 의 경험 ,POS
+문화 의 다양 ,POS
+문화 의 단절 ,NEG
+문화 적 ,POS
+문화 적 부가 ,POS
+문화 진보 ,POS
+문화 진보 에 ,POS
+문화 판 ,NEG
+문화 판 을 ,NEG
+문화재 ,POS
+문화재 사랑 ,POS
+문화재 사랑 은 ,POS
+묻 ,NEG
+묻 고 ,NEG
+묻 고 정들 ,NEG
+묻어나 ,NEUT
+묻히 ,NEG
+묻히 버리 ,NEG
+물 ,NEG
+물 로 ,POS
+물 로 선정 ,POS
+물 속 ,NEG
+물 속 에 ,NEG
+물 속 에서 ,NEG
+물 에 ,NEG
+물 에 빠지 ,NEG
+물 한 ,NEG
+물 한 동이 ,NEG
+물 ,NEG
+물건 ,POS
+물건 은 ,POS
+물건 은 장 ,POS
+물건 을 ,POS
+물건 을 내놓 ,POS
+물건 이 ,POS
+물건 이 뭐 ,POS
+물고기 ,POS
+물러가 ,POS
+물론 ,None
+물론 안 ,NEG
+물론 안 하 ,NEG
+물론 ,None
+물론 이 ,None
+물살 ,POS
+물살 을 ,POS
+물살 을 타 ,POS
+물음표 ,NEG
+물음표 없이 ,NEG
+물음표 없이 대중 ,NEG
+물질 ,POS
+물질 이용법 ,POS
+물질 이용법 을 ,POS
+물체 ,NEUT
+물체 가 ,NEUT
+물체 가 둘 ,NEUT
+뭇 ,NEUT
+뭇 벌레 ,NEUT
+뭐 IC,NEG
+뭐 ,POS
+뭐 가 ,POS
+뭐 가 있 ,POS
+뭐 대단 ,POS
+뭐 대단 하 ,POS
+뭐 이 ,NEG
+뭐 이 야 ,NEG
+므로 ,POS
+므로 규정 ,POS
+므로 규정 에 ,POS
+미 ,NEG
+미 법원 ,NEG
+미 법원 편견 ,NEG
+미국 ,POS
+미국 도 ,POS
+미국 도 경제 ,POS
+미국 보다 ,POS
+미국 보다 높 ,POS
+미국 에서 ,NEUT
+미국 에서 영화 ,NEUT
+미국 은 ,NEG
+미국 은 밖 ,NEG
+미국인 ,POS
+미국인 에 ,POS
+미국인 에 관하 ,POS
+미군 ,NEG
+미군 성희롱 ,NEG
+미군 성희롱 사건 ,NEG
+미끄럼 ,NEG
+미끄럼 방지 ,NEG
+미끄럼 방지 처리 ,NEG
+미끼 ,NEG
+미끼 가 ,NEG
+미끼 가 바늘 ,NEG
+미디어 ,NEG
+미디어 에서 ,NEG
+미디어 에서 떠들 ,NEG
+미래 ,POS
+미래 는 ,POS
+미래 는 저지르 ,POS
+미래 의 ,POS
+미래 의 세대 ,POS
+미만 ,NEG
+미만 의 ,NEG
+미만 의 관객 ,NEG
+미숙 ,NEG
+미숙 하 ,POS
+미숙 하 ㄴ ,POS
+미술 ,POS
+미술 상 ,POS
+미술 상 수상 ,POS
+미술인 ,COMP
+미술인 들 ,COMP
+미술인 들 이 ,COMP
+미워하 ,POS
+미워하 ㄹ ,POS
+미워하 ㄹ 수 ,POS
+미제 ,NEG
+미제 놈 ,NEG
+미제 놈 들 ,NEG
+미지수 ,NEG
+미지수 로 ,NEG
+미지수 로 보이 ,NEG
+미치 ,NEG
+미치 고 ,POS
+미치 고 싶 ,POS
+미치 ㄴ ,NEG
+미치 ㄴ 건배 ,NEG
+미치 었 ,NEG
+미치 었 다고 ,NEG
+미학 ,NEG
+미학 이 ,NEG
+미학 이 라는 ,NEG
+미형 ,POS
+미형 캐릭터 ,POS
+미화원 ,POS
+미화원 이 ,POS
+미화원 이 되 ,POS
+민 ,POS
+민 권 ,POS
+민 권 운동 ,POS
+민법 ,NEG
+민법 과 ,NEG
+민법 과 모순 ,NEG
+민속품 ,POS
+민속품 을 ,POS
+민속품 을 전시 ,POS
+민족 ,NEG
+민족 의 ,NEG
+민족 의 삶 ,NEG
+민족 의 영산 ,POS
+민주 ,POS
+민주 적 ,POS
+민주주의 ,NEG
+민주주의 시대 ,NEG
+민주주의 시대 정신 ,NEG
+민중 ,COMP
+민중 적 ,COMP
+민중 적 관점 ,COMP
+민화 ,POS
+민화 의 ,POS
+민화 의 선 ,POS
+믿 ,NEG
+믿 으시 ,NEG
+믿 을 ,NEG
+믿 을 수 ,NEG
+믿 지 ,NEG
+믿 지 못하 ,NEG
+믿 지 않 ,NEG
+믿음직 ,POS
+믿음직 하 ,POS
+밀가루 ,POS
+밀가루 반죽 ,POS
+밀고 ,NEG
+밀고 하 ,NEG
+밀고 하 아 ,NEG
+밀리 ,POS
+밀리 ㄴ ,POS
+밀리 ㄴ 부채 ,POS
+밀어내 ,NEG
+밀어내 는 ,NEG
+밀어내 는 배타 ,NEG
+밑 ,NEG
+밑 에서 ,NEG
+밑 에서 자라 ,NEG
+ㅂ니까 ,NEG
+ㅂ니다 ,POS
+ㅂ니다 ,POS
+ㅂ시다 ,POS
+ㅂ시당 ,POS
+ㅂ시오 ,POS
+바 ,None
+바 있 ,None
+바꾸 ,POS
+바꾸 고 ,NEG
+바꾸 려는 ,POS
+바꾸 려는 움직임 ,POS
+바느질 ,NEUT
+바느질 을 ,NEUT
+바느질 을 하 ,NEUT
+바늘 ,NEG
+바늘 에 ,NEG
+바늘 에 달리 ,NEG
+바닥 ,POS
+바닥 면적 ,POS
+바닥 면적 을 ,POS
+바닥 에 ,POS
+바닥 에 깔리 ,POS
+바라 ,POS
+바라 ㅂ니다 ,POS
+바람 ,None
+바람 에 ,None
+바람 ,POS
+바람 이 ,POS
+바람 이 불 ,POS
+바람직 ,NEG
+바람직 스럽 ,NEG
+바람직 스럽 지 ,NEG
+바람직 하 ,POS
+바람직 하 지 ,NEG
+바로 ,None
+바로 그 ,NEUT
+바로 그 순간 ,POS
+바로 너희 ,NEG
+바로 너희 들 ,NEG
+바로 지금 ,POS
+바로 지금 이용 ,POS
+바보 ,COMP
+바보 스럽 ,COMP
+바보 스럽 ㄹ ,COMP
+바짓가랑이 ,NEG
+바짓가랑이 에 ,NEG
+바짓가랑이 에 흙탕물 ,NEG
+바치 ,POS
+바치 마 ,POS
+바탕 ,POS
+박수 ,POS
+박수 와 ,POS
+박수 와 환호 ,POS
+박시시 ,NEG
+박장대소 ,POS
+박장대소 하 ,POS
+박테리아 ,NEUT
+박테리아 와 ,NEUT
+박테리아 와 따로 ,NEUT
+박해 ,NEG
+밖 ,NEG
+밖 에 ,None
+밖 에 도 ,None
+밖 에서 ,NEG
+밖 에서 보 ,NEG
+밖에 ,None
+밖에 없 ,None
+밖에 없 었 ,NEG
+반 ,POS
+반 만큼 ,POS
+반 만큼 도 ,POS
+반 의 ,POS
+반 의 반 ,POS
+반 ,NEG
+반 사회 ,NEG
+반 사회 적 ,NEG
+반갑 ,POS
+반대 ,NEG
+반대 를 ,NEG
+반대 를 하 ,NEG
+반대 의사 ,NEG
+반대 의사 를 ,NEG
+반대 하 ,NEG
+반대편 ,NEG
+반대편 에 ,NEG
+반대편 에 있 ,NEG
+반드시 ,NEG
+반드시 비 ,NEUT
+반드시 비 반복 ,NEUT
+반드시 혈액 ,NEG
+반드시 혈액 검사 ,NEG
+반론 ,NEG
+반면 ,None
+반문 ,COMP
+반문 하 ,COMP
+반박 ,NEG
+반박 하 ,NEG
+반발 ,NEG
+반복 ,NEG
+반복 은 ,NEG
+반복 은 금물 ,NEG
+반복 적 ,NEUT
+반복 적 이 ,NEUT
+반성 ,NEG
+반성 이 ,NEG
+반어 ,NEUT
+반어 적 ,NEUT
+반영 ,NEG
+반영 하 ,NEG
+반영 하 지 ,NEG
+반응 ,POS
+반응 이 ,POS
+반응 이 좋 ,POS
+반죽 ,POS
+반짝이 ,POS
+반짝이 는 ,POS
+반짝이 는 별빛 ,POS
+반짝이 다 ,POS
+반짝이 다 못하 ,POS
+반찬 ,POS
+반찬 값 ,POS
+반찬 값 등 ,POS
+반추 ,NEUT
+반추 하 ,NEUT
+반항 ,NEUT
+반항 하 ,NEUT
+받 ,POS
+받 게 ,NEG
+받 게 되 ,NEG
+받 겠 ,NEG
+받 겠 다고 ,NEG
+받 고 ,NEG
+받 고 싶 ,NEG
+받 는다면 ,POS
+받 는다면 폐렴 ,POS
+받 은 ,NEG
+받 을 ,NEG
+받 을 가능* ,NEG
+받 을 수 ,NEG
+받 을 필요 ,POS
+받 지 ,NEG
+받 지 못하 ,NEG
+받 지 않 ,POS
+발 ,POS
+발 벗 ,POS
+발 벗 고 ,POS
+발견 ,POS
+발견 되 ,POS
+발견 되 지 ,POS
+발리 ,NEG
+발리 ㄴ ,NEG
+발리 ㄴ 꿀 ,NEG
+발생 ,NEG
+발생 이 ,POS
+발생 이 매우 ,POS
+발생 하 ,NEG
+발언 ,COMP
+발전 ,NEG
+발전 하 ,NEG
+발전 하 ㄴ ,NEG
+발표 ,NEUT
+발표 하 ,NEUT
+발현 ,POS
+발현 이 ,POS
+발휘 ,POS
+발흥 ,POS
+발흥 하 ,POS
+밝 ,NEG
+밝 아 ,NEG
+밝 아 보이 ,NEG
+밝 아 지 ,POS
+밝 지 ,NEG
+밝 지 않 ,NEG
+밝히 ,POS
+밝히 고 ,COMP
+밝히 고 나오 ,COMP
+밝히 ㄴ ,POS
+밝히 ㄴ 소감 ,POS
+밝히 어 ,NEG
+밝히 어 지 ,NEG
+밟 ,NEG
+밤 ,COMP
+밤 길 ,NEG
+밤 길 을 ,NEG
+밤 에 ,NEUT
+밤 에 갑자기 ,NEUT
+밤 을 ,COMP
+밤 을 보내 ,COMP
+밤 이* ,POS
+밤 이* 새 ,POS
+밤낮 ,NEG
+밤낮 간호 ,POS
+밤낮 을 ,NEG
+밤낮 을 만들 ,NEG
+밥 ,NEG
+밥 을 ,NEG
+밥 을 먹 ,NEG
+밥 한술 ,NEG
+밥 한술 이 ,NEG
+방법 ,NEG
+방법 을 ,NEG
+방법 을 가르치 ,NEG
+방법 이 ,POS
+방불 ,POS
+방불 하 ,POS
+방불 하 게 ,POS
+방비 ,NEG
+방비 속 ,NEG
+방송 ,POS
+방수 ,POS
+방심 ,NEG
+방지 ,NEG
+방지 처리 ,NEG
+방지 처리 를 ,NEG
+방침 ,POS
+방침 이 ,POS
+방침 이 나오 ,POS
+배 ,NEG
+배 가까이 ,NEG
+배 가까이 초과 ,NEG
+배 로 ,NEG
+배 로 들 ,NEG
+배 를 ,POS
+배 를 넘어서 ,POS
+배 보복 ,NEG
+배 아프 ,NEG
+배 아프 아 ,NEG
+배 정도 ,NEG
+배 정도 비싸 ,NEG
+배 혹은 ,POS
+배 혹은 수십 ,POS
+배 ,NEUT
+배 감독 ,NEUT
+배 감독 과* ,POS
+배 감독 과 ,POS
+배 감독 이 ,NEUT
+배 ,POS
+배달 ,POS
+배달 나가 ,POS
+배달 나가 ㄹ게요 ,POS
+배반 ,NEG
+배반 당하 ,NEG
+배상 ,NEG
+배상 을 ,NEG
+배상 을 청구 ,NEG
+배신 ,NEG
+배신 과 ,NEG
+배신 과 죄의식 ,NEG
+배신 행위 ,NEG
+배우 ,POS
+배우 들 ,POS
+배우 들 의 ,POS
+배우 ,NEG
+배우 ㄹ ,NEG
+배우 ㄹ 수 ,NEG
+배창호 ,NEG
+배창호 감독 ,NEG
+배창호 감독 의 ,NEG
+배척 ,NEG
+배척 하 ,NEG
+배치 ,NEG
+배치 되 ,NEG
+배치 되 는 ,NEG
+배타 ,NEG
+배타 적 ,NEG
+배타 적 이 ,POS
+백 ,NEG
+백 가지 ,NEG
+백 가지 가 ,NEG
+백 가지 단점 ,NEG
+백 명 ,NEG
+백 명 에 ,NEG
+백 여 ,POS
+백 여 만 ,POS
+백만 ,NEUT
+백만 대 ,POS
+백만 대 를 ,POS
+백만 명 ,NEUT
+백만 명 이 ,NEUT
+백일하 ,NEG
+백일하 에 ,NEG
+백일하 에 드러내 ,NEG
+백천 ,POS
+백천 번 ,POS
+백천 번 돌 ,POS
+백화점 ,POS
+백화점 등 ,POS
+백화점 등 사람 ,POS
+밴드 ,NEG
+밴드 가 ,NEG
+밴드 가 쉽 ,NEG
+버리 ,NEG
+버리 지 ,NEG
+버리 지 못하 ,NEG
+버리 ,NEG
+버리 고 ,NEG
+버리 고 양심 ,NEG
+버리 시 ,POS
+버리 시 ㅂ시오 ,POS
+버리 었 ,COMP
+버리 었 습니다 ,COMP
+버림받 ,NEG
+버림받 을까 ,NEG
+버림받 을까 두렵 ,NEG
+버젓이 ,NEG
+버튼 ,POS
+버튼 하나 ,POS
+버튼 하나 로 ,POS
+버티 ,NEG
+버티 ㄴ ,NEG
+버티 ㄴ 여기 ,NEG
+버팀목 ,POS
+버팀목 이 ,POS
+버팀목 이 고 ,POS
+버팅기 ,POS
+버팅기 게 ,POS
+버팅기 게 하 ,POS
+벅차 ,NEG
+번 ,NEG
+번 구설수 ,NEG
+번 구설수 가 ,NEG
+번 다시없 ,NEG
+번 도 ,NEG
+번 도 없 ,NEG
+번 돌 ,POS
+번 돌 더라도 ,POS
+번 만 ,NEG
+번 만 이 ,NEG
+번 이상 ,NEUT
+번 이상 가 ,NEUT
+번 제대로 ,NEG
+번 제대로 보 ,NEG
+번 중고 ,POS
+번 중고 등산 ,POS
+번들번들 ,NEG
+번들번들 하 ,NEG
+번들번들 하 ㄴ ,NEG
+번복 ,NEG
+번복 하 ,NEG
+번식 ,POS
+번식 하 ,POS
+번식 하 기 ,POS
+번영 ,POS
+번지 ,NEG
+번지 ㅁ ,NEG
+번지 ㅁ 발생 ,NEG
+번호 ,POS
+번호 에 ,POS
+번호 에 스스로 ,POS
+벌 ,POS
+벌레 ,NEUT
+벌써 ,NEG
+벌어지 ,NEG
+벌어지 ㄴ듯 ,POS
+벌어지 ㄴ듯 기 ,POS
+범인 ,NEG
+범인 으로 ,NEG
+범인 으로 단정 ,NEG
+범죄 ,NEG
+범죄 를 ,NEG
+범죄 를 일으키 ,NEG
+범하 ,NEG
+법 ,NEG
+법 위반 ,NEG
+법 위반 혐의 ,NEG
+법원 ,NEG
+법원 편견 ,NEG
+법원 편견 이 ,NEG
+법칙 ,POS
+벗 ,POS
+벗 이 ,POS
+벗 이 었 ,POS
+벗 ,POS
+벗 고 ,POS
+벗 고 나서 ,POS
+벗어나 ,POS
+벗어나 지 ,POS
+벗어나 지 않 ,POS
+베로나 ,POS
+베로나 지방 ,POS
+베로나 지방 산 ,POS
+베풀 ,POS
+벼르 ,POS
+벽 ,POS
+벽 을 ,POS
+벽 을 깨 ,POS
+벽 이 ,POS
+벽 이 허물 ,POS
+벽 허물 ,POS
+벽두 ,NEG
+벽두 가 ,NEG
+벽두 가 그리 ,NEG
+벽화 ,POS
+벽화 를 ,POS
+벽화 를 재현 ,POS
+변신 ,POS
+변신 하 ,POS
+변조 ,NEG
+변조 가 ,NEG
+변조 가 성행 ,NEG
+변하 ,POS
+변호사 ,NEG
+변호사 법 ,NEG
+변호사 법 위반 ,NEG
+변화 ,NEG
+변화 가 ,NEG
+변화 가 생기 ,NEG
+변화 에 ,NEG
+변화 에 적응력 ,NEG
+별 ,NEG
+별 문제 ,NEG
+별 문제 가 ,NEG
+별 ,POS
+별 과 ,POS
+별 과 함께 ,POS
+별도 ,POS
+별도 의 ,POS
+별도 의 연기 ,POS
+별따기 ,NEG
+별로 ,NEG
+별로 특출 ,NEG
+별로 특출 나 ,NEG
+별반 ,POS
+별반 달라지 ,POS
+별반 달라지 ㄴ ,POS
+별빛 ,POS
+별빛 이 ,POS
+별빛 이 쏟아지 ,POS
+병 ,POS
+병 에 ,NEG
+병 에 걸리 ,NEG
+병 은 ,POS
+병 은 벌 ,POS
+병 중 ,POS
+병 중 소일 ,POS
+병기 ,POS
+병들 ,NEG
+병들 ㄴ ,NEG
+병들 ㄴ 몸 ,NEG
+병원 ,NEG
+병원 에서 ,NEG
+병원 에서 도 ,NEG
+보* ,NEG
+보* 면 ,POS
+보* 면 여유 ,POS
+보* 았 ,NEG
+보* 았 는데 ,NEG
+보 ,NEG
+보 고 ,COMP
+보 고 싶 ,COMP
+보 기 ,NEUT
+보 기 어렵 ,POS
+보 기 에 ,NEUT
+보 는 ,NEG
+보 는 구태 ,NEG
+보 는 듯 ,POS
+보 ㄹ ,POS
+보 ㄹ 만 ,POS
+보 ㄹ 수 ,NEG
+보 라고 ,NEG
+보 라고 하 ,NEG
+보 러 ,POS
+보 러 가 ,POS
+보 면 ,NEG
+보 면 가장 ,NEG
+보 면 실패자 ,NEG
+보 면 작 ,NEG
+보 시 ,NEG
+보 시 어요 ,NEG
+보 아 ,NEG
+보 아 주 ,NEG
+보 았 ,POS
+보 았 다 ,POS
+보 지 ,NEG
+보 지 않 ,NEG
+보 ,POS
+보 고 ,NEG
+보 고 싶 ,NEG
+보 면 ,NEG
+보 아 ,NEG
+보 아 머리 ,NEG
+보 아라 ,POS
+보 아야 ,POS
+보 아야 하 ,POS
+보 자고 ,POS
+보 자고 의견 ,POS
+보 자는 ,None
+보건 ,POS
+보건 요원 ,POS
+보건 요원 들 ,POS
+보내 ,COMP
+보다 ,POS
+보다 간편 ,POS
+보다 간편 하 ,POS
+보다 그동안 ,POS
+보다 그동안 연구 ,POS
+보다 높 ,POS
+보다 높 은 ,POS
+보다 는 ,None
+보다 더 ,POS
+보다 더 인간 ,POS
+보다 더 활짝 ,POS
+보다 도 ,None
+보다 도 중요 ,POS
+보다 뜨겁 ,POS
+보다 뜨겁 었 ,POS
+보다 마음 ,POS
+보다 마음 의 ,POS
+보다 소중 ,POS
+보다 소중 하 ,POS
+보다 싸 ,POS
+보다 오히려 ,POS
+보다 오히려 훨씬 ,POS
+보다 요구 ,POS
+보다 요구 되 ,POS
+보다 자극 ,POS
+보다 자극 성 ,POS
+보다 짧 ,NEG
+보다 ,POS
+보다 조직 ,POS
+보다 조직 적 ,POS
+보도 ,NEUT
+보람 ,POS
+보람 도 ,POS
+보람 도 느끼 ,POS
+보복 ,NEG
+보복 협박 ,NEG
+보복 협박 을 ,NEG
+보상 ,NEG
+보상 을 ,NEG
+보상 을 받 ,NEG
+보습 ,POS
+보습 에 ,POS
+보습 에 도움 ,POS
+보완 ,POS
+보이 ,POS
+보이 ㄴ다 ,NEUT
+보이 ㄴ다 든지 ,NEUT
+보이 ㄴ다 ,NEG
+보이 면 ,NEG
+보이 면 엄마 ,NEG
+보이 어 ,NEG
+보이 어 주 ,NEG
+보이 지 ,POS
+보이 지 않 ,POS
+보장 ,POS
+보장 받 ,POS
+보탬 ,NEG
+보탬 이 ,NEG
+보탬 이 되 ,NEG
+보호 ,POS
+보호 받 ,POS
+복수 ,NEG
+복습 ,POS
+복습 하 ,POS
+복습 하 며 ,POS
+복식관 ,NEG
+복식관 과 ,NEG
+복식관 과 일반 ,NEG
+복원 ,POS
+복원 하 ,POS
+복잡 ,NEG
+복잡 하 ,NEUT
+복잡 하 게 ,NEUT
+복잡 하 ㄴ ,POS
+본 ,NEG
+본 따리 ,NEG
+본 따리 어 ,NEG
+본격 ,POS
+본격 적 ,POS
+본격 적 으로 ,POS
+본격 추진 ,POS
+본격 화 ,POS
+봉건 ,POS
+봉건 시대 ,POS
+봉건 시대 여성 ,POS
+봉사자 ,POS
+봉양 ,POS
+봉양 하 ,POS
+봉투 ,NEG
+봉투 로 ,NEG
+봉투 로 도 ,NEG
+부 ,NEG
+부 정확 ,NEG
+부가 ,POS
+부가 가치 ,POS
+부가 가치 를 ,POS
+부각 ,NEG
+부끄럽 ,COMP
+부끄럽 지 ,COMP
+부끄럽 지 ㄴ ,COMP
+부담 ,NEG
+부담 이 ,NEG
+부담 이 되 ,NEG
+부담 이 ,POS
+부담 이 거의 ,POS
+부담 이 과중 ,NEG
+부담 이 없 ,POS
+부대 ,POS
+부대 행사 ,POS
+부대 행사 도 ,POS
+부드럽 ,POS
+부럽 ,POS
+부르 ,NEUT
+부르 어 ,NEUT
+부르트 ,POS
+부르트 고 ,POS
+부르트 고 몸살 ,POS
+부모 ,NEG
+부부 ,NEG
+부부 간 ,NEG
+부부 간 상속 ,NEG
+부분 ,NEUT
+부분 을 ,NEUT
+부분 을 고치 ,NEUT
+부분 이 ,POS
+부분 이 구별 ,POS
+부상 ,NEG
+부상 도 ,NEG
+부상 도 수 ,NEG
+부수 ,COMP
+부수 는 ,COMP
+부수 는 것 ,COMP
+부실 ,NEG
+부위 ,POS
+부위 는 ,POS
+부위 는 치유 ,POS
+부재 ,NEG
+부정 ,NEG
+부조리 ,NEG
+부족 ,NEG
+부족 하 ,NEG
+부족 하 ㄴ ,NEG
+부지런 ,POS
+부지런 하 ,POS
+부진 ,NEG
+부쩍 ,None
+부쩍 늘 ,POS
+부채 ,POS
+부채 를 ,POS
+부채 를 탕감 ,POS
+부채 질 ,POS
+부채 질 하 ,POS
+부추기 ,COMP
+부추기 는 ,COMP
+부추기 는 발언 ,COMP
+부탁 ,POS
+부탁 하 ,POS
+부터 ,POS
+부터 가 ,COMP
+부터 가 더욱 ,COMP
+부터 ㄴ ,POS
+부터 ㄴ 진정 ,POS
+부터 나 ,NEG
+부터 나 는 ,NEG
+부터 살피 ,POS
+부터 안 ,POS
+부터 안 쓰 ,POS
+부터 여성 ,POS
+부터 여성 계 ,POS
+부터 의 ,POS
+부터 의 꿈 ,POS
+부터 줄곧 ,NEG
+부터 줄곧 아름답 ,NEG
+부합 ,POS
+부합 하 ,POS
+북 ,NEG
+북 이 ,NEG
+북 이 이기 ,NEG
+북 인식 ,POS
+북 인식 이 ,POS
+북한 ,POS
+북한 도 ,POS
+북한 도 인권 ,POS
+북한 에 ,NEUT
+북한 에 살 ,NEUT
+북한 을 ,POS
+북한 을 지원 ,POS
+북한 의 ,NEG
+분 ,POS
+분 들 ,NEG
+분 들 이 ,NEG
+분 의 ,POS
+분 이 ,POS
+분 이 드물 ,POS
+분노 ,NEG
+분단 ,POS
+분단 극복 ,POS
+분단 극복 인식 ,POS
+분류 ,NEG
+분류 를 ,NEG
+분류 를 아예 ,NEG
+분명* ,NEG
+분명* 하 ,NEG
+분명* 하 지 ,NEG
+분명 ,None
+분명 ,NEG
+분명 하 ,NEG
+분석 ,NEG
+분석 하 ,NEG
+분야 ,POS
+분야 욕심내 ,POS
+분야 욕심내 고 ,POS
+분열 ,NEG
+분위기 ,POS
+분위기 를 ,POS
+분위기 를 만들 ,POS
+분자 ,NEG
+분자 들 ,NEG
+분자 들 의 ,NEG
+분쟁 ,NEG
+불 ,NEG
+불 빛 ,NEG
+불 빛 없이 ,NEG
+불 ,POS
+불 ,NEG
+불 가능 ,POS
+불 가능 하 ,POS
+불 명예 ,NEG
+불 명예 를 ,NEG
+불가 ,NEG
+불감증 ,NEG
+불결 ,NEG
+불결 하 ,NEG
+불결 하 ㄴ ,NEG
+불과 ,NEG
+불과 하 ,NEG
+불과 ,NEG
+불과 하 ,NEG
+불구 ,None
+불구 하 ,None
+불구 하 고 ,None
+불길 ,NEG
+불길 하 ,NEG
+불길 하 ㅁ ,NEG
+불량 ,NEG
+불러들이 ,POS
+불러오 ,POS
+불러오 ㄹ ,POS
+불러오 ㄹ 듯 ,POS
+불러일으키 ,POS
+불륜 ,NEG
+불륜 은 ,NEG
+불륜 은 불결 ,NEG
+불리 ,NEG
+불리 하 ,NEG
+불리 하 ㄴ ,NEG
+불리 ,NEG
+불리 ㄴ ,NEG
+불리 ㄴ 일 ,NEG
+불만 ,NEG
+불만 의 ,NEG
+불만 의 목소리 ,NEG
+불만 증가 ,NEG
+불매 ,NEG
+불매 운동 ,NEG
+불매 운동 을 ,NEG
+불법 ,NEG
+불법 도 ,NEG
+불법 도 불사 ,NEG
+불법 을 ,POS
+불법 을 방지 ,POS
+불법 입국자 ,NEG
+불법 입국자 가 ,NEG
+불법 행위 ,NEG
+불사 ,NEG
+불사 하 ,NEG
+불순 ,NEG
+불순 분자 ,NEG
+불순 분자 들 ,NEG
+불신 ,NEG
+불신 을 ,NEG
+불신 을 받 ,NEG
+불쌍 ,POS
+불쌍 하 ,POS
+불쌍 하 ㄴ ,POS
+불안 ,NEG
+불안 하 ,NEG
+불안 하 아 ,NEG
+불안감 ,NEG
+불안감 때문 ,NEG
+불안감 때문 에 ,NEG
+불우 ,POS
+불우 하 ,POS
+불우 하 ㄴ ,POS
+불의 ,NEG
+불의 가 ,NEG
+불의 가 횡행 ,NEG
+불퇴전 ,POS
+불퇴전 의 ,POS
+불퇴전 의 자세 ,POS
+불행 ,POS
+불행 하 ,POS
+불행 하 지 ,POS
+불행감 ,POS
+불행감 에서 ,POS
+불행감 에서 벗어나 ,POS
+불황 ,NEG
+불황 타개 ,POS
+붉 ,NEUT
+붉 은 ,NEUT
+붉 은 손바닥 ,NEUT
+붐 ,POS
+붐 이 ,POS
+붐 이 전국 ,POS
+붓 ,NEG
+붓 을 ,NEG
+붓 을 들 ,NEG
+붓 질 ,NEG
+붓 질 은 ,NEG
+붙 ,NEG
+붙 어 ,NEG
+붙 어 있 ,NEG
+블레어 ,POS
+블레어 위치 ,POS
+비 ,NEG
+비 하 ,NEG
+비 하 아 ,NEG
+비 ,NEG
+비 과학 ,NEG
+비 과학 적 ,NEG
+비 반복 ,NEUT
+비 반복 적 ,NEUT
+비 타협 ,POS
+비 타협 성 ,POS
+비가 ,NEG
+비가 로 ,NEG
+비가 로 읽 ,NEG
+비겁 ,NEG
+비겁 하 ,NEG
+비관 ,NEG
+비관 하 ,NEG
+비교 ,POS
+비교 적 ,POS
+비교 적 명징 ,POS
+비교적 ,POS
+비교적 좋 ,POS
+비교적 좋 아 ,POS
+비극 ,NEG
+비극 성 ,NEG
+비극 의 ,NEG
+비극 의 잉태 ,NEG
+비극 적 ,NEUT
+비극 적 이 ,NEUT
+비난 ,NEG
+비디오 ,NEG
+비디오 가 ,POS
+비디오 가 많이 ,POS
+비디오 는 ,NEG
+비디오 는 아직 ,NEG
+비디오 등 ,NEG
+비디오 등 기획물 ,NEG
+비디오 시장 ,NEG
+비디오 시장 이 ,NEG
+비록 ,None
+비리 ,NEG
+비리 이 ,NEG
+비밀 ,POS
+비밀 병기 ,POS
+비밀 작법 ,POS
+비밀 작법 이 ,POS
+비상 ,NEG
+비상 이 ,NEG
+비상 이 걸리 ,NEG
+비상 하 ,NEUT
+비서진 ,NEG
+비서진 에 ,NEG
+비서진 에 의하 ,NEG
+비슷 ,POS
+비슷 하 ,POS
+비슷 하 게 ,NEUT
+비슷 하 ㄴ ,NEG
+비싸 ,NEG
+비싸 ㄴ ,NEG
+비싸 ㄴ 값 ,NEG
+비아냥 ,NEG
+비아냥 섞이 ,NEG
+비아냥 섞이 ㄴ ,NEG
+비용 ,NEG
+비용 이 ,NEG
+비용 이 두 ,NEG
+비유 ,NEUT
+비유 하 ,NEUT
+비전 ,NEG
+비전 을 ,NEG
+비전 을 내버리 ,NEG
+비좁 ,NEG
+비좁 은 ,NEG
+비중 ,POS
+비참 ,NEG
+비참 하 ,NEG
+비참 하 ㄴ ,NEG
+비참 하 ,NEG
+비참 하 ㄴ ,NEG
+비추 ,POS
+비추 어 ,POS
+비추 어 주 ,POS
+비키 ,NEG
+비키 라우 ,NEG
+비판 ,NEG
+비판 도 ,POS
+비판 도 많이 ,POS
+비판 의 ,NEG
+비판 의 도마 ,NEG
+비판 이 ,NEG
+비판 이 적 ,NEG
+비판 하 ,NEG
+비행기 ,NEUT
+비행기 안 ,NEUT
+비행기 안 에서 ,NEUT
+빗대 ,COMP
+빚 ,POS
+빚 었 ,POS
+빚 었 고 ,POS
+빛 ,NEG
+빛 없이 ,NEG
+빛 없이 걷 ,NEG
+빛 이 ,POS
+빛 이 존재 ,POS
+빛깔 ,POS
+빛깔 이 ,POS
+빛깔 이 다양 ,POS
+빛살 ,NEUT
+빛살 이 ,NEUT
+빛살 이 들어오 ,NEUT
+빠르 ,POS
+빠르 ㄴ ,POS
+빠르 ㄴ 물살 ,POS
+빠르 ㄴ 실현 ,POS
+빠지 ,NEG
+빠지 면 ,NEG
+빠지 면 한 ,NEG
+빠지 어 ,NEG
+빠지 어 숨지 ,NEG
+빠지 어 있 ,NEG
+빨 ,NEG
+빨 고 ,NEG
+빨 고 손 ,NEG
+빨 러 ,NEG
+빨리 ,NEG
+빨리 바꾸 ,NEG
+빨리 바꾸 고 ,NEG
+빼 ,POS
+빼 는 ,POS
+빼 는 데 ,POS
+빼 어 ,POS
+빼 어 놓 ,POS
+빼기 ,POS
+빼놓 ,POS
+빼놓 을 ,POS
+빼놓 을 수 ,POS
+빼놓 지 ,POS
+빼놓 지 말 ,POS
+빼앗기 ,NEG
+빼앗기 ㄹ지 ,NEG
+빼앗기 ㄹ지 모르 ,NEG
+빼어나 ,POS
+빼어나 ㄴ ,POS
+빼어나 ㄴ 미형 ,POS
+뻔뻔 ,NEG
+뻔뻔 하 ,NEG
+뻔뻔 하 ㄹ ,NEG
+뻔하 ,NEUT
+뿐 ,None
+뿐 아니 ,None
+뿐 아니 라 ,None
+뿐 이 ,None
+뿐 이 ㄴ가 ,None
+뿐 ,None
+뿐 더러 ,None
+뿐 만 ,None
+뿐 만 아니 ,None
+뿐 만 이 ,None
+뿐 아니 ,None
+뿐 아니 라 ,None
+뿐 이 ,NEG
+뿐 이 고 ,NEG
+뿐 이 다 ,NEG
+뿜어내 ,POS
+사 ,NEG
+사 적 ,NEG
+사 적 이 ,NEG
+사 ,NEG
+사 느라 ,NEG
+사 느라 딸 ,NEG
+사건 ,NEG
+사고 ,NEG
+사고 가 ,NEG
+사고 가 일어나 ,NEG
+사고 위험 ,NEG
+사고 위험 많 ,NEUT
+사고 위험 이 ,NEG
+사고 잦 ,NEG
+사고 잦 아 ,NEG
+사귀 ,NEG
+사귀 고 ,NEG
+사귀 고 약혼 ,NEG
+사극 ,NEG
+사극 이 ,NEG
+사극 이 아니 ,NEG
+사기 ,NEG
+사기 꾼 ,NEG
+사기 행각 ,NEG
+사라지 ,NEG
+사람 ,POS
+사람 과 ,POS
+사람 과 마음 ,POS
+사람 도 ,POS
+사람 들 ,NEG
+사람 들 사이 ,NEG
+사람 들 을 ,NEG
+사람 들 이 ,POS
+사람 은 ,NEG
+사람 은 많 ,NEG
+사람 은 없 ,NEG
+사람 을 ,POS
+사람 을 위하 ,POS
+사람 을 이용 ,POS
+사람 의 ,POS
+사람 의 마음 ,POS
+사람 이 ,POS
+사람 이 다시 ,POS
+사람 이 알 ,POS
+사람 이 ,NEG
+사람 이 거나 ,NEG
+사람 이 라면 ,NEG
+사람 혼 ,NEG
+사람 혼 을 ,NEG
+사랑 ,POS
+사랑 과 ,POS
+사랑 과 결혼 ,POS
+사랑 은 ,POS
+사랑 은 구체 ,POS
+사랑 은 다른 ,POS
+사랑 은 알 ,POS
+사랑 은 우리 ,POS
+사랑 을 ,NEG
+사랑 을 굶주리 ,NEG
+사랑 이 ,NEG
+사랑 이 각별 ,POS
+사랑 이 없 ,NEG
+사랑 이 ,NEUT
+사랑 이 야 ,NEUT
+사랑 하 ,POS
+사랑 하 게 ,COMP
+사랑 하 ㄹ ,NEG
+사로잡 ,POS
+사로잡 아 ,POS
+사로잡 아 오 ,POS
+사로잡히 ,NEG
+사망 ,NEG
+사망 률 ,NEG
+사망 률 을 ,POS
+사물 ,POS
+사물 이 ,POS
+사물 이 제대로 ,POS
+사뭇 ,None
+사상 ,POS
+사상 의 ,POS
+사상 의 거푸집 ,POS
+사상 처음 ,None
+사상 최대 ,POS
+사상 최대 규모 ,POS
+사색 ,POS
+사색 영글 ,POS
+사색 을 ,POS
+사슬 ,POS
+사슬 도 ,POS
+사슬 도 끊 ,POS
+사슬 을 ,POS
+사슬 을 끊 ,POS
+사슬 을 벗 ,POS
+사실 ,None
+사실 ,POS
+사실 상 ,None
+사실 이 ,POS
+사실 이 ㅂ니다 ,POS
+사용 ,NEG
+사용 도 ,NEG
+사용 도 없 ,NEG
+사용 되 ,POS
+사용 하 ,NEUT
+사용 하 ㄴ ,NEUT
+사원 ,NEG
+사원 에 ,NEG
+사원 에 비 ,NEG
+사이 ,NEG
+사이 에 ,NEG
+사이 에 서로 ,NEG
+사이버 ,POS
+사이버 공간 ,POS
+사이버 공간 에서 ,POS
+사정 ,POS
+사정 이 ,POS
+사정 이 달라지 ,POS
+사진 ,POS
+사진 촬영 ,POS
+사진 촬영 하 ,POS
+사항 ,POS
+사항 이 ,POS
+사항 이 ㅂ니다 ,POS
+사회 ,NEG
+사회 문제 ,NEG
+사회 에서 ,NEG
+사회 에서 편모 ,NEG
+사회 의 ,NEG
+사회 의 안정 ,NEG
+사회 적 ,NEG
+사회 적 가치 ,POS
+사회 적 갈등 ,NEG
+사회 적 질병 ,POS
+사회 적 행태 ,NEG
+삭막 ,POS
+삭막 하 ,POS
+삭막 하 ㄴ ,POS
+삭제 ,NEG
+삭제 하 ,NEG
+산 ,NEG
+산 에 ,NEG
+산 에 가 ,NEG
+산 ,POS
+산 포도주 ,POS
+산 포도주 한 ,POS
+산뜻 ,POS
+산뜻 하 ,POS
+산뜻 하 ㄴ ,POS
+산매 ,POS
+산매 가격 ,POS
+산매 가격 보다 ,POS
+살 ,NEG
+살 과 ,NEG
+살 과 지방 ,NEG
+살 을 ,POS
+살 을 빼 ,POS
+살 ,POS
+살 고 ,NEUT
+살 고 있 ,NEUT
+살 ㄴ ,POS
+살 ㄴ 경험 ,POS
+살 ㄴ다는 ,NEG
+살 ㄴ다는 것 ,NEG
+살 ㄹ ,NEG
+살 ㄹ 집 ,NEG
+살 아 ,POS
+살 아 넘치 ,POS
+살 아 있 ,POS
+살 아야 ,NEG
+살 아야 하 ,NEG
+살 았 ,NEG
+살 았 던 ,NEG
+살 지 ,NEG
+살길 ,POS
+살길 을 ,POS
+살길 을 열 ,POS
+살리 ,POS
+살리 ㄹ ,POS
+살리 ㄹ 수 ,POS
+살리 어 ,POS
+살리 어 내 ,POS
+살림 ,NEG
+살림 꾼 ,NEG
+살아나 ,POS
+살아남 ,POS
+살아오 ,POS
+살아오 ㄴ ,POS
+살아오 ㄴ 삶 ,POS
+살인 ,NEG
+살인 죄 ,NEG
+살인 죄 씌우 ,NEG
+살인 질주 ,NEG
+살짝살짝 ,NEUT
+살피 ,POS
+삶 ,POS
+삶 을 ,POS
+삶 을 버팅기 ,POS
+삶 을 보장 ,POS
+삶 을 살 ,POS
+삶 을 찾 ,POS
+삶 의 ,POS
+삶 의 비밀 ,POS
+삶 의 영역 ,NEG
+삶 의 주체 ,POS
+삶 이 ,POS
+삶 이 시집 ,POS
+삶 이 텍스트 ,POS
+삼 ,POS
+삼박자 ,POS
+삼박자 가 ,POS
+삼박자 가 꽤 ,POS
+삼위일체 ,POS
+상 ,POS
+상 을 ,POS
+상 을 받 ,POS
+상 을 석권 ,POS
+상 을 타 ,POS
+상 ,POS
+상 수상 ,POS
+상 ,POS
+상 처음 ,POS
+상 처음 있 ,POS
+상담 ,POS
+상담 이 ,POS
+상담 이 일반 ,POS
+상대 ,NEG
+상대 가 ,NEG
+상대 가 없 ,NEG
+상대 적 ,NEG
+상대 적 으로 ,NEG
+상상 ,NEG
+상상 도 ,NEUT
+상상 도 못하 ,NEUT
+상상 의 ,NEG
+상상 의 세계 ,POS
+상상 의 집 ,NEG
+상상력 ,POS
+상상력 을 ,POS
+상상력 을 자극 ,POS
+상세 ,POS
+상세 하 ,POS
+상속 ,NEG
+상수 ,POS
+상수 이 ,POS
+상식 ,POS
+상식 적 ,POS
+상식 적 이 ,POS
+상실 ,NEG
+상실 하 ,NEG
+상실 하 거나 ,NEG
+상실 하 는 ,POS
+상실감 ,NEG
+상의 ,POS
+상의 도 ,POS
+상의 도 자주 ,POS
+상징 ,POS
+상징 하 ,POS
+상쾌 ,POS
+상쾌 하 ,POS
+상쾌 하 ㄴ ,POS
+상태 ,NEG
+상태 에 ,NEG
+상태 에 머무르 ,NEG
+상태 이 ,NEG
+상태 이 다 ,NEG
+상품 ,NEG
+상품 미학 ,NEG
+상품 미학 이 ,NEG
+상황 ,NEG
+새 ,POS
+새 삶 ,POS
+새 삶 을 ,POS
+새 생명 ,POS
+새 생명 을 ,POS
+새 조류 ,POS
+새 청와대 ,POS
+새 ,NEUT
+새 가 ,POS
+새 가 없 ,POS
+새 없이 ,NEUT
+새 ,NEG
+새 도록 ,POS
+새 도록 얘기 ,POS
+새 어 ,NEG
+새 어 나오 ,NEG
+새끼 ,NEG
+새끼 젖 ,NEG
+새끼 젖 도 ,NEG
+새댁 ,POS
+새로이 ,POS
+새로이 하 ,POS
+새롭 ,POS
+새롭 게 ,POS
+새롭 게 다지 ,POS
+새롭 게 되살리 ,POS
+새롭 게 발흥 ,POS
+새롭 게 시작 ,POS
+새롭 게 조명 ,POS
+새롭 ㄴ ,POS
+새롭 ㄴ 감동 ,POS
+새롭 ㄴ 기회 ,POS
+새롭 ㄴ 분야 ,POS
+새롭 ㄴ 음악 ,NEG
+새롭 ㄴ 형식 ,POS
+새롭 ㄴ 형태 ,NEG
+새롭 ㄹ ,NEG
+새롭 ㄹ 것 ,NEG
+새롭 은 ,POS
+새롭 은 삶 ,POS
+새롭 은 여성 ,NEG
+새바람 ,POS
+새바람 이 ,POS
+새바람 이 불 ,POS
+새삼 ,None
+새색시 ,POS
+새색시 처럼 ,POS
+새색시 처럼 수줍 ,POS
+색 ,NEG
+색 번지 ,NEG
+색 번지 ㅁ ,NEG
+색 을 ,POS
+색 을 되살리 ,POS
+색깔 ,POS
+색깔 로 ,POS
+색깔 로 바꾸 ,POS
+색다르 ,POS
+생 ,POS
+생 크림 ,POS
+생 크림 거품 ,POS
+생 ,NEG
+생 들 ,NEG
+생 들 에게 ,NEG
+생각 ,POS
+생각 도 ,NEG
+생각 도 들 ,NEG
+생각 에서 ,POS
+생각 으로 ,NEUT
+생각 으로 떠나 ,NEUT
+생각 은 ,NEG
+생각 은 별로 ,NEG
+생각 을 ,None
+생각 을 말 ,POS
+생각 을 해보 ,None
+생각 이 ,NEUT
+생각 이 깔리 ,NEUT
+생각 이 ,POS
+생각 이 ㅂ니다 ,POS
+생각 이 었 ,NEG
+생각 하 ,NEG
+생각 하 는 ,POS
+생각 하 ㄹ ,NEUT
+생각 하 면 ,NEUT
+생각 하 았 ,NEG
+생겨나 ,NEUT
+생기 ,NEG
+생기 고 ,NEG
+생기 고 있 ,NEG
+생기 ㄴ다 ,POS
+생기 ㅂ니다 ,POS
+생기 었 ,NEG
+생기 었 다 ,NEG
+생동 ,POS
+생동 속 ,POS
+생동 속 에 ,POS
+생동감 ,POS
+생동감 있 ,POS
+생동감 있 게 ,POS
+생명 ,POS
+생명 에 ,POS
+생명 에 대하 ,POS
+생명 을 ,POS
+생명 을 되찾 ,POS
+생명 을 찾 ,POS
+생물 ,NEG
+생물 해적 ,NEG
+생물 해적 질 ,NEG
+생산 ,POS
+생산 유적 ,POS
+생산 유적 이 ,POS
+생선 ,NEUT
+생선 을 ,NEUT
+생선 을 떼 ,NEUT
+생필품 ,POS
+생필품 을 ,POS
+생필품 을 공급 ,POS
+생활 ,NEG
+생활 비디오 ,NEG
+생활 비디오 등 ,NEG
+생활 에 ,NEG
+생활 에 변화 ,NEG
+생활 의 ,POS
+생활 의 편리 ,POS
+생활 질 ,POS
+생활 질 을 ,POS
+생활고 ,NEG
+생활고 도 ,NEG
+생활고 도 더욱 ,NEG
+서 ,POS
+서 어 ,COMP
+서 어 있 ,COMP
+서 어 주 ,POS
+서두르 ,NEG
+서로 ,POS
+서로 얼싸안 ,POS
+서로 엇나가 ,NEG
+서로 엇나가 는 ,NEG
+서로 자랑 ,POS
+서로 자랑 스럽 ,POS
+서로 ,NEG
+서로 를 ,NEG
+서로 를 밀어내 ,NEG
+서로 를 비추 ,POS
+서른 ,COMP
+서른 에 ,COMP
+서른 에 우리 ,COMP
+서명 ,POS
+서명 에 ,POS
+서명 에 동참 ,POS
+서방 ,NEG
+서방 세계 ,NEG
+서방 세계 에서 ,NEG
+서비스 ,POS
+서서히 ,None
+서슴 ,NEG
+서슴 지 ,NEG
+서슴 지 않 ,NEG
+서슴없이 ,POS
+서슴없이 지갑 ,POS
+서슴없이 지갑 을 ,POS
+서예 ,POS
+서예 의 ,POS
+서예 의 근본 ,POS
+서울 ,NEG
+서울 에 ,NEUT
+서울 에 모이 ,NEUT
+서울 지하철 ,NEG
+서울 지하철 미군 ,NEG
+서쪽 ,NEUT
+서쪽 에서 ,NEUT
+서툴 ,NEG
+석 ,NEG
+석 을 ,NEG
+석 을 주 ,NEG
+석가모니 ,NEUT
+석가모니 는 ,NEUT
+석가모니 는 종교인 ,NEUT
+석권 ,POS
+석권 하 ,POS
+석연 ,NEG
+석연 하 ,NEG
+석연 하 지 ,NEG
+섞이 ,NEG
+섞이 ㄴ ,NEG
+섞이 ㄴ 칭찬 ,NEG
+선 ,POS
+선 과 ,POS
+선 과 색 ,POS
+선 이 ,POS
+선 ,POS
+선 미술 ,POS
+선 미술 상 ,POS
+선구 ,POS
+선구 적 ,POS
+선구 적 이 ,POS
+선두 ,POS
+선물 ,POS
+선물 용 ,POS
+선보이 ,POS
+선언 ,POS
+선언 하 ,POS
+선전 ,NEG
+선전 은 ,NEG
+선전 은 어떻 ,NEG
+선정 ,NEG
+선정 되 ,POS
+선정 성 ,NEG
+선진국 ,POS
+선진국 그룹 ,POS
+선진국 그룹 으로서 ,POS
+선풍 ,POS
+선호 ,POS
+선호 하 ,POS
+설 ,NEG
+설계 ,NEG
+설계 에서 ,NEG
+설계 에서 유사 ,NEG
+설계 하 ,NEG
+설계 하 ㄹ ,NEG
+설득 ,NEG
+설득 시키 ,NEG
+설득 하 ,POS
+설득력 ,NEG
+설득력 이 ,NEG
+설득력 이 부족 ,NEG
+설득력 이 없 ,NEG
+설득력 이 있 ,POS
+설득력 있 ,POS
+설레 ,POS
+설레 게 ,POS
+설레 게 하 ,POS
+설명 ,POS
+설명 이 ,None
+설명 이 필요 ,None
+설명 하 ,POS
+섬 ,COMP
+섬 들 ,NEG
+섬 들 이 ,NEG
+섬 을 ,COMP
+섬 을 부수 ,COMP
+섬 을 잡아먹 ,COMP
+섬 이 ,COMP
+섬 이 섬 ,COMP
+섬 이 ,NEG
+섬 이 ㄹ ,NEG
+섬기 ,POS
+섬기 ㅁ ,POS
+섬세 ,POS
+섬세 하 ,POS
+섬세 하 게 ,POS
+성 ,POS
+성 차별 ,POS
+성 차별 폐지 ,POS
+성 ,POS
+성 과 ,NEG
+성 과 반복 ,NEG
+성 과 절대주의 ,POS
+성 은 ,NEG
+성 은 높 ,NEG
+성 은 묻히 ,NEG
+성 을 ,POS
+성 을 가지 ,POS
+성 을 갖 ,NEG
+성 을 높이 ,POS
+성 을 다시금 ,POS
+성 을 되찾 ,POS
+성 을 상실 ,NEG
+성 을 이루 ,NEG
+성 을 일깨우 ,NEG
+성 을 지키 ,POS
+성 을 지향 ,POS
+성 의 ,NEG
+성 의 벽 ,POS
+성 의 희박 ,NEG
+성 이 ,NEG
+성 이 낮 ,NEG
+성 이 높 ,NEG
+성 이 있 ,NEUT
+성 이 적 ,POS
+성격 ,NEG
+성격 을 ,NEG
+성격 을 떨치 ,NEG
+성격 이 ,POS
+성공 ,POS
+성공 을 ,POS
+성공 을 거두 ,POS
+성공 이 ,COMP
+성공 이 ㄴ가 ,COMP
+성공 적 ,POS
+성공 하 ,POS
+성공 하 ㄴ ,POS
+성과 ,POS
+성과 로 ,POS
+성과 로 꼽히 ,POS
+성과 를 ,POS
+성과 를 고객 ,POS
+성과 를 쌓 ,POS
+성과물 ,POS
+성금 ,POS
+성금 을 ,POS
+성금 을 모으 ,POS
+성대 ,POS
+성대 하 ,POS
+성명 ,NEG
+성명 을 ,NEG
+성명 을 내 ,NEG
+성숙 ,POS
+성숙 의 ,POS
+성숙 의 자리 ,POS
+성실 ,POS
+성실 하 ,POS
+성실 하 게 ,POS
+성자 ,POS
+성장 ,POS
+성장 하 ,POS
+성장 하 아 ,POS
+성지 ,NEG
+성지 로 ,POS
+성지 로 삼 ,POS
+성지 에 ,NEG
+성지 에 는 ,NEG
+성찰 ,COMP
+성취 ,POS
+성취 하 ,POS
+성행 ,NEG
+성행 하 ,NEG
+성향 ,NEUT
+성향 의도 ,POS
+성향 의도 를 ,POS
+성희롱 ,NEG
+성희롱 사건 ,NEG
+세 ,NEG
+세 얼굴 ,NEG
+세 얼굴 을 ,NEG
+세 ,NEG
+세 년 ,NEG
+세 년 년 ,NEG
+세 세 ,NEG
+세 세 년 ,NEG
+세계 ,POS
+세계 가 ,POS
+세계 가 열리 ,POS
+세계 는 ,NEG
+세계 는 사람 ,NEG
+세계 를 ,POS
+세계 를 가지 ,POS
+세계 만큼 ,POS
+세계 만큼 위대 ,POS
+세계 속 ,POS
+세계 속 에서 ,POS
+세계 에서 ,NEG
+세계 에서 는 ,NEG
+세계 적 ,POS
+세계 적 으로 ,POS
+세계 평화 ,POS
+세계 평화 진원지 ,POS
+세계 화 ,COMP
+세계 화 흐름 ,COMP
+세기 ,POS
+세기 가장 ,POS
+세기 가장 성공 ,POS
+세대 ,POS
+세대 들 ,POS
+세대 들 이 ,POS
+세대 바람 ,POS
+세대 바람 이 ,POS
+세련미 ,POS
+세련미 가 ,POS
+세련미 가 느끼 ,POS
+세상 ,NEG
+세상 도 ,NEG
+세상 도 똑바로 ,NEG
+세상 에 ,NEG
+세상 에 하 ,NEG
+세상 에서 ,POS
+세상 에서 가장 ,POS
+세상 은 ,NEG
+세상 은 엉망진창 ,NEG
+세상 의 ,NEG
+세상 의 모든 ,NEG
+세상 의 바짓가랑이 ,NEG
+세상 의 입 ,NEG
+세속 ,NEG
+세속 적 ,NEG
+세속 적 으로 ,NEG
+세습 ,NEG
+세우 ,POS
+세우 어 ,NEG
+세우 어 놓 ,POS
+세우 어 주 ,NEG
+센스 ,POS
+셈 ,None
+셈 이 ,None
+셈 이 다 ,POS
+셈 ,NEG
+셈 이 ,NEG
+셰익스피어 ,POS
+셰익스피어 를 ,POS
+셰익스피어 를 무덤 ,POS
+소 ,None
+소감 ,POS
+소개 ,POS
+소개 하 ,POS
+소개 하 고 ,POS
+소견 ,NEUT
+소극적 ,NEG
+소극적 이 ,NEG
+소낙비 ,NEG
+소낙비 같이 ,NEG
+소낙비 같이 허둥대 ,NEG
+소녀 ,POS
+소녀 를 ,POS
+소녀 를 살리 ,POS
+소득 ,NEG
+소득 수준 ,NEG
+소득 수준 이 ,NEG
+소리 ,NEG
+소리 를 ,NEG
+소리 를 들 ,NEG
+소문 ,NEG
+소문 나 ,POS
+소문 마저 ,NEG
+소문 마저 나돌 ,NEG
+소변 ,NEG
+소변 검사 ,NEG
+소변 검사 로 ,NEG
+소변 으로 ,NEG
+소변 으로 확인 ,NEG
+소비자 ,NEG
+소비자 가격 ,POS
+소비자 가격 의 ,POS
+소비자 문제 ,NEG
+소비자 문제 로 ,NEG
+소설 ,POS
+소설 들 ,POS
+소설집 ,NEG
+소설집 때 ,NEG
+소설집 때 와 ,NEG
+소송 ,NEG
+소송 을 ,NEG
+소송 을 제기 ,NEG
+소수 ,NEG
+소수 의 ,NEG
+소수 의 깨치 ,NEG
+소신 ,NEG
+소신 없이 ,NEG
+소신 없이 눈치 ,NEG
+소심 ,NEG
+소심 하 ,NEG
+소심 하 ㄴ ,NEG
+소아마비 ,NEG
+소외 ,COMP
+소외 되 ,COMP
+소외 되 ㄴ ,COMP
+소용 ,NEG
+소용 이 ,NEG
+소용 이 없 ,NEG
+소위 ,NEG
+소위 발전 ,NEG
+소위 발전 하 ,NEG
+소일 ,POS
+소일 을 ,POS
+소일 을 하 ,POS
+소중 ,POS
+소중 하 ,POS
+소중 하 게 ,POS
+소중 하 ㄴ ,POS
+소지 ,NEG
+소지 가 ,NEG
+소지 가 많 ,NEG
+소홀 ,NEG
+소홀히 ,NEG
+소홀히 하 ,NEG
+소환 ,NEG
+소환 조차 ,NEG
+소환 조차 않 ,NEG
+속 ,NEG
+속 모르 ,NEUT
+속 썩이 ,NEG
+속 에 ,POS
+속 에 들어가 ,NEG
+속 에 빛 ,POS
+속 에 피어나 ,POS
+속 에서 ,NEG
+속 에서 그 ,POS
+속 에서 미끼 ,NEG
+속 에서 미술인 ,COMP
+속 에서 비참 ,NEG
+속내 ,COMP
+속내 를 ,COMP
+속내 를 꺼내 ,COMP
+속도 ,POS
+속도 와 ,POS
+속도 와 카메라 ,POS
+속도감 ,POS
+속도감 있 ,POS
+속이 ,NEG
+속임수 ,NEG
+속하 ,NEG
+속하 아 ,NEG
+속하 아 있 ,NEG
+손 ,NEG
+손 끝 ,POS
+손 끝 이 ,POS
+손 때 ,NEG
+손 때 묻 ,NEG
+손 에 ,POS
+손 에 쥐 ,POS
+손 으로 ,NEG
+손 으로 입 ,NEG
+손 으로 전하 ,POS
+손 을 ,NEG
+손 을 흔들 ,NEG
+손꼽히 ,POS
+손꼽히 는 ,POS
+손꼽히 는 국내 ,POS
+손님 ,POS
+손님 들 ,POS
+손님 들 에게 ,POS
+손목 ,POS
+손목 의 ,POS
+손목 의 골절 ,POS
+손바닥 ,NEUT
+손바닥 으로 ,NEUT
+손바닥 으로 하늘 ,NEUT
+손발 ,NEUT
+손발 이 ,NEUT
+손발 이 마비 ,NEUT
+손색 ,POS
+손색 없 ,POS
+손쉽 ,POS
+손쉽 게 ,POS
+손쉽 게 의지 ,POS
+손해 ,NEG
+손해 배상 ,NEG
+손해 배상 을 ,NEG
+솔직 ,POS
+솔직 하 ,POS
+솔직 하 ㅁ ,POS
+솜씨 ,POS
+솜씨 는 ,POS
+솜씨 는 능숙 ,POS
+송수신 ,POS
+송편 ,POS
+송편 을 ,POS
+송편 을 빚 ,POS
+수 ,NEG
+수 백 ,NEG
+수 백 명 ,NEG
+수 ,None
+수 가 ,NEG
+수 가 없 ,NEG
+수 가 있 ,None
+수 는 ,NEG
+수 는 없 ,NEG
+수 도 ,None
+수 도 있 ,None
+수 밖에 ,None
+수 밖에 없 ,None
+수 없 ,NEG
+수 없 겠 ,NEG
+수 없 고 ,NEUT
+수 없 는 ,NEG
+수 없 다 ,NEG
+수 없 습니다 ,NEG
+수 없 어서 ,NEG
+수 없이 ,NEG
+수 없이 좌수 ,NEG
+수 있 ,POS
+수 있 다 ,None
+수 있 ,None
+수 있 게 ,POS
+수 있 겠 ,None
+수 있 기 ,POS
+수 있 는 ,POS
+수 있 다 ,NEUT
+수 있 다는 ,POS
+수 있 다는데 ,POS
+수 있 었 ,POS
+수 있 을 ,None
+수 있 음 ,POS
+수 있 지만 ,NEG
+수놓 ,POS
+수놓 았 ,POS
+수단 ,NEG
+수단 이 ,NEG
+수단 이 없 ,NEG
+수려 ,POS
+수려 하 ,POS
+수미산 ,POS
+수미산 을 ,POS
+수미산 을 백천 ,POS
+수박 ,POS
+수박 농사 ,POS
+수박 농사 에 ,POS
+수배 ,NEG
+수배 를 ,NEG
+수배 를 받 ,NEG
+수분 ,NEG
+수분 과다 ,NEG
+수상 ,POS
+수상작 ,POS
+수십 ,POS
+수십 배 ,POS
+수십 배 를 ,POS
+수없이 ,None
+수없이 염하 ,POS
+수영 ,NEG
+수영 미숙 ,NEG
+수요 ,POS
+수요 가 ,POS
+수요 가 늘 ,POS
+수요 가 많 ,POS
+수요 가 크 ,POS
+수용 ,POS
+수용 하 ,POS
+수익 ,NEG
+수익 성 ,NEG
+수익 성 이 ,NEG
+수입 ,POS
+수입 관계 ,POS
+수입 관계 없이 ,POS
+수준 ,NEG
+수준 이 ,NEG
+수준 이 고르 ,NEG
+수줍 ,POS
+수줍 게 ,POS
+수줍 게 웃 ,POS
+수직 ,NEUT
+수직 성 ,NEUT
+수퍼 ,POS
+수퍼 초 ,POS
+수퍼 초 울트라 ,POS
+숙맥 ,NEG
+숙맥 이 ,NEG
+숙연 ,POS
+숙연 하 ,POS
+순간 ,POS
+순간 어둠 ,POS
+순간 어둠 속 ,POS
+순례자 ,NEG
+순례자 가 ,NEG
+순례자 가 되 ,NEG
+순수 ,NEG
+순수 하 ,NEG
+순수 하 ㄴ ,NEG
+순수익 ,POS
+순수익 은 ,POS
+순진 ,NEG
+순진 하 ,NEG
+순진 하 게 ,NEG
+숟가락 ,NEG
+숟가락 퍼먹 ,NEG
+숟가락 퍼먹 고 ,NEG
+술 ,NEG
+술 을 ,NEG
+술 을 마시 ,NEG
+술술 ,POS
+술술 읽 ,POS
+술술 읽 게 ,POS
+숨 ,NEG
+숨 어 ,NEG
+숨 어 살 ,NEG
+숨 어 있 ,POS
+숨 어 지내 ,NEG
+숨소리 ,POS
+숨지 ,NEG
+숫자 ,NEG
+숫자 나라 ,NEG
+숫자 나라 의 ,NEG
+숭배 ,NEG
+숭배 를 ,NEG
+숭배 를 강요 ,NEG
+숱하 ,NEG
+숱하 ㄴ ,NEG
+숱하 ㄴ 폭력 ,NEG
+숲 ,NEG
+숲 을 ,NEG
+숲 을 거느리 ,NEG
+숲 을 걸 ,POS
+쉬 ,NEUT
+쉬 ㄹ ,NEUT
+쉬 ㄹ 새 ,NEUT
+쉽 ,POS
+쉽 게 ,NEG
+쉽 게 결심 ,NEG
+쉽 게 굳 ,POS
+쉽 게 내다보이 ,NEG
+쉽 게 말 ,None
+쉽 게 찢어지 ,NEG
+쉽 ㄴ ,POS
+쉽 ㄴ 책 ,POS
+쉽 므로 ,POS
+쉽 므로 규정 ,POS
+쉽 은 ,POS
+쉽 은 바닥 ,POS
+쉽 지 ,NEG
+쉽 지 않 ,NEG
+스럽 ,POS
+스럽 게 ,POS
+스럽 게 이루 ,POS
+스럽 게 주례 ,POS
+스럽 기 ,NEG
+스럽 기 짝 ,NEG
+스럽 ㄴ ,POS
+스럽 ㄴ 발현 ,POS
+스럽 ㄴ 천진 ,POS
+스럽 ㄴ 한 ,NEG
+스럽 ㄹ ,COMP
+스럽 ㄹ 만큼 ,COMP
+스럽 어 ,NEG
+스럽 어 하 ,NEG
+스럽 지 ,NEG
+스럽 지 않 ,NEG
+스스로 ,POS
+스스로 전화 ,POS
+스스로 전화 를 ,POS
+스스로 하 ,POS
+스스로 하 아야 ,POS
+스스로 ,POS
+스스로 를 ,POS
+스스로 를 격려 ,POS
+스타 ,POS
+스토리 ,NEG
+스펙터클 ,POS
+스펙터클 하 ,POS
+스펙터클 하 ㄴ ,POS
+슬프 ,NEG
+슬픔 ,NEG
+슬픔 의 ,NEG
+슬픔 의 눈물 ,NEG
+습관 ,NEG
+습기 ,POS
+습기 가 ,POS
+습기 가 차 ,POS
+습기 에 ,POS
+습기 에 도 ,POS
+습니까 ,POS
+습니다 ,POS
+승부 ,POS
+승부 를 ,POS
+승부 를 걸 ,POS
+승진 ,NEG
+승진 가능 ,NEG
+승진 가능 성 ,NEG
+승진 하 ,NEG
+승진 하 도록 ,NEG
+시 ,NEG
+시 고 ,NEG
+시 고 이 ,NEG
+시 ㄴ ,NEG
+시 ㄴ 적 ,NEG
+시 는 ,NEG
+시 는 그분 ,NEG
+시 ㅂ니까 ,NEG
+시 ㅂ시오 ,POS
+시 어요 ,NEG
+시 ,NEUT
+시 되 ,NEUT
+시 되 지 ,NEUT
+시각 ,NEUT
+시각 이 ,NEUT
+시각 이 대표 ,POS
+시각 이 생겨나 ,NEUT
+시간 ,NEG
+시간 도 ,NEG
+시간 도 없 ,NEG
+시간 윤전기 ,NEG
+시간 윤전기 노동자 ,NEG
+시간 을 ,NEG
+시간 을 망설이 ,NEG
+시간 정도 ,POS
+시간 정도 노래 ,POS
+시급 ,NEG
+시급 하 ,NEG
+시급 하 ㄴ ,NEG
+시기 ,NEG
+시기 가 ,NEG
+시기 가 있 ,NEG
+시나리오 ,NEUT
+시나리오 를 ,NEUT
+시나리오 를 쓰 ,NEUT
+시달리 ,NEG
+시대 ,NEG
+시대 가 ,POS
+시대 가 막 ,POS
+시대 로 ,POS
+시대 로 뚫 ,POS
+시대 에서 ,NEG
+시대 여성 ,POS
+시대 여성 들 ,POS
+시대 정신 ,NEG
+시대 정신 에 ,NEG
+시도 ,POS
+시도 하 ,POS
+시련 ,NEG
+시멘트 ,NEG
+시멘트 길 ,NEG
+시멘트 덩어리 ,NEG
+시사 ,NEUT
+시사 하 ,NEUT
+시선 ,POS
+시선 이 ,POS
+시선 이 두드러지 ,POS
+시설 ,POS
+시설 을 ,POS
+시설 을 갖추 ,POS
+시약 ,NEG
+시약 을 ,NEG
+시인 ,NEUT
+시인 의 ,NEUT
+시인 의 바로 ,NEUT
+시작 ,POS
+시작 되 ,NEG
+시작 되 ㄴ ,NEG
+시작 하 ,POS
+시작 하 ㄹ ,POS
+시작 하 았 ,POS
+시장 ,POS
+시장 개척 ,POS
+시장 개척 에 ,POS
+시장 을 ,POS
+시장 을 활성 ,POS
+시장 이 ,NEG
+시장 이 대여 ,NEG
+시절 ,POS
+시절 부터 ,NEG
+시절 부터 의 ,POS
+시절 부터 줄곧 ,NEG
+시절 은 ,NEG
+시절 은 가 ,NEG
+시절 추억 ,POS
+시절 추억 떠오르 ,POS
+시중 ,POS
+시중 보다 ,POS
+시집 ,NEG
+시집 갈피 ,POS
+시집 갈피 마다 ,POS
+시집 을 ,NEG
+시집 을 보 ,NEG
+시치미 ,NEUT
+시치미 뚝 ,NEUT
+시치미 뚝 떼 ,NEUT
+시키 ,NEG
+시키 고 ,POS
+시키 고 싶 ,POS
+시키 기 ,POS
+시키 기 위하 ,POS
+시키 는 ,NEG
+시키 는 걸림돌 ,NEG
+시키 는 결여 ,NEG
+시키 어 ,POS
+시키 어 보* ,POS
+시험 ,NEG
+식 ,None
+식 으로 ,None
+식 ,NEG
+식 은 ,NEG
+식 은 땀 ,NEG
+식물 ,NEUT
+식물 없 ,NEUT
+식물 없 는 ,NEUT
+식물 을 ,NEUT
+식물 을 생각 ,NEUT
+식민 ,NEG
+식민 화 ,NEG
+식민 화 전략 ,NEG
+식민 화 프로젝트 ,NEG
+식욕 ,NEUT
+식욕 부진 ,NEUT
+식탁 ,NEG
+식탁 을 ,NEG
+식탁 을 점령 ,NEG
+식품 ,NEG
+식품 이 ,NEG
+식품 이 우리 ,NEG
+신 ,POS
+신 나 ,POS
+신 나 게 ,POS
+신 들리 ,POS
+신 들리 ㄴ ,POS
+신 이 ,POS
+신 이 나 ,POS
+신 ,NEUT
+신 세대 ,POS
+신 세대 바람 ,POS
+신 제품 ,NEUT
+신 제품 의 ,NEUT
+신경 ,NEUT
+신경 계통 ,NEUT
+신경 계통 의 ,NEUT
+신기 ,POS
+신기 가 ,POS
+신기 가 무대 ,POS
+신기 ,POS
+신기 하 ,POS
+신기 하 ㄴ ,POS
+신동 ,POS
+신동 으로 ,POS
+신동 으로 알리 ,POS
+신라 ,POS
+신라 의 ,POS
+신라 의 중요 ,POS
+신뢰 ,POS
+신명 ,POS
+신명 나 ,POS
+신문 ,POS
+신문 을 ,POS
+신문 을 입 ,POS
+신비 ,POS
+신비 스럽 ,POS
+신속히 ,POS
+신속히 대응 ,POS
+신속히 대응 하 ,POS
+신화 ,POS
+신화 를 ,POS
+신화 를 만들 ,POS
+신화 적 ,POS
+신화 적 인식 ,POS
+실감 ,POS
+실감 나 ,POS
+실감 하 ,POS
+실로 ,NEG
+실로 어처구니 ,NEG
+실로 어처구니 없 ,NEG
+실로 유감 ,NEG
+실로 유감 스럽 ,NEG
+실마리 ,POS
+실마리 를 ,POS
+실마리 를 제공 ,POS
+실명 ,NEG
+실명 제 ,NEG
+실명 제 위반 ,NEG
+실상 ,NEG
+실상 을 ,NEG
+실상 을 입 ,NEG
+실용 ,POS
+실용 적 ,POS
+실용 적 이 ,POS
+실정 ,POS
+실정 에 ,POS
+실정 에 대하 ,POS
+실제 ,None
+실조 ,NEG
+실천 ,POS
+실천 을 ,COMP
+실천 을 부추기 ,COMP
+실천 하 ,POS
+실천 하 아야 ,POS
+실패자 ,NEG
+실패자 이 ,NEG
+실패자 이 다 ,NEG
+실현 ,POS
+실현 가능 ,NEG
+실현 가능 성 ,NEG
+실현 되 ,POS
+실현 을 ,POS
+실현 을 뜻 ,POS
+싫 ,NEG
+싫 은 ,NEG
+싫 은 학생 ,NEG
+싫어하 ,NEG
+싫증 ,NEG
+싫증 을 ,NEG
+싫증 을 내 ,NEG
+심각 ,NEG
+심각 성 ,NEG
+심각 성 을 ,NEG
+심각 ,NEG
+심각 하 ,NEG
+심근 ,NEUT
+심근 경색 ,NEUT
+심리 ,NEG
+심리 를 ,NEUT
+심리 를 담 ,NEUT
+심부전증 ,NEUT
+심부전증 등 ,NEUT
+심부전증 등 심장 ,NEUT
+심심찮 ,NEUT
+심심찮 게 ,NEUT
+심위 ,POS
+심위 에 ,POS
+심위 에 의 ,POS
+심장 ,COMP
+심장 질환 ,NEUT
+심장 질환 의 ,NEUT
+심장 하 ,COMP
+심지어 ,None
+심화 ,NEG
+심화 시키 ,POS
+심화 시키 고 ,POS
+심화 하 ,NEG
+심회 ,NEG
+심회 가 ,NEG
+심회 가 돋아나 ,NEG
+십상 ,NEG
+십상 이 ,NEG
+싶 ,POS
+싶 다는 ,NEG
+싶 다는 욕심 ,NEG
+싶 습니다 ,POS
+싶 어 ,POS
+싶 어 하 ,None
+싶 어 ,COMP
+싶 어요 ,POS
+싶 었 ,NEG
+싶 었 을까 ,NEG
+싶 었 지만 ,NEG
+싶 은 ,NEG
+싶 은 기분 ,NEG
+싶 은 마음 ,POS
+싸 ,POS
+싸 게 ,POS
+싸 게 사 ,POS
+싸 게 팔 ,POS
+싸 고 ,POS
+싸 고 좋 ,POS
+싸 ㄴ ,POS
+싸 ㄴ 값 ,POS
+싸구려 ,NEG
+싸구려 로 ,NEG
+싸구려 로 둔갑 ,NEG
+싸늘 ,NEG
+싸늘 하 ,NEG
+싸우 ,NEG
+싸움 ,NEG
+싸움 을 ,NEG
+싸움 을 일으키 ,NEG
+쌓 ,POS
+써먹 ,NEG
+써먹 지 ,NEG
+써먹 지 못하 ,NEG
+썩이 ,NEG
+쏟 ,POS
+쏟 아 ,NEUT
+쏟 아 지 ,NEUT
+쏟아지 ,POS
+쏠리 ,POS
+쏠쏠 ,POS
+쏠쏠 하 ,POS
+쏴아아 ,POS
+쏴아아 열리 ,POS
+쑥스럽 ,COMP
+쓰 ,NEG
+쓰 군 ,NEG
+쓰 ㄴ ,NEG
+쓰 ㄴ 소리 ,NEG
+쓰 ,POS
+쓰 거나 ,NEG
+쓰 거나 인터뷰 ,NEG
+쓰 는 ,NEG
+쓰 는 물건 ,POS
+쓰 는 사람 ,NEG
+쓰 ㄹ ,POS
+쓰 ㄹ 때 ,NEUT
+쓰 ㄹ 수 ,NEG
+쓰 어 ,POS
+쓰 어 보 ,POS
+쓰러지 ,NEG
+쓰러지 지 ,POS
+쓰러지 지 않 ,POS
+쓰레기 ,NEG
+쓰레기 봉투 ,NEG
+쓰레기 봉투 로 ,NEG
+쓸쓸 ,COMP
+쓸쓸 하 ,COMP
+쓸쓸 하 ㄴ ,POS
+쓸쓸 하 ㅁ ,COMP
+씁쓸 ,NEG
+씁쓸 하 ,NEG
+씁쓸 하 ㅁ ,NEG
+씌우 ,NEG
+씌우 었 ,NEG
+씌우 었 다 ,NEG
+씨 ,POS
+씨발 IC,NEG
+아 ,POS
+아 가* ,POS
+아 가 ,NEG
+아 가지 ,NEUT
+아 가지 고 ,NEUT
+아 걸 ,NEG
+아 결국 ,NEG
+아 결국 죽 ,NEG
+아 고통 ,NEG
+아 고통 을 ,NEG
+아 관심 ,POS
+아 관심 이 ,POS
+아 교육 ,NEG
+아 교육 을 ,NEG
+아 그래 IC,POS
+아 그래 IC나 ,POS
+아 나서 ,POS
+아 나약 ,POS
+아 나약 하 ,POS
+아 내 ,NEUT
+아 넘치 ,POS
+아 다시 ,POS
+아 다시 시작 ,POS
+아 떨어지 ,POS
+아 머리 ,NEG
+아 머리 도 ,NEG
+아 머리 를 ,NEG
+아 먹 ,NEG
+아 먹 을 ,NEG
+아 버리 ,NEG
+아 버리 고 ,NEG
+아 보 ,POS
+아 보 아라 ,POS
+아 보 아야 ,POS
+아 보이 ,NEG
+아 보이 지 ,NEG
+아 산 ,NEG
+아 산 에 ,NEG
+아 살길 ,POS
+아 살길 을 ,POS
+아 상의 ,POS
+아 상의 도 ,POS
+아 스스로 ,POS
+아 스스로 하 ,POS
+아 쓰 ,POS
+아 약 ,NEG
+아 약 을 ,NEG
+아 언로 ,NEG
+아 언로 가 ,NEG
+아 역시 ,POS
+아 역시 이색 ,POS
+아 오 ,POS
+아 오 던 ,POS
+아 우리말 ,POS
+아 우리말 로 ,POS
+아 이런저런 ,POS
+아 이런저런 얘기 ,POS
+아 있 ,POS
+아 있 는 ,NEG
+아 있 다 ,POS
+아 있 다 ,NEG
+아 주 ,NEG
+아 주 고 ,NEG
+아 주 ㄴ ,NEG
+아 주 는 ,POS
+아 주 니 ,POS
+아 주 ㄹ ,NEG
+아 주 어서 ,NEG
+아 중국 ,POS
+아 중국 과 ,POS
+아 지 ,POS
+아 지 고 ,POS
+아 지 면 ,POS
+아 지 었 ,POS
+아 지 지 ,POS
+아 지속 ,NEG
+아 지속 되 ,NEG
+아 하 ,POS
+아 하 는 ,POS
+아 하 ,NEG
+아 하 는 ,NEG
+아 한 ,NEG
+아 한 숟가락 ,NEG
+아 훨씬 ,NEG
+아 훨씬 떨어지 ,NEG
+아 IC,NEG
+아끼 ,POS
+아끼 어 ,POS
+아끼 어 모으 ,POS
+아내 ,NEG
+아니 IC,NEG
+아니 ,None
+아니 ㄴ가 ,NEG
+아니 ㄴ가 거리 ,NEG
+아니 ㄴ가 하 ,NEG
+아니 다 ,NEG
+아니 ㄹ ,NEG
+아니 ㄹ 수 ,NEG
+아니 라 ,None
+아니 라니까 ,NEG
+아니 면 ,POS
+아니 면 절대 ,POS
+아니 ㅂ니까 ,None
+아니 ㅂ니다 ,NEG
+아니 지만 ,POS
+아니 지만 연극 ,POS
+아도 ,None
+아도 예술품 ,NEG
+아도 예술품 을 ,NEG
+아들 ,NEG
+아들 도 ,NEG
+아들 도 낳 ,NEG
+아라 ,POS
+아랑곳 ,POS
+아랑곳 하 ,POS
+아랑곳 하 지 ,POS
+아름답 ,POS
+아름답 게 ,POS
+아름답 게 성취 ,POS
+아름답 다는 ,NEG
+아름답 다는 칭찬 ,NEG
+아름답 ㅁ ,NEG
+아름답 ㅁ 이 ,POS
+아름답 은 ,POS
+아름답 지 ,NEG
+아름답 지 못하 ,NEG
+아마 ,POS
+아마 그때 ,POS
+아마 그때 이 ,POS
+아무 ,NEG
+아무 것 ,NEG
+아무 것 도 ,NEG
+아무 ,NEG
+아무 나 ,POS
+아무 나 하 ,POS
+아무 도 ,NEG
+아무 도 저 ,NEG
+아무래도 ,None
+아무런 ,NEG
+아무런 보탬 ,NEG
+아무런 보탬 이 ,NEG
+아무런 응답 ,NEUT
+아무런 응답 이 ,NEUT
+아무런 제한 ,NEG
+아무런 제한 이 ,NEG
+아무렇 ,POS
+아무렇 ㄴ ,POS
+아무렇 ㄴ 문제 ,POS
+아버지 ,NEG
+아버지 공장장 ,NEG
+아버지 공장장 님 ,NEG
+아빠 ,POS
+아사 ,NEG
+아서 ,NEG
+아서 ㄴ ,NEG
+아서 ㄴ 관심 ,NEG
+아서 는 ,NEG
+아서 는 안 ,NEG
+아서 하 ,POS
+아서 하 는 ,POS
+아성 ,POS
+아쉬움 ,NEG
+아쉬움 으로 ,NEG
+아쉬움 으로 남 ,NEG
+아쉽 ,NEG
+아쉽 ㄴ ,NEG
+아쉽 ㄴ 것 ,NEG
+아스팔트 ,POS
+아스팔트 포장 ,POS
+아시아 ,NEUT
+아시아 작가 ,POS
+아시아 작가 상 ,POS
+아시아 지역 ,NEUT
+아시아 지역 으로 ,NEUT
+아야 ,None
+아야 겠 ,NEUT
+아야 겠 어 ,NEUT
+아야 되 ,NEG
+아야 되 니까 ,NEG
+아야 하 ,None
+아야 하 ,None
+아야 하 겠 ,None
+아야 하 ㄴ다 ,POS
+아야 하 ㄴ다고 ,NEG
+아야 하 ㄹ ,POS
+아야지 ,None
+아연 ,NEG
+아연 하 ,NEG
+아연 하 게 ,NEG
+아예 ,None
+아예 거부 ,NEG
+아예 거부 하 ,NEG
+아요 ,NEG
+아울러 ,None
+아이 ,POS
+아이 들 ,POS
+아이 들 에 ,POS
+아이 들 에게 ,POS
+아이 들 을 ,NEG
+아이 들 의 ,POS
+아이 들 이 ,POS
+아이 들 하고* ,NEG
+아이 마음 ,NEG
+아이 마음 에 ,NEG
+아이러니 ,NEG
+아이러니 를 ,NEG
+아이러니 를 낳 ,NEG
+아주 ,POS
+아주 많이 ,NEG
+아주 많이 마렵 ,NEG
+아주 반응 ,POS
+아주 반응 이 ,POS
+아주 비슷 ,POS
+아주 비슷 하 ,POS
+아주 자유 ,POS
+아주 자유 롭 ,POS
+아직 ,NEG
+아직 까지 ,None
+아직 까지 는 ,None
+아직 도 ,None
+아직 멀 ,NEG
+아직 자리 ,NEG
+아직 자리 를 ,NEG
+아직 확실히 ,NEG
+아직 확실히 밝히 ,NEG
+아침 ,POS
+아침 공기 ,POS
+아침 공기 가 ,POS
+아파트 ,NEG
+아파트 숲 ,NEG
+아파트 숲 을 ,NEG
+아프 ,NEG
+아프 고 ,NEUT
+아프 고 귀 ,NEUT
+아프 ㄴ ,NEG
+아프 ㄴ 몸 ,NEG
+아프 아 ,NEG
+아프 아 약 ,NEG
+아픔 ,NEG
+아픔 을 ,POS
+아픔 을 어루만지 ,POS
+아픔 이 ,POS
+아픔 이 다 ,POS
+악기 ,NEG
+악기 를 ,NEG
+악기 를 구입 ,NEG
+악수 ,POS
+악수 를 ,POS
+악수 를 청 ,POS
+악재 ,NEG
+악절 ,POS
+악절 의 ,POS
+악절 의 확대 ,POS
+악화 ,NEG
+악화 하 ,NEG
+안 ,NEG
+안 되 ,NEG
+안 되 ㄴ다 ,NEG
+안 되 는 ,NEG
+안 되 리란 ,POS
+안 되 면 ,POS
+안 되 ,NEG
+안 들이 ,NEG
+안 들이 고 ,NEG
+안 쓰 ,POS
+안 쓰 는 ,POS
+안 주 ,NEG
+안 하 ,NEG
+안 하 ㄴ다 ,NEUT
+안 하 았 ,NEG
+안 ,NEG
+안 에서 ,NEUT
+안 에서 작품 ,NEUT
+안 하 ,NEG
+안 하 겠 ,NEG
+안 ,NEG
+안개 ,NEUT
+안개 와 ,NEUT
+안개 와 같 ,NEUT
+안무가 ,POS
+안방 ,POS
+안방 요리 ,POS
+안방 요리 학원 ,POS
+안보 ,POS
+안보 태세 ,POS
+안보 태세 를 ,POS
+안스럽 ,NEG
+안전 ,NEG
+안전 불감증 ,NEG
+안전 사고 ,NEG
+안전 하 ,POS
+안전 하 ㄴ ,POS
+안절부절못하 ,POS
+안정 ,NEG
+안타까워하 ,NEG
+안타깝 ,NEG
+앉 ,NEUT
+앉 아 ,NEUT
+않 ,NEG
+않 ,NEG
+않 겠 ,NEG
+않 겠 다고 ,NEG
+않 겠 지요 ,NEG
+않 고 ,POS
+않 고 최고 ,NEG
+않 기 ,POS
+않 기 위하 ,POS
+않 는 ,NEG
+않 는 우리 ,POS
+않 는 호전 ,NEG
+않 는다 ,POS
+않 습니다 ,POS
+않 아 ,NEG
+않 아요 ,NEG
+않 았 ,None
+않 았 는데 ,POS
+않 았 던가 ,None
+않 으면 ,POS
+않 으면 공멸 ,POS
+않 으면 아름답 ,NEG
+않 으면 안 ,None
+않 으면 얼마 ,POS
+않 은 ,NEG
+않 은 논란 ,NEG
+않 은 부담 ,NEG
+않 은 일 ,NEG
+않 을 ,NEG
+않 을 수 ,NEG
+않 을까 ,None
+않 을까 싶 ,None
+않 을까 ,COMP
+않 을까요 ,None
+알 ,POS
+알 게 ,POS
+알 게 되도록 ,POS
+알 고 ,NEG
+알 고 다가가 ,POS
+알 고 있 ,NEG
+알 기 ,POS
+알 기 쉽 ,POS
+알 ㄹ ,NEUT
+알 ㄹ 수 ,NEUT
+알 시 ,NEG
+알 시 ㅂ니까 ,NEG
+알 지 ,NEG
+알 지 못하 ,NEG
+알뜰 ,POS
+알뜰 바람 ,POS
+알뜰히 ,NEG
+알뜰히 살 ,NEG
+알뜰히 살 아야 ,NEG
+알리 ,POS
+알리 어 ,POS
+알리 어 지 ,POS
+알리 어야만 ,COMP
+알리 어야만 하 ,COMP
+알쏭달쏭 ,NEUT
+알쏭달쏭 하 ,NEUT
+알코올 ,NEG
+알코올 중독 ,NEG
+알코올 중독 으로 ,NEG
+앓 ,NEG
+앓 기 ,POS
+앓 기 도 ,POS
+암흑 ,POS
+암흑 의 ,POS
+암흑 의 시대 ,POS
+압도 ,NEG
+압도 적 ,NEG
+압도 적 이 ,NEG
+압도 적 지지 ,POS
+압박 ,NEG
+압박 을 ,NEG
+압박 을 가하 ,NEG
+앗 ,NEG
+앗 아 ,NEG
+앗 아 가 ,NEG
+았 ,NEG
+았 고 ,POS
+았 나 ,NEG
+았 네 ,NEG
+았 는데 ,NEG
+았 는데 배 ,POS
+았 는데 어떤 ,POS
+았 는지 ,POS
+았 는지 를 ,POS
+았 다 ,NEG
+았 다 ,NEG
+았 다가 ,NEG
+았 다가 꿀통 ,NEG
+았 다는 ,NEG
+았 다는 말 ,NEG
+았 던 ,NEG
+았 던 것 ,None
+았 던 과거 ,NEG
+았 던 디자이너 ,NEUT
+았 던 충격 ,NEG
+았 던가 ,NEG
+았 습니다 ,POS
+았 어요 ,POS
+았 으나 ,POS
+았 으니 ,NEG
+았 으니 세속 ,NEG
+았 으련만 ,NEG
+았 으면 ,NEG
+았 으면 좋 ,NEG
+았 지 ,NEG
+았었 ,NEG
+았었 는데 ,NEG
+앙상 ,NEG
+앙상 하 ,NEG
+앙상 하 게 ,NEG
+앞 ,NEG
+앞 길 ,NEG
+앞 길 은 ,NEG
+앞 다투 ,POS
+앞 다투 어 ,POS
+앞 에 ,NEG
+앞 에 나서 ,NEG
+앞 에서 ,NEG
+앞 에서 바느질 ,NEUT
+앞 으로 ,POS
+앞 으로 항균 ,POS
+앞서 ,NEG
+앞장 ,POS
+앞장 서 ,POS
+애 ,NEG
+애 먹이 ,NEG
+애꿎 ,NEG
+애끊 ,COMP
+애니메이션 ,POS
+애니메이션 계 ,POS
+애니메이션 계 에서 ,POS
+애닯 ,COMP
+애용 ,POS
+애용 되 ,POS
+애용 하 ,POS
+애정 ,POS
+애정 이 ,POS
+애정 이 배 ,POS
+애타 ,POS
+애타 게 ,POS
+애타 게 그리 ,POS
+애틋 ,POS
+애틋 하 ,POS
+액수 ,NEG
+액수 만 ,NEG
+액수 만 환불 ,NEG
+앱시다 ,NEG
+앳되 ,POS
+앳되 ㄴ ,POS
+앳되 ㄴ 젊음 ,POS
+야 ,None
+야 ,NEG
+야 ,None
+야 하 ,None
+야릇 ,NEUT
+야릇 하 ,NEUT
+약 ,NEG
+약 을 ,NEG
+약 을 먹 ,NEG
+약간 ,COMP
+약간 의 ,COMP
+약간 의 쓸쓸 ,COMP
+약간 의 편안 ,COMP
+약골 ,NEG
+약속 ,POS
+약속 을 ,POS
+약속 을 정하 ,POS
+약속 하 ,POS
+약탈 ,NEG
+약하 ,NEG
+약하 ㄴ ,NEG
+약하 ㄴ 모습 ,NEG
+약혼 ,NEG
+약혼 까지 ,NEG
+약혼 까지 하 ,NEG
+약화 ,POS
+약화 시키 ,POS
+양 ,POS
+양 어깨 ,POS
+양 어깨 에 ,POS
+양보 ,NEG
+양보 가 ,NEG
+양보 가 없 ,NEG
+양상 ,NEG
+양상 을 ,NEG
+양상 을 보이 ,NEG
+양식 ,POS
+양심 ,NEG
+양심 의 ,NEG
+양심 의 가책 ,NEG
+양탄자 ,POS
+양탄자 는 ,POS
+양탄자 는 습기 ,POS
+얘기 ,POS
+얘기 꽃 ,POS
+얘기 꽃 을 ,POS
+얘기 들 ,POS
+얘기 들 을 ,POS
+얘기 를 ,NEG
+얘기 를 들 ,NEG
+어* ,NEG
+어* 모두* ,NEG
+어* 모두* 그러* ,NEG
+어 ,POS
+어 가 ,POS
+어 가 고 ,NEG
+어 가 ㄹ ,POS
+어 가 며 ,None
+어 균 ,POS
+어 균 이 ,POS
+어 나가 ,NEG
+어 나가 는 ,NEG
+어 나오 ,NEG
+어 나오 아 ,POS
+어 내 ,POS
+어 내 는 ,NEG
+어 놓 ,POS
+어 놓 고 ,POS
+어 놓 아야 ,NEUT
+어 놓 았 ,NEG
+어 놓 을 ,POS
+어 담 ,NEG
+어 담 을 ,NEG
+어 대 ,NEG
+어 대 ㄴ다고 ,NEG
+어 돌아오 ,NEG
+어 돌아오 지 ,NEG
+어 들 ,POS
+어 들 고 ,POS
+어 들 ,POS
+어 들 ㄹ ,POS
+어 마음 ,COMP
+어 마음 을 ,COMP
+어 맞 ,POS
+어 맞 아 ,POS
+어 모으 ,POS
+어 모으 ㄴ ,POS
+어 미국 ,NEG
+어 미국 은 ,NEG
+어 반드시 ,NEG
+어 반드시 혈액 ,NEG
+어 버리 ,NEG
+어 버리 지 ,NEG
+어 버리 ,POS
+어 버리 고 ,POS
+어 버리 시 ,POS
+어 버리 었 ,COMP
+어 보* ,POS
+어 보* 면 ,POS
+어 보 ,NEG
+어 보 고 ,NEG
+어 보 면 ,NEG
+어 보 자고 ,POS
+어 보상 ,NEG
+어 보상 을 ,NEG
+어 보이 ,POS
+어 보이 지 ,POS
+어 살 ,NEG
+어 살 지 ,NEG
+어 생활 ,NEG
+어 생활 비디오 ,NEG
+어 숨지 ,NEG
+어 업 ,POS
+어 업 고 ,POS
+어 열매 ,POS
+어 열매 맺 ,POS
+어 오* ,NEG
+어 오* ㄴ ,NEG
+어 오 ,POS
+어 오 ㄴ ,POS
+어 오 았 ,POS
+어 읽 ,POS
+어 읽 으면 ,POS
+어 입술 ,NEG
+어 입술 빨 ,NEG
+어 있 ,NEG
+어 있 는 ,NEG
+어 있 어 ,NEG
+어 있 었 ,POS
+어 있 을까 ,COMP
+어 주 ,POS
+어 주 ㄴ ,NEG
+어 주 ㄹ ,POS
+어 주 며 ,POS
+어 주 지 ,NEG
+어 지 ,POS
+어 지 고 ,NEG
+어 지 ㄴ ,POS
+어 지 ㄹ ,POS
+어 지 지 ,None
+어 지내 ,NEG
+어 지내 는 ,NEG
+어 하 ,NEG
+어 하 아서 ,NEG
+어 하 지 ,POS
+어 ,COMP
+어깨 ,POS
+어깨 에 ,POS
+어깨 에 들치 ,POS
+어느 ,NEG
+어느 것 ,None
+어느 것 이 ,None
+어느 곳 ,COMP
+어느 곳 에 ,COMP
+어느 정도 ,POS
+어느 정도 확신 ,POS
+어느 한 ,NEG
+어느 한 지점 ,NEG
+어느 한가지 ,NEG
+어느 한가지 주장 ,NEG
+어다 ,NEG
+어다 놓 ,NEG
+어다 놓 고 ,NEG
+어다가 ,None
+어도 ,None
+어도 세우 ,NEG
+어도 세우 어 ,NEG
+어둠 ,POS
+어둠 속 ,POS
+어둠 속 에 ,POS
+어둠 은 ,POS
+어둠 은 저절로 ,POS
+어둡 ,NEG
+어디 ,COMP
+어디 로 ,NEG
+어디 로 가 ,NEG
+어디 에 ,COMP
+어디 에 도 ,None
+어디 에 있 ,COMP
+어떠 ,NEG
+어떠 하 ,NEG
+어떠 하 ㄴ ,NEG
+어떤 ,NEG
+어떤 남자 ,NEG
+어떤 남자 도 ,NEG
+어떤 불법 ,NEG
+어떤 불법 도 ,NEG
+어떤 악절 ,POS
+어떤 악절 의 ,POS
+어떤 어렵 ,POS
+어떤 어렵 ㅁ ,POS
+어떤 얼굴 ,COMP
+어떤 얼굴 로 ,COMP
+어떤 여자 ,NEG
+어떤 여자 도 ,NEG
+어떻 ,None
+어떻 게 ,None
+어떻 게 이 ,POS
+어떻 게든 ,None
+어떻 ㄴ가 ,NEG
+어떻 ㄹ까요 ,None
+어떻 어 ,NEG
+어떻든 ,None
+어라 ,POS
+어려움 ,NEG
+어려움 을 ,POS
+어려움 을 극복 ,POS
+어려움 이 ,NEG
+어려움 이 가장 ,NEG
+어렵 ,NEG
+어렵 게 ,NEG
+어렵 게 하 ,NEG
+어렵 ㄴ ,NEG
+어렵 ㄴ 고구려 ,POS
+어렵 ㄴ 사건 ,NEG
+어렵 ㄴ 일 ,NEG
+어렵 다고 ,NEG
+어렵 ㅁ ,POS
+어렵 ㅁ 이 ,POS
+어렵 었 ,NEG
+어렵 었 을 ,NEG
+어렵 지 ,POS
+어렵 지 않 ,POS
+어루만지 ,POS
+어리 ,NEG
+어리 ㄴ ,NEG
+어리 ㄴ 시절 ,NEG
+어리 어서 ,NEG
+어리 어서 부터 ,NEG
+어리 ,POS
+어리광 ,NEG
+어리광 을 ,NEG
+어리광 을 피우 ,NEG
+어린이 ,POS
+어린이 들 ,POS
+어린이 들 까지 ,POS
+어린이 들 상상 ,POS
+어린이 들 에게 ,POS
+어린이 들 은 ,NEUT
+어머니 ,NEG
+어머니 를 ,POS
+어머니 를 양 ,POS
+어머니 젖 ,NEG
+어머니 젖 에 ,NEG
+어서 ,NEG
+어서 고립무원 ,NEG
+어서 고립무원 속 ,NEG
+어서 그동안 ,POS
+어서 그동안 못 ,POS
+어서 는 ,NEG
+어서 는 안 ,NEG
+어서 부터 ,NEG
+어서 부터 나 ,NEG
+어야 ,None
+어야 겠 ,NEG
+어야 겠 다 ,NEUT
+어야 겠 다는 ,POS
+어야 하 ,None
+어야 하 ㄴ다 ,NEUT
+어야 하 ㄴ다 ,POS
+어야 하 ㄹ ,NEG
+어야만 ,COMP
+어야만 하 ,COMP
+어야만 하 ㄴ다 ,COMP
+어야지요 ,POS
+어요 ,NEG
+어요 지겹 ,NEG
+어요 지겹 어요 ,NEG
+어요 ,POS
+어우러지 ,POS
+어우러지 어 ,POS
+어우러지 어 열매 ,POS
+어지럼증 ,NEG
+어지럼증 을 ,NEG
+어지럼증 을 더하 ,NEG
+어쨌든 ,None
+어쩌 ,NEG
+어쩌 나 ,NEG
+어쩌 나 고민 ,NEG
+어쩌 ㄹ ,NEG
+어쩌 ㄹ 수 ,NEG
+어찌 ,None
+어처구니 ,NEG
+어처구니 없 ,NEG
+억 ,NEG
+억 원 ,NEG
+억 원 이나 ,NEG
+억울 ,POS
+억울 하 ,POS
+억울 하 게 ,POS
+억지 ,NEG
+억지 와 ,NEG
+억지 와 궤변 ,NEG
+언로 ,NEG
+언로 가 ,NEG
+언로 가 차단 ,NEG
+언론 ,NEG
+언론 개혁 ,POS
+언제 ,NEG
+언제 여자 ,NEG
+언제 여자 와 ,NEG
+언젠가 ,POS
+언젠가 는 ,POS
+언젠가 는 얼핏 ,POS
+얻 ,POS
+얻 어 ,NEG
+얻 어 내 ,POS
+얻 어 오* ,NEG
+얻 은 ,POS
+얻 은 측면 ,POS
+얼 ,POS
+얼 ㄴ ,POS
+얼 ㄴ 가슴 ,POS
+얼굴 ,COMP
+얼굴 뒤 ,POS
+얼굴 뒤 에 ,POS
+얼굴 로 ,COMP
+얼굴 로 서 ,COMP
+얼굴 을 ,NEG
+얼굴 을 가지 ,NEG
+얼마 ,NEG
+얼마 받 ,NEG
+얼마 받 겠 ,NEG
+얼마 이 ,NEG
+얼마 이 든지 ,NEG
+얼마나 ,POS
+얼마나 어렵 ,NEG
+얼마나 어렵 ㄴ ,NEG
+얼마나 오랜 ,NEG
+얼마나 오랜 사색 ,POS
+얼마나 오랜 시간 ,NEG
+얼마나 유효 ,POS
+얼마나 유효 하 ,POS
+얼마나 종류 ,POS
+얼마나 종류 가 ,POS
+얼마나 좋 ,POS
+얼마나 좋 습니까 ,POS
+얼마나 지난 ,NEG
+얼마나 지난 하 ,NEG
+얼싸안 ,POS
+얼씬거리 ,NEG
+얼핏 ,NEUT
+얼핏 보 ,NEUT
+얼핏 보 기 ,NEUT
+얼핏 희망 ,POS
+얼핏 희망 을 ,POS
+얽매이 ,POS
+얽매이 지 ,POS
+얽매이 지 않 ,POS
+엄마 ,NEG
+엄마 가 ,NEG
+엄마 가 하 ,NEG
+엄마 를 ,NEG
+엄마 를 이해 ,NEG
+엄마 보 ,COMP
+엄마 보 고 ,COMP
+엄마 처럼 ,NEG
+엄마 처럼 버림받 ,NEG
+엄밀히 ,None
+엄밀히 말 ,None
+엄밀히 말 하 ,None
+엄숙 ,POS
+엄숙 하 ,POS
+엄숙 하 고 ,POS
+엄연 ,POS
+엄연 하 ,POS
+엄연히 ,None
+엄청나 ,POS
+엄청나 게 ,POS
+엄청나 ㄴ ,POS
+엄청나 ㄴ 성공 ,POS
+엄청나 ㄴ 유동 ,POS
+엄청나 ㄴ 재산 ,NEG
+업 ,POS
+업 고 ,POS
+업 고 수미산 ,POS
+업무 ,NEG
+업무 가 ,NEG
+업무 가 단절 ,NEG
+업무 좌절감 ,NEG
+없 ,NEG
+없 겠 ,NEG
+없 고 ,NEUT
+없 나요 ,NEG
+없 는 ,NEG
+없 는 동물 ,NEUT
+없 는 몸 ,NEG
+없 는 위기감 ,NEG
+없 는 인생 ,NEG
+없 는 일 ,None
+없 는 초미 ,COMP
+없 는 힘 ,POS
+없 다 ,NEG
+없 다 ,NEG
+없 답니다 ,NEG
+없 습니다 ,NEG
+없 어 ,NEG
+없 어서 ,NEG
+없 어야 ,NEG
+없 어야 겠 ,NEG
+없 었 ,NEG
+없 었 다 ,NEG
+없 었 습니다 ,NEG
+없 으나 ,POS
+없 으나 앞 ,POS
+없 으시 ,NEG
+없 으시 ㄴ ,NEG
+없 을 ,NEG
+없 을 때 ,POS
+없 을 만큼 ,None
+없 을 수 ,NEG
+없 음 ,NEG
+없 잖아 ,NEG
+없 지 ,NEG
+없 지 는 ,NEG
+없 지 않 ,NEG
+없 ,NEG
+없이 ,NEG
+없이 걷 ,NEG
+없이 걷 는 ,NEG
+없이 눈치 ,NEG
+없이 눈치 만 ,NEG
+없이 대중 ,NEG
+없이 대중 화 ,NEG
+없이 드러나 ,NEG
+없이 모자라 ,NEG
+없이 일 ,POS
+없이 일 하 ,POS
+없이 좌수 ,NEG
+없이 좌수 로 ,NEG
+없이 추락 ,NEG
+없이 추락 하 ,NEG
+엇나가 ,NEG
+엇나가 는 ,NEG
+엇나가 는 양상 ,NEG
+었 ,NEG
+었 고 ,POS
+었 고 나중 ,POS
+었 고 면허 ,POS
+었 구나 ,NEG
+었 네 ,NEG
+었 는데 ,POS
+었 는데 아주 ,POS
+었 는지 ,NEUT
+었 는지 알 ,NEUT
+었 다 ,NEG
+었 다 하 ,NEG
+었 다 ,NEG
+었 다고 ,NEG
+었 다고 그러* ,NEG
+었 더라면 ,NEG
+었 던 ,NEUT
+었 던 것 ,NEUT
+었 던 유학 ,POS
+었 습니다 ,POS
+었 어요 ,NEG
+었 어요 지겹 ,NEG
+었 으면 ,NEUT
+었 으면 하 ,NEUT
+었 을 ,NEG
+었 을 것 ,NEG
+었 을까 ,NEG
+었 죠 ,POS
+었 지만 ,NEG
+었 지만 아무 ,NEG
+었 지만 장주 ,NEUT
+었 지만 지나 ,POS
+엉뚱 ,NEG
+엉뚱 하 ,NEG
+엉뚱 하 기 ,NEG
+엉망진창 ,NEG
+엉터리 ,NEG
+엉터리 이 ,NEG
+에 ,POS
+에 가 ,NEG
+에 가 았 ,NEG
+에 가깝 ,NEG
+에 갑자기 ,NEUT
+에 갑자기 호흡 ,NEUT
+에 개혁 ,NEG
+에 걸리 ,NEG
+에 고통 ,NEG
+에 고통 을 ,NEG
+에 과거 ,NEUT
+에 과거 로 ,NEUT
+에 관하 ,POS
+에 관하 ㄴ ,POS
+에 궁중 ,NEG
+에 궁중 사극 ,NEG
+에 그것 ,NEUT
+에 그것 ㄴ ,NEUT
+에 그치 ,NEG
+에 깔리 ,POS
+에 깔리 어 ,POS
+에 꿀단지 ,NEG
+에 꿀단지 가지 ,NEG
+에 ㄴ ,NEG
+에 ㄴ 다시 ,NEG
+에 ㄴ 입술 ,POS
+에 나비 ,NEUT
+에 나비 가 ,NEUT
+에 나서 ,NEG
+에 나서 지 ,NEG
+에 넣 ,NEG
+에 넣 어 ,NEG
+에 눈 ,POS
+에 눈 오 ,POS
+에 는 ,POS
+에 는 가 ,NEG
+에 는 결혼 ,NEUT
+에 는 없 ,POS
+에 는 호박 ,POS
+에 달리 ,NEG
+에 달리 ㄴ ,NEG
+에 달하 ,NEG
+에 대하 ,POS
+에 대하 ㄴ ,NEG
+에 대하 아 ,POS
+에 대하 아서 ,NEG
+에 도 ,None
+에 도 강하 ,POS
+에 도 불구 ,None
+에 도 역행 ,NEG
+에 도움 ,POS
+에 도움 을 ,POS
+에 도움 이 ,POS
+에 돌 ,NEG
+에 돌 을 ,NEG
+에 동참 ,POS
+에 동참 하 ,POS
+에 두르 ,POS
+에 두르 고 ,POS
+에 드러내 ,NEG
+에 들어가 ,NEG
+에 들어오 ,POS
+에 들치 ,POS
+에 들치 어 ,POS
+에 따르 ,None
+에 따르 면 ,None
+에 따르 아 ,POS
+에 띄 ,POS
+에 띄 게 ,POS
+에 만 ,NEG
+에 만 빠지 ,NEG
+에 만 전념 ,POS
+에 많이 ,NEUT
+에 많이 관여 ,NEUT
+에 맞 ,POS
+에 맞서 ,NEG
+에 맞서 자 ,NEG
+에 머무르 ,NEG
+에 모이 ,NEUT
+에 모이 ㄴ ,NEUT
+에 묻 ,POS
+에 밀고 ,NEG
+에 밀고 하 ,NEG
+에 발리 ,NEG
+에 발리 ㄴ ,NEG
+에 백화점 ,POS
+에 백화점 등 ,POS
+에 변화 ,NEG
+에 변화 가 ,NEG
+에 별도 ,POS
+에 별도 의 ,POS
+에 본격 ,POS
+에 본격 적 ,POS
+에 부합 ,POS
+에 부합 하 ,POS
+에 불과 ,NEG
+에 불과 하 ,NEG
+에 비 ,NEG
+에 비 하 ,NEG
+에 빛 ,POS
+에 빛 이 ,POS
+에 빠지 ,NEG
+에 빠지 어 ,NEG
+에 사로잡히 ,NEG
+에 살 ,NEUT
+에 살 고 ,NEUT
+에 살인 ,NEG
+에 살인 죄 ,NEG
+에 서로 ,POS
+에 서로 자랑 ,POS
+에 서로 ,NEG
+에 서로 를 ,NEG
+에 손색 ,POS
+에 손색 없 ,POS
+에 숨 ,POS
+에 숨 어 ,POS
+에 스스로 ,POS
+에 스스로 전화 ,POS
+에 시달리 ,NEG
+에 아무런 ,NEG
+에 아무런 보탬 ,NEG
+에 앉 ,NEUT
+에 앉 아 ,NEUT
+에 알 ,NEG
+에 알 지 ,NEG
+에 야 ,None
+에 어떤 ,COMP
+에 어떤 얼굴 ,COMP
+에 어쩌 ,NEG
+에 어쩌 ㄹ ,NEG
+에 얽매이 ,POS
+에 얽매이 지 ,POS
+에 엿보 ,POS
+에 오르 ,NEG
+에 올리 ,NEG
+에 올리 기 ,NEG
+에 우리 ,COMP
+에 우리 ㄴ ,COMP
+에 위치 ,POS
+에 위치 를 ,POS
+에 의 ,POS
+에 의 여성 ,POS
+에 의하 ,NEG
+에 의하 아 ,NEG
+에 이르 ,None
+에 있 ,NEG
+에 있 는 ,NEG
+에 있 다 ,POS
+에 있 을까 ,COMP
+에 잡히 ,POS
+에 적격 ,POS
+에 적격 이 ,POS
+에 적응력 ,NEG
+에 적응력 이 ,NEG
+에 정지선 ,NEG
+에 정지선 을 ,NEG
+에 젖 ,NEG
+에 좀 ,POS
+에 좀 내놓 ,POS
+에 주위 ,NEG
+에 주위 사람 ,NEG
+에 쥐 ,POS
+에 쥐 ㄹ ,POS
+에 즐겁 ,POS
+에 지나 ,None
+에 지나 지 ,None
+에 참여 ,POS
+에 참여 하 ,POS
+에 처하 ,NEG
+에 충분 ,POS
+에 충분 하 ,POS
+에 크 ,POS
+에 크 ㄴ ,POS
+에 통증 ,NEUT
+에 통증 이 ,NEUT
+에 피어나 ,POS
+에 하 ,NEG
+에 하 ㄴ ,NEG
+에 하 았 ,NEUT
+에 하나 ,POS
+에 하나 의 ,POS
+에 한 ,POS
+에 한 번 ,POS
+에 향하 ,POS
+에 현악 ,POS
+에 휩싸이 ,NEG
+에 흙탕물 ,NEG
+에 흙탕물 튀 ,NEG
+에게 ,POS
+에게 간신히 ,NEG
+에게 간신히 매달리 ,NEG
+에게 ㄴ ,NEG
+에게 ㄴ 말 ,NEG
+에게 나 ,NEG
+에게 나 는 ,NEG
+에게 들리 ,POS
+에게 먹 ,POS
+에게 먹 을 ,POS
+에게 소개 ,POS
+에게 소개 하 ,POS
+에게 알리 ,COMP
+에게 알리 어야만 ,COMP
+에게 의심 ,NEG
+에게 의심 받 ,NEG
+에게 적극 ,POS
+에게 적극 적 ,POS
+에게 현실 ,COMP
+에게 현실 이 ,COMP
+에너지 ,POS
+에서 ,POS
+에서 가 ,NEG
+에서 가 아니 ,NEG
+에서 가장 ,POS
+에서 가장 솔직 ,POS
+에서 가장 좋 ,POS
+에서 구하 ,POS
+에서 그 ,POS
+에서 그 가 ,POS
+에서 깨 ,NEUT
+에서 깨 었 ,NEUT
+에서 내려오 ,POS
+에서 내려오 ㄴ ,POS
+에서 는 ,POS
+에서 는 가장 ,POS
+에서 는 어떤 ,NEG
+에서 는 유일 ,POS
+에서 는 이미 ,POS
+에서 도 ,NEG
+에서 도 소변 ,NEG
+에서 도 통화 ,POS
+에서 돕 ,NEG
+에서 돕 ㄹ ,NEG
+에서 떠들 ,NEG
+에서 떠들 어 ,NEG
+에서 마주치 ,NEG
+에서 마주치 ㄴ ,NEG
+에서 미끼 ,NEG
+에서 미끼 가 ,NEG
+에서 미술인 ,COMP
+에서 미술인 들 ,COMP
+에서 바느질 ,NEUT
+에서 바느질 을 ,NEUT
+에서 방수 ,POS
+에서 벗어나 ,POS
+에서 보 ,NEG
+에서 보 면 ,NEG
+에서 불러오 ,POS
+에서 불러오 ㄹ ,POS
+에서 비참 ,NEG
+에서 비참 하 ,NEG
+에서 억울 ,POS
+에서 억울 하 ,POS
+에서 영화 ,NEUT
+에서 영화 작업 ,NEUT
+에서 와 ,None
+에서 와 같 ,None
+에서 욕 ,NEG
+에서 욕 튀어나오 ,NEG
+에서 유사 ,NEG
+에서 유사 성 ,NEG
+에서 의 ,POS
+에서 자라 ,NEG
+에서 작품 ,NEUT
+에서 작품 하나 ,NEUT
+에서 잔뼈 ,POS
+에서 잔뼈 가 ,POS
+에서 재 ,COMP
+에서 재 해석 ,COMP
+에서 편모 ,NEG
+에서 편모 들 ,NEG
+에서 항상 ,POS
+에서 항상 태극기 ,POS
+에서부터 ,None
+에어로빅 ,POS
+에어로빅 비디오 ,POS
+에어로빅 비디오 가 ,POS
+여 ,NEG
+여 연민 ,NEG
+여 연민 의 ,NEG
+여 ,POS
+여 곳 ,NEUT
+여 곳 을 ,NEUT
+여 달러 ,POS
+여 달러 에 ,POS
+여 만 ,POS
+여 만 원 ,POS
+여기 ,NEG
+여기 ㄴ ,NEG
+여기 ㄴ 곧 ,NEG
+여기 에 ,POS
+여기 에 하나 ,POS
+여기 ,POS
+여기 어 ,NEG
+여기 어 지 ,NEG
+여러 ,NEG
+여러 가지 ,NEG
+여러 가지 문제 ,NEG
+여러 사람 ,POS
+여러 사람 을 ,POS
+여론 ,POS
+여론 이 ,POS
+여론 이 거세 ,POS
+여물 ,POS
+여물 ㄴ ,POS
+여물 ㄴ 새댁 ,POS
+여백 ,POS
+여백 을 ,POS
+여백 을 더 ,POS
+여부 ,NEG
+여부 도 ,NEG
+여부 도 확인 ,NEG
+여성 ,NEG
+여성 계 ,POS
+여성 계 가 ,POS
+여성 들 ,POS
+여성 들 보다 ,POS
+여성 들 의 ,POS
+여성 문제 ,NEG
+여성 문제 들 ,NEG
+여성 성 ,NEG
+여성 성 을 ,NEG
+여성 에 ,NEG
+여성 에 대하 ,NEG
+여성 위원 ,POS
+여성 위원 참여 ,POS
+여성 의 ,NEUT
+여성 의 심리 ,NEUT
+여성 임금 ,POS
+여성 임금 남성 ,POS
+여성 질환 ,NEG
+여성 질환 많 ,NEG
+여성 채용 ,NEG
+여성 채용 꺼리 ,NEG
+여성 환자 ,NEG
+여성 환자 들 ,NEG
+여실히 ,None
+여울 ,POS
+여유 ,POS
+여유 가 ,POS
+여유 가 생기 ,POS
+여자 ,NEG
+여자 는 ,NEG
+여자 는 어리 ,NEG
+여자 는 욕망 ,NEG
+여자 도 ,NEG
+여자 와 ,NEG
+여자 와 사귀 ,NEG
+여전히 ,None
+여지 ,NEG
+여지 없이 ,NEG
+여지 없이 드러나 ,NEG
+여지껏 ,NEG
+여지껏 힘겹 ,NEG
+여지껏 힘겹 게 ,NEG
+여차 ,None
+여차 하 ,None
+여차 하 면 ,None
+역량 ,POS
+역량 발휘 ,POS
+역사 ,POS
+역사 가 ,NEG
+역사 가 짧 ,NEG
+역사 상 ,POS
+역사 상 처음 ,POS
+역사 연구 ,NEUT
+역사 연구 를 ,NEUT
+역사 의 ,POS
+역사 의 현재 ,POS
+역사 적 ,POS
+역사 적 이 ,POS
+역설 ,NEG
+역설 적 ,NEG
+역설 적 이 ,NEG
+역시 ,NEUT
+역시 이색 ,POS
+역시 이색 적 ,POS
+역시 한국 ,NEUT
+역시 한국 적 ,NEUT
+역작 ,POS
+역작 이 ,POS
+역행 ,NEG
+역행 하 ,NEG
+연구 ,POS
+연구 를 ,NEUT
+연구 를 본격 ,POS
+연구 를 읽 ,NEUT
+연구 하 ,POS
+연구 하 ㄴ ,POS
+연극 ,POS
+연극 이 ,POS
+연극 이 공포 ,POS
+연극 이 ,POS
+연기 ,POS
+연기 에 ,POS
+연기 에 대하 ,POS
+연기 연습 ,POS
+연기 연습 을 ,POS
+연기 하 ,POS
+연기 하 아야 ,POS
+연기파 ,POS
+연기파 배우 ,POS
+연민 ,NEG
+연민 의 ,NEG
+연민 의 정 ,NEG
+연발 ,POS
+연발 하 ,POS
+연설 ,None
+연속 ,NEG
+연속 이 ,NEG
+연습 ,POS
+연습 을 ,POS
+연습 을 하 ,POS
+연습 하 ,POS
+연행 ,NEG
+열 ,POS
+열 을 ,POS
+열 을 올리 ,POS
+열 ,NEG
+열 두 ,NEG
+열 두 곡 ,NEG
+열 ,POS
+열 고 ,NEG
+열 고 자 ,NEG
+열 어야 ,POS
+열 어야 하 ,POS
+열 었 ,POS
+열 었 는데 ,POS
+열광 ,POS
+열광 하 ,POS
+열기 ,POS
+열등 ,NEG
+열등 인간 ,NEG
+열리 ,POS
+열리 ㄴ다 ,POS
+열리 어 ,POS
+열리 어 있 ,POS
+열망 ,POS
+열망 적도 ,POS
+열망 적도 보다 ,POS
+열매 ,NEG
+열매 맺 ,POS
+열쇠 ,POS
+열쇠 처럼 ,POS
+열쇠 처럼 보이 ,POS
+열심히 ,POS
+열심히 살 ,POS
+열연 ,POS
+열연 하 ,POS
+열정 ,POS
+열창 ,POS
+열창 하 ,POS
+염하 ,POS
+엿보 ,POS
+엿보 ㄹ ,NEG
+엿보 ㄹ 수 ,NEG
+영감 ,POS
+영감 의 ,POS
+영감 의 원천 ,POS
+영글 ,POS
+영산 ,POS
+영양 ,NEG
+영양 실조 ,NEG
+영역 ,NEG
+영욕 ,COMP
+영욕 을 ,COMP
+영욕 을 함께 ,COMP
+영원히 ,POS
+영원히 풀리 ,POS
+영원히 풀리 지 ,POS
+영태 ,POS
+영향 ,POS
+영향 도 ,POS
+영향 도 크 ,POS
+영혼 ,POS
+영혼 들 ,NEG
+영혼 들 의 ,NEG
+영혼 에 ,POS
+영혼 에 이르 ,POS
+영혼 의 ,POS
+영혼 의 지진 ,POS
+영혼 이 ,POS
+영혼 이 깃들 ,POS
+영화 ,POS
+영화 가 ,COMP
+영화 가 나 ,COMP
+영화 를 ,POS
+영화 를 방불 ,POS
+영화 를 보 ,POS
+영화 를 제치 ,POS
+영화 에 ,POS
+영화 에 대하 ,POS
+영화 와 ,POS
+영화 와 연기 ,POS
+영화 작업 ,NEG
+영화 작업 을 ,NEG
+영화 출연 ,NEG
+영화 출연 도 ,NEG
+예 ,NEG
+예 를 ,NEG
+예 를 들 ,NEG
+예방 ,POS
+예상 ,NEG
+예상 되 ,NEG
+예상 하 ,NEG
+예상 하 지 ,NEG
+예수 ,NEUT
+예수 나 ,NEUT
+예수 나 석가모니 ,NEUT
+예술 ,POS
+예술 성 ,NEG
+예술 성 을 ,NEG
+예술 을 ,POS
+예술 을 입히 ,POS
+예술 의 ,POS
+예술 의 정취 ,POS
+예술 이 ,POS
+예술 이 다 ,POS
+예술 적 ,POS
+예술 적 이 ,POS
+예술의전당 ,NEG
+예술의전당 관계자 ,NEG
+예술의전당 관계자 들 ,NEG
+예술품 ,NEG
+예술품 을 ,NEG
+예술품 을 자처 ,NEG
+예전 ,POS
+예전 의 ,POS
+예전 의 활기 ,POS
+예정 ,POS
+예정 되 ,POS
+예정 이 ,POS
+예지 ,POS
+옛 ,POS
+옛 말 ,NEG
+옛 말씀 ,POS
+옛 말씀 을 ,POS
+옛 시절 ,POS
+옛 시절 추억 ,POS
+옛글 ,NEG
+옛글 은 ,NEG
+옛글 은 자꾸 ,NEG
+오* ,NEG
+오* ㄴ ,NEG
+오* ㄴ 욕심 ,NEG
+오 ,NEUT
+오 ㄴ ,POS
+오 ㄴ 듯 ,POS
+오 ㄹ ,NEUT
+오 ㄹ 때 ,NEUT
+오 ,POS
+오 ㄴ ,POS
+오 ㄴ 것 ,POS
+오 ㄴ 기나길 ,POS
+오 던 ,POS
+오 던 사항 ,POS
+오 았 ,NEUT
+오 았 는지 ,POS
+오 았 다 ,NEUT
+오늘날 ,COMP
+오늘날 거대 ,COMP
+오늘날 거대 하 ,COMP
+오랜 ,NEG
+오랜 사색 ,POS
+오랜 사색 을 ,POS
+오랜 시간 ,NEG
+오랜 시간 을 ,NEG
+오랫동안 ,NEG
+오랫동안 잊 ,NEG
+오랫동안 잊 고 ,NEG
+오르 ,NEG
+오른 ,POS
+오른 손목 ,POS
+오른 손목 의 ,POS
+오만 ,NEG
+오만 이 ,NEG
+오만 이 자 ,NEG
+오버 ,NEG
+오빠 ,POS
+오빠 보 ,POS
+오빠 보 러 ,POS
+오판 ,NEG
+오판 하 ,NEG
+오히려 ,POS
+오히려 건강 ,POS
+오히려 건강 이 ,POS
+오히려 깊 ,NEG
+오히려 깊 게 ,NEG
+오히려 훨씬 ,POS
+오히려 훨씬 더 ,POS
+옥살이 ,POS
+옥살이 를 ,POS
+옥살이 를 하 ,POS
+온 ,NEG
+온 가족 ,POS
+온 가족 이 ,POS
+온 나라 ,NEG
+온 나라 를 ,NEG
+온기 ,POS
+온기 를 ,POS
+온기 를 더하 ,POS
+온통 ,NEG
+온통 다리 ,NEG
+온통 다리 를 ,NEG
+올리 ,POS
+올리 게 ,POS
+올리 게 되 ,POS
+올리 기 ,NEG
+올리 기 가 ,NEG
+옮기 ,POS
+옮기 어 ,POS
+옮기 어 읽 ,POS
+옷 ,POS
+옷 잘 ,POS
+옷 잘 입 ,POS
+옹호 ,NEG
+옹호 하 ,NEG
+옹호 하 는 ,NEG
+와* ,POS
+와* 현실 ,POS
+와* 현실 을 ,POS
+와 ,POS
+와 관심 ,POS
+와 관심 이 ,POS
+와 궤변 ,NEG
+와 궤변 으로 ,NEG
+와 뭇 ,NEUT
+와 뭇 벌레 ,NEUT
+와 사회 ,NEG
+와 사회 의 ,NEG
+와 삶 ,POS
+와 삶 의 ,POS
+와 생선 ,NEUT
+와 생선 을 ,NEUT
+와 암흑 ,POS
+와 암흑 의 ,POS
+와 연기 ,POS
+와 연기 에 ,POS
+와 정신 ,NEG
+와 정신 을 ,NEG
+와 존귀 ,POS
+와 지 ,NEG
+와 지 적 ,NEG
+와 채소 ,POS
+와 채소 를 ,POS
+와 카메라 ,POS
+와 카메라 움직임 ,POS
+와 환호 ,POS
+와 환호 를 ,POS
+와 ,NEG
+와 같 ,NEUT
+와 같 은 ,NEUT
+와 따로 ,NEUT
+와 따로 식물 ,NEUT
+와 무관 ,NEG
+와 무관 하 ,NEG
+와 사귀 ,NEG
+와 사귀 고 ,NEG
+와 아울러 ,None
+와 크 ,NEG
+와 크 게 ,NEG
+왁자지껄 ,POS
+왁자지껄 하 ,POS
+완비 ,POS
+완비 하 ,POS
+완전 ,NEG
+완전 하 ,NEG
+완전 하 ㄴ ,POS
+완전 하 았 ,NEG
+완전히 ,None
+완전히 자기 ,POS
+완전히 자기 들 ,POS
+왕년 ,POS
+왕년 의 ,POS
+왕년 의 전투 ,POS
+왕성 ,POS
+왕성 하 ,POS
+왕성 하 ㄴ ,POS
+왕실 ,NEG
+왕실 의 ,NEG
+왕실 의 복식관 ,NEG
+왕조 ,NEG
+왜 ,NEG
+왜 그렇 ,NEG
+왜 그렇 게 ,NEG
+외국 ,NEG
+외국 에 ,NEG
+외국 에 비 ,NEG
+외국 에서 ,POS
+외국 에서 는 ,POS
+외길 ,POS
+외길 인생 ,POS
+외길 인생 을 ,POS
+외로움 ,NEG
+외롭 ,POS
+외롭 었 ,POS
+외롭 었 던 ,POS
+외면 ,NEG
+외면 받 ,NEG
+외면 받 게 ,NEG
+외제 ,POS
+외제 에 ,POS
+외제 에 손색 ,POS
+요구 ,NEG
+요구 되 ,POS
+요구 하 ,NEG
+요령 ,POS
+요리 ,POS
+요리 학원 ,POS
+요리 학원 을 ,POS
+요원 ,POS
+요원 들 ,POS
+요원 들 이 ,POS
+요인 ,POS
+요인 이 ,POS
+요지경 ,NEG
+요지경 의 ,NEG
+요지경 의 연속 ,NEG
+요청 ,POS
+요청 되 ,POS
+욕 ,NEG
+욕 튀어나오 ,NEG
+욕 튀어나오 게 ,NEG
+욕망 ,NEG
+욕망 을 ,NEG
+욕망 을 유지 ,NEG
+욕망 을 일깨우 ,NEG
+욕망 이 ,NEG
+욕망 이 서로 ,NEG
+욕심 ,NEG
+욕심 에서 ,NEG
+욕심 에서 가 ,NEG
+욕심 쟁이 ,NEG
+욕심 쟁이 곰 ,NEG
+욕심내 ,POS
+욕심내 고 ,POS
+욕심내 고 하 ,POS
+용 ,POS
+용서 ,NEG
+용서 하 ,NEG
+용서 하 아 ,NEG
+용인 ,NEG
+용인 되 ,NEG
+용인 되 ㄹ ,NEG
+용품 ,POS
+용품 교환전 ,POS
+용품 교환전 을 ,POS
+용품 싸 ,POS
+용품 싸 게 ,POS
+우뚝 ,POS
+우뚝 하 ,POS
+우뚝 하 ㄴ ,POS
+우려 ,NEG
+우려 가 ,NEG
+우려 가 나오 ,NEG
+우려 가 있 ,NEG
+우려 되 ,NEG
+우려 를 ,NEG
+우려 를 하 ,NEG
+우려 의 ,NEG
+우려 의 눈 ,NEG
+우려 의 목소리 ,NEG
+우려 하 ,NEG
+우리 ,POS
+우리 고유 ,POS
+우리 고유 건축 ,POS
+우리 ㄴ ,COMP
+우리 ㄴ 무엇 ,COMP
+우리 ㄴ 어디 ,COMP
+우리 나라 ,POS
+우리 나라 의 ,POS
+우리 노래 ,POS
+우리 들 ,NEG
+우리 들 앞 ,NEG
+우리 들 의 ,POS
+우리 를 ,NEG
+우리 를 잡 ,NEG
+우리 모두 ,POS
+우리 모두 발 ,POS
+우리 삶 ,POS
+우리 삶 의 ,POS
+우리 식탁 ,NEG
+우리 식탁 을 ,NEG
+우리 의 ,NEG
+우리 의 살 ,NEG
+우리말 ,POS
+우리말 로 ,POS
+우리말 로 옮기 ,POS
+우선 ,None
+우선 ,NEG
+우선 하 ,NEG
+우세 ,POS
+우세 하 ,POS
+우수 ,POS
+우수 성 ,POS
+우수상 ,POS
+우수상 을 ,POS
+우수상 을 받 ,POS
+우스꽝스럽 ,NEG
+우스꽝스럽 ㄴ ,NEG
+우스꽝스럽 ㄴ 요지경 ,NEG
+우연 ,NEG
+우연 이 ,NEG
+우연 이 남발 ,NEG
+우연히 ,NEUT
+우와 IC,POS
+우울 ,NEG
+우울 정신병 ,NEG
+우울 정신병 으로 ,NEG
+우정 ,POS
+우정 으로 ,POS
+우정 으로 하나 ,POS
+우주 ,POS
+우주 적 ,POS
+우주 적 영혼 ,POS
+우호 ,NEG
+우호 관계 ,NEG
+우호 관계 에 ,NEG
+운동 ,NEG
+운동 단체 ,NEG
+운동 단체 가 ,NEG
+운동 에 ,POS
+운동 에 크 ,POS
+운동 을 ,NEG
+운동 을 하 ,NEG
+운동 이 ,NEG
+운동 이 벌어지 ,NEG
+운보 ,POS
+운보 답 ,POS
+운보 답 ㄴ ,POS
+운치 ,POS
+운항 ,NEG
+운항 하 ,NEG
+운항 하 시 ,NEG
+울 ,POS
+울 모두 ,POS
+울 모두 쵸티 ,POS
+울 ,NEG
+울 다 ,COMP
+울 시 ,POS
+울 시 ㅂ시오 ,POS
+울리 ,NEG
+울리 던 ,NEG
+울리 던 힘차 ,NEG
+울리 ㄹ ,NEUT
+울리 ㄹ 경우 ,NEUT
+울림 ,POS
+울림 으로 ,POS
+울림 으로 변하 ,POS
+울부짖 ,POS
+울음 ,POS
+울음 을 ,POS
+울음 을 막 ,POS
+울음 이 ,POS
+울음 이 나오 ,POS
+울컥 ,NEG
+울트라 ,POS
+울트라 매니아 ,POS
+움직임 ,POS
+움직임 없 ,POS
+움직임 없 을 ,POS
+움직임 을 ,POS
+움직임 을 조절 ,POS
+움직임 이 ,POS
+움직임 이 일 ,POS
+움켜쥐 ,NEUT
+웃 ,COMP
+웃 다 ,COMP
+웃 다 울 ,COMP
+웃기 ,POS
+웃기 고 ,POS
+웃기 고 울리 ,POS
+웃음 ,POS
+웃음 이 ,POS
+웃음 이 그치 ,POS
+웃음 이 나오 ,POS
+웅비 ,POS
+웅비 의 ,POS
+웅비 의 상징 ,POS
+워낙 ,None
+원 ,POS
+원 을 ,NEG
+원 을 훨씬 ,NEG
+원 의 ,POS
+원 의 성금 ,POS
+원 이나 ,NEG
+원 이나 되 ,NEG
+원 주 ,POS
+원 주 고 ,POS
+원 짜리 ,NEG
+원 짜리 악기 ,NEG
+원 하 ,POS
+원래 ,POS
+원래 배 ,POS
+원래 배 감독 ,POS
+원만 ,POS
+원만 하 ,POS
+원천 ,POS
+원천 이 ,POS
+원칙 ,POS
+원칙 으로 ,POS
+원칙 으로 하 ,POS
+원하 ,POS
+원한 ,NEG
+월 ,POS
+월 부터 ,POS
+월 부터 안 ,POS
+웬 ,None
+웬만 ,POS
+웬만 하 ,POS
+위 ,NEG
+위 에 ,NEG
+위 에 돌 ,NEG
+위기 ,NEG
+위기 를 ,NEG
+위기 를 맞 ,NEG
+위기 를 인식 ,NEG
+위기 에 ,NEG
+위기 에 처하 ,NEG
+위기 의식 ,NEG
+위기감 ,NEG
+위기감 에 ,NEG
+위기감 에 사로잡히 ,NEG
+위대 ,POS
+위대 하 ,POS
+위대 하 ㄴ ,POS
+위력 ,NEUT
+위반 ,NEG
+위반 혐의 ,NEG
+위상 ,NEUT
+위상 을 ,NEUT
+위상 을 점검 ,NEUT
+위시 ,None
+위시 하 ,None
+위시 하 아서 ,None
+위원 ,POS
+위원 참여 ,POS
+위원 참여 는 ,POS
+위주 ,NEG
+위주 로 ,NEG
+위주 로 흘러가 ,NEG
+위치 ,POS
+위치 를 ,POS
+위치 를 맞추 ,POS
+위치 를 차지 ,POS
+위통 ,NEUT
+위통 등 ,NEUT
+위통 등 이 ,NEUT
+위하 ,POS
+위하 ㄴ ,POS
+위하 ㄴ 노력 ,POS
+위하 아 ,POS
+위하 아 나서 ,POS
+위하 아 나약 ,POS
+위하 아 쓰 ,POS
+위헌 ,NEG
+위헌 소지 ,NEG
+위헌 소지 가 ,NEG
+위험 ,NEG
+위험 많 ,NEUT
+위험 많 다 ,NEUT
+위험 성 ,NEG
+위험 성 이 ,NEG
+위험 이 ,NEG
+위험 이 높 ,NEG
+위험 하 ,NEG
+위협 ,NEG
+위협 받 ,NEG
+위협 하 ,NEG
+유감 ,NEG
+유감 스럽 ,NEG
+유감 스럽 기 ,NEG
+유공자 ,NEG
+유공자 가 ,NEG
+유공자 가 되 ,NEG
+유기 ,NEG
+유기 를 ,NEG
+유기 를 하 ,NEG
+유기 적 ,POS
+유기 적 으로 ,POS
+유난 ,POS
+유난 을 ,POS
+유난 을 떨 ,POS
+유난히 ,None
+유달리 ,NEG
+유달리 난해 ,NEG
+유달리 난해 하 ,NEG
+유독 ,NEUT
+유동 ,POS
+유동 고객 ,POS
+유리 ,NEG
+유리 눈 ,NEG
+유리 눈 이 ,NEG
+유머 ,POS
+유명* ,POS
+유명* 하 ,POS
+유명 ,POS
+유명 하 ,POS
+유명 하 ㄴ ,POS
+유민 ,POS
+유민 의 ,POS
+유민 의 아픔 ,POS
+유사* ,POS
+유사* 하 ,POS
+유사* 하 ㄴ ,POS
+유사 ,NEG
+유사 성 ,NEG
+유사 성 과 ,NEG
+유수 ,POS
+유수 의 ,POS
+유수 의 지휘자 ,POS
+유신 ,NEG
+유신 체제 ,NEG
+유연 ,POS
+유연 하 ,POS
+유일 ,POS
+유일 하 ,POS
+유일 하 ㄴ ,POS
+유적 ,POS
+유적 이 ,POS
+유지 ,NEG
+유지 시키 ,NEG
+유지 시키 는 ,NEG
+유지 하 ,NEG
+유지 하 는 ,NEG
+유치원 ,POS
+유치원 어린이 ,POS
+유치원 어린이 들 ,POS
+유학 ,POS
+유학 시절 ,POS
+유해 ,NEG
+유해 하 ,NEG
+유해 하 ㄴ ,NEG
+유행 ,POS
+유행 이 ,POS
+유행 이 었 ,POS
+유행 하 ,POS
+유행가 ,NEUT
+유행가 책 ,NEUT
+유행가 책 꺼내 ,NEUT
+유효 ,POS
+유효 하 ,POS
+윤전기 ,NEG
+윤전기 노동자 ,NEG
+윤전기 노동자 이 ,NEG
+으나 ,None
+으나 앞 ,POS
+으나 앞 으로 ,POS
+으니 ,NEG
+으니 세속 ,NEG
+으니 세속 적 ,NEG
+으라고 ,POS
+으라고 등산인 ,POS
+으라고 등산인 들 ,POS
+으려 ,NEG
+으려 하 ,NEG
+으려고 ,NEG
+으려고 까맣 ,NEG
+으려고 까맣 ㄴ ,NEG
+으려는 ,POS
+으려는 의도 ,POS
+으려는 의도 가 ,POS
+으려면 ,None
+으련만 ,NEG
+으로 ,POS
+으로 가 ,NEG
+으로 가 네 ,NEUT
+으로 가 는 ,NEG
+으로 가득 ,NEG
+으로 가득 차 ,NEG
+으로 가슴 ,POS
+으로 가슴 이 ,POS
+으로 간주 ,NEG
+으로 간주 하 ,NEG
+으로 강화 ,POS
+으로 강화 되 ,POS
+으로 관광객 ,NEUT
+으로 관광객 이 ,NEUT
+으로 권 ,POS
+으로 권 하 ,POS
+으로 그 ,COMP
+으로 그 소외 ,COMP
+으로 그리고 MAJ,NEG
+으로 그리고 MAJ힘 ,NEG
+으로 기대 ,POS
+으로 기대 되 ,POS
+으로 꼽히 ,POS
+으로 나타나 ,POS
+으로 남 ,NEG
+으로 남 았 ,NEG
+으로 내세우 ,POS
+으로 는 ,POS
+으로 는 처음 ,POS
+으로 다가오 ,POS
+으로 단맛 ,POS
+으로 단맛 을 ,POS
+으로 단정 ,NEG
+으로 단정 하 ,NEG
+으로 돌아가 ,NEG
+으로 돌아가 잖아요 ,NEG
+으로 돕 ,POS
+으로 떠나 ,NEUT
+으로 떠나 ㄴ ,NEUT
+으로 뛰 ,POS
+으로 뛰 어 ,POS
+으로 멀 ,NEG
+으로 멀 게 ,NEG
+으로 밤 ,COMP
+으로 밤 을 ,COMP
+으로 변하 ,POS
+으로 보 ,NEG
+으로 보 면 ,NEG
+으로 부족 ,NEG
+으로 부족 하 ,NEG
+으로 송편 ,POS
+으로 송편 을 ,POS
+으로 숨 ,NEG
+으로 숨 어 ,NEG
+으로 신속히 ,POS
+으로 신속히 대응 ,POS
+으로 실현 ,POS
+으로 실현 되 ,POS
+으로 알리 ,POS
+으로 알리 어 ,POS
+으로 여기 ,POS
+으로 연기 ,POS
+으로 연기 하 ,POS
+으로 유명 ,POS
+으로 유명 하 ,POS
+으로 인 ,POS
+으로 인 하 ,POS
+으로 읽히 ,POS
+으로 입 ,NEG
+으로 입 문지르 ,NEG
+으로 자리 ,POS
+으로 자리 잡 ,POS
+으로 저 ,POS
+으로 저 임금 ,POS
+으로 전하 ,POS
+으로 전하 ㄴ다고 ,POS
+으로 제기 ,NEG
+으로 제기 되 ,NEG
+으로 증명 ,POS
+으로 증명 하 ,POS
+으로 진단 ,NEG
+으로 진단 받 ,NEG
+으로 추정 ,POS
+으로 추정 되 ,POS
+으로 파악 ,NEG
+으로 파악 하 ,NEG
+으로 판명 ,POS
+으로 팔리 ,NEG
+으로 팔리 어 ,NEG
+으로 풀이 ,NEG
+으로 풀이 하 ,NEG
+으로 피서 ,POS
+으로 피서 가* ,POS
+으로 하 ,POS
+으로 하나 ,POS
+으로 하나 를 ,POS
+으로 하늘 ,NEUT
+으로 하늘 을 ,NEUT
+으로 한 ,COMP
+으로 한 영화 ,COMP
+으로 항균 ,POS
+으로 항균 성 ,POS
+으로 해결 ,POS
+으로 해결 하 ,POS
+으로 행동 ,NEG
+으로 행동 하 ,NEG
+으로 확산 ,POS
+으로 확산 되 ,POS
+으로 확인 ,NEG
+으로 확인 이 ,NEG
+으로 확인 하 ,NEG
+으로 활용 ,POS
+으로 활용 하 ,POS
+으로부터 ,NEG
+으로부터 자유 ,NEG
+으로부터 자유 롭 ,NEG
+으로서 ,None
+으로서 의 ,POS
+으로서 의 특성 ,POS
+으면 ,POS
+으면 공멸 ,POS
+으면 공멸 하 ,POS
+으면 나오 ,NEG
+으면 나오 기 ,NEG
+으면 되 ,None
+으면 되 ㄴ다 ,None
+으면 실천 ,POS
+으면 실천 하 ,POS
+으면 아름답 ,NEG
+으면 아름답 지 ,NEG
+으면 안 ,None
+으면 안 되 ,None
+으면 얼마 ,POS
+으면 얼마 이 ,POS
+으면 전혀 ,POS
+으면 전혀 다르* ,POS
+으면 좋 ,NEG
+으면 좋 겠 ,NEG
+으면 하 ,NEUT
+으면서 ,None
+으면서 도 ,None
+으스스 ,NEG
+으스스 하 ,NEG
+으시 ,NEG
+으시 ㄴ ,NEG
+으시 ㄴ 모든 ,NEG
+은 ,NEG
+은 가족 ,POS
+은 가족 들 ,POS
+은 것 ,None
+은 것 같 ,None
+은 것 으로 ,NEG
+은 것 이 ,None
+은 경지 ,NEG
+은 경지 의 ,NEG
+은 공감대 ,POS
+은 공감대 바탕 ,POS
+은 관심 ,NEG
+은 관심 을 ,NEG
+은 기분 ,NEG
+은 기분 이 ,NEG
+은 꿈 ,COMP
+은 꿈 이 ,COMP
+은 날 ,COMP
+은 날 의 ,COMP
+은 논란 ,NEG
+은 논란 이 ,NEG
+은 땀 ,NEG
+은 땀 을 ,NEG
+은 마음 ,POS
+은 모호 ,NEUT
+은 모호 하 ,NEUT
+은 문 ,NEG
+은 문 이 ,NEG
+은 물건 ,POS
+은 물건 이 ,POS
+은 바닥 ,POS
+은 바닥 에 ,POS
+은 벽 ,NEG
+은 벽 이 ,POS
+은 부담 ,NEG
+은 부담 이 ,NEG
+은 사람 ,NEG
+은 사람 이 ,POS
+은 사람 이 ,NEG
+은 삶 ,POS
+은 삶 을 ,POS
+은 섬 ,NEG
+은 섬 들 ,NEG
+은 셰익스피어 ,POS
+은 셰익스피어 를 ,POS
+은 손바닥 ,NEUT
+은 손바닥 으로 ,NEUT
+은 시절 ,POS
+은 시절 부터 ,POS
+은 식민 ,NEG
+은 식민 화 ,NEG
+은 안개 ,NEUT
+은 안개 와 ,NEUT
+은 여성 ,NEG
+은 여성 문제 ,NEG
+은 연극 ,POS
+은 연극 이 ,POS
+은 영화 ,POS
+은 영화 를 ,POS
+은 유행가 ,NEUT
+은 유행가 책 ,NEUT
+은 의혹 ,NEG
+은 의혹 을 ,NEG
+은 인기 ,POS
+은 인기 를 ,POS
+은 인상 ,NEG
+은 인상 을 ,NEG
+은 일 ,NEG
+은 일 이 ,NEG
+은 입시 ,NEG
+은 입시 부정 ,NEG
+은 자연 ,POS
+은 자연 학습 ,POS
+은 장기 ,POS
+은 장기 하나 ,POS
+은 책 ,POS
+은 책 이 ,POS
+은 측면 ,POS
+은 측면 이 ,POS
+은 편 ,POS
+은 편 이 ,POS
+은 학생 ,NEG
+은 학생 필요 ,NEG
+은 호감 ,POS
+은 ,NEG
+은 가 ,NEG
+은 가 았 ,NEG
+은 가장 ,POS
+은 가장 친근 ,POS
+은 결코 ,POS
+은 결코 쓰러지 ,POS
+은 골 ,NEG
+은 골 이 ,NEG
+은 구체 ,POS
+은 구체 적 ,POS
+은 궁전 ,POS
+은 궁전 집 ,POS
+은 그리 ,NEG
+은 그리 밝 ,NEG
+은 금물 ,NEG
+은 금물 이 ,NEG
+은 기술 ,NEG
+은 기술 의 ,NEG
+은 꽃잎 ,POS
+은 꽃잎 처럼 ,POS
+은 녹아내리 ,POS
+은 높 ,NEG
+은 높 지 ,NEG
+은 다른 ,POS
+은 다른 곳 ,POS
+은 당연 ,NEG
+은 당연 하 ,NEG
+은 들 ,POS
+은 들 지 ,POS
+은 떠나 ,NEG
+은 떠나 았 ,NEG
+은 많 ,NEG
+은 많 지 ,NEG
+은 망하 ,NEG
+은 무슨 ,NEUT
+은 무슨 이야기 ,NEUT
+은 묻히 ,NEG
+은 묻히 버리 ,NEG
+은 물론 ,None
+은 물론 이 ,None
+은 밖 ,NEG
+은 밖 에서 ,NEG
+은 벌 ,POS
+은 별로 ,NEG
+은 별로 특출 ,NEG
+은 북한 ,POS
+은 북한 을 ,POS
+은 불결 ,NEG
+은 불결 하 ,NEG
+은 비키 ,NEG
+은 비키 라우 ,NEG
+은 사라지 ,NEG
+은 사람 ,POS
+은 사람 의 ,POS
+은 사실 ,POS
+은 사실 이 ,POS
+은 쉽 ,NEG
+은 쉽 게 ,NEG
+은 아니 ,NEG
+은 아니 다 ,NEG
+은 아니 지만 ,POS
+은 알 ,POS
+은 알 고 ,POS
+은 어떻 ,NEG
+은 어떻 ㄴ가 ,NEG
+은 없 ,NEG
+은 없 었 ,NEG
+은 엉망진창 ,NEG
+은 우리 ,POS
+은 우리 들 ,POS
+은 이제 ,NEG
+은 이제 너무 ,NEG
+은 있 ,POS
+은 자꾸 ,NEG
+은 자꾸 고리타분 ,NEG
+은 자아 ,POS
+은 자아 실현 ,POS
+은 작품 ,COMP
+은 작품 으로 ,COMP
+은 잘 ,NEG
+은 잘 하 ,NEG
+은 장 ,POS
+은 장 터 ,POS
+은 저절로 ,POS
+은 저절로 물러가 ,POS
+은 좀 ,POS
+은 좀 들 ,POS
+은 죽음 ,NEG
+은 죽음 과 ,NEG
+은 지 ,NEG
+은 지 적 ,NEG
+은 크 ,NEG
+은 하 ,NEG
+은 하 지 ,NEG
+은 현재 ,NEG
+은 현재 건드리 ,NEG
+은가 ,None
+은은 ,POS
+은은 하 ,POS
+은혜 ,POS
+은혜 를 ,POS
+은혜 를 베풀 ,POS
+을 ,None
+을 가능* ,NEG
+을 가능* 성 ,NEG
+을 가능 ,NEUT
+을 가능 성 ,NEUT
+을 것 ,None
+을 것 같 ,None
+을 것 과 ,POS
+을 것 으로 ,POS
+을 것 이 ,None
+을 것 처럼 ,NEG
+을 계획 ,POS
+을 계획 이 ,POS
+을 때 ,POS
+을 때 경보 ,POS
+을 만 ,None
+을 만 하 ,None
+을 만큼 ,None
+을 뿐 ,None
+을 뿐 이 ,None
+을 생각 ,NEG
+을 수 ,None
+을 수 가 ,NEG
+을 수 없 ,POS
+을 수 있 ,None
+을 수단 ,NEG
+을 수단 이 ,NEG
+을 정도 ,None
+을 정도 로 ,None
+을 정도 이 ,None
+을 터 ,None
+을 터 이 ,None
+을 필요 ,NEG
+을 필요 가 ,NEG
+을 필요 는 ,POS
+을 ,POS
+을 가르치 ,NEG
+을 가르치 는 ,NEG
+을 가르치 ㄹ ,POS
+을 가지 ,NEG
+을 가지 ㄴ ,NEG
+을 가하 ,NEG
+을 강의 ,NEG
+을 강의 하 ,NEG
+을 강조 ,NEUT
+을 강조 하 ,NEUT
+을 강화 ,POS
+을 강화 하 ,POS
+을 갖 ,POS
+을 갖 게 ,POS
+을 갖 지 ,NEG
+을 갖추 ,POS
+을 같이 ,POS
+을 같이 하 ,POS
+을 개선 ,POS
+을 개선 하 ,POS
+을 객관 ,POS
+을 객관 화 ,POS
+을 거느리 ,NEG
+을 거느리 ㄴ ,NEG
+을 거두 ,POS
+을 걸 ,POS
+을 걸 어 ,POS
+을 게을리 ,NEG
+을 게을리 하 ,NEG
+을 겪 ,NEG
+을 겪 는 ,NEG
+을 결집 ,POS
+을 결집 하 ,POS
+을 곁들이 ,NEUT
+을 계속 ,NEUT
+을 계속 하 ,NEUT
+을 고집 ,NEG
+을 고집 하 ,NEG
+을 고치 ,NEUT
+을 고치 는 ,NEUT
+을 공급 ,POS
+을 공급 하 ,POS
+을 공유 ,POS
+을 공유 하 ,POS
+을 교육 ,POS
+을 교육 받 ,POS
+을 굶주리 ,NEG
+을 그르치 ,NEG
+을 극복 ,POS
+을 극복 하 ,POS
+을 기냥 ,NEG
+을 기대 ,POS
+을 기대 하 ,POS
+을 기울이 ,NEG
+을 까먹 ,NEUT
+을 까먹 는 ,NEUT
+을 깨 ,POS
+을 깨 고 ,POS
+을 깨닫 ,NEG
+을 깨닫 게 ,POS
+을 깨닫 는다 ,NEG
+을 꼬 ,NEG
+을 꼼꼼 ,POS
+을 꼼꼼 하 ,POS
+을 꾸 ,NEUT
+을 꾸 었 ,NEUT
+을 꿈꾸 ,NEG
+을 꿈꾸 었 ,NEG
+을 끊 ,POS
+을 끌 ,POS
+을 끌어당기 ,POS
+을 끝 ,POS
+을 끝 까지 ,POS
+을 나누 ,COMP
+을 나누 어 ,POS
+을 나름 ,POS
+을 나름 대로 ,POS
+을 나타내 ,POS
+을 낮추 ,NEG
+을 낮추 는 ,NEG
+을 내 ,NEG
+을 내 는 ,POS
+을 내놓 ,POS
+을 내놓 는 ,POS
+을 내리 ,NEG
+을 내버리 ,NEG
+을 내포 ,NEG
+을 내포 하 ,NEG
+을 넘 ,NEG
+을 넘어서 ,POS
+을 넘어서 었 ,POS
+을 높이 ,POS
+을 높이 들 ,POS
+을 높이 ,POS
+을 놓 ,NEG
+을 놓 고 ,NEG
+을 느끼 ,POS
+을 늦추 ,POS
+을 늦추 지 ,POS
+을 다 ,POS
+을 다 하 ,POS
+을 다시 ,POS
+을 다시 복습 ,POS
+을 다시금 ,POS
+을 다시금 절감 ,POS
+을 다지 ,POS
+을 다지 고 ,POS
+을 단행 ,POS
+을 닫 ,NEG
+을 닫 아 ,NEG
+을 담 ,POS
+을 더 ,POS
+을 더 지니 ,POS
+을 더 하 ,POS
+을 더하 ,NEG
+을 더하 아 ,NEG
+을 던지 ,NEG
+을 던지 던 ,NEG
+을 덜 ,POS
+을 덜 어 ,POS
+을 데리 ,NEG
+을 데리 고 ,NEG
+을 돈 ,NEG
+을 돈 얼마 ,NEG
+을 돌리 ,NEG
+을 돌리 어 ,NEG
+을 되살리 ,POS
+을 되찾 ,POS
+을 되찾 아 ,POS
+을 두 ,NEUT
+을 두 번 ,NEUT
+을 두 ,NEG
+을 두 고 ,NEG
+을 뒤 ,NEG
+을 뒤 에서 ,NEG
+을 뒤흔들 ,NEG
+을 뒤흔들 지 ,NEG
+을 듣 ,NEG
+을 듣 거나 ,NEG
+을 들 ,NEG
+을 들 던 ,NEG
+을 떠나 ,POS
+을 떠나 지 ,POS
+을 떠오르 ,POS
+을 떠오르 게 ,POS
+을 떨 ,POS
+을 떨 거나 ,POS
+을 떨치 ,NEG
+을 떨치 어 ,NEG
+을 떼 ,NEUT
+을 떼 어 ,NEUT
+을 뜻 ,POS
+을 뜻 하 ,POS
+을 마시 ,NEG
+을 마시 고 ,NEG
+을 막 ,NEG
+을 막 는 ,POS
+을 막 아 ,NEG
+을 만나 ,POS
+을 만나 ㄹ ,POS
+을 만들 ,POS
+을 만들 는 ,POS
+을 만들 시 ,NEG
+을 만들 어 ,POS
+을 만들 어야 ,NEUT
+을 만들 었 ,POS
+을 말 ,POS
+을 말 하 ,POS
+을 망설이 ,NEG
+을 망설이 고 ,NEG
+을 맞 ,NEG
+을 맞추 ,POS
+을 먹 ,NEG
+을 먹 는 ,NEG
+을 먹 자니 ,NEG
+을 메우 ,POS
+을 모으 ,POS
+을 모으 아 ,POS
+을 모으 았 ,POS
+을 믿 ,NEG
+을 믿 지 ,NEG
+을 바꾸 ,POS
+을 바꾸 려는 ,POS
+을 받 ,POS
+을 받 고 ,NEG
+을 받 은 ,NEG
+을 받 지 ,NEG
+을 발표 ,POS
+을 발표 하 ,POS
+을 밝히 ,POS
+을 밟 ,NEG
+을 방불 ,POS
+을 방불 하 ,POS
+을 방지 ,POS
+을 백천 ,POS
+을 백천 번 ,POS
+을 버팅기 ,POS
+을 버팅기 게 ,POS
+을 벗 ,POS
+을 보 ,NEG
+을 보 라고 ,NEG
+을 보내 ,COMP
+을 보이 ,NEG
+을 보이 면 ,NEG
+을 보이 어 ,NEG
+을 보장 ,POS
+을 보장 받 ,POS
+을 본 ,NEG
+을 본 따리 ,NEG
+을 부수 ,COMP
+을 부수 는 ,COMP
+을 부추기 ,COMP
+을 부추기 는 ,COMP
+을 불 ,NEG
+을 불 빛 ,NEG
+을 불러들이 ,POS
+을 불러일으키 ,POS
+을 빚 ,POS
+을 빚 었 ,POS
+을 빨 ,NEG
+을 빨 러 ,NEG
+을 빼 ,POS
+을 빼 는 ,POS
+을 빼놓 ,NEG
+을 빼앗기 ,NEG
+을 빼앗기 ㄹ지 ,NEG
+을 사 ,NEG
+을 사랑 ,COMP
+을 사랑 하 ,COMP
+을 사로잡 ,POS
+을 살 ,POS
+을 상실 ,NEG
+을 상실 하 ,NEG
+을 생각 ,NEUT
+을 생각 하 ,NEUT
+을 석권 ,POS
+을 석권 하 ,POS
+을 선보이 ,POS
+을 설계 ,NEG
+을 설계 하 ,NEG
+을 세우 ,POS
+을 세우 어 ,POS
+을 수없이 ,POS
+을 수없이 염하 ,POS
+을 시도 ,POS
+을 시도 하 ,POS
+을 쏟 ,POS
+을 쓰 ,POS
+을 쓰 거나 ,NEG
+을 쓰 ㄹ ,POS
+을 쓰 어 ,POS
+을 아끼 ,POS
+을 아끼 어 ,POS
+을 안 ,NEG
+을 안 하 ,NEG
+을 알 ,POS
+을 알리 ,POS
+을 앓 ,NEG
+을 앓 기 ,POS
+을 앗 ,NEG
+을 앗 아 ,NEG
+을 약화 ,POS
+을 약화 시키 ,POS
+을 어루만지 ,POS
+을 얻 ,POS
+을 얻 은 ,POS
+을 열 ,POS
+을 열 어야 ,POS
+을 열 었 ,POS
+을 오히려 ,NEG
+을 오히려 깊 ,NEG
+을 올리 ,POS
+을 올리 게 ,POS
+을 요구 ,NEG
+을 요구 하 ,NEG
+을 울리 ,NEG
+을 울리 던 ,NEG
+을 움켜쥐 ,NEUT
+을 위시 ,None
+을 위시 하 ,None
+을 위하 ,POS
+을 위하 아 ,POS
+을 유지 ,NEG
+을 유지 시키 ,NEG
+을 이루 ,NEG
+을 이루 었 ,NEG
+을 이야기 ,POS
+을 이야기 하 ,POS
+을 이용 ,POS
+을 이용 하 ,POS
+을 일깨우 ,NEG
+을 일깨우 고 ,NEG
+을 일깨우 어 ,NEG
+을 일삼 ,NEG
+을 일으키 ,NEG
+을 일으키 어서 ,NEG
+을 잃 ,NEG
+을 입 ,NEG
+을 입 에 ,NEG
+을 입 ,POS
+을 입 자 ,POS
+을 입증 ,NEUT
+을 입증 하 ,NEUT
+을 입히 ,NEG
+을 잊 ,NEUT
+을 잊 어서 ,NEUT
+을 자극 ,POS
+을 자극 하 ,POS
+을 자꾸 ,NEG
+을 자꾸 놓치 ,NEG
+을 자처 ,NEG
+을 자처 하 ,NEG
+을 잡 ,POS
+을 잡아먹 ,COMP
+을 잡아먹 고 ,COMP
+을 저지르 ,NEG
+을 전시 ,POS
+을 전시 하 ,POS
+을 전하 ,POS
+을 절감 ,NEG
+을 절감 하 ,NEG
+을 점검 ,NEUT
+을 점검 하 ,NEUT
+을 점령 ,NEG
+을 점령 하 ,NEG
+을 정하 ,POS
+을 제기 ,NEG
+을 제기 하 ,NEG
+을 제대로 ,NEG
+을 제대로 받 ,NEG
+을 조절 ,POS
+을 종용 ,NEG
+을 종용 하 ,NEG
+을 주 ,NEG
+을 주 는 ,NEG
+을 주 지 ,NEG
+을 주입 ,NEG
+을 주입 하 ,NEG
+을 증폭 ,NEG
+을 증폭 시키 ,NEG
+을 지나치 ,NEG
+을 지나치 게 ,NEG
+을 지르 ,POS
+을 지원 ,POS
+을 지원 하 ,POS
+을 지키 ,POS
+을 지키 어 ,POS
+을 지향 ,POS
+을 지향 하 ,POS
+을 찾 ,POS
+을 찾 지 ,POS
+을 청구 ,NEG
+을 청구 하 ,NEG
+을 촉구 ,NEG
+을 촉구 하 ,POS
+을 추 ,POS
+을 추구 ,POS
+을 추구 하 ,POS
+을 치 ,POS
+을 치밀 ,NEG
+을 치밀 는 ,NEG
+을 치유 ,POS
+을 치유 하 ,POS
+을 키우 ,POS
+을 키우 어 ,POS
+을 타 ,POS
+을 택하 ,POS
+을 털 ,POS
+을 통제 ,NEG
+을 통제 하 ,NEG
+을 통하 ,NEG
+을 통하 아 ,NEG
+을 퇴보 ,NEG
+을 퇴보 시키 ,NEG
+을 표시 ,NEG
+을 표시 하 ,NEG
+을 피우 ,POS
+을 피우 어 ,NEG
+을 하 ,POS
+을 하 기 ,NEG
+을 하 ㄴ다 ,POS
+을 하 는 ,POS
+을 하 다가 ,NEUT
+을 하 든 ,POS
+을 하 지 ,NEG
+을 한데 ,POS
+을 한데 모으 ,POS
+을 함께 ,COMP
+을 함께 가지 ,POS
+을 함께 하 ,COMP
+을 해보 ,NEUT
+을 해보 ㄹ ,NEUT
+을 확인 ,POS
+을 확인 하 ,POS
+을 활성 ,POS
+을 활성 화 ,POS
+을 효율 ,NEG
+을 효율 적 ,NEG
+을 훨씬 ,NEG
+을 훨씬 넘 ,NEG
+을 흔들 ,NEG
+을 흔들 어도 ,NEG
+을 흘려주 ,POS
+을 흘리 ,NEG
+을 흡수 ,POS
+을 흡수 하 ,POS
+을까 ,COMP
+을까 두렵 ,NEG
+을까 두렵 었 ,NEG
+을까 싶 ,None
+을까 ,None
+을까요 ,None
+을지 ,NEG
+을지 모르 ,NEG
+을지언정 ,None
+음 ,NEG
+음산 ,POS
+음산 하 ,POS
+음산 하 ㄴ ,POS
+음습 ,POS
+음습 하 ,POS
+음악 ,NEG
+음악 과 ,POS
+음악 과 영화 ,POS
+음악 은 ,NEG
+음악 은 가장 ,POS
+음악 은 아니 ,NEG
+음악 은 이제 ,NEG
+음주 ,NEG
+음직 ,None
+음직 하* ,None
+응답 ,NEUT
+응답 이 ,NEUT
+응답 이 없 ,NEUT
+응하 ,POS
+의 ,POS
+의 가능 ,NEUT
+의 가능 성 ,NEUT
+의 가책 ,NEG
+의 가책 이 ,NEG
+의 가치 ,NEUT
+의 가치 는 ,NEUT
+의 감각 ,NEG
+의 감각 적 ,NEG
+의 강렬 ,POS
+의 강렬 하 ,POS
+의 거푸집 ,POS
+의 거푸집 속 ,POS
+의 결 ,POS
+의 결심 ,NEG
+의 결심 을 ,NEG
+의 경험 ,POS
+의 경험 이 ,POS
+의 곁 ,POS
+의 곁 으로 ,POS
+의 곁 을 ,POS
+의 고달프 ,POS
+의 고달프 ㄴ ,POS
+의 고향 ,POS
+의 고향 으로 ,POS
+의 골절 ,POS
+의 골절 되 ,POS
+의 과제 ,COMP
+의 과제 가 ,POS
+의 과제 이 ,COMP
+의 관객 ,NEG
+의 관객 을 ,NEG
+의 광활 ,POS
+의 광활 하 ,POS
+의 국제 ,POS
+의 국제 무용 ,POS
+의 근본 ,POS
+의 근본 은 ,POS
+의 긴박 ,POS
+의 긴박 하 ,POS
+의 길 ,POS
+의 길 을 ,POS
+의 길이 ,NEG
+의 길이 가 ,NEG
+의 깨치 ,NEG
+의 깨치 ㄴ ,NEG
+의 껍질 ,NEG
+의 꿈 ,POS
+의 꿈 이 ,POS
+의 나이 ,POS
+의 나이 를 ,POS
+의 노력 ,POS
+의 노력 을 ,POS
+의 노예 ,NEG
+의 노예 가 ,NEG
+의 높 ,COMP
+의 높 은 ,COMP
+의 눈 ,NEG
+의 눈물 ,NEG
+의 다른 ,POS
+의 다른 이름 ,POS
+의 다양 ,POS
+의 다양 성 ,POS
+의 단절 ,NEG
+의 단절 은 ,NEG
+의 당면 ,NEG
+의 당면 쟁점 ,NEG
+의 대상 ,NEG
+의 대상 이 ,NEG
+의 도마 ,NEG
+의 도마 에 ,NEG
+의 도입 ,POS
+의 도입 으로 ,POS
+의 돈 ,POS
+의 또 ,NEG
+의 또 다른 ,NEG
+의 마음 ,POS
+의 마음 에 ,POS
+의 마음 의 ,POS
+의 망동 ,NEG
+의 망동 을 ,NEG
+의 면모 ,POS
+의 면모 는 ,POS
+의 모든 ,NEG
+의 모든 달력 ,NEG
+의 목소리 ,NEG
+의 목소리 가 ,NEG
+의 목소리 도 ,NEG
+의 몸 ,NEG
+의 몸 에 ,NEG
+의 문제 ,NEG
+의 바로 ,NEUT
+의 바로 그 ,NEUT
+의 바짓가랑이 ,NEG
+의 바짓가랑이 에 ,NEG
+의 박수 ,POS
+의 박수 와 ,POS
+의 반 ,POS
+의 반 만큼 ,POS
+의 반 의 ,POS
+의 반대편 ,NEG
+의 반대편 에 ,NEG
+의 법칙 ,POS
+의 벽 ,POS
+의 벽 을 ,POS
+의 별따기 ,NEG
+의 보건 ,POS
+의 보건 요원 ,POS
+의 복식관 ,NEG
+의 복식관 과 ,NEG
+의 비극 ,NEG
+의 비밀 ,POS
+의 비밀 작법 ,POS
+의 비전 ,NEG
+의 비전 을 ,NEG
+의 사람 ,NEG
+의 사람 이 ,NEG
+의 사랑 ,POS
+의 사랑 은 ,POS
+의 사용 ,NEG
+의 사용 도 ,NEG
+의 사회 ,POS
+의 사회 적 ,POS
+의 살 ,NEG
+의 살 과 ,NEG
+의 삶 ,NEG
+의 삶 의 ,NEG
+의 상징 ,POS
+의 색깔 ,POS
+의 색깔 로 ,POS
+의 석 ,NEG
+의 석 을 ,NEG
+의 선 ,POS
+의 선 과 ,POS
+의 선전 ,NEG
+의 선전 은 ,NEG
+의 성금 ,POS
+의 성금 을 ,POS
+의 세계 ,POS
+의 세계 가 ,POS
+의 세계 를 ,POS
+의 세계 속 ,POS
+의 세대 ,POS
+의 세대 들 ,POS
+의 소설 ,POS
+의 소설 들 ,POS
+의 속도 ,POS
+의 속도 와 ,POS
+의 손 ,POS
+의 손 으로 ,POS
+의 숲 ,POS
+의 숲 을 ,POS
+의 시간 ,NEG
+의 시간 윤전기 ,NEG
+의 시나리오 ,NEUT
+의 시나리오 를 ,NEUT
+의 시대 ,POS
+의 시대 로 ,POS
+의 식민 ,NEG
+의 식민 화 ,NEG
+의 신기 ,POS
+의 신기 가 ,POS
+의 실정 ,POS
+의 실정 에 ,POS
+의 심리 ,NEUT
+의 심리 를 ,NEUT
+의 쓸쓸 ,COMP
+의 쓸쓸 하 ,COMP
+의 아이 ,POS
+의 아이 들 ,POS
+의 아픔 ,NEG
+의 아픔 을 ,POS
+의 안무가 ,POS
+의 안정 ,NEG
+의 얘기 ,NEG
+의 얘기 를 ,NEG
+의 여백 ,POS
+의 여백 을 ,POS
+의 여성 ,POS
+의 여성 위원 ,POS
+의 역사 ,NEUT
+의 역사 연구 ,NEUT
+의 연기 ,POS
+의 연기 연습 ,POS
+의 연속 ,NEG
+의 연속 이 ,NEG
+의 열정 ,POS
+의 영산 ,POS
+의 영역 ,NEG
+의 영화 ,NEG
+의 영화 작업 ,NEG
+의 예술 ,NEG
+의 예술 성 ,NEG
+의 예술 이 ,POS
+의 울림 ,POS
+의 울림 으로 ,POS
+의 원천 ,POS
+의 원천 이 ,POS
+의 입 ,NEG
+의 입 에서 ,NEG
+의 잉태 ,NEG
+의 자동차 ,POS
+의 자동차 등록 ,POS
+의 자리 ,POS
+의 자리 로 ,POS
+의 자세 ,POS
+의 자세 로 ,POS
+의 자신만만 ,POS
+의 자신만만 하 ,POS
+의 자연 ,POS
+의 자연 스럽 ,POS
+의 재롱떨* ,NEG
+의 재롱떨* 는* ,NEG
+의 재앙 ,NEG
+의 쟁점 ,COMP
+의 저술 ,POS
+의 적정 ,POS
+의 적정 화 ,POS
+의 전조 ,NEUT
+의 전조 가 ,NEUT
+의 전투 ,POS
+의 전투 적 ,POS
+의 절반 ,POS
+의 절반 가격 ,POS
+의 정 ,NEG
+의 정 을 ,NEG
+의 정기 ,POS
+의 정기 를 ,POS
+의 정서 ,POS
+의 정서 를 ,POS
+의 정취 ,POS
+의 정취 가 ,POS
+의 정치 ,NEG
+의 정치 적 ,NEG
+의 주류 ,POS
+의 주류 이 ,POS
+의 주체 ,POS
+의 주체 성 ,POS
+의 중요 ,POS
+의 중요 하 ,POS
+의 즐겁 ,POS
+의 즐겁 ㄴ ,POS
+의 지갑 ,POS
+의 지갑 을 ,POS
+의 지배 ,NEG
+의 지배 를 ,NEG
+의 지진 ,POS
+의 지휘자 ,POS
+의 지휘자 상 ,POS
+의 질환 ,NEUT
+의 질환 과 ,NEUT
+의 집 ,NEG
+의 집 이 ,NEG
+의 집단 ,NEG
+의 집단 적 ,NEG
+의 책임자 ,NEUT
+의 책임자 들 ,NEUT
+의 최고 ,POS
+의 최고 배우 ,POS
+의 특성 ,POS
+의 편리 ,POS
+의 편리 하 ,POS
+의 편안 ,COMP
+의 편안 하 ,COMP
+의 표상 ,NEG
+의 표상 이 ,NEG
+의 풍성 ,POS
+의 풍성 하 ,POS
+의 피 ,NEG
+의 피 를 ,NEG
+의 필기 ,NEG
+의 필기 시험 ,NEG
+의 한가 ,POS
+의 한가 롭 ,POS
+의 한계 ,NEG
+의 한계 를 ,NEG
+의 행사 ,POS
+의 행사 이 ,POS
+의 현실 ,POS
+의 현실 성 ,POS
+의 현재 ,POS
+의 현재 성 ,POS
+의 혐의 ,NEG
+의 혐의 를 ,NEG
+의 형제 ,POS
+의 형제 의 ,POS
+의 확대 ,POS
+의 확대 형 ,POS
+의 활기 ,POS
+의 회화 ,POS
+의 회화 적 ,POS
+의 흥행 ,POS
+의 흥행 기록 ,POS
+의 희박 ,NEG
+의 힘 ,POS
+의 힘 을 ,POS
+의견 ,POS
+의견 을 ,POS
+의견 을 모으 ,POS
+의견 이 ,POS
+의견 이 나오 ,POS
+의구심 ,NEG
+의구심 도 ,NEG
+의구심 도 지우 ,NEG
+의도 ,POS
+의도 가 ,POS
+의도 가 작용 ,POS
+의도 를 ,POS
+의도 를 더 ,POS
+의도 적 ,NEUT
+의도 적 으로 ,NEUT
+의무 ,POS
+의무 가 ,POS
+의무 가 있 ,POS
+의문 ,NEG
+의문 을 ,NEG
+의문 을 갖 ,NEG
+의미 ,POS
+의미 가 ,POS
+의미 가 막대 ,POS
+의미 에서 ,None
+의미 있 ,POS
+의미 있 는 ,POS
+의미 하 ,NEG
+의사 ,NEG
+의사 를 ,NEG
+의사 를 나타내 ,NEG
+의식 ,NEG
+의식 장애 ,NEUT
+의식 장애 는 ,NEUT
+의식 적 ,POS
+의식 적 흥취 ,POS
+의식 하 ,NEG
+의식 하 고 ,NEG
+의심 ,NEG
+의심 받 ,NEG
+의아 ,NEG
+의아 스럽 ,NEG
+의아 스럽 어 ,NEG
+의아 ,NEG
+의아 하 ,NEG
+의아 하 아 ,NEG
+의외 ,POS
+의외 의 ,POS
+의외 의 한가 ,POS
+의욕 ,NEG
+의욕 저하 ,NEG
+의존 ,POS
+의존 성 ,POS
+의지 ,NEG
+의지 와 ,NEG
+의지 와 정신 ,NEG
+의지 퇴색 ,NEG
+의지 하 ,POS
+의하 ,NEG
+의하 아 ,NEG
+의하 아 언로 ,NEG
+의학 ,NEG
+의학 지식 ,NEG
+의학 지식 이 ,NEG
+의혹 ,NEG
+의혹 을 ,NEG
+의혹 을 사 ,NEG
+의혹 을 오히려 ,NEG
+의혹 을 증폭 ,NEG
+이* ,POS
+이* 새 ,POS
+이* 새 도록 ,POS
+이 ,NEG
+이 되 ,POS
+이 되 ㄴ ,POS
+이 되 ㄴ다 ,NEG
+이 되 는 ,POS
+이 되 ㅂ시다 ,POS
+이 되 어 ,COMP
+이 되 지 ,NEG
+이 아니 ,None
+이 아니 ㄴ가 ,NEG
+이 아니 다 ,NEUT
+이 아니 ㄹ ,NEG
+이 아니 라 ,None
+이 안 ,NEG
+이 안 되 ,NEG
+이 ,NEG
+이 가 ,POS
+이 가 기 ,POS
+이 가장 ,NEG
+이 가장 크 ,NEG
+이 가족 ,NEG
+이 가족 하고* ,NEG
+이 각별 ,POS
+이 각별 하 ,POS
+이 갇히 ,COMP
+이 갇히 어 ,COMP
+이 갑자기 ,NEUT
+이 갑자기 돌아오 ,NEUT
+이 거세 ,POS
+이 거의 ,POS
+이 거의 없 ,POS
+이 걸리 ,NEG
+이 결여 ,NEG
+이 결여 되 ,NEG
+이 고르 ,NEG
+이 고르 지 ,NEG
+이 고이 ,NEG
+이 고조 ,NEG
+이 고조 되 ,NEG
+이 곤란 ,NEUT
+이 곤란 하 ,NEUT
+이 골고루 ,POS
+이 골고루 녹 ,POS
+이 공존 ,POS
+이 공존 의 ,POS
+이 공포 ,POS
+이 공포 와 ,POS
+이 과중 ,NEG
+이 과중 하 ,NEG
+이 관람객 ,POS
+이 관람객 을 ,POS
+이 교포 ,NEG
+이 교포 에 ,NEG
+이 구별 ,POS
+이 구별 이 ,POS
+이 국기 ,NEG
+이 국기 게양 ,NEG
+이 그치 ,POS
+이 그치 ㄹ ,POS
+이 기쁘 ,POS
+이 기쁘 게 ,POS
+이 깃들 ,POS
+이 깔리 ,NEUT
+이 끊 ,NEG
+이 끊 어 ,NEG
+이 끊기 ,NEG
+이 나 ,NEG
+이 나 의 ,NEG
+이 나 ,POS
+이 나 기 ,POS
+이 나오 ,POS
+이 나오 면 ,POS
+이 나오 아야 ,POS
+이 날카롭 ,POS
+이 남발 ,NEG
+이 남발 하 ,NEG
+이 낮 ,NEG
+이 너무 ,NEG
+이 너무 많 ,NEG
+이 넓 ,POS
+이 넓 어 ,POS
+이 높 ,POS
+이 높 은 ,NEG
+이 높 지요 ,POS
+이 늘어나 ,POS
+이 다 ,POS
+이 다 과거 ,POS
+이 다 그렇* ,None
+이 다 하 ,POS
+이 다시 ,POS
+이 다시 쓰 ,POS
+이 다양 ,POS
+이 다양 하 ,POS
+이 달라지 ,POS
+이 달라지 ㄹ ,POS
+이 대여 ,NEG
+이 대여 쪽 ,NEG
+이 대표 ,POS
+이 대표 적 ,POS
+이 더 ,POS
+이 더 뜻 ,POS
+이 더욱 ,POS
+이 더욱 도드라지 ,POS
+이 도움 ,POS
+이 도움 이 ,POS
+이 돋보이 ,POS
+이 동 ,NEG
+이 동 그렇 ,NEG
+이 두 ,NEG
+이 두 배 ,NEG
+이 두드러지 ,POS
+이 뒤섞이 ,COMP
+이 뒤섞이 ㄴ ,COMP
+이 드물 ,POS
+이 드물 어서 ,POS
+이 들 ,POS
+이 들 거나 ,NEUT
+이 들어오 ,NEUT
+이 들어오 는 ,NEUT
+이 떨리 ,COMP
+이 뛰 ,POS
+이 마비 ,NEUT
+이 마비 되 ,NEUT
+이 많 ,NEG
+이 많 아요 ,NEG
+이 많이 ,NEG
+이 많이 몰리 ,POS
+이 많이 붙 ,NEG
+이 많이 생기 ,NEG
+이 매우 ,POS
+이 매우 적 ,POS
+이 머리 ,POS
+이 머리 에 ,POS
+이 모으 ,POS
+이 모으 아 ,POS
+이 모이 ,NEG
+이 모이 어 ,NEG
+이 모자라 ,NEG
+이 모자라 아 ,NEG
+이 무엇 ,POS
+이 무엇 을 ,POS
+이 물음표 ,NEG
+이 물음표 없이 ,NEG
+이 뭐 ,POS
+이 뭐 가 ,POS
+이 뭐 대단 ,POS
+이 뭐 이 ,NEG
+이 미국 ,NEUT
+이 미국 에서 ,NEUT
+이 배 ,POS
+이 번식 ,POS
+이 번식 하 ,POS
+이 벌어지 ,NEG
+이 벌어지 ㄴ듯 ,POS
+이 부각 ,NEG
+이 부끄럽 ,COMP
+이 부끄럽 지 ,COMP
+이 부르트 ,POS
+이 부르트 고 ,POS
+이 부족 ,NEG
+이 부족 하 ,NEG
+이 불 ,POS
+이 비슷 ,POS
+이 비슷 하 ,POS
+이 빠르 ,POS
+이 사실 ,NEUT
+이 사실 이 ,NEUT
+이 상쾌 ,POS
+이 상쾌 하 ,POS
+이 새롭 ,POS
+이 새롭 게 ,POS
+이 생겨나 ,NEUT
+이 생기 ,NEG
+이 서로 ,NEG
+이 서로 엇나가 ,NEG
+이 서울 ,NEUT
+이 서울 에 ,NEUT
+이 섬 ,COMP
+이 섬 을 ,COMP
+이 성공 ,COMP
+이 성공 이 ,COMP
+이 쉽 ,POS
+이 쉽 게 ,POS
+이 시작 ,NEG
+이 시작 되 ,NEG
+이 시집 ,POS
+이 시집 갈피 ,POS
+이 쏟아지 ,POS
+이 쏠리 ,POS
+이 쏴아아 ,POS
+이 쏴아아 열리 ,POS
+이 씁쓸 ,NEG
+이 씁쓸 하 ,NEG
+이 아이 ,NEG
+이 아이 들 ,NEG
+이 안 ,NEG
+이 안 되 ,POS
+이 안 되 ,NEG
+이 알 ,POS
+이 알 게 ,POS
+이 앞서 ,NEG
+이 약하 ,NEG
+이 얼마나 ,NEG
+이 얼마나 어렵 ,NEG
+이 없 ,NEG
+이 없 는 ,NEG
+이 없 답니다 ,NEG
+이 없 어 ,NEG
+이 없 지 ,NEG
+이 없이 ,POS
+이 여물 ,POS
+이 여물 ㄴ ,POS
+이 여지 ,NEG
+이 여지 없이 ,NEG
+이 오 ,NEUT
+이 오 ㄹ ,NEUT
+이 외국 ,NEG
+이 외국 에 ,NEG
+이 우리 ,NEG
+이 우리 를 ,NEG
+이 우리 식탁 ,NEG
+이 우선 ,NEG
+이 우선 하 ,NEG
+이 위기 ,NEG
+이 위기 를 ,NEG
+이 이 ,NEUT
+이 이 지역 ,NEUT
+이 이기 ,NEG
+이 이기 었 ,NEG
+이 일 ,NEG
+이 일반 ,POS
+이 일반 화 ,POS
+이 일어나 ,NEUT
+이 일어나 ㄹ ,NEUT
+이 있 ,POS
+이 있 ,NEG
+이 있 는 ,NEG
+이 있 다 ,NEUT
+이 있 다면 ,NEG
+이 적 ,NEG
+이 적 지 ,NEG
+이 전국 ,POS
+이 전국 적 ,POS
+이 전시장 ,POS
+이 전시장 으로 ,POS
+이 점점 ,NEG
+이 점점 깊 ,NEG
+이 접근 ,POS
+이 접근 하 ,POS
+이 제대로 ,POS
+이 제대로 보이 ,POS
+이 제시 ,NEG
+이 제시 되 ,NEG
+이 제아무리 ,NEG
+이 제아무리 높 ,NEG
+이 조성 ,NEG
+이 조성 되 ,NEG
+이 존재 ,POS
+이 존재 하 ,POS
+이 좋 ,POS
+이 좋 아 ,POS
+이 좋 았 ,POS
+이 주로 ,NEG
+이 주로 호소 ,NEG
+이 지 ,NEG
+이 지나치 ,NEG
+이 지나치 게 ,NEG
+이 찾아오 ,POS
+이 처음 ,NEG
+이 처음 은 ,NEG
+이 충실 ,POS
+이 충실 하 ,POS
+이 치열 ,POS
+이 치열 하 ,POS
+이 크 ,NEG
+이 크 게 ,NEG
+이 텍스트 ,POS
+이 텍스트 가 ,POS
+이 통하 ,NEG
+이 통하 지 ,NEG
+이 팔리 ,POS
+이 편중 ,NEUT
+이 편중 되 ,NEUT
+이 필요 ,NEG
+이 필요 없 ,None
+이 필요 하 ,NEG
+이 하 ,COMP
+이 하 ㄹ ,COMP
+이 한 ,NEG
+이 한 번 ,NEG
+이 함께 ,POS
+이 함께 하 ,POS
+이 항생 ,POS
+이 항생 물질 ,POS
+이 해외 ,NEUT
+이 해외 로 ,NEUT
+이 해이 ,NEG
+이 해이 되 ,NEG
+이 허물 ,POS
+이 허물 어 ,POS
+이 환하 ,POS
+이 환하 아 ,POS
+이 흉내 ,NEG
+이 흉내 내 ,NEG
+이 흐르 ,NEG
+이 흐르 ㄴ ,NEG
+이 흐르 ㄴ다 ,NEG
+이 힘들 ,NEG
+이 힘들 ㄹ ,NEG
+이 ,NEG
+이 결단 ,NEG
+이 결단 을 ,NEG
+이 말 ,NEG
+이 말 도 ,NEG
+이 밖 ,None
+이 밖 에 ,None
+이 상쾌 ,POS
+이 상쾌 하 ,POS
+이 세상 ,NEG
+이 세상 에 ,NEG
+이 시집 ,NEG
+이 시집 을 ,NEG
+이 음악 ,NEG
+이 음악 은 ,NEG
+이 지구 ,NEG
+이 지구 를 ,NEG
+이 지역 ,NEUT
+이 지역 호텔 ,NEUT
+이 집 ,POS
+이 집 은 ,POS
+이 행사 ,POS
+이 행사 를 ,POS
+이 ,POS
+이 같 ,NEG
+이 같 은 ,NEG
+이 들 ,POS
+이 들 기능 ,POS
+이 를 ,COMP
+이 를 국민 ,COMP
+이 를 피하 ,POS
+이 에 ,POS
+이 에 따르 ,POS
+이 와 ,None
+이 와 아울러 ,None
+이 ,POS
+이 거나 ,NEG
+이 거나 가족 ,NEG
+이 겠 ,POS
+이 겠 느냐고 ,POS
+이 고 ,POS
+이 고 예술 ,POS
+이 고 존재 ,POS
+이 기 ,NEG
+이 기 도 ,NEG
+이 ㄴ ,POS
+이 ㄴ 것 ,NEUT
+이 ㄴ 관계 ,NEG
+이 ㄴ 내 ,NEUT
+이 ㄴ 논쟁점 ,POS
+이 ㄴ 면 ,POS
+이 ㄴ 배창호 ,NEG
+이 ㄴ 복수 ,NEG
+이 ㄴ 사랑 ,POS
+이 ㄴ 선진국 ,POS
+이 ㄴ 성과물 ,POS
+이 ㄴ 셈 ,NEUT
+이 ㄴ 영감 ,POS
+이 ㄴ 우리 ,NEG
+이 ㄴ 인기 ,POS
+이 ㄴ 정책 ,NEG
+이 ㄴ 줄 ,NEG
+이 ㄴ 처지 ,NEG
+이 ㄴ 키히카 ,NEG
+이 ㄴ 태도 ,POS
+이 ㄴ 특징 ,POS
+이 ㄴ 풍물 ,POS
+이 ㄴ가 ,COMP
+이 ㄴ가 ,None
+이 ㄴ데 ,None
+이 ㄴ들 ,POS
+이 ㄴ들 뚫 ,POS
+이 ㄴ지 ,NEG
+이 ㄴ지 도 ,None
+이 ㄴ지 알 ,NEG
+이 ㄴ지 이해 ,NEG
+이 냐 ,POS
+이 다 ,NEG
+이 다 ,None
+이 든 ,POS
+이 든지 ,NEG
+이 든지 자유 ,POS
+이 든지 현실 ,NEG
+이 ㄹ ,NEG
+이 ㄹ 것 ,POS
+이 ㄹ 뿐 ,NEG
+이 ㄹ까 ,None
+이 라고 ,POS
+이 라고 단정 ,POS
+이 라고 생각 ,NEG
+이 라고 하 ,POS
+이 라는 ,None
+이 라는 말 ,NEG
+이 라는 생각 ,None
+이 라는 식 ,None
+이 라는 이상 ,POS
+이 라도 ,NEG
+이 라도 어리광 ,NEG
+이 라면 ,NEG
+이 라면 쉽 ,NEG
+이 ㅁ ,NEG
+이 ㅁ 은 ,NEG
+이 며 ,POS
+이 며 거울 ,POS
+이 며 주전자 ,POS
+이 며 희생자 ,NEG
+이 면서 ,POS
+이 면서 도 ,POS
+이 면서 만화 ,POS
+이 ㅂ니다 ,POS
+이 야 ,NEG
+이 어야 ,NEUT
+이 어야 하 ,NEUT
+이 었 ,POS
+이 었 고 ,POS
+이 었 다 ,NEG
+이 었 던 ,NEUT
+이 었 습니다 ,POS
+이 자 ,NEG
+이 자 도전 ,NEG
+이 지요 ,NEUT
+이거 ,COMP
+이거 그리 ,COMP
+이거 그리 어 ,COMP
+이것 ,NEG
+이것 도 ,NEG
+이것 도 저것 ,NEG
+이견 ,NEG
+이견 이 ,NEG
+이견 이 있 ,NEG
+이권 ,NEG
+이권 개입 ,NEG
+이글거리 ,NEUT
+이기 ,NEG
+이기 가 ,NEG
+이기 가 극대 ,NEG
+이기 적 ,NEG
+이기 적 이 ,NEG
+이기 ,NEG
+이기 었 ,NEG
+이기 었 구나 ,NEG
+이끌 ,POS
+이끌 어 ,POS
+이끌 어 가 ,POS
+이나 ,NEUT
+이나 생각 ,POS
+이나 생각 을 ,POS
+이나 이빨 ,NEUT
+이나 이빨 에 ,NEUT
+이나 ,NEG
+이나 되 ,NEG
+이나 지나 ,NEG
+이나 지나 았 ,NEG
+이념 ,POS
+이념 적 ,POS
+이념 적 공백 ,POS
+이라고 ,NEG
+이라고 단언 ,NEG
+이라고 단언 하 ,NEG
+이라고 밝히 ,POS
+이라고 지적 ,NEG
+이라고 지적 하 ,NEG
+이라고 해명 ,NEUT
+이라고 해명 하 ,NEUT
+이러 ,None
+이러 하 ,None
+이러 하 ㄴ ,None
+이런 ,POS
+이런 깨우치 ,POS
+이런 깨우치 ㅁ ,POS
+이런 깨치 ,POS
+이런 깨치 ㅁ ,POS
+이런 성향 ,POS
+이런 성향 의도 ,POS
+이런저런 ,POS
+이런저런 얘기 ,POS
+이런저런 얘기 들 ,POS
+이렇 ,None
+이렇 게 ,None
+이렇 다 ,NEG
+이렇 다 하 ,NEG
+이렇 듯 ,None
+이롭 ,POS
+이루 ,NEG
+이루 말 ,NEG
+이루 말 하 ,NEG
+이루 ,POS
+이루 ㄴ ,POS
+이루 ㄴ 성과 ,POS
+이루 어 ,None
+이루 어 지 ,None
+이루 었 ,NEG
+이루 었 다 ,NEG
+이르 ,None
+이른바 ,None
+이름 ,NEG
+이름 이 ,NEG
+이름 이 ㄹ ,NEG
+이름나 ,POS
+이름나 ㄴ ,POS
+이리 ,POS
+이리 사랑 ,POS
+이리 사랑 하 ,POS
+이목 ,POS
+이미 ,POS
+이미 동료 ,POS
+이미 동료 상담 ,POS
+이미 예상 ,POS
+이미 예상 되 ,POS
+이민자 ,NEG
+이민자 들 ,NEG
+이민자 들 처지 ,NEG
+이번 ,NEG
+이번 이 ,NEG
+이번 이 처음 ,NEG
+이벤트 ,POS
+이벤트 가 ,POS
+이벤트 가 어우러지 ,POS
+이벤트 이 ,POS
+이빨 ,NEUT
+이빨 에 ,NEUT
+이빨 에 통증 ,NEUT
+이상 ,NEG
+이상 가 ,NEUT
+이상 가 는 ,NEUT
+이상 교통 ,NEG
+이상 교통 사고 ,NEG
+이상 두 ,NEG
+이상 두 고 ,NEG
+이상 뒤떨어지 ,NEG
+이상 보 ,NEG
+이상 보 ㄹ ,NEG
+이상 에 ,POS
+이상 에 부합 ,POS
+이상 하 ,NEG
+이상 확실 ,POS
+이상 확실 하 ,POS
+이상 ,NEG
+이상 하 ,NEG
+이색 ,POS
+이색 적 ,POS
+이색 적 이 ,POS
+이야기 ,POS
+이야기 로서 ,NEG
+이야기 로서 의 ,NEG
+이야기 를 ,POS
+이야기 를 나누 ,POS
+이야기 를 읽 ,NEUT
+이야기 를 풀 ,POS
+이야기 하 ,POS
+이어지 ,POS
+이역만리 ,POS
+이역만리 에서 ,POS
+이역만리 에서 억울 ,POS
+이용 ,POS
+이용 가치 ,POS
+이용 가치 가 ,POS
+이용 하 ,POS
+이용 하 면 ,POS
+이용법 ,POS
+이용법 을 ,POS
+이용법 을 교육 ,POS
+이유 ,NEG
+이유 가 ,NEG
+이유 가 없 ,NEG
+이유 이 ,NEG
+이유 이 고 ,POS
+이유 이 었 ,NEG
+이유 이 지요 ,NEUT
+이전 ,POS
+이전 부터 ,POS
+이전 부터 여성 ,POS
+이제 ,NEG
+이제 너무 ,NEG
+이제 너무 듣 ,NEG
+이제 다시 ,POS
+이제 다시 새롭 ,POS
+이제 소수 ,NEG
+이제 소수 의 ,NEG
+이제 아무 ,NEG
+이제 아무 것 ,NEG
+이제 ,POS
+이제 ㄴ ,POS
+이제 ㄴ 근절 ,POS
+이제 부터 ,COMP
+이제 부터 가 ,COMP
+이제 부터 ㄴ ,POS
+이채 ,POS
+이채 롭 ,POS
+이치 ,POS
+이한탁 ,POS
+이한탁 씨 ,POS
+이해 ,NEG
+이해 는 ,NEG
+이해 는 하 ,NEG
+이해 되 ,NEG
+이해 되 지 ,NEG
+이해 하 ,NEG
+이해 하 아 ,NEG
+이해 하 지 ,NEG
+이해득실 ,POS
+이해득실 을 ,POS
+이해득실 을 꼼꼼 ,POS
+이후 ,NEG
+이후 로 ,NEG
+이후 로 는 ,NEG
+익사 ,NEG
+익사 위험 ,NEG
+익살 ,POS
+익살 스럽 ,POS
+익숙 ,POS
+익숙 하 ,POS
+익숙 하 ㄴ ,POS
+익숙 하 아 ,POS
+인 ,POS
+인 하 ,POS
+인 하 ㄴ ,POS
+인간 ,NEG
+인간 답 ,POS
+인간 들 ,POS
+인간 들 보다 ,POS
+인간 은 ,NEG
+인간 은 기술 ,NEG
+인간 의 ,NEG
+인간 의 감각 ,NEG
+인간애 ,POS
+인건비 ,NEG
+인건비 부담 ,NEG
+인건비 부담 이 ,NEG
+인권 ,POS
+인기 ,POS
+인기 가도 ,POS
+인기 가도 를 ,POS
+인기 높 ,POS
+인기 를 ,POS
+인기 를 끌 ,POS
+인기 를 누리 ,POS
+인기 를 모으 ,POS
+인기 를 얻 ,POS
+인기 이 ,POS
+인기작 ,POS
+인력난 ,NEG
+인상 ,POS
+인상 을 ,NEG
+인상 을 주 ,NEG
+인상 적 ,POS
+인상 적 이 ,POS
+인생 ,NEG
+인생 은 ,NEG
+인생 은 죽음 ,NEG
+인생 을 ,POS
+인생 을 한데 ,POS
+인식 ,POS
+인식 등 ,POS
+인식 등 을 ,POS
+인식 을 ,POS
+인식 을 같이 ,POS
+인식 의 ,POS
+인식 의 세계 ,POS
+인식 이 ,POS
+인식 이 새롭 ,POS
+인식 하 ,NEG
+인식 하 는 ,NEG
+인원 ,NEG
+인원 의 ,POS
+인원 이 ,NEG
+인원 이 너무 ,NEG
+인정 ,POS
+인정 되 ,NEG
+인정 되 지 ,NEG
+인정 을 ,POS
+인정 을 받 ,POS
+인정 하 ,POS
+인정받 ,POS
+인종 ,NEG
+인종 차별 ,NEG
+인터뷰 ,NEG
+인터뷰 를 ,NEG
+인터뷰 를 하 ,NEG
+일 ,NEG
+일 아니 ,POS
+일 아니 ㅂ니까 ,POS
+일 은 ,COMP
+일 은 작품 ,COMP
+일 을 ,NEG
+일 을 계속 ,NEUT
+일 을 그르치 ,NEG
+일 이 ,NEG
+일 이 아니 ,NEG
+일 이 ,NEG
+일 이 없이 ,POS
+일 이 있 ,NEG
+일 이 ,NEG
+일 이 겠 ,POS
+일 이 ㄴ지 ,NEG
+일 이 다 ,None
+일 하 ,POS
+일 하 겠 ,POS
+일 ,NEG
+일 우호 ,NEG
+일 우호 관계 ,NEG
+일 ,NEG
+일관 ,POS
+일관 되 ,POS
+일깨우 ,NEG
+일깨우 고 ,NEG
+일깨우 고 욕망 ,NEG
+일깨우 어 ,NEG
+일깨우 어 주 ,NEG
+일단 ,None
+일반 ,NEG
+일반 적 ,NEG
+일반 적 욕망 ,NEG
+일반 화 ,POS
+일반 화 하 ,POS
+일방 ,NEG
+일방 추진 ,NEG
+일본 ,POS
+일본 과 ,POS
+일본 과 미국 ,POS
+일본 유수 ,POS
+일본 유수 의 ,POS
+일본군 ,NEG
+일본군 으로 ,NEG
+일본군 으로 간주 ,NEG
+일부 ,NEG
+일부 액수 ,NEG
+일부 액수 만 ,NEG
+일부 에 ,NEG
+일부 에 불과 ,NEG
+일삼 ,NEG
+일삼 고 ,NEG
+일삼 고 있 ,NEG
+일색 ,NEG
+일색 이 ,NEG
+일어나 ,NEG
+일어나 ㄹ ,NEUT
+일어나 ㄹ 때 ,NEUT
+일으키 ,NEG
+일으키 어서 ,NEG
+일으키 어서 고립무원 ,NEG
+일정 ,NEG
+일정 하 ,NEG
+일정 하 지 ,NEG
+일종 ,None
+일종 의 ,None
+일직선 ,NEG
+일직선 시멘트 ,NEG
+일직선 시멘트 길 ,NEG
+일찍 ,NEG
+일찍 나가 ,NEG
+일찍 나가 는 ,NEG
+일체 ,POS
+일체 의 ,POS
+일체 의 사회 ,POS
+일치 ,POS
+일터 ,NEG
+일터 에 ,NEG
+일터 에 꿀단지 ,NEG
+읽 ,NEUT
+읽 게 ,POS
+읽 게 쓰 ,POS
+읽 고 ,NEUT
+읽 고 자라 ,NEUT
+읽 다가 ,NEUT
+읽 으면 ,POS
+읽 으면 전혀 ,POS
+읽히 ,POS
+잃 ,NEG
+잃어버리 ,POS
+잃어버리 ㄴ ,POS
+잃어버리 ㄴ 자아 ,POS
+임금 ,POS
+임금 남성 ,POS
+임금 남성 의 ,POS
+임금 노동자 ,POS
+임금 노동자 가 ,POS
+임금 심위 ,POS
+임금 심위 에 ,POS
+임금 의 ,POS
+임금 의 적정 ,POS
+임금제 ,POS
+임금제 의 ,POS
+임금제 의 도입 ,POS
+임산물 ,POS
+임하 ,POS
+입 ,NEG
+입 문지르 ,NEG
+입 문지르 며 ,NEG
+입 에 ,NEG
+입 에 올리 ,NEG
+입 에서 ,NEG
+입 에서 욕 ,NEG
+입 을 ,POS
+입 을 모으 ,POS
+입 ,POS
+입 는 ,POS
+입 는 남성 ,POS
+입 자 ,POS
+입국자 ,NEG
+입국자 가 ,NEG
+입국자 가 늘 ,NEG
+입력 ,POS
+입력 되 ,POS
+입력 되 ㄴ ,POS
+입술 ,NEG
+입술 빨 ,NEG
+입술 빨 고 ,NEG
+입술 이 ,POS
+입술 이 부르트 ,POS
+입시 ,NEG
+입시 부정 ,NEG
+입장 ,NEG
+입장 이 ,NEG
+입증 ,NEUT
+입증 하 ,NEUT
+입히 ,NEG
+잇따르 ,NEG
+있 ,POS
+있 는 ,POS
+있 는 이한탁 ,POS
+있 다 ,None
+있 ,None
+있 게 ,POS
+있 게 기회 ,POS
+있 게 되 ,None
+있 게 하 ,POS
+있 겠 ,None
+있 기 ,POS
+있 기 를 ,POS
+있 나 ,POS
+있 는 ,POS
+있 는 것 ,POS
+있 는 기회 ,POS
+있 는 듯 ,NEG
+있 는 미화원 ,POS
+있 는 사람 ,NEG
+있 는 연극 ,POS
+있 는 일 ,POS
+있 는지 ,POS
+있 는지 좀 ,POS
+있 다 ,POS
+있 다 ,NEUT
+있 다는 ,POS
+있 다는 보람 ,POS
+있 다는데 ,POS
+있 다는데 작 ,POS
+있 다면 ,NEG
+있 어 ,NEG
+있 어 반드시 ,NEG
+있 었 ,POS
+있 었 다 ,NEG
+있 었 다 ,POS
+있 었 습니다 ,POS
+있 을 ,None
+있 을 것 ,None
+있 을 정도 ,None
+있 을까 ,COMP
+있 음 ,POS
+있 지만 ,NEG
+있 지만 순례자 ,NEG
+있 ,NEG
+있 는 ,NEG
+있 는 가장 ,NEG
+있 는 것 ,NEG
+있 는 고도 ,COMP
+있 는 군도 ,NEG
+있 는 상황 ,NEG
+있 는 소위 ,NEG
+있 는 어린이 ,NEUT
+있 는 오늘날 ,COMP
+있 는 쪽 ,NEG
+있 는 터번 ,POS
+있 는 형편 ,NEG
+있 는데 ,NEUT
+있 다 ,POS
+있 다 ,NEG
+있 습니다 ,NEG
+있 어 ,NEG
+있 어 균 ,POS
+있 어 생활 ,NEG
+있 었 ,POS
+있 었 다 ,NEG
+있 었 습니다 ,POS
+있 었 지만 ,POS
+있 을까 ,COMP
+잉태 ,NEG
+잊 ,NEG
+잊 고 ,NEG
+잊 고 살 ,NEG
+잊 어서 ,NEUT
+잊 어서 는 ,NEUT
+잊히 ,POS
+잊히 어 ,POS
+잊히 어 지 ,POS
+자 ,NEG
+자 도전 ,NEG
+자 도전 이 ,NEG
+자 ,None
+자 ,NEG
+자 들 ,NEG
+자 들 만 ,NEG
+자 ,NEG
+자 는 ,NEG
+자 는 습관 ,NEG
+자 다 ,NEUT
+자 다 말 ,NEUT
+자고 ,None
+자고 의견 ,POS
+자고 의견 을 ,POS
+자구 ,NEG
+자구 운동 ,NEG
+자구 운동 이 ,NEG
+자구책 ,POS
+자구책 움직임 ,POS
+자그맣 ,POS
+자극 ,POS
+자극 성 ,POS
+자극 성 이 ,POS
+자극 시키 ,NEG
+자극 하 ,POS
+자긍 ,POS
+자긍심 ,POS
+자기 ,NEG
+자기 도 ,NEG
+자기 도 모르 ,NEG
+자기 들 ,POS
+자기 들 의 ,POS
+자기 숭배 ,NEG
+자기 숭배 를 ,NEG
+자기 와* ,POS
+자기 와* 현실 ,POS
+자기 중얼거리 ,NEG
+자기 중얼거리 ㅁ ,NEG
+자꾸 ,NEG
+자꾸 고리타분 ,NEG
+자꾸 고리타분 하 ,NEG
+자꾸 놓치 ,NEG
+자녀 ,POS
+자녀 결혼식 ,POS
+자녀 결혼식 에 ,POS
+자는 ,None
+자니 ,NEG
+자니 몹시 ,NEG
+자니 몹시 쓰 ,NEG
+자동차 ,POS
+자동차 등록 ,POS
+자동차 등록 대수 ,POS
+자라 ,NEG
+자라 ㄹ까 ,NEUT
+자라 았 ,NEG
+자라 았 지 ,NEG
+자랑 ,POS
+자랑 스럽 ,POS
+자랑 스럽 게 ,POS
+자랑스레 ,POS
+자리 ,POS
+자리 로 ,POS
+자리 로 돌아오 ,POS
+자리 를 ,POS
+자리 를 잡 ,NEG
+자리 를 잡아가 ,POS
+자리 에서 ,POS
+자리 잡 ,POS
+자면 ,NEG
+자면 길 ,NEG
+자면 길 에서 ,NEG
+자못 ,COMP
+자못 심장 ,COMP
+자못 심장 하 ,COMP
+자백 ,NEG
+자백 하 ,NEG
+자본주의 ,NEG
+자본주의 의 ,NEG
+자본주의 의 선전 ,NEG
+자비 ,POS
+자비 롭 ,POS
+자상 ,POS
+자상 하 ,POS
+자세 ,POS
+자세 로 ,POS
+자세 로 임하 ,POS
+자세히 ,POS
+자세히 소개 ,POS
+자세히 소개 하 ,POS
+자신 ,NEG
+자신 도 ,NEG
+자신 도 모르 ,NEG
+자신 을 ,POS
+자신 을 상실 ,POS
+자신 의 ,POS
+자신 의 나이 ,POS
+자신 의 몸 ,NEG
+자신 의 세계 ,POS
+자신 이 ,NEG
+자신 이 없 ,NEG
+자신만만 ,POS
+자신만만 하 ,POS
+자신만만 하 ㄴ ,POS
+자아 ,POS
+자아 실현 ,POS
+자아 실현 을 ,POS
+자아 와 ,POS
+자아 와 삶 ,POS
+자아내 ,POS
+자아내 기 ,POS
+자아내 기 에 ,POS
+자연 ,POS
+자연 과 ,POS
+자연 과 예술 ,POS
+자연 스럽 ,POS
+자연 스럽 게 ,POS
+자연 스럽 ㄴ ,POS
+자연 학습 ,POS
+자연 학습 기회 ,POS
+자원 ,POS
+자원 봉사자 ,POS
+자유 ,POS
+자유 로 ,POS
+자유 로 바꾸 ,POS
+자유 롭 ,POS
+자유 롭 게 ,POS
+자유 롭 지 ,NEG
+자유 민주주의 ,NEG
+자유 민주주의 시대 ,NEG
+자제력 ,NEG
+자제력 을 ,NEG
+자제력 을 잃 ,NEG
+자주 ,POS
+자주 하 ,POS
+자주 하 고 ,POS
+자처 ,NEG
+자처 하 ,NEG
+자처 하 며 ,NEG
+자청 ,NEG
+자청 하 ,NEG
+자충수 ,NEG
+자충수 에 ,NEG
+자충수 에 가깝 ,NEG
+자칫 ,None
+작 ,NEG
+작 은 ,NEG
+작 은 섬 ,NEG
+작 은 장기 ,POS
+작가 ,POS
+작가 상 ,POS
+작가 이 ,POS
+작곡가 ,POS
+작곡가 연구 ,POS
+작곡가 연구 를 ,POS
+작동 ,NEG
+작동 되 ,NEG
+작동 되 는지 ,NEG
+작동 불량 ,NEG
+작동 안 ,NEG
+작동 안 되 ,NEG
+작법 ,POS
+작법 이 ,POS
+작법 이 다 ,POS
+작업 ,NEG
+작업 을 ,NEG
+작업 을 뒤 ,NEG
+작업 을 해보 ,NEUT
+작용 ,POS
+작용 하 ,POS
+작전 ,POS
+작전 계획 ,POS
+작품 ,COMP
+작품 으로 ,COMP
+작품 으로 그 ,COMP
+작품 은 ,POS
+작품 은 아니 ,POS
+작품 하나 ,NEUT
+작품 하나 를 ,NEUT
+잔뼈 ,POS
+잔뼈 가 ,POS
+잔뼈 가 굵 ,POS
+잔인 ,NEG
+잔인 하 ,NEG
+잔인 하 ㄴ ,NEG
+잔치 ,POS
+잔치상 ,POS
+잔치상 을 ,POS
+잔치상 을 받 ,POS
+잔치판 ,POS
+잔털 ,POS
+잔털 발생 ,POS
+잔털 발생 이 ,POS
+잖아 ,NEG
+잖아요 ,NEG
+잘 ,POS
+잘 결속 ,POS
+잘 결속 하 ,POS
+잘 못* ,NEG
+잘 못* 하* ,NEG
+잘 알리 ,POS
+잘 알리 어 ,POS
+잘 이해 ,NEG
+잘 이해 되 ,NEG
+잘 입 ,POS
+잘 입 는 ,POS
+잘 하 ,NEG
+잘 하 지만 ,NEG
+잘 하 ,POS
+잘못 ,NEG
+잘못 되 ,NEG
+잘못 되 ㄴ ,NEG
+잘못 하 ,NEG
+잘못 하 다가 ,NEG
+잘못 ,NEG
+잘못 되 ,NEG
+잠들 ,NEG
+잠들 ㄴ ,NEG
+잠들 ㄴ 그 ,NEG
+잡 ,NEG
+잡 고 ,NEG
+잡 고 허둥대 ,NEG
+잡 아 ,NEG
+잡 아 먹 ,NEG
+잡 지 ,NEG
+잡 지 못하 ,NEG
+잡아가 ,POS
+잡아먹 ,COMP
+잡아먹 고 ,COMP
+잡아먹 고 있 ,COMP
+잡히 ,POS
+장 ,POS
+장 터 ,POS
+장 터 에 ,POS
+장기 ,NEG
+장기 적 ,NEG
+장기 적 이 ,NEG
+장기 하나 ,POS
+장기 하나 기증 ,POS
+장난 ,POS
+장난 을 ,POS
+장난 을 치 ,POS
+장담 ,POS
+장담 하 ,POS
+장담 하 ㄹ ,POS
+장대 ,POS
+장대 하 ,POS
+장래 ,POS
+장래 를 ,POS
+장래 를 촉망 ,POS
+장사진 ,POS
+장사진 을 ,POS
+장사진 을 이루 ,POS
+장애 ,NEUT
+장애 는 ,NEUT
+장애 는 뇌 ,NEUT
+장엄 ,POS
+장엄 하 ,POS
+장점 ,POS
+장점 으로 ,POS
+장점 으로 활용 ,POS
+장주 ,NEUT
+장주 가 ,NEUT
+장주 가 되 ,NEUT
+장주 이 ,NEUT
+장주 이 ㄴ ,NEUT
+잦 ,NEG
+잦 아 ,NEG
+재 ,COMP
+재 평가 ,POS
+재 해석 ,COMP
+재 해석 하 ,COMP
+재롱떨* ,NEG
+재롱떨* 는* ,NEG
+재롱떨* 는* 모습 ,NEG
+재물 ,NEG
+재물 도 ,NEG
+재미 ,POS
+재미 가 ,POS
+재미 가 쏠쏠 ,POS
+재미 가 있 ,POS
+재미 로 ,POS
+재미 로 눈길 ,POS
+재미 를 ,POS
+재미 를 보 ,POS
+재미있 ,POS
+재봉틀 ,NEUT
+재봉틀 앞 ,NEUT
+재봉틀 앞 에서 ,NEUT
+재산 ,NEG
+재산 권 ,NEG
+재산 권 은 ,NEG
+재산 권 을 ,NEG
+재산 피해 ,NEG
+재산 피해 도 ,NEG
+재앙 ,NEG
+재연 ,NEG
+재연 하 ,NEG
+재잘대 ,POS
+재주 ,NEG
+재주 꾼 ,NEG
+재주 많 ,POS
+재현 ,POS
+재현 하 ,POS
+쟁이 ,NEG
+쟁이 곰 ,NEG
+쟁쟁 ,POS
+쟁쟁 하 ,POS
+쟁점 ,COMP
+저 ,NEG
+저 미제 ,NEG
+저 미제 놈 ,NEG
+저 ,NEG
+저 ㄴ ,NEG
+저 ㄴ 누구 ,NEG
+저 도 ,POS
+저 도 그 ,POS
+저 의 ,NEG
+저 의 얘기 ,NEG
+저 ,NEG
+저 성장 ,NEG
+저 임금 ,POS
+저 임금 노동자 ,POS
+저거 ,COMP
+저거 그리 ,COMP
+저거 그리 어 ,COMP
+저것 ,NEG
+저것 도 ,NEG
+저것 도 문제 ,NEG
+저것 이 ,NEG
+저것 이 뭐 ,NEG
+저리도 ,None
+저속 ,NEG
+저속 하* ,NEG
+저술 ,POS
+저의 ,NEUT
+저절로 ,POS
+저절로 물러가 ,POS
+저절로 생기 ,POS
+저절로 생기 ㅂ니다 ,POS
+저지르 ,NEG
+저지르 어라 ,POS
+저하 ,NEG
+적 ,NEG
+적 이 ,NEG
+적 이 없 ,NEG
+적 이 한 ,NEG
+적 ,NEG
+적 지 ,NEG
+적 지 않 ,NEG
+적 ,POS
+적 가치 ,POS
+적 가치 체계 ,POS
+적 갈등 ,NEG
+적 견해 ,COMP
+적 견해 를 ,COMP
+적 경직 ,POS
+적 경직 성 ,POS
+적 고갈 ,NEG
+적 고갈 상태 ,NEG
+적 공백 ,POS
+적 공백 을 ,POS
+적 관심 ,POS
+적 관점 ,COMP
+적 관점 에서 ,COMP
+적 궁핍 ,NEG
+적 궁핍 의 ,NEG
+적 단서 ,COMP
+적 도둑 ,NEG
+적 도둑 질 ,NEG
+적 명징 ,POS
+적 명징 하 ,POS
+적 문제 ,NEG
+적 부가 ,POS
+적 부가 가치 ,POS
+적 비극 ,NEG
+적 비리 ,NEG
+적 비리 이 ,NEG
+적 상황 ,NEG
+적 성취 ,POS
+적 실상 ,NEG
+적 실상 을 ,NEG
+적 영혼 ,POS
+적 영혼 에 ,POS
+적 욕망 ,NEG
+적 욕망 이 ,NEG
+적 운치 ,POS
+적 으로 ,POS
+적 으로 강화 ,POS
+적 으로 권 ,POS
+적 으로 그리고 MAJ,NEG
+적 으로 돕 ,POS
+적 으로 뛰 ,POS
+적 으로 멀 ,NEG
+적 으로 보 ,NEG
+적 으로 부족 ,NEG
+적 으로 신속히 ,POS
+적 으로 실현 ,POS
+적 으로 연기 ,POS
+적 으로 유명 ,POS
+적 으로 자리 ,POS
+적 으로 증명 ,POS
+적 으로 진단 ,NEUT
+적 으로 해결 ,POS
+적 으로 행동 ,NEG
+적 으로 확산 ,POS
+적 의지 ,NEG
+적 의지 와 ,NEG
+적 이 ,POS
+적 이 고 ,POS
+적 이 ㄴ ,POS
+적 이 면서 ,POS
+적 이 어야 ,NEUT
+적 인식 ,POS
+적 인식 의 ,POS
+적 자유 ,POS
+적 재미 ,POS
+적 재산 ,NEG
+적 재산 권 ,NEG
+적 지지 ,POS
+적 지지 를 ,POS
+적 질병 ,POS
+적 질병 을 ,POS
+적 집단 ,NEG
+적 책임 ,NEG
+적 책임 까지 ,NEG
+적 타협 ,POS
+적 타협 자세 ,POS
+적 테러 ,NEG
+적 테러 사건 ,NEG
+적 틀 ,POS
+적 틀 로 ,POS
+적 편견 ,POS
+적 평론가 ,POS
+적 평론가 의 ,POS
+적 행태 ,NEG
+적 흥취 ,POS
+적 히스테리 ,NEG
+적 히스테리 시대 ,NEG
+적격 ,POS
+적격 이 ,POS
+적극 ,POS
+적극 검토 ,POS
+적극 검토 하 ,POS
+적극 나서 ,POS
+적극 적 ,POS
+적극 적 으로 ,POS
+적극 적 이 ,POS
+적극 참여 ,POS
+적극 추천 ,POS
+적극 추천 하 ,POS
+적당 ,POS
+적당 하 ,POS
+적도 ,POS
+적도 보다 ,POS
+적도 보다 뜨겁 ,POS
+적막 ,NEG
+적막 에서 ,NEG
+적반하장 ,NEG
+적반하장 의 ,NEG
+적반하장 의 망동 ,NEG
+적어도 ,NEG
+적어도 내 ,NEG
+적어도 내 가 ,NEG
+적어도 아직 ,None
+적어도 아직 까지 ,None
+적응력 ,NEG
+적응력 이 ,NEG
+적응력 이 빠르 ,POS
+적응력 이 약하 ,NEG
+적절 ,POS
+적절 하 ,POS
+적정 ,POS
+적정 화 ,POS
+적합 ,NEG
+적합 성 ,NEG
+적합 성 을 ,NEG
+적합 ,POS
+적합 하 ,POS
+전 ,NEUT
+전 에 ,NEUT
+전 에 하 ,NEUT
+전국 ,NEUT
+전국 적 ,NEUT
+전국 적 으로 ,NEUT
+전념 ,POS
+전념 하 ,POS
+전락 ,NEG
+전락 하 ,NEG
+전략 ,NEG
+전례 ,NEUT
+전례 없 ,POS
+전례 없이 ,NEUT
+전망 ,POS
+전망 이 ,NEUT
+전망 하 ,NEG
+전무 ,NEG
+전무 하 ,NEG
+전문 ,POS
+전문 자원 ,POS
+전문 자원 봉사자 ,POS
+전문 적 ,POS
+전문 적 으로 ,POS
+전문 화 ,NEG
+전문 화 되 ,NEG
+전문가 ,POS
+전문가 집단 ,POS
+전문가 집단 이 ,POS
+전반 ,POS
+전반 적 ,POS
+전반 적 이 ,POS
+전시 ,POS
+전시 하 ,POS
+전시 하 아 ,POS
+전시장 ,POS
+전시장 으로 ,POS
+전시장 으로 변하 ,POS
+전쟁 ,NEG
+전쟁 범죄 ,NEG
+전적 ,None
+전적 으로 ,None
+전제 ,POS
+전제 조건 ,POS
+전제 조건 이 ,POS
+전조 ,NEUT
+전조 가 ,NEUT
+전조 가 되 ,NEUT
+전철 ,NEG
+전철 을 ,NEG
+전철 을 밟 ,NEG
+전통 ,POS
+전통 문화 ,POS
+전통 문화 의 ,POS
+전투 ,POS
+전투 적 ,POS
+전투 적 평론가 ,POS
+전하 ,POS
+전하 ㄴ다고 ,POS
+전하 ㄴ다고 생각 ,POS
+전혀 ,POS
+전혀 거리낌 ,POS
+전혀 거리낌 없이 ,POS
+전혀 다르* ,POS
+전혀 다르* ㄴ ,POS
+전혀 다른 ,POS
+전혀 다른 모습 ,POS
+전혀 뒷받침 ,NEG
+전혀 뒷받침 되 ,NEG
+전혀 아랑곳 ,POS
+전혀 아랑곳 하 ,POS
+전형 ,NEG
+전형 적 ,NEG
+전형 적 이 ,NEG
+전화 ,POS
+전화 를 ,POS
+전화 를 걸 ,POS
+전화 번호 ,POS
+전화 번호 에 ,POS
+전화기 ,POS
+전화기 와 ,POS
+절감 ,NEG
+절감 하 ,NEG
+절규 ,NEG
+절규 하 ,NEG
+절대 ,NEG
+절대 나아가 ,POS
+절대 나아가 지 ,POS
+절대 없 ,NEG
+절대 없 어 ,NEG
+절대 ,NEG
+절대 적 ,NEG
+절대 적 으로 ,NEG
+절대 정숙 ,POS
+절대 정숙 의 ,POS
+절대로 ,NEG
+절대로 다른 ,NEG
+절대로 다른 건물 ,NEG
+절대주의 ,POS
+절대주의 에서 ,POS
+절대주의 에서 벗어나 ,POS
+절도 ,POS
+절도 있 ,POS
+절레절레 ,NEG
+절레절레 흔들 ,NEG
+절레절레 흔들 는 ,NEG
+절로 ,POS
+절로 신 ,POS
+절로 신 이 ,POS
+절망 ,NEG
+절망 하 ,NEG
+절망감 ,NEG
+절망감 에 ,NEG
+절망감 에 휩싸이 ,NEG
+절박 ,NEG
+절박 하 ,NEG
+절반 ,POS
+절반 가격 ,POS
+절실히 ,POS
+절실히 요청 ,POS
+절실히 요청 되 ,POS
+젊 ,POS
+젊 게 ,POS
+젊 게 살 ,POS
+젊 은 ,COMP
+젊 은 날 ,COMP
+젊 은 시절 ,POS
+젊음 ,POS
+젊음 의 ,POS
+젊음 의 열정 ,POS
+점 ,NEUT
+점 들 ,POS
+점 들 이 ,POS
+점 을 ,NEUT
+점 을 잊 ,NEUT
+점 이 ,None
+점검 ,NEUT
+점검 하 ,NEUT
+점령 ,NEG
+점령 하 ,NEG
+점수 ,COMP
+점수 를 ,COMP
+점수 를 매기 ,COMP
+점잖 ,POS
+점점 ,NEG
+점점 고립 ,NEG
+점점 고립 되 ,NEG
+점점 깊 ,NEG
+점점 깊 어 ,NEG
+점진 ,POS
+점진 적 ,POS
+점진 적 이 ,POS
+접근 ,POS
+접근 하 ,POS
+접근 하 ㄹ ,POS
+정 ,NEG
+정 을 ,NEG
+정 을 막 ,NEG
+정 ,NEUT
+정겹 ,POS
+정겹 고 ,POS
+정겹 고 익숙 ,POS
+정교 ,POS
+정교 하 ,POS
+정기 ,POS
+정기 를 ,POS
+정기 를 듬뿍 ,POS
+정도 ,None
+정도 노래 ,POS
+정도 노래 연습 ,POS
+정도 늦 ,NEG
+정도 늦 게 ,NEG
+정도 떨어지 ,POS
+정도 떨어지 ㄴ ,POS
+정도 로 ,None
+정도 비싸 ,NEG
+정도 싸 ,POS
+정도 싸 ㄴ ,POS
+정도 이 ,None
+정도 이 ㄴ ,None
+정도 확보 ,POS
+정도 확보 하 ,POS
+정도 확신 ,POS
+정도 확신 하 ,POS
+정들 ,NEG
+정들 ㄴ ,NEG
+정들 ㄴ 것 ,NEG
+정리 ,POS
+정리 하 ,POS
+정리 하 고 ,POS
+정말 ,POS
+정말 감사 ,POS
+정말 감사 하 ,POS
+정말 꿈 ,POS
+정말 꿈 만 ,POS
+정말 좋아하 ,POS
+정보 ,POS
+정보 화 ,POS
+정보 화 마인드 ,POS
+정부 ,POS
+정부 가 ,POS
+정부 가 삼위일체 ,POS
+정상 ,POS
+정상 급 ,POS
+정상 화 ,POS
+정서 ,POS
+정서 를 ,POS
+정서 를 살리 ,POS
+정성껏 ,POS
+정성껏 봉양 ,POS
+정성껏 봉양 하 ,POS
+정숙 ,POS
+정숙 의 ,POS
+정숙 의 세계 ,POS
+정신 ,NEG
+정신 에 ,NEG
+정신 에 도 ,NEG
+정신 을 ,NEG
+정신 을 통제 ,NEG
+정신 의 ,POS
+정신 의 풍성 ,POS
+정신 이 ,POS
+정신 이 팔리 ,POS
+정신 적 ,NEG
+정신 적 고갈 ,NEG
+정신 적 성취 ,POS
+정신병 ,NEG
+정신병 으로 ,NEG
+정신병 으로 진단 ,NEG
+정의 ,NEUT
+정의 하 ,NEUT
+정작 ,None
+정지선 ,NEG
+정지선 을 ,NEG
+정지선 을 표시 ,NEG
+정착 ,POS
+정착 되 ,POS
+정착 시키 ,POS
+정착 시키 기 ,POS
+정책 ,NEG
+정책 의 ,NEG
+정책 의 비전 ,NEG
+정책 이 ,NEG
+정책 이 시작 ,NEG
+정책 적 ,POS
+정책 적 관심 ,POS
+정체 ,NEG
+정체 상태 ,NEG
+정체 상태 에 ,NEG
+정취 ,POS
+정취 가 ,POS
+정취 가 살아나 ,POS
+정치 ,NEG
+정치 적 ,NEG
+정치 적 테러 ,NEG
+정하 ,POS
+정화 ,POS
+정화 만 ,POS
+정화 만 을 ,POS
+정확 ,NEG
+정확히 ,NEG
+정확히 명시 ,NEG
+정확히 명시 하 ,NEG
+젖 ,NEG
+젖 도 ,NEG
+젖 도 안 ,NEG
+젖 에 ,NEG
+젖 에 발리 ,NEG
+젖 을 ,POS
+젖 을 흘려주 ,POS
+젖 ,NEG
+제 ,POS
+제 ,NEG
+제 위반 ,NEG
+제공 ,POS
+제공 하 ,POS
+제기 ,NEG
+제기 되 ,NEG
+제기 하 ,NEG
+제기 하 ㄴ ,NEUT
+제대로 ,NEG
+제대로 받 ,NEG
+제대로 받 을 ,NEG
+제대로 배우 ,NEG
+제대로 배우 ㄹ ,NEG
+제대로 보 ,NEG
+제대로 보 아 ,NEG
+제대로 보이 ,POS
+제대로 이해 ,NEG
+제대로 이해 하 ,NEG
+제대로 정착 ,POS
+제대로 정착 되 ,POS
+제도 ,NEG
+제도 언론 ,NEG
+제발 ,NEG
+제발 로 ,NEG
+제수 ,POS
+제수 용품 ,POS
+제수 용품 싸 ,POS
+제시 ,POS
+제시 되 ,NEG
+제시 하 ,POS
+제아무리 ,NEG
+제아무리 높 ,NEG
+제아무리 높 은 ,NEG
+제안 ,POS
+제안 하 ,POS
+제왕 ,NEG
+제왕 처럼 ,NEG
+제왕 처럼 자기 ,NEG
+제자리 ,NEG
+제자리 를 ,NEG
+제자리 를 맴돌 ,NEG
+제재 ,POS
+제재 를 ,POS
+제재 를 풀 ,POS
+제조 ,NEUT
+제조 하 ,NEUT
+제치 ,POS
+제치 어 ,POS
+제치 어 버리 ,POS
+제품 ,NEUT
+제품 의 ,NEUT
+제품 의 가치 ,NEUT
+제품 이 ,POS
+제품 이 나오 ,POS
+제한 ,NEG
+제한 이 ,NEG
+제한 이 없 ,NEG
+조 ,NEG
+조각가 ,POS
+조각가 들 ,POS
+조각가 들 의 ,POS
+조건 ,POS
+조건 이 ,POS
+조건 적 ,POS
+조건 적 이 ,POS
+조금 ,NEG
+조금 과장 ,NEG
+조금 과장 되 ,NEG
+조금 더 ,NEUT
+조금 더 비싸 ,NEUT
+조금 ,POS
+조금 도 ,POS
+조금 도 떨어지 ,POS
+조금 도 무겁 ,POS
+조금 만 ,POS
+조금 만 참 ,POS
+조금 이 ,None
+조금 이 라도 ,None
+조류 ,POS
+조리기 ,POS
+조리기 보다 ,POS
+조리기 보다 간편 ,POS
+조명 ,POS
+조명 과 ,POS
+조명 과 카메라 ,POS
+조명 하 ,POS
+조선 ,NEG
+조선 왕조 ,NEG
+조성 ,NEG
+조성 되 ,NEG
+조속 ,POS
+조속 하 ,POS
+조속 하 ㄴ ,POS
+조언 ,POS
+조언 을 ,POS
+조언 을 내놓 ,POS
+조언 을 하 ,POS
+조언 이 ,POS
+조언 하 ,POS
+조절 ,POS
+조직 ,NEG
+조직 적 ,NEG
+조직 적 비리 ,NEG
+조차 ,NEG
+조차 느끼 ,NEG
+조차 느끼 지 ,NEG
+조차 도 ,None
+조차 않 ,NEG
+조차 하 ,NEG
+조차 하 ㄹ ,NEG
+조치 ,NEG
+조치 위반 ,NEG
+조화 ,POS
+조화 롭 ,POS
+조화 롭 게 ,POS
+존경 ,POS
+존경 하 ,POS
+존귀 ,POS
+존재 ,POS
+존재 이유 ,POS
+존재 이유 이 ,POS
+존재 하 ,POS
+존재 하 ㄴ다는 ,POS
+존중 ,POS
+존중 하 ,POS
+졸 ,NEG
+졸속 ,NEG
+좀 ,POS
+좀 내놓 ,POS
+좀 내놓 으라고 ,POS
+좀 더 ,POS
+좀 더 가까이 ,POS
+좀 더 많 ,POS
+좀 더 상세 ,POS
+좀 들 ,POS
+좀 들 지만 ,POS
+좀체 ,NEG
+좁 ,NEG
+좁 은 ,NEG
+좁 은 문 ,NEG
+종교인 ,NEUT
+종교인 이 ,NEUT
+종교인 이 아니 ,NEUT
+종류 ,POS
+종류 가 ,POS
+종류 가 많 ,POS
+종용 ,NEG
+종용 하 ,NEG
+종합 ,NEUT
+종합 적 ,NEUT
+종합 적 으로 ,NEUT
+좋 ,POS
+좋 겠 ,NEG
+좋 습니까 ,POS
+좋 아 ,POS
+좋 아 지 ,POS
+좋 아 하 ,POS
+좋 아서 ,POS
+좋 아서 하 ,POS
+좋 았 ,POS
+좋 았 어요 ,POS
+좋 은 ,POS
+좋 은 물건 ,POS
+좋 은 자연 ,POS
+좋 은 책 ,POS
+좋아하 ,POS
+좋아하 는 ,POS
+좋아하 는 책 ,POS
+좌수 ,NEG
+좌수 로 ,NEG
+좌수 로 글씨 ,NEG
+좌절감 ,NEG
+좌파 ,NEUT
+좌파 성향 ,NEUT
+죄 ,NEG
+죄 씌우 ,NEG
+죄 씌우 었 ,NEG
+죄의식 ,NEG
+죄의식 의 ,NEG
+죄의식 의 문제 ,NEG
+죠 ,None
+죠 ,POS
+주 ,POS
+주 고 ,POS
+주 고 또는 ,POS
+주 는 ,NEG
+주 는 것 ,POS
+주 는 부모 ,NEG
+주 지 ,NEG
+주 지 않 ,NEG
+주 ,POS
+주 고 ,NEG
+주 고 용서 ,NEG
+주 ㄴ ,NEG
+주 ㄴ 사람 ,NEG
+주 ㄴ 적 ,NEG
+주 는 ,POS
+주 는 버팀목 ,POS
+주 니 ,POS
+주 ㄹ ,NEG
+주 ㄹ 수 ,NEG
+주 며 ,POS
+주 며 반짝이 ,POS
+주 어서 ,NEG
+주 어서 는 ,NEG
+주 지 ,NEG
+주 지 않 ,NEG
+주간 ,POS
+주간 순수익 ,POS
+주간 순수익 은 ,POS
+주검 ,POS
+주검 들 ,POS
+주검 들 을 ,POS
+주례 ,POS
+주례 를 ,POS
+주례 를 서 ,POS
+주로 ,NEG
+주로 호소 ,NEG
+주로 호소 하 ,NEG
+주류 ,POS
+주류 이 ,POS
+주류 이 라고 ,POS
+주목 ,COMP
+주목 되 ,COMP
+주목 받 ,POS
+주목 하 ,NEG
+주문 ,POS
+주문 이 ,POS
+주방 ,NEUT
+주변 ,POS
+주변 사람 ,POS
+주변 사람 들 ,POS
+주선 ,POS
+주선 하 ,POS
+주어지 ,POS
+주어지 ㄴ ,POS
+주어지 ㄴ 개념 ,POS
+주위 ,NEG
+주위 사람 ,NEG
+주위 사람 들 ,NEG
+주일 ,NEG
+주일 이나 ,NEG
+주일 이나 지나 ,NEG
+주입 ,NEG
+주입 하 ,NEG
+주장 ,POS
+주장 도 ,POS
+주장 도 덧붙이 ,POS
+주장 만 ,NEG
+주장 만 을 ,NEG
+주장 이 ,NEG
+주장 이 제시 ,NEG
+주장 이 ,POS
+주장 하 ,POS
+주장 하 아 ,POS
+주저 ,POS
+주저 하 ,POS
+주저 하 지 ,POS
+주전자 ,POS
+주전자 들 ,POS
+주전자 들 이 ,POS
+주창 ,POS
+주창 하 ,POS
+주체 ,POS
+주체 농법 ,POS
+주체 농법 을 ,POS
+주체 성 ,POS
+주체 성 을 ,POS
+주체 의식 ,NEG
+주체 적 ,POS
+주체 적 으로 ,POS
+죽 ,NEG
+죽 게 ,NEG
+죽 게 만들 ,NEG
+죽 어 ,NEG
+죽 어 있 ,NEG
+죽 은 ,POS
+죽 은 셰익스피어 ,POS
+죽음 ,NEG
+죽음 과 ,NEG
+죽음 과 같 ,NEG
+준비 ,POS
+준비 없 ,NEG
+준비 없 음 ,NEG
+준비 중 ,POS
+준비 중 이 ,POS
+준비 하 ,POS
+준수 ,POS
+준수 하 ,POS
+준엄 ,POS
+준엄 하 ,POS
+줄 ,NEG
+줄 알 ,NEG
+줄 ,NEG
+줄 이 ,NEG
+줄 이 끊 ,NEG
+줄 ,POS
+줄 어 ,POS
+줄 어 들 ,POS
+줄곧 ,NEG
+줄곧 아름답 ,NEG
+줄곧 아름답 다는 ,NEG
+줄어들 ,NEG
+줄이 ,POS
+줄이 ㄹ ,POS
+줄이 ㄹ 수 ,POS
+줏대 ,NEG
+줏대 없 ,NEG
+중 ,POS
+중 소일 ,POS
+중 소일 을 ,POS
+중 이 ,POS
+중고 ,POS
+중고 등산 ,POS
+중고 등산 용품 ,POS
+중국 ,NEG
+중국 기업 ,NEG
+중국 기업 들 ,NEG
+중국 ,NEG
+중국 과 ,POS
+중국 과 전통 ,POS
+중국 에 ,NEG
+중국 에 개혁 ,NEG
+중단 ,NEG
+중단 시키 ,NEG
+중단 하 ,NEG
+중대 ,NEG
+중대 하 ,NEG
+중대 하 ㄴ ,NEG
+중독 ,NEG
+중독 으로 ,NEG
+중론 ,NEUT
+중심 ,POS
+중심 에서 ,POS
+중심 에서 벗어나 ,POS
+중앙 ,POS
+중앙 집중 ,POS
+중앙 집중 화 ,POS
+중얼거리 ,NEG
+중얼거리 ㅁ ,NEG
+중얼거리 ㅁ 에 ,NEG
+중요* ,POS
+중요* 성 ,POS
+중요* 하 ,POS
+중요* 하 ㄴ ,POS
+중요 ,POS
+중요 하 ,POS
+중요 ,POS
+중요 하 ,POS
+중요 하 ㄴ ,POS
+중요 하 ㅁ ,POS
+중점 ,POS
+중점 적 ,POS
+중점 적 으로 ,POS
+중주단 ,POS
+중주단 을 ,POS
+중주단 을 만들 ,POS
+중화 ,NEG
+중화 민족 ,NEG
+중화 민족 의 ,NEG
+쥐 ,POS
+쥐 ㄹ ,POS
+쥐 ㄹ 수 ,POS
+즉 ,None
+즉각 ,NEG
+즉각 중단 ,NEG
+즉각 중단 하 ,NEG
+즐거움 ,POS
+즐거움 을 ,POS
+즐거움 을 자극 ,POS
+즐겁 ,POS
+즐겁 게 ,POS
+즐겁 게 만들 ,POS
+즐겁 ㄴ ,POS
+즐겁 ㄴ 잔치 ,POS
+즐기 ,POS
+즐기 ㄹ ,POS
+즐기 ㄹ 수 ,POS
+즐기 어 ,POS
+즐기 어 하 ,POS
+증가 ,NEG
+증명 ,POS
+증명 하 ,POS
+증명 하 아 ,POS
+증상 ,NEG
+증상 은 ,NEG
+증언 ,NEUT
+증여세 ,NEG
+증폭 ,NEG
+증폭 시키 ,NEG
+지 ,NEG
+지 ㄴ ,COMP
+지 ㄴ 않 ,COMP
+지 는 ,NEG
+지 는 못하 ,NEG
+지 는 않 ,NEG
+지 도 ,NEG
+지 도 못하 ,NEG
+지 말 ,POS
+지 말 아야 ,POS
+지 못하 ,NEG
+지 못하 겠 ,POS
+지 못하 고 ,NEG
+지 못하 ㄴ ,NEG
+지 못하 다고 ,NEG
+지 못하 다는 ,NEG
+지 못하 도록 ,NEG
+지 못하 ㄹ ,POS
+지 못하 았 ,NEG
+지 않 ,NEG
+지 않 겠 ,NEG
+지 않 고 ,POS
+지 않 기 ,POS
+지 않 는 ,NEG
+지 않 는다 ,POS
+지 않 습니다 ,POS
+지 않 아 ,NEG
+지 않 아요 ,NEG
+지 않 았 ,None
+지 않 으면 ,POS
+지 않 은 ,NEG
+지 않 을 ,NEG
+지 않 을까요 ,None
+지 ,NEG
+지 ,NEG
+지 적 ,NEG
+지 적 도둑 ,NEG
+지 적 이 ,POS
+지 적 재산 ,NEG
+지 ,NEG
+지 새끼 ,NEG
+지 새끼 젖 ,NEG
+지 ,NEG
+지 ,POS
+지 고 ,NEG
+지 고 싶 ,None
+지 ㄴ ,POS
+지 ㄴ 것 ,NEG
+지 ㄴ 일 ,NEUT
+지 ㄴ 작가 ,POS
+지 ㄴ 평론가 ,POS
+지 ㄹ ,POS
+지 ㄹ 수 ,POS
+지 면 ,POS
+지 면 어둠 ,POS
+지 었 ,POS
+지 었 다 ,POS
+지 지 ,None
+지 지 못하 ,None
+지갑 ,POS
+지갑 을 ,POS
+지갑 을 털 ,POS
+지겹 ,NEG
+지겹 어요 ,NEG
+지구 ,NEG
+지구 를 ,NEG
+지구 를 세 ,NEG
+지극히 ,NEG
+지극히 근시안 ,NEG
+지극히 근시안 적 ,NEG
+지극히 어렵 ,NEG
+지금 ,NEG
+지금 세계 ,NEG
+지금 세계 는 ,NEG
+지금 이용 ,POS
+지금 이용 가치 ,POS
+지나 ,NEG
+지나 ㄴ ,POS
+지나 ㄴ 해 ,NEUT
+지나 았 ,NEG
+지나 았 습니다 ,NEG
+지나 지 ,NEG
+지나 지 않 ,NEG
+지나치 ,NEG
+지나치 게 ,NEG
+지나치 게 갇히 ,NEG
+지나치 게 무섭 ,NEG
+지나치 게 의식 ,NEG
+지나치 게 이기 ,NEG
+지난 ,NEG
+지난 하 ,NEG
+지난 하 ㄴ가 ,NEG
+지난번 ,POS
+지난번 보다 ,POS
+지난번 보다 마음 ,POS
+지내 ,NEG
+지내 는 ,NEG
+지내 는 철이 ,NEG
+지니 ,POS
+지니 게 ,POS
+지니 게 되 ,POS
+지르 ,POS
+지만 ,None
+지만 순례자 ,NEG
+지만 순례자 가 ,NEG
+지만 아무 ,NEG
+지만 아무 도 ,NEG
+지만 연극 ,POS
+지만 연극 이 ,POS
+지만 이 ,POS
+지만 이 상쾌 ,POS
+지만 장주 ,NEUT
+지만 장주 이 ,NEUT
+지만 지나 ,POS
+지만 지나 ㄴ ,POS
+지망 ,POS
+지망 하 ,POS
+지방 ,NEG
+지방 산 ,POS
+지방 산 포도주 ,POS
+지방 을 ,NEG
+지방 을 효율 ,NEG
+지배 ,NEG
+지배 를 ,NEG
+지배 를 더욱 ,NEG
+지속 ,NEG
+지속 되 ,NEG
+지속 되 고 ,NEG
+지속 적 ,POS
+지속 적 으로 ,POS
+지식 ,NEG
+지식 과 ,POS
+지식 과 경험 ,POS
+지식 이 ,NEG
+지식 이 모자라 ,NEG
+지역 ,NEUT
+지역 으로 ,NEUT
+지역 으로 관광객 ,NEUT
+지역 호텔 ,NEUT
+지역 호텔 들 ,NEUT
+지요 ,NEG
+지우 ,NEG
+지우 ㄹ ,NEG
+지우 ㄹ 수 ,NEG
+지원 ,NEG
+지원 을 ,NEG
+지원 을 종용 ,NEG
+지원 하 ,POS
+지원 하 고 ,POS
+지원자 ,POS
+지원자 늘 ,POS
+지원자 늘 었 ,POS
+지위 ,POS
+지위 를 ,POS
+지위 를 고양 ,POS
+지적 ,NEG
+지적 되 ,NEG
+지적 이 ,NEG
+지적 이 나오 ,NEG
+지적 이 ,NEG
+지적 하 ,NEG
+지적 하 지 ,NEG
+지점 ,NEG
+지점 에 ,NEG
+지점 에 있 ,NEG
+지정 ,POS
+지지 ,POS
+지지 를 ,POS
+지지 를 받 ,POS
+지지 서명 ,POS
+지지 서명 에 ,POS
+지진 ,POS
+지치 ,NEG
+지키 ,POS
+지키 ㄹ ,POS
+지키 ㄹ 수 ,POS
+지키 어 ,POS
+지키 어 주 ,POS
+지하철 ,NEG
+지하철 미군 ,NEG
+지하철 미군 성희롱 ,NEG
+지향 ,POS
+지향 점 ,POS
+지향 점 들 ,POS
+지향 하 ,POS
+지혜 ,POS
+지휘자 ,POS
+지휘자 상 ,POS
+지휘자 상 을 ,POS
+직결 ,POS
+직결 되 ,POS
+직무 ,NEG
+직무 유기 ,NEG
+직무 유기 를 ,NEG
+직전 ,NEG
+직접 ,POS
+직접 보 ,POS
+직접 보 기 ,POS
+직접 체험 ,POS
+직접 체험 하 ,POS
+직접 홍보 ,NEG
+직접 ,NEG
+직접 적 ,NEG
+직접 적 이 ,NEG
+진귀 ,POS
+진귀 하 ,POS
+진귀 하 ㄴ ,POS
+진단 ,NEG
+진단 받 ,NEG
+진단 받 을 ,NEG
+진단 을 ,POS
+진단 을 하 ,POS
+진면목 ,POS
+진면목 을 ,POS
+진면목 을 보이 ,POS
+진보 ,POS
+진보 에 ,POS
+진보 에 도움 ,POS
+진보 적 ,POS
+진수 ,POS
+진수 를 ,POS
+진수 를 맛보 ,POS
+진실 ,POS
+진실 되 ,POS
+진실 의 ,NEG
+진실 의 반대편 ,NEG
+진실 하 ,POS
+진실 하 ㄴ ,POS
+진실 하 ,POS
+진심 ,POS
+진심 을 ,POS
+진심 을 갖 ,POS
+진원지 ,POS
+진원지 로 ,POS
+진정 ,POS
+진정 나 ,POS
+진정 나 ㄴ ,POS
+진정 ,NEG
+진정 을 ,NEG
+진정 을 하 ,NEG
+진지 ,POS
+진지 하 ,POS
+진지 하 게 ,POS
+진출 ,POS
+진출 본격 ,POS
+진출 본격 추진 ,POS
+진통 ,NEG
+진통 을 ,NEG
+진통 을 겪 ,NEG
+질 ,POS
+질 을 ,POS
+질 을 높이 ,POS
+질 ,NEG
+질 과 ,NEG
+질 과 생물 ,NEG
+질 은 ,NEG
+질 은 사라지 ,NEG
+질 하 ,POS
+질문 ,NEUT
+질문 들 ,NEUT
+질병 ,POS
+질병 을 ,POS
+질병 을 치유 ,POS
+질주 ,NEG
+질책 ,NEG
+질책 을 ,NEG
+질책 을 듣 ,NEG
+질타 ,NEG
+질타 하 ,NEG
+질투 ,NEG
+질투 하 ,NEG
+질환 ,NEG
+질환 과 ,NEUT
+질환 과 관계 ,NEUT
+질환 많 ,NEG
+질환 을 ,NEG
+질환 을 앓 ,NEG
+질환 의 ,NEUT
+질환 의 가능 ,NEUT
+집 ,NEG
+집 도 ,NEG
+집 도 갖 ,NEG
+집 말 ,NEG
+집 말 이 ,NEG
+집 은 ,POS
+집 은 궁전 ,POS
+집 의 ,POS
+집 의 아이 ,POS
+집 이 ,NEG
+집 이 아니 ,NEG
+집 이 ,POS
+집 이 다 ,POS
+집 ,NEG
+집 어 ,NEG
+집 어 내 ,NEG
+집단 ,NEG
+집단 대응 ,POS
+집단 대응 하 ,POS
+집단 이 ,POS
+집단 이 면서 ,POS
+집단 적 ,NEG
+집단 적 으로 ,NEG
+집단 적 히스테리 ,NEG
+집대성 ,POS
+집대성 하 ,POS
+집주인 ,POS
+집주인 과 ,POS
+집주인 과 그 ,POS
+집중 ,NEG
+집중 이 ,NEG
+집중 이 안 ,NEG
+집중 화 ,POS
+집중 화 경향 ,POS
+집착 ,POS
+집착 하 ,POS
+집착 하 지 ,POS
+짓 ,NEG
+짓 이 ,NEG
+징후 ,NEG
+짙 ,NEUT
+짙 은 ,NEUT
+짙 은 안개 ,NEUT
+짜리 ,NEG
+짜리 악기 ,NEG
+짜리 악기 를 ,NEG
+짜이 ,POS
+짝 ,NEG
+짝 이 ,NEG
+짝 이 없 ,NEG
+짧 ,NEG
+짧 게 ,NEG
+짧 게 깎 ,NEG
+짧 으면 ,NEG
+짧 으면 나오 ,NEG
+째 ,POS
+째 흥행 ,POS
+째 흥행 선두 ,POS
+쪽 ,NEG
+쪽 으로 ,NEG
+쪽 으로 가 ,NEG
+쪽 ,NEG
+쪽 만 ,NEG
+쪽 만 활성 ,NEG
+찢 ,NEG
+찢어지 ,NEG
+차 ,POS
+차 기 ,POS
+차 기 쉽 ,POS
+차갑 ,POS
+차갑 어 ,POS
+차갑 어 보이 ,POS
+차단 ,NEG
+차단 되 ,NEG
+차단 되 고 ,NEG
+차마 ,None
+차별 ,NEG
+차별 폐지 ,POS
+차세대 ,POS
+차이 ,NEG
+차이 가 ,NEG
+차이 가 나 ,NEG
+차지 ,POS
+차지 하 ,POS
+차질 ,POS
+차질 없이 ,POS
+착각 ,NEG
+착각 하 ,NEG
+착각 하 게 ,NEG
+착실 ,POS
+착실 하 ,POS
+착실 하 ㄴ ,POS
+착잡 ,NEG
+착잡 하 ,NEG
+착잡 하 ㄴ ,NEG
+착하 ,POS
+착하 게 ,POS
+착하 게 살 ,POS
+찬성 ,NEG
+찬성 은 ,NEG
+찬성 은 하 ,NEG
+찬양 ,POS
+찬찬히 ,POS
+찬찬히 뜯어보 ,POS
+찬찬히 뜯어보 ㄹ ,POS
+참* ,POS
+참* 고* ,POS
+참* 고* 견디 ,POS
+참 ,POS
+참 재미있 ,POS
+참 ,NEG
+참 되 ,POS
+참 되 게 ,POS
+참 마다 ,NEG
+참 마다 돌아앉 ,NEG
+참 ,POS
+참 고 ,POS
+참 고 견디 ,POS
+참가 ,NEG
+참가 인원 ,NEG
+참가 인원 이 ,NEG
+참담 ,NEG
+참담 하 ,NEG
+참변 ,NEG
+참여 ,POS
+참여 는 ,POS
+참여 는 이전 ,POS
+참여 하 ,POS
+참여 하 고 ,POS
+참여 하 는 ,POS
+창가 ,NEUT
+창가 에 ,NEUT
+창가 에 앉 ,NEUT
+창문 ,NEG
+창문 열 ,NEG
+창문 열 고 ,NEG
+창시자 ,POS
+창시자 이 ,POS
+창작 ,NEUT
+창작 도 ,NEUT
+창작 도 반드시 ,NEUT
+창작 무대 ,POS
+창작 무대 활성 ,POS
+창작곡 ,POS
+창작곡 중심 ,POS
+창작곡 중심 에서 ,POS
+창조 ,NEG
+창조 성 ,NEG
+창조 성 은 ,NEG
+찾 ,POS
+찾 지 ,POS
+찾 지 않 ,POS
+찾아오 ,POS
+채 ,NEG
+채 그대로 ,NEG
+채 그대로 남 ,NEG
+채 줄 ,NEG
+채 줄 이 ,NEG
+채소 ,POS
+채소 를 ,POS
+채소 를 가꾸 ,POS
+채용 ,NEG
+채용 꺼리 ,NEG
+채용 꺼리 어요 ,NEG
+채택 ,POS
+채택 하 ,POS
+책 ,POS
+책 꺼내 ,NEUT
+책 꺼내 어 ,NEUT
+책 으로 ,POS
+책 으로 꼽히 ,POS
+책 을 ,POS
+책 을 쓰 ,POS
+책 이 ,POS
+책 이 며 ,POS
+책임 ,NEG
+책임 까지 ,NEG
+책임 까지 묻 ,NEG
+책임 이 ,NEG
+책임 이 있 ,NEG
+책임 하 ,NEG
+책임자 ,NEUT
+책임자 들 ,NEUT
+책임자 들 이 ,NEUT
+처럼 ,POS
+처럼 노려보 ,NEG
+처럼 노려보 고 ,NEG
+처럼 다가오 ,NEG
+처럼 버림받 ,NEG
+처럼 버림받 을까 ,NEG
+처럼 보이 ,POS
+처럼 보이 지 ,POS
+처럼 부드럽 ,POS
+처럼 수줍 ,POS
+처럼 수줍 게 ,POS
+처럼 자기 ,NEG
+처럼 자기 숭배 ,NEG
+처럼 화려 ,POS
+처럼 화려 하 ,POS
+처리 ,NEG
+처리 를 ,NEG
+처리 를 하 ,NEG
+처음 ,POS
+처음 에 ,POS
+처음 에 ㄴ ,POS
+처음 으로 ,COMP
+처음 으로 돌아가 ,NEG
+처음 으로 한 ,COMP
+처음 은 ,NEG
+처음 은 아니 ,NEG
+처음 있 ,POS
+처음 있 는 ,POS
+처절 ,NEG
+처절 하 ,NEG
+처절 하 ㄹ ,NEG
+처지 ,NEG
+처지 에 ,NEG
+처지 에 빠지 ,NEG
+처지 에서 ,NEG
+처지 에서 보 ,NEG
+처지 이 ,NEG
+처하 ,NEG
+척 ,NEG
+척 하 ,NEG
+척박 ,NEG
+척박 하 ,NEG
+천 ,POS
+천 배 ,NEG
+천 배 보복 ,NEG
+천 원 ,POS
+천 원 주 ,POS
+천만 ,NEG
+천만 원 ,NEG
+천만 원 짜리 ,NEG
+천만 을 ,POS
+천만 을 넘어서 ,POS
+천사 ,POS
+천지 ,NEG
+천진 ,POS
+천진 하 ,POS
+천진 하 ㅁ ,POS
+철 ,NEG
+철 을 ,NEG
+철 을 맞 ,NEG
+철이 ,NEG
+철이 를 ,NEG
+철이 를 더 ,NEG
+철저 ,POS
+철저 하 ,POS
+철저 하 게 ,POS
+철저 ,POS
+철저 하 ,POS
+철저 하 ㄴ ,POS
+철학 ,POS
+철학 이야기 ,POS
+철학 이야기 를 ,POS
+첨단 ,POS
+첫 ,NEG
+첫 소설집 ,NEG
+첫 소설집 때 ,NEG
+첫 체계 ,POS
+첫 체계 화 ,POS
+첫걸음 ,POS
+첫걸음 되 ,POS
+청 ,POS
+청구 ,NEG
+청구 하 ,NEG
+청와대 ,NEG
+청와대 비서진 ,NEG
+청와대 비서진 에 ,NEG
+체 ,NEG
+체계 ,POS
+체계 나 ,POS
+체계 나 제도 ,POS
+체계 화 ,POS
+체계 화 하 ,POS
+체면 ,POS
+체제 ,NEG
+체질 ,POS
+체질 개선 ,POS
+체질 을 ,POS
+체질 을 강화 ,POS
+체험 ,POS
+체험 하 ,POS
+체험 하 ㄹ ,POS
+초 ,POS
+초 대형 ,POS
+초 대형 인기작 ,POS
+초 울트라 ,POS
+초 울트라 매니아 ,POS
+초 특급 ,POS
+초 현실 ,POS
+초 현실 적 ,POS
+초과 ,NEG
+초과 하 ,NEG
+초기 ,NEG
+초기 에 ,NEG
+초기 에 알 ,NEG
+초목 ,NEUT
+초목 과 ,NEUT
+초목 과 나비 ,NEUT
+초미 ,COMP
+초미 의 ,COMP
+초미 의 과제 ,COMP
+초점 ,POS
+초점 을 ,POS
+초점 을 맞추 ,POS
+촉구 ,COMP
+촉구 하 ,COMP
+촉구 하 는 ,COMP
+촉망 ,POS
+촉망 받 ,POS
+촉촉 ,COMP
+촉촉 하 ,COMP
+촉촉 하 아 ,COMP
+촌평 ,NEUT
+촌평 을 ,NEUT
+촌평 을 곁들이 ,NEUT
+촘촘 ,NEG
+촘촘 하 ,NEG
+촘촘 하 게 ,NEG
+총력전 ,NEUT
+총력전 이 ,NEUT
+총리 ,POS
+총리 표창 ,POS
+총살 ,NEG
+총살 당하 ,NEG
+총소리 ,POS
+총소리 가 ,POS
+총소리 가 평화 ,POS
+촬영 ,POS
+촬영 하 ,POS
+촬영 하 듯 ,POS
+최 ,POS
+최 장 ,POS
+최고 ,POS
+최고 모델료 ,POS
+최고 배우 ,POS
+최고 의 ,POS
+최고 의 안무가 ,POS
+최고 의 흥행 ,POS
+최고 이 ,POS
+최근 ,POS
+최근 유행 ,POS
+최근 유행 하 ,POS
+최대 ,POS
+최대 규모 ,POS
+최대 규모 의 ,POS
+최대 의 ,NEG
+최대 의 당면 ,NEG
+최대 의 쟁점 ,COMP
+최대 의 정치 ,NEG
+최대 의 행사 ,POS
+최선 ,POS
+최선 을 ,POS
+최선 을 다 ,POS
+최소 ,POS
+최소 화 ,POS
+최악 ,NEG
+최저 ,POS
+최저 임금 ,POS
+최저 임금 심위 ,POS
+최저 임금제 ,POS
+최저 임금제 의 ,POS
+최초 ,POS
+최초 로 ,POS
+최초 로 집대성 ,POS
+최후 ,NEG
+최후 를 ,NEG
+최후 를 맞 ,NEG
+쵸티 ,POS
+쵸티 오빠 ,POS
+쵸티 오빠 보 ,POS
+추 ,POS
+추격 ,NEG
+추구 ,POS
+추구 하 ,POS
+추락 ,NEG
+추락 하 ,NEG
+추산 ,NEUT
+추산 되 ,NEUT
+추석 ,POS
+추석 때 ,POS
+추석 때 는 ,POS
+추억 ,POS
+추억 떠오르 ,POS
+추정 ,NEUT
+추정 되 ,POS
+추정 하 ,NEUT
+추진 ,POS
+추진 노력 ,POS
+추진 중 ,POS
+추진 중 이 ,POS
+추진 하 ,POS
+추천 ,POS
+추천 하 ,POS
+축소 ,POS
+축소 형 ,POS
+축소 형 을 ,POS
+축제 ,POS
+축하 ,NEG
+축하 하 ,NEG
+축하 하 아 ,NEG
+출연 ,NEG
+출연 도 ,NEG
+출연 도 물론 ,NEG
+출연 하 ,NEG
+출연 하 라고 ,NEG
+출연 하 랄까 ,NEG
+출혈 ,NEUT
+출혈 의 ,NEUT
+출혈 의 전조 ,NEUT
+춤 ,POS
+춤 을 ,POS
+춤 을 추 ,POS
+충격 ,NEG
+충격 이 ,NEG
+충격 적 ,NEG
+충격 적 이 ,NEG
+충분 ,NEG
+충분 하 ,NEG
+충분 하 지 ,NEG
+충분히 ,POS
+충분히 보 ,POS
+충분히 보 ㄹ ,POS
+충분히 보완 ,POS
+충실 ,POS
+충실 하 ,POS
+충실히 ,POS
+충실히 따르 ,POS
+충족 ,POS
+충족 시키 ,POS
+취하 ,NEG
+취향 ,POS
+취향 대로 ,POS
+취향 대로 구경 ,POS
+측면 ,POS
+측면 이 ,POS
+측면 이 돋보이 ,POS
+치 ,POS
+치 자면 ,None
+치밀 ,NEG
+치밀 는 ,NEG
+치밀 는 것 ,NEG
+치열 ,NEUT
+치열 하 ,POS
+치열 ,COMP
+치열 하 ,COMP
+치열 하 ㄴ ,COMP
+치유 ,POS
+치유 를 ,POS
+치유 를 보 ,POS
+치유 하 ,POS
+친근 ,POS
+친근 하 ,POS
+친근 하 ㄴ ,POS
+친근감 ,POS
+친근감 이 ,POS
+친근감 이 들 ,POS
+친숙 ,POS
+친숙 하 ,POS
+친하 ,POS
+친하 아 ,POS
+친하 아 지 ,POS
+침략 ,NEG
+침략 도 ,NEG
+침략 도 서슴 ,NEG
+침략 행위 ,NEG
+칭찬 ,NEG
+칭찬 을 ,NEG
+칭찬 을 듣 ,NEG
+카드 ,POS
+카메라 ,POS
+카메라 에 ,POS
+카메라 에 위치 ,POS
+카메라 움직임 ,POS
+카메라 움직임 을 ,POS
+칼날 ,NEG
+칼날 같이 ,NEG
+칼날 같이 비판 ,NEG
+캄캄 ,POS
+캄캄 하 ,POS
+캄캄 하 ㄴ ,POS
+캐릭터 ,POS
+커다랗 ,POS
+커다랗 ㄴ ,POS
+커다랗 ㄴ 꽃 ,POS
+컴플렉스 ,NEG
+콜럼버스 ,NEG
+콜럼버스 시대 ,NEG
+콜럼버스 시대 에서 ,NEG
+콩 ,NEUT
+콩 을 ,NEUT
+콩 을 까먹 ,NEUT
+쿠데타 ,NEG
+큐브 ,POS
+크 ,NEG
+크 게 ,NEG
+크 게 늘 ,POS
+크 게 다르 ,NEG
+크 게 부족 ,NEG
+크 게 붙 ,NEUT
+크 게 위협 ,NEG
+크 게 인기 ,POS
+크 ㄴ ,NEG
+크 ㄴ 고객 ,NEG
+크 ㄴ 과제 ,NEG
+크 ㄴ 기여 ,POS
+크 ㄴ 논란 ,NEG
+크 ㄴ 도움 ,POS
+크 ㄴ 맥 ,NEG
+크 ㄴ 변화 ,POS
+크 ㄴ 생명 ,POS
+크 ㄴ 섬 ,NEG
+크 ㄴ 이유 ,NEG
+크 ㄴ 즐거움 ,POS
+크 ㄴ 집 ,NEG
+크 ㄴ 힘 ,POS
+크림 ,POS
+크림 거품 ,POS
+크림 거품 도 ,POS
+큼직 ,POS
+큼직 하 ,POS
+키우 ,POS
+키우 어 ,POS
+키우 어 가 ,POS
+키히카 ,NEG
+키히카 를 ,NEG
+키히카 를 당국 ,NEG
+타 ,POS
+타개 ,POS
+타고나 ,NEG
+타고나 ㄴ ,NEG
+타고나 ㄴ 약골 ,NEG
+타당 ,POS
+타당 하 ,POS
+타락 ,NEG
+타의 ,POS
+타협 ,POS
+타협 성 ,POS
+타협 자세 ,POS
+탁월 ,POS
+탁월 하 ,POS
+탄로 ,NEG
+탄로 나 ,NEG
+탄생 ,POS
+탄생 을 ,POS
+탄생 을 알리 ,POS
+탈피 ,POS
+탐구 ,POS
+탐방 ,POS
+탓 ,None
+탓 에 ,None
+탓 이 ,None
+탓 하 ,NEG
+탕감 ,POS
+탕감 하 ,POS
+태극기 ,NEG
+태극기 를 ,NEG
+태극기 를 판매 ,POS
+태극기 를 팔 ,NEG
+태도 ,POS
+태도 가 ,POS
+태도 가 힘 ,POS
+태세 ,POS
+태세 를 ,POS
+태세 를 완비 ,POS
+태익 ,POS
+태익 이 ,POS
+태익 이 냐 ,POS
+택하 ,POS
+터 ,None
+터 이 ,None
+터 이 ㄴ데 ,None
+터 ,POS
+터 에 ,POS
+터 에 좀 ,POS
+터무니 ,NEG
+터무니 없 ,NEG
+터번 ,POS
+터번 은 ,POS
+터번 은 꽃잎 ,POS
+턱 ,NEG
+턱 없이 ,NEG
+턱 없이 모자라 ,NEG
+털 ,POS
+테러 ,NEG
+테러 사건 ,NEG
+텍스트 ,POS
+텍스트 가 ,POS
+텍스트 가 되 ,POS
+토끼 ,POS
+토론 ,COMP
+토인비 ,NEUT
+토인비 의 ,NEUT
+토인비 의 역사 ,NEUT
+토하 ,NEUT
+토하 고 ,NEUT
+토하 고 싶 ,NEUT
+토하 며 ,NEG
+토하 며 쓰러지 ,NEG
+토하 아 ,NEUT
+토하 아 내 ,NEUT
+통곡 ,NEG
+통곡 하 ,NEG
+통로 ,POS
+통로 이 ,POS
+통로 이 ㄴ ,POS
+통속 ,NEUT
+통속 적 ,NEUT
+통제 ,NEG
+통제 하 ,NEG
+통제 하 려는 ,NEG
+통증 ,NEUT
+통증 이 ,NEUT
+통증 이 오 ,NEUT
+통찰 ,POS
+통찰 로 ,POS
+통찰 로 이어지 ,POS
+통찰 을 ,POS
+통찰 을 불러일으키 ,POS
+통찰 의 ,POS
+통찰 의 다른 ,POS
+통찰력 ,POS
+통찰력 으로 ,POS
+통찰력 으로 가득 ,POS
+통첩 ,NEG
+통첩 하 ,NEG
+통하 ,NEG
+통하 아 ,NEG
+통하 아 지속 ,NEG
+통하 지 ,NEG
+통하 지 않 ,NEG
+통화 ,POS
+통화 가 ,POS
+통화 가 가능 ,POS
+퇴보 ,NEG
+퇴보 시키 ,NEG
+퇴보 시키 는 ,NEG
+퇴색 ,NEG
+퇴조 ,NEG
+퇴조 하 ,NEG
+퇴조 하 는 ,NEG
+퇴폐 ,NEG
+퇴폐 적 ,NEG
+투게더 ,POS
+투사 ,NEG
+투사 이 ,NEG
+투사 이 ㄴ ,NEG
+투성이 ,NEG
+투성이 이 ,NEUT
+투성이 이 다 ,NEUT
+투쟁 ,NEG
+투쟁 을 ,NEG
+투쟁 을 일삼 ,NEG
+튀 ,NEG
+튀 게 ,NEG
+튀 게 하 ,NEG
+튀어나오 ,NEG
+튀어나오 게 ,NEG
+튀어나오 게 하 ,NEG
+특급 ,POS
+특성 ,POS
+특수 ,POS
+특수 관계 ,POS
+특수 협력 ,POS
+특수 협력 관계 ,POS
+특유 ,POS
+특유 의 ,POS
+특이 ,POS
+특이 하 ,POS
+특집 ,POS
+특징 ,POS
+특징 이 ,POS
+특출 ,NEG
+특출 나 ,NEG
+특출 나 ㄴ ,NEG
+특허 ,NEG
+특허 와 ,NEG
+특허 와 지 ,NEG
+특히 ,None
+특히 기대 ,POS
+특히 기대 를 ,POS
+특히 나쁘 ,NEG
+특히 눈길 ,POS
+특히 눈길 을 ,POS
+특히 두드러지 ,NEG
+특히 아시아 ,NEUT
+특히 아시아 지역 ,NEUT
+틀 ,POS
+틀 로 ,POS
+틀 로 짜이 ,POS
+틈바구니 ,NEG
+파격 ,POS
+파격 적 ,POS
+파격 적 틀 ,POS
+파고들 ,POS
+파괴 ,NEG
+파멸 ,NEG
+파멸 직전 ,NEG
+파문 ,NEG
+파문 이 ,NEG
+파문 이 일 ,NEG
+파스텔 ,NEG
+파스텔 조 ,NEG
+파악 ,NEG
+파악 하 ,NEG
+파열 ,NEG
+판 ,POS
+판 을 ,NEG
+판 을 퇴보 ,NEG
+판 의 ,POS
+판 의 주류 ,POS
+판단 ,NEUT
+판단 되 ,NEUT
+판단 을 ,NEG
+판단 을 내리 ,NEG
+판매 ,POS
+판매 하 ,POS
+판매 하 면 ,POS
+판매량 ,POS
+판매량 이 ,POS
+판매량 이 늘어나 ,POS
+판명 ,POS
+판정 ,NEG
+판정 을 ,NEG
+판정 을 받 ,NEG
+팔 ,NEG
+팔 겠 ,NEG
+팔 겠 느냐고 ,NEG
+팔 는 ,NEG
+팔 는 곳 ,NEG
+팔 ㅂ니다 ,POS
+팔리 ,NEG
+팔리 어 ,NEG
+팔리 어 나가 ,NEG
+패 ,NEG
+퍼먹 ,NEG
+퍼먹 고 ,NEG
+퍼먹 고 는 ,NEG
+퍼지 ,POS
+펄펄 ,POS
+펄펄 살 ,POS
+펄펄 살 아 ,POS
+페놀 ,NEG
+페놀 홍역 ,NEG
+편 ,POS
+편 의 ,POS
+편 의 소설 ,POS
+편 이 ,NEUT
+편견 ,NEG
+편견 이 ,NEG
+편견 이 교포 ,NEG
+편견 이 지나치 ,NEG
+편리 ,POS
+편리 하 ,POS
+편리 하 ㅁ ,POS
+편모 ,NEG
+편모 들 ,NEG
+편모 들 이 ,NEG
+편모 에 ,NEG
+편모 에 대하 ,NEG
+편안 ,POS
+편안 하 ,POS
+편안 하 ㄴ ,POS
+편안 하 ㅁ ,COMP
+편중 ,NEUT
+편중 되 ,NEUT
+편중 되 ㄴ ,NEUT
+편차 ,NEG
+편차 가 ,NEG
+편차 가 크 ,NEG
+편파 ,NEG
+편하 ,POS
+편향 ,NEG
+편향 성 ,NEG
+펼치 ,POS
+펼치 어 ,POS
+펼치 어 보이 ,POS
+평가 ,POS
+평가 받 ,POS
+평가 이 ,POS
+평가 하 ,COMP
+평등 ,POS
+평론가 ,POS
+평론가 의 ,POS
+평론가 의 면모 ,POS
+평범 ,NEUT
+평범 하 ,NEUT
+평하 ,POS
+평하 았 ,POS
+평화 ,POS
+평화 공동체 ,POS
+평화 상태 ,POS
+평화 의 ,POS
+평화 의 울림 ,POS
+평화 진원지 ,POS
+평화 진원지 로 ,POS
+폐단 ,NEG
+폐렴 ,NEG
+폐렴 으로 ,POS
+폐렴 으로 인 ,POS
+폐렴 은 ,NEG
+폐렴 은 현재 ,NEG
+폐지 ,NEG
+폐지 가 ,NEG
+폐지 가 시급 ,NEG
+폐지 하 ,NEG
+포기 ,NEG
+포기 하 ,NEG
+포도주 ,POS
+포도주 한 ,POS
+포도주 한 병 ,POS
+포장 ,NEG
+포장 기준 ,NEG
+포장 기준 을 ,NEG
+폭 ,POS
+폭 넓 ,POS
+폭 넓 은 ,POS
+폭 이 ,POS
+폭 이 넓 ,POS
+폭넓 ,POS
+폭넓 게 ,POS
+폭넓 게 사용 ,POS
+폭력 ,NEG
+폭력 과 ,NEG
+폭력 과 알코올 ,NEG
+폭력 적 ,NEG
+폭력 적 상황 ,NEG
+폭발 ,POS
+폭발 적 ,POS
+폭발 적 이 ,POS
+폭행 ,NEG
+폭행 의 ,NEG
+폭행 의 대상 ,NEG
+표상 ,NEG
+표상 이 ,NEG
+표상 이 다 ,NEG
+표시 ,NEG
+표시 하 ,NEG
+표시 하 지 ,NEG
+표어 ,POS
+표어 를 ,POS
+표어 를 내걸 ,POS
+표창 ,POS
+푸 ,NEG
+푸 어 ,NEG
+푸 어 담 ,NEG
+푹 ,POS
+푹 빠지 ,POS
+푼수 ,NEG
+푼수 기 ,NEG
+푼수 기 가 ,NEG
+풀 ,POS
+풀 어 ,POS
+풀 어 가 ,POS
+풀 어 주 ,POS
+풀 어야 ,POS
+풀 어야 하 ,POS
+풀려나 ,POS
+풀리 ,NEG
+풀리 지 ,POS
+풀리 지 않 ,POS
+풀벌레 ,POS
+풀어지 ,POS
+풀이 ,NEG
+풀이 하 ,NEG
+풀타임 ,POS
+풀타임 전문 ,POS
+풀타임 전문 자원 ,POS
+품질 ,POS
+품질 유지 ,POS
+풋풋 ,POS
+풋풋 하 ,POS
+풋풋 하 게 ,POS
+풍 ,POS
+풍 의 ,POS
+풍 의 강렬 ,POS
+풍경 ,POS
+풍경 을 ,POS
+풍경 을 바꾸 ,POS
+풍물 ,POS
+풍물 이 ,POS
+풍물 이 관람객 ,POS
+풍성 ,POS
+풍성 하 ,POS
+풍성 하 ㅁ ,POS
+풍요 ,POS
+풍요 와 ,POS
+풍요 와 존귀 ,POS
+프랑스 ,POS
+프랑스 의 ,POS
+프랑스 의 최고 ,POS
+프로 ,POS
+프로 근성 ,POS
+프로이트 ,NEG
+프로이트 는 ,NEG
+프로이트 는 어떤 ,NEG
+프로젝트 ,NEG
+프로젝트 가 ,NEG
+프로젝트 가 특허 ,NEG
+피 ,NEG
+피 를 ,NEG
+피 를 끈끈 ,NEG
+피 를 토하 ,NEG
+피부 ,POS
+피부 를 ,POS
+피부 를 매끄럽 ,POS
+피부 보습 ,POS
+피부 보습 에 ,POS
+피서 ,POS
+피서 가* ,POS
+피서 가* ㄴ다* ,POS
+피식 ,POS
+피식 웃음 ,POS
+피식 웃음 이 ,POS
+피어나 ,POS
+피우 ,POS
+피우 어 ,NEG
+피우 어 보 ,NEG
+피하 ,POS
+피하 아 ,POS
+피하 아 가* ,POS
+피해 ,NEG
+피해 다니 ,NEG
+피해 도 ,NEG
+피해 도 내 ,NEG
+피해자 ,NEG
+피해자 이 ,NEG
+피해자 이 며 ,NEG
+필기 ,NEG
+필기 시험 ,NEG
+필수 ,POS
+필수 모델 ,POS
+필수 적 ,POS
+필수 적 이 ,POS
+필연 ,POS
+필연 적 ,POS
+필연 적 이 ,POS
+필요 ,POS
+필요 가 ,NEG
+필요 가 없 ,NEG
+필요 가 있 ,NEG
+필요 는 ,NEG
+필요 는 없 ,NEG
+필요 성 ,POS
+필요 성 을 ,POS
+필요 없 ,NEG
+필요 없 다 ,NEG
+필요 없 을 ,None
+필요 하 ,POS
+필요 하 ㄴ ,POS
+필요 하 다 ,NEG
+필요 하 다고 ,POS
+핍박 ,NEG
+핍박 받 ,NEG
+하* ,POS
+하* ㄴ다 ,POS
+하* 라 ,NEG
+하* ,None
+하* ,NEG
+하* ,NEG
+하* 겠 ,NEG
+하* 겠 네요 ,NEG
+하 ,NEG
+하 고 ,POS
+하 고 싶 ,NEG
+하 고 있 ,POS
+하 고 있 ,POS
+하 기 ,NEG
+하 기 어렵 ,NEG
+하 ㄴ ,NEG
+하 ㄴ 일 ,NEG
+하 ㄴ다 ,NEUT
+하 ㄴ다 ,POS
+하 ㄴ답니다 ,POS
+하 는 ,POS
+하 는 동안 ,POS
+하 는 레크리에이션 ,POS
+하 는 말 ,POS
+하 는 생각 ,POS
+하 는 의구심 ,NEG
+하 다가 ,NEG
+하 다가 는 ,NEG
+하 든 ,POS
+하 든 좋 ,POS
+하 ㄹ ,None
+하 ㄹ 것 ,None
+하 ㄹ 수 ,POS
+하 ㄹ 일 ,COMP
+하 ㄹ까 ,NEG
+하 ㄹ까 보 ,NEG
+하 라는 ,NEG
+하 라는 대로 ,NEG
+하 면 ,None
+하 아도 ,NEG
+하 아도 예술품 ,NEG
+하 아서 ,None
+하 아야 ,NEG
+하 아야 되 ,NEG
+하 아야 하 ,POS
+하 았 ,NEG
+하 았 나 ,NEG
+하 았 는데 ,NEG
+하 았 다는 ,NEG
+하 았 던 ,NEUT
+하 았 으면 ,NEG
+하 여 ,NEG
+하 여 연민 ,NEG
+하 지 ,NEG
+하 지 ㄴ ,POS
+하 지 않 ,NEG
+하 지만 ,NEG
+하 ,None
+하 겠 ,None
+하 ㄴ ,NEG
+하 ㄴ 일 ,NEG
+하 ㄴ다 ,NEUT
+하 ㄴ다 ,POS
+하 ㄴ다고 ,NEG
+하 ㄴ데 ,None
+하 는 ,POS
+하 는 것 ,POS
+하 는 눈치 ,NEG
+하 는 마음 ,POS
+하 는 말 ,NEG
+하 는 환상 ,POS
+하 다 ,NEG
+하 ㄹ ,POS
+하 ㄹ 가능 ,NEG
+하 ㄹ 것 ,NEG
+하 ㄹ 때 ,POS
+하 ㄹ 만큼 ,POS
+하 ㄹ 부분 ,POS
+하 면 ,POS
+하 면 저절로 ,POS
+하 아 ,POS
+하 아 주 ,POS
+하 아서 ,NEG
+하 아서 는 ,NEG
+하 았 ,None
+하 았 던 ,None
+하 았 으나 ,POS
+하 지 ,POS
+하 지 않 ,POS
+하 지만 ,None
+하 ,POS
+하 거나 ,NEUT
+하 거나 자 ,NEUT
+하 게 ,POS
+하 게 겹치 ,POS
+하 게 구분 ,NEUT
+하 게 느끼 ,NEG
+하 게 다가오 ,POS
+하 게 도 ,None
+하 게 들리 ,NEG
+하 게 따지 ,POS
+하 게 만 ,NEG
+하 게 묻어나 ,NEUT
+하 게 살 ,POS
+하 게 생각 ,POS
+하 게 쓰 ,NEG
+하 게 여기 ,NEG
+하 게 옥살이 ,POS
+하 게 준수 ,POS
+하 게 하 ,NEG
+하 게 하 ,POS
+하 게 행복 ,POS
+하 고 ,POS
+하 고 쓸쓸 ,POS
+하 기 ,NEG
+하 기 그지없 ,NEG
+하 ㄴ ,POS
+하 ㄴ 개조 ,NEG
+하 ㄴ 거 ,NEG
+하 ㄴ 것 ,POS
+하 ㄴ 결혼 ,NEG
+하 ㄴ 공간 ,POS
+하 ㄴ 과오 ,NEG
+하 ㄴ 과제 ,POS
+하 ㄴ 그 ,NEG
+하 ㄴ 그룹 ,POS
+하 ㄴ 기록 ,POS
+하 ㄴ 길 ,POS
+하 ㄴ 나 ,POS
+하 ㄴ 나이 ,NEG
+하 ㄴ 내용 ,NEG
+하 ㄴ 냄새 ,NEG
+하 ㄴ 누아르 ,POS
+하 ㄴ 뉴스 ,POS
+하 ㄴ 느낌 ,NEG
+하 ㄴ 대지 ,POS
+하 ㄴ 도시 ,POS
+하 ㄴ 독서 ,POS
+하 ㄴ 말 ,NEG
+하 ㄴ 면 ,POS
+하 ㄴ 민속품 ,POS
+하 ㄴ 밤 ,NEG
+하 ㄴ 벗 ,POS
+하 ㄴ 분위기 ,POS
+하 ㄴ 사람 ,POS
+하 ㄴ 삶 ,POS
+하 ㄴ 생산 ,POS
+하 ㄴ 성격 ,NEG
+하 ㄴ 세계 ,COMP
+하 ㄴ 수직 ,NEUT
+하 ㄴ 심회 ,NEG
+하 ㄴ 아름답 ,POS
+하 ㄴ 아침 ,POS
+하 ㄴ 애정 ,POS
+하 ㄴ 얼굴 ,POS
+하 ㄴ 에너지 ,POS
+하 ㄴ 영화 ,POS
+하 ㄴ 위치 ,POS
+하 ㄴ 음악 ,POS
+하 ㄴ 의미 ,None
+하 ㄴ 의존 ,POS
+하 ㄴ 의혹 ,NEG
+하 ㄴ 일 ,POS
+하 ㄴ 작품 ,POS
+하 ㄴ 전제 ,POS
+하 ㄴ 절망 ,POS
+하 ㄴ 조치 ,POS
+하 ㄴ 주문 ,POS
+하 ㄴ 진단 ,POS
+하 ㄴ 창작곡 ,POS
+하 ㄴ 처지 ,NEG
+하 ㄴ 체 ,NEG
+하 ㄴ 최후 ,NEG
+하 ㄴ 침략 ,NEG
+하 ㄴ 토론 ,COMP
+하 ㄴ 프로 ,POS
+하 ㄴ 학생 ,NEG
+하 ㄴ 학술 ,POS
+하 ㄴ 한 ,POS
+하 ㄴ 한국 ,POS
+하 ㄴ 해결 ,POS
+하 ㄴ 햇살 ,POS
+하 ㄴ가 ,NEG
+하 다 ,NEG
+하 다 못하 ,NEG
+하 다 ,NEG
+하 다고 ,POS
+하 도록 ,NEG
+하 도록 운항 ,NEG
+하 ㄹ ,NEG
+하 ㄹ 정도 ,NEG
+하 ㅁ ,POS
+하 ㅁ 과 ,COMP
+하 ㅁ 을 ,NEG
+하 ㅁ 이 ,COMP
+하 면 ,None
+하 아 ,NEG
+하 아 보이 ,NEG
+하 아 지 ,POS
+하 아 하 ,NEG
+하 았 ,NEG
+하 았 고 ,POS
+하 았 으련만 ,NEG
+하 지 ,NEG
+하 지 는 ,NEG
+하 지 못하 ,NEG
+하 지 않 ,NEG
+하 ,POS
+하 거나 ,NEG
+하 거나 포기 ,NEG
+하 건대 ,None
+하 게 ,NEG
+하 게 되 ,COMP
+하 게 만들 ,NEG
+하 게 하 ,NEG
+하 겠 ,NEG
+하 겠 다 ,POS
+하 겠 다고 ,NEUT
+하 겠 다는 ,NEG
+하 고 ,POS
+하 고 그동안 ,POS
+하 고 싶 ,POS
+하 고 있 ,NEG
+하 고 즐기 ,POS
+하 기 ,None
+하 기 가 ,POS
+하 기 도 ,None
+하 기 로 ,None
+하 기 쉽 ,POS
+하 기 어렵 ,NEG
+하 ㄴ ,NEG
+하 ㄴ 것 ,POS
+하 ㄴ 극장 ,POS
+하 ㄴ 사망 ,POS
+하 ㄴ 서방 ,NEG
+하 ㄴ 수준 ,NEG
+하 ㄴ 시멘트 ,NEG
+하 ㄴ 유리 ,NEG
+하 ㄴ 제품 ,NEUT
+하 ㄴ 질문 ,NEUT
+하 ㄴ 짓 ,NEG
+하 ㄴ 현실 ,NEG
+하 ㄴ다 ,NEG
+하 ㄴ다는 ,POS
+하 ㄴ다는 것 ,POS
+하 ㄴ다는 깨닫 ,POS
+하 는 ,NEG
+하 는 것 ,NEG
+하 는 교수 ,POS
+하 는 모든 ,POS
+하 는 시약 ,NEG
+하 는 일 ,POS
+하 는 증상 ,NEG
+하 는 징후 ,NEG
+하 는 척 ,NEG
+하 도록 ,NEG
+하 도록 되 ,NEG
+하 듯 ,POS
+하 듯 녹음 ,POS
+하 ㄹ ,NEG
+하 ㄹ 것 ,POS
+하 ㄹ 때 ,NEG
+하 ㄹ 만 ,POS
+하 ㄹ 수 ,NEG
+하 ㄹ 예정 ,NEUT
+하 ㄹ 필요 ,NEG
+하 라 ,None
+하 라고 ,NEG
+하 라고 하 ,NEG
+하 랄까 ,NEG
+하 랄까 보 ,NEG
+하 려는 ,NEG
+하 려는 왕실 ,NEG
+하 ㅁ ,POS
+하 ㅁ 을 ,POS
+하 며 ,NEG
+하 며 심화 ,POS
+하 며 지나치 ,NEG
+하 면 ,POS
+하 면 되 ,NEUT
+하 면 사정 ,POS
+하 면 절로 ,POS
+하 ㅂ니다 ,POS
+하 시 ,NEG
+하 시 ㄴ ,NEG
+하 시 는 ,NEG
+하 시 어요 ,POS
+하 아 ,POS
+하 아 가 ,NEG
+하 아 가지 ,NEUT
+하 아 결국 ,NEG
+하 아 다시 ,POS
+하 아 보 ,POS
+하 아 보이 ,POS
+하 아 살길 ,POS
+하 아 쓰 ,POS
+하 아 역시 ,POS
+하 아 오 ,POS
+하 아 주 ,NEG
+하 아 하 ,NEG
+하 아 훨씬 ,NEG
+하 아서 ,None
+하 아야 ,POS
+하 아야 하 ,POS
+하 았 ,POS
+하 았 다 ,NEG
+하 았 습니다 ,POS
+하 자면 ,NEG
+하 자면 길 ,NEG
+하 지 ,NEG
+하 지 는 ,POS
+하 지 못하 ,NEG
+하 지 않 ,NEG
+하 지만 ,None
+하고* ,NEG
+하고* ,NEG
+하고* 함께 ,NEG
+하고* 함께 살 ,NEG
+하나 ,POS
+하나 기증 ,POS
+하나 기증 하 ,POS
+하나 로 ,POS
+하나 로 송수신 ,POS
+하나 를 ,NEUT
+하나 를 구상 ,NEUT
+하나 를 이루 ,POS
+하나 얻 ,NEG
+하나 얻 어 ,NEG
+하나 의 ,POS
+하나 의 과제 ,POS
+하나 의 예술 ,POS
+하늘 ,NEG
+하늘 에서 ,POS
+하늘 에서 내려오 ,POS
+하늘 을 ,NEG
+하늘 을 울리 ,NEG
+하늘 을 움켜쥐 ,NEUT
+하늘 의 ,NEG
+하늘 의 별따기 ,NEG
+하늘 의 재앙 ,NEG
+하루 ,COMP
+하루 가 ,NEUT
+하루 가 다르 ,NEUT
+하루 도 ,COMP
+하루 도 늦추 ,COMP
+하루빨리 ,POS
+하이라이트 ,POS
+하이라이트 를 ,POS
+하이라이트 를 이루 ,POS
+하지만 MAJ,None
+하지만 MAJ꼭 ,POS
+하지만 MAJ꼭 필요 ,POS
+하지만 MAJ남편 ,NEG
+하지만 MAJ남편 은 ,NEG
+하향세 ,NEG
+하향세 로 ,NEG
+하향세 로 돌아서 ,NEG
+학년 ,NEG
+학년 의 ,NEG
+학년 의 필기 ,NEG
+학대 ,NEG
+학생 ,NEG
+학생 운동 ,NEG
+학생 운동 단체 ,NEG
+학생 필요 ,NEG
+학생 필요 없 ,NEG
+학술 ,POS
+학술 적 ,POS
+학술 적 이 ,POS
+학습 ,POS
+학습 기회 ,POS
+학습 기회 를 ,POS
+학원 ,POS
+학원 을 ,POS
+학원 을 방불 ,POS
+한* ,NEG
+한* 번 ,NEG
+한* 번 구설수 ,NEG
+한 ,POS
+한 눈 ,POS
+한 눈 에 ,POS
+한 동이 ,NEG
+한 동이 푸 ,NEG
+한 목소리 ,POS
+한 목소리 를 ,POS
+한 방법 ,POS
+한 방법 이 ,POS
+한 번 ,NEG
+한 번 도 ,NEG
+한 번 만 ,NEG
+한 번 제대로 ,NEG
+한 번 중고 ,POS
+한 병 ,POS
+한 병 은 ,POS
+한 소녀 ,POS
+한 소녀 를 ,POS
+한 손 ,POS
+한 손 에 ,POS
+한 숟가락 ,NEG
+한 숟가락 퍼먹 ,NEG
+한 영화 ,COMP
+한 영화 가 ,COMP
+한 요인 ,POS
+한 요인 이 ,POS
+한 자리 ,POS
+한 자리 에서 ,POS
+한 지점 ,NEG
+한 지점 에 ,NEG
+한 철 ,NEG
+한 철 을 ,NEG
+한 편 ,POS
+한 편 의 ,POS
+한 ,NEG
+한 가장 ,POS
+한 가장 전문가 ,POS
+한 이 ,NEG
+한 이 되 ,NEG
+한 ,NEG
+한 일 ,NEG
+한 일 우호 ,NEG
+한 ,POS
+한 마당 ,POS
+한 마당 에 ,POS
+한가 ,POS
+한가 롭 ,POS
+한가 롭 ㅁ ,POS
+한가 하 ,POS
+한가 하 아 ,POS
+한가로이 ,POS
+한가지 ,NEG
+한가지 아쉽 ,NEG
+한가지 아쉽 ㄴ ,NEG
+한가지 주장 ,NEG
+한가지 주장 만 ,NEG
+한결같이 ,POS
+한결같이 매끈 ,POS
+한결같이 매끈 하 ,POS
+한계 ,NEG
+한계 를 ,NEG
+한계 를 맛보 ,NEG
+한과 ,POS
+한과 가 ,POS
+한과 가 얼마나 ,POS
+한국 ,POS
+한국 의 ,POS
+한국 의 실정 ,POS
+한국 적 ,NEUT
+한국 적 운치 ,POS
+한국 적 이 ,NEUT
+한국 진출 ,POS
+한국 진출 본격 ,POS
+한달음 ,POS
+한달음 에 ,POS
+한데 ,POS
+한데 모으 ,POS
+한데 어우러지 ,POS
+한마디 ,COMP
+한마디 로 ,COMP
+한마디 로 실천 ,COMP
+한문학 ,NEG
+한문학 을 ,NEG
+한문학 을 강의 ,NEG
+한민족 ,POS
+한민족 의 ,POS
+한민족 의 힘 ,POS
+한술 ,NEG
+한술 이 ,NEG
+한술 이 없 ,NEG
+한숨짓 ,NEG
+한자 ,NEG
+한자 만 ,NEG
+한자 만 나오 ,NEG
+한자 의 ,POS
+한자 의 숲 ,POS
+한창 ,NEG
+한층 ,POS
+한층 높이 ,POS
+한탄 ,NEG
+한탄 하 ,NEG
+한판 ,NEUT
+한판 굿 ,POS
+한판 굿 이 ,POS
+한판 크 ,NEUT
+한판 크 게 ,NEUT
+한편 ,None
+한편 ,None
+할리우드 ,NEG
+할리우드 독점 ,NEG
+할리우드 독점 에 ,NEG
+함께 ,POS
+함께 가지 ,POS
+함께 살 ,NEG
+함께 살 ㄹ ,NEG
+함께 하 ,POS
+함께 하 는 ,POS
+함께 하 ,COMP
+함성 ,POS
+함성 을 ,POS
+함성 을 지르 ,POS
+함정 ,NEG
+합의 ,POS
+합의 되 ,POS
+합의 하 ,POS
+항균 ,POS
+항균 성 ,POS
+항균 성 을 ,POS
+항상 ,POS
+항상 자신 ,POS
+항상 자신 의 ,POS
+항상 태극기 ,POS
+항상 태극기 를 ,POS
+항생 ,POS
+항생 물질 ,POS
+항생 물질 이용법 ,POS
+해 ,NEUT
+해 만 ,NEUT
+해 만 하 ,NEUT
+해결 ,POS
+해결 하 ,POS
+해독 ,NEG
+해명 ,NEUT
+해명 하 ,NEUT
+해방 ,NEG
+해방 되 ,NEG
+해방 되 ㄹ ,NEG
+해방감 ,POS
+해방감 을 ,POS
+해방감 을 느끼 ,POS
+해보 ,NEUT
+해보 ㄹ ,NEUT
+해보 ㄹ 생각 ,NEUT
+해석 ,COMP
+해석 하 ,COMP
+해소 ,POS
+해소 노력 ,POS
+해소 시키 ,POS
+해소 하 ,POS
+해외 ,NEUT
+해외 로 ,NEUT
+해외 로 나가 ,NEUT
+해외 시장 ,POS
+해외 시장 개척 ,POS
+해이 ,NEG
+해이 되 ,NEG
+해저 ,POS
+해저 에서 ,POS
+해저 에서 방수 ,POS
+해적 ,NEG
+해적 질 ,NEG
+해피 ,POS
+해학 ,POS
+핵심 ,NEG
+핵심 적 ,NEG
+핵심 적 이 ,NEG
+햇곡식 ,POS
+햇곡식 으로 ,POS
+햇곡식 으로 송편 ,POS
+햇살 ,POS
+행각 ,NEG
+행동 ,NEG
+행동 만 ,NEG
+행동 만 일삼 ,NEG
+행동 하 ,NEG
+행복 ,POS
+행복 을 ,POS
+행복 을 자꾸 ,NEG
+행복 을 찾 ,POS
+행복 을 추구 ,POS
+행복 하 ,POS
+행복 하 게 ,POS
+행복 하 ㄴ ,NEG
+행복 하 지 ,NEG
+행사 ,POS
+행사 도 ,POS
+행사 도 많 ,POS
+행사 를 ,POS
+행사 를 계기 ,POS
+행사 이 ,POS
+행사 참가 ,NEG
+행사 참가 인원 ,NEG
+행세 ,NEG
+행세 를 ,NEG
+행세 를 하 ,NEG
+행위 ,NEG
+행정 ,POS
+행정 개혁 ,POS
+행정 개혁 등 ,POS
+행태 ,NEG
+향기 ,POS
+향기 의 ,POS
+향기 의 결 ,POS
+향상 ,POS
+향상 되 ,POS
+향하 ,POS
+향하 ㄴ ,POS
+향하 ㄴ 깃발 ,POS
+허구 ,POS
+허구 이 ,POS
+허구 이 라고 ,POS
+허다 ,NEG
+허다 하 ,NEG
+허둥대 ,NEG
+허둥대 며 ,NEG
+허둥대 며 뛰어다니 ,NEG
+허리 ,NEG
+허리 가 ,NEG
+허리 가 꺾이 ,NEG
+허리 부상 ,NEG
+허물 ,POS
+허물 어 ,POS
+허물 어 지 ,POS
+허우적거리 ,NEG
+허위 ,NEG
+허위의식 ,NEG
+허위의식 이 ,NEG
+허점 ,NEG
+허점 이 ,NEG
+허점 이 여지 ,NEG
+헤아리 ,NEG
+헤아리 지 ,NEG
+헤아리 지 못하 ,NEG
+혀 ,NEG
+혀 내밀 ,NEG
+혀 내밀 어 ,NEG
+현대 ,POS
+현대 여성 ,POS
+현대 여성 들 ,POS
+현란* ,NEG
+현란* 하 ,NEG
+현란 ,POS
+현란 하 ,POS
+현실 ,POS
+현실 성 ,POS
+현실 성 을 ,POS
+현실 에 ,NEG
+현실 에 만 ,NEG
+현실 을 ,POS
+현실 을 객관 ,POS
+현실 이 ,COMP
+현실 이 되 ,COMP
+현실 적 ,POS
+현실 적 비극 ,NEG
+현실 적 으로 ,POS
+현실 적 이 ,POS
+현실 적 타협 ,POS
+현실 적합 ,NEG
+현실 적합 성 ,NEG
+현실 화 ,NEG
+현실 화 하 ,NEG
+현악 ,POS
+현재 ,NEG
+현재 건드리 ,NEG
+현재 건드리 지 ,NEG
+현재 성 ,POS
+혈액 ,NEG
+혈액 검사 ,NEG
+혈액 검사 등 ,NEG
+혐의 ,NEG
+혐의 로 ,NEG
+혐의 로 기소 ,NEG
+혐의 를 ,NEG
+혐의 를 받 ,NEG
+혐의 처리 ,NEUT
+협력 ,POS
+협력 관계 ,POS
+협박 ,NEG
+협박 을 ,NEG
+협박 을 하 ,NEG
+협박 하 ,POS
+협심증 ,NEUT
+협의 ,COMP
+협의 를 ,COMP
+협의 를 거의 ,NEG
+협의 를 계속 ,COMP
+협조자 ,POS
+형 ,POS
+형 과 ,POS
+형 과 축소 ,POS
+형 을 ,POS
+형 을 이용 ,POS
+형식 ,POS
+형식 에 ,POS
+형식 에 얽매이 ,POS
+형식 을 ,NEG
+형식 을 본 ,NEG
+형제 ,POS
+형제 의 ,POS
+형제 의 곁 ,POS
+형제애 ,POS
+형태 ,NEG
+형태 의 ,NEG
+형태 의 식민 ,NEG
+형편 ,NEG
+형편 이 ,NEG
+호 ,POS
+호 로 ,POS
+호 로 지정 ,POS
+호감 ,POS
+호기심 ,POS
+호박 ,POS
+호박 말리 ,POS
+호박 말리 ㄴ ,POS
+호박고지 ,POS
+호박고지 떡 ,POS
+호박고지 떡 을 ,POS
+호소 ,NEG
+호소 하 ,NEG
+호소 하 는 ,NEG
+호응 ,NEG
+호응 을 ,NEG
+호응 을 받 ,NEG
+호전 ,NEG
+호전 적 ,NEG
+호전 적 집단 ,NEG
+호텔 ,NEUT
+호텔 들 ,NEUT
+호텔 들 의 ,NEUT
+호흡 ,NEUT
+호흡 이 ,NEUT
+호흡 이 곤란 ,NEUT
+혹시 ,NEG
+혹시 나 ,POS
+혹시 나 하 ,POS
+혹시 출연 ,NEG
+혹시 출연 하 ,NEG
+혹은 ,POS
+혹은 수십 ,POS
+혹은 수십 배 ,POS
+혼 ,NEG
+혼 을 ,NEG
+혼 을 빼놓 ,NEG
+혼나 ,NEG
+혼란 ,NEG
+혼란 스럽 ,NEG
+혼자 ,NEG
+혼자 만 ,NEG
+혼자 만 먹 ,NEG
+혼자 멀 ,NEG
+혼자 멀 어 ,NEG
+혼자 밥 ,NEG
+혼자 밥 을 ,NEG
+홀가분 ,POS
+홀가분 하 ,POS
+홀아비 ,NEG
+홀아비 가 ,NEG
+홀아비 가 되 ,NEG
+홍보 ,NEG
+홍역 ,NEG
+화 ,POS
+화 경향 ,POS
+화 경향 을 ,POS
+화 되 ,NEG
+화 되 어 ,NEG
+화 되 지 ,NEG
+화 마인드 ,POS
+화 시키 ,NEG
+화 시키 어 ,POS
+화 전략 ,NEG
+화 프로젝트 ,NEG
+화 프로젝트 가 ,NEG
+화 하 ,NEG
+화 하 고 ,POS
+화 흐름 ,COMP
+화 흐름 속 ,COMP
+화급 ,POS
+화급 하 ,POS
+화려 ,POS
+화려 하 ,POS
+화려 하 았 ,POS
+화상 ,NEG
+화상 을 ,NEG
+화상 을 입히 ,NEG
+화장실 ,NEUT
+화장실 을 ,NEUT
+화장실 을 두 ,NEUT
+화장품 ,POS
+화장품 보다 ,POS
+화장품 보다 자극 ,POS
+화재 ,NEG
+화재 가 ,NEG
+화재 가 가장 ,NEG
+화재 가 많 ,NEG
+화제 ,POS
+화제 가 ,POS
+화제 가 되 ,POS
+화제 의 ,POS
+화제 의 저술 ,POS
+화합 ,POS
+화합 사상 ,POS
+확대 ,POS
+확대 형 ,POS
+확대 형 과 ,POS
+확보 ,POS
+확보 하 ,POS
+확산 ,POS
+확산 되 ,POS
+확신 ,POS
+확신 하 ,POS
+확실 ,NEG
+확실 하 ,NEG
+확실 하 ㄴ ,POS
+확실 하 지 ,NEG
+확실히 ,NEG
+확실히 밝히 ,NEG
+확실히 밝히 어 ,NEG
+확인 ,NEG
+확인 이 ,NEG
+확인 이 안 ,NEG
+확인 이 ,NEG
+확인 이 필요 ,NEG
+확인 하 ,NEG
+확인 하 는 ,NEG
+확인 하 ㄹ ,POS
+확인 하 지 ,NEG
+환경 ,NEG
+환경 변화 ,NEG
+환경 변화 에 ,NEG
+환경 파괴 ,NEG
+환골탈태 ,POS
+환불 ,NEG
+환불 하 ,NEG
+환불 하 아 ,NEG
+환상 ,POS
+환상 적 ,POS
+환상 적 이 ,POS
+환영 ,POS
+환영 을 ,POS
+환영 을 나타내 ,POS
+환자 ,NEG
+환자 들 ,NEG
+환자 들 이 ,NEG
+환하 ,POS
+환하 아 ,POS
+환하 아 지 ,POS
+환호 ,POS
+환호 를 ,POS
+환호 를 자아내 ,POS
+환희 ,POS
+활기 ,POS
+활달 ,POS
+활달 하 ,POS
+활동 ,POS
+활동 이 ,POS
+활발 ,POS
+활발 하 ,POS
+활발 하 게 ,POS
+활성 ,POS
+활성 화 ,POS
+활성 화 되 ,POS
+활용 ,POS
+활용 하 ,POS
+활용 하 아 ,POS
+활짝 ,POS
+활짝 열리 ,POS
+활짝 열리 어 ,POS
+황금기 ,POS
+황당 ,NEG
+황당 하 ,NEG
+황당 하 게 ,NEG
+황폐 ,NEG
+황폐 하 ,NEG
+황폐 하 게 ,NEG
+황홀 ,POS
+황홀 하 ,POS
+회 ,POS
+회 선 ,POS
+회 선 미술 ,POS
+회귀 ,POS
+회생 ,NEG
+회생 불가 ,NEG
+회피 ,NEG
+회피 하 ,NEG
+회화 ,POS
+회화 적 ,POS
+회화 적 이 ,POS
+획일 ,NEG
+획일 성 ,POS
+획일 성 의 ,POS
+획일 화 ,NEG
+획일 화 시키 ,NEG
+횡설수설 ,NEG
+횡설수설 하 ,NEG
+횡행 ,NEG
+횡행 하 ,NEG
+횡행 하 게 ,NEG
+효과 ,POS
+효과 적 ,POS
+효도 ,POS
+효도 선물 ,POS
+효도 선물 용 ,POS
+효율 ,POS
+효율 적 ,POS
+효율 적 으로 ,POS
+후 ,NEG
+후 새롭 ,NEG
+후 새롭 은 ,NEG
+후 활동 ,POS
+후 활동 이 ,POS
+훈훈 ,POS
+훈훈 하 ,POS
+훌륭 ,POS
+훌륭 하 ,POS
+훌륭히 ,NEG
+훌쩍 ,POS
+훌쩍 뛰어넘 ,POS
+훤히 ,POS
+훨씬 ,POS
+훨씬 넘 ,NEG
+훨씬 더 ,POS
+훨씬 더 미숙 ,POS
+훨씬 떨어지 ,NEG
+훨씬 못 ,NEG
+훨씬 못 미치 ,NEG
+훨씬 안전 ,POS
+훨씬 안전 하 ,POS
+훨씬 유연 ,POS
+훨씬 유연 하 ,POS
+훨씬 자유 ,POS
+훨씬 자유 롭 ,POS
+훨씬 좋 ,POS
+훨씬 좋 아 ,POS
+훨씬 한가 ,POS
+훨씬 한가 하 ,POS
+휩싸이 ,NEG
+휴식 ,NEG
+휴식 참 ,NEG
+휴식 참 마다 ,NEG
+흉내 ,POS
+흉내 내 ,POS
+흉내 내 기 ,NEG
+흐르 ,NEG
+흐르 ㄴ ,NEG
+흐르 ㄴ 다음 ,NEG
+흐르 ㄴ 지금 ,NEG
+흐르 ㄴ다 ,NEG
+흐르 는 ,NEG
+흐르 는 강물 ,NEG
+흐름 ,COMP
+흐름 속 ,COMP
+흐름 속 에서 ,COMP
+흑인 ,POS
+흑인 민 ,POS
+흑인 민 권 ,POS
+흔들 ,NEG
+흔들 는 ,NEG
+흔들 는 대학 ,NEG
+흔들 어도 ,NEG
+흔들 어도 세우 ,NEG
+흔들리 ,NEG
+흔들리 는 ,NEG
+흔들리 는 부모 ,NEG
+흔하 ,NEG
+흔하 디 ,NEG
+흔하 디 흔하 ,NEG
+흔히 ,NEUT
+흔히 들 ,NEUT
+흔히 찾 ,POS
+흘러가 ,NEG
+흘려주 ,POS
+흘리 ,NEG
+흙탕물 ,NEG
+흙탕물 튀 ,NEG
+흙탕물 튀 게 ,NEG
+흠모 ,POS
+흠모 하 ,POS
+흡수 ,POS
+흡수 하 ,POS
+흥겹 ,POS
+흥미 ,POS
+흥미 롭 ,POS
+흥미진진 ,POS
+흥미진진 하 ,POS
+흥취 ,POS
+흥하 ,POS
+흥행 ,POS
+흥행 기록 ,POS
+흥행 도 ,POS
+흥행 도 좋 ,POS
+흥행 선두 ,POS
+희극 ,NEG
+희극 적 ,NEG
+희극 적 재미 ,POS
+희망 ,POS
+희망 을 ,POS
+희망 을 늦추 ,POS
+희망 을 담 ,POS
+희망 을 만나 ,POS
+희박 ,NEG
+희생 ,POS
+희생 하 ,POS
+희생자 ,NEG
+희소식 ,POS
+희소식 이 ,POS
+히스테리 ,NEG
+히스테리 시대 ,NEG
+힘 ,POS
+힘 안 ,NEG
+힘 안 들이 ,NEG
+힘 은 ,POS
+힘 은 좀 ,POS
+힘 을 ,POS
+힘 을 결집 ,POS
+힘 을 쏟 ,POS
+힘 이 ,POS
+힘 이 되 ,POS
+힘겹 ,NEG
+힘겹 게 ,NEG
+힘겹 게 버티 ,NEG
+힘들 ,NEG
+힘들 고 ,POS
+힘들 고 외롭 ,POS
+힘들 ㄹ ,NEG
+힘들 ㄹ 것 ,NEG
+힘들 ㄹ 때 ,NEG
+힘차 ,NEG
+힘차 ㄴ ,NEG
+힘차 ㄴ 붓 ,NEG
